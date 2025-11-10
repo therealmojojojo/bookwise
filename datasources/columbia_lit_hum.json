@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "source_name": "Columbia Core Curriculum - Literature Humanities",
+    "source_type": "canon",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 1937,
+    "total_entries": 22,
+    "ranked": false,
+    "methodology": "The foundational reading list for Columbia College's 'Literature Humanities' program, a required year-long course for all first-year students, established in 1937. The list is read chronologically."
+  },
+  "items": [
+    {
+      "title": "The Exaltation of Inanna",
+      "author": "Enheduanna",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gilgamesh",
+      "author": "Anonymous",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Genesis",
+      "author": "Anonymous (Hebrew Bible)",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Iliad",
+      "author": "Homer",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "If Not, Winter (Selected Poems)",
+      "author": "Sappho",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Odyssey",
+      "author": "Homer",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Oresteia (trilogy)",
+      "author": "Aeschylus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Symposium",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Aeneid",
+      "author": "Virgil",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gospel of Luke",
+      "author": "Anonymous (New Testament)",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gospel of John",
+      "author": "Anonymous (New Testament)",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Confessions",
+      "author": "Augustine",
+      "year_published": 397,
+      "rank": null
+    },
+    {
+      "title": "The Translator of Desires",
+      "author": "Ibn 'Arabi",
+      "year_published": 1215,
+      "rank": null
+    },
+    {
+      "title": "The Lais of Marie de France",
+      "author": "Marie de France",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Inferno",
+      "author": "Dante",
+      "year_published": 1314,
+      "rank": null
+    },
+    {
+      "title": "Essays (selections)",
+      "author": "Montaigne",
+      "year_published": 1580,
+      "rank": null
+    },
+    {
+      "title": "King Lear",
+      "author": "William Shakespeare",
+      "year_published": 1608,
+      "rank": null
+    },
+    {
+      "title": "Selected Works",
+      "author": "Sor Juana Inés de la Cruz",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_published": 1813,
+      "rank": null
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "year_published": 1977,
+      "rank": null
+    },
+    {
+      "title": "Citizen: An American Lyric",
+      "author": "Claudia Rankine",
+      "year_published": 2014,
+      "rank": null
+    }
+  ]
+}

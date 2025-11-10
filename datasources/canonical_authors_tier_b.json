@@ -1,0 +1,606 @@
+{
+  "metadata": {
+    "source_name": "Canonical Authors - Tier B",
+    "source_type": "canonical_authors",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "tier": "B",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "author_quality",
+      "canonical_baseline_points": 15,
+      "tier_minimum_score": 60,
+      "qualifier_for_author_bonus": false
+    },
+    "description": "Important regional and genre figures with strong canonical standing. These authors represent essential voices in their national literatures and genres, with international recognition.",
+    "total_authors": 20,
+    "total_works": 76,
+    "selection_criteria": [
+      "Major importance within regional or national literary traditions",
+      "Significant contribution to specific genres or movements",
+      "International recognition and influence",
+      "Essential for understanding non-Western literary traditions",
+      "Nobel laureates from smaller literary traditions"
+    ],
+    "generation_method": "Selected based on national literary canons, UNESCO recognition, Nobel Prize awards, and scholarly consensus. Represents diverse global literary traditions including Japanese, Latin American, African, Middle Eastern, and Nordic literature.",
+    "significance": "These authors ensure representation of world literature beyond the Western canon. They are essential for understanding global literary traditions and have made unique contributions to world literature.",
+    "scoring_rationale": "Pre-1970 works by these authors receive a 15-point canonical baseline. If scoring below 60 points after all other recognition, they receive correction up to the 60-point minimum, ensuring recognition despite limited presence on Western-centric lists."
+  },
+  "canonical_authors": [
+    {
+      "author": "Yasunari Kawabata",
+      "lived": "1899-1972",
+      "nationality": "Japanese",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Snow Country",
+          "year_published": 1948,
+          "genre": "Novel"
+        },
+        {
+          "title": "Thousand Cranes",
+          "year_published": 1952,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Sound of the Mountain",
+          "year_published": 1954,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Master of Go",
+          "year_published": 1954,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1968
+    },
+    {
+      "author": "Yukio Mishima",
+      "lived": "1925-1970",
+      "nationality": "Japanese",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Sea of Fertility",
+          "year_published": 1970,
+          "genre": "Novel",
+          "notes": "tetralogy"
+        },
+        {
+          "title": "Confessions of a Mask",
+          "year_published": 1949,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Temple of the Golden Pavilion",
+          "year_published": 1956,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Sailor Who Fell from Grace with the Sea",
+          "year_published": 1963,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Natsume Sōseki",
+      "lived": "1867-1916",
+      "nationality": "Japanese",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Kokoro",
+          "year_published": 1914,
+          "genre": "Novel"
+        },
+        {
+          "title": "Botchan",
+          "year_published": 1906,
+          "genre": "Novel"
+        },
+        {
+          "title": "I Am a Cat",
+          "year_published": 1906,
+          "genre": "Novel"
+        },
+        {
+          "title": "And Then",
+          "year_published": 1909,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Kōbō Abe",
+      "lived": "1924-1993",
+      "nationality": "Japanese",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Woman in the Dunes",
+          "year_published": 1962,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Face of Another",
+          "year_published": 1964,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Box Man",
+          "year_published": 1973,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Ruined Map",
+          "year_published": 1967,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Rabindranath Tagore",
+      "lived": "1861-1941",
+      "nationality": "Indian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Gitanjali",
+          "year_published": 1910,
+          "genre": "Poetry"
+        },
+        {
+          "title": "The Home and the World",
+          "year_published": 1916,
+          "genre": "Novel"
+        },
+        {
+          "title": "Gora",
+          "year_published": 1910,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Post Office",
+          "year_published": 1912,
+          "genre": "Drama"
+        }
+      ],
+      "nobel_prize": 1913
+    },
+    {
+      "author": "Lu Xun",
+      "lived": "1881-1936",
+      "nationality": "Chinese",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "A Madman's Diary",
+          "year_published": 1918,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The True Story of Ah Q",
+          "year_published": 1921,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Kong Yiji",
+          "year_published": 1919,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Medicine",
+          "year_published": 1919,
+          "genre": "Short Story"
+        }
+      ]
+    },
+    {
+      "author": "Chinua Achebe",
+      "lived": "1930-2013",
+      "nationality": "Nigerian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Things Fall Apart",
+          "year_published": 1958,
+          "genre": "Novel"
+        },
+        {
+          "title": "No Longer at Ease",
+          "year_published": 1960,
+          "genre": "Novel"
+        },
+        {
+          "title": "Arrow of God",
+          "year_published": 1964,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Man of the People",
+          "year_published": 1966,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Ivo Andrić",
+      "lived": "1892-1975",
+      "nationality": "Yugoslav",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Bridge on the Drina",
+          "year_published": 1945,
+          "genre": "Novel"
+        },
+        {
+          "title": "Bosnian Chronicle",
+          "year_published": 1945,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Woman from Sarajevo",
+          "year_published": 1945,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1961
+    },
+    {
+      "author": "Vladimir Nabokov",
+      "lived": "1899-1977",
+      "nationality": "Russian-American",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Lolita",
+          "year_published": 1955,
+          "genre": "Novel"
+        },
+        {
+          "title": "Pale Fire",
+          "year_published": 1962,
+          "genre": "Novel"
+        },
+        {
+          "title": "Ada or Ardor",
+          "year_published": 1969,
+          "genre": "Novel"
+        },
+        {
+          "title": "Pnin",
+          "year_published": 1957,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Gift",
+          "year_published": 1938,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Isaac Bashevis Singer",
+      "lived": "1902-1991",
+      "nationality": "Polish-American",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Family Moskat",
+          "year_published": 1950,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Magician of Lublin",
+          "year_published": 1960,
+          "genre": "Novel"
+        },
+        {
+          "title": "Gimpel the Fool",
+          "year_published": 1957,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "The Slave",
+          "year_published": 1962,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1978
+    },
+    {
+      "author": "Machado de Assis",
+      "lived": "1839-1908",
+      "nationality": "Brazilian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Posthumous Memoirs of Brás Cubas",
+          "year_published": 1881,
+          "genre": "Novel"
+        },
+        {
+          "title": "Dom Casmurro",
+          "year_published": 1899,
+          "genre": "Novel"
+        },
+        {
+          "title": "Quincas Borba",
+          "year_published": 1891,
+          "genre": "Novel"
+        },
+        {
+          "title": "Esau and Jacob",
+          "year_published": 1904,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Naguib Mahfouz",
+      "lived": "1911-2006",
+      "nationality": "Egyptian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Cairo Trilogy",
+          "year_published": 1957,
+          "genre": "Novel"
+        },
+        {
+          "title": "Children of Gebelawi",
+          "year_published": 1959,
+          "genre": "Novel"
+        },
+        {
+          "title": "Midaq Alley",
+          "year_published": 1947,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Thief and the Dogs",
+          "year_published": 1961,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1988
+    },
+    {
+      "author": "Patrick White",
+      "lived": "1912-1990",
+      "nationality": "Australian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Voss",
+          "year_published": 1957,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Tree of Man",
+          "year_published": 1955,
+          "genre": "Novel"
+        },
+        {
+          "title": "Riders in the Chariot",
+          "year_published": 1961,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Eye of the Storm",
+          "year_published": 1973,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1973
+    },
+    {
+      "author": "Italo Svevo",
+      "lived": "1861-1928",
+      "nationality": "Italian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Zeno's Conscience",
+          "year_published": 1923,
+          "genre": "Novel"
+        },
+        {
+          "title": "As a Man Grows Older",
+          "year_published": 1898,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Life",
+          "year_published": 1893,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Luigi Pirandello",
+      "lived": "1867-1936",
+      "nationality": "Italian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Six Characters in Search of an Author",
+          "year_published": 1921,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Late Mattia Pascal",
+          "year_published": 1904,
+          "genre": "Novel"
+        },
+        {
+          "title": "Henry IV",
+          "year_published": 1922,
+          "genre": "Drama"
+        },
+        {
+          "title": "One, No One and One Hundred Thousand",
+          "year_published": 1926,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1934
+    },
+    {
+      "author": "Fernando Pessoa",
+      "lived": "1888-1935",
+      "nationality": "Portuguese",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Book of Disquiet",
+          "year_published": 1982,
+          "genre": "Prose",
+          "notes": "posthumous"
+        },
+        {
+          "title": "Message",
+          "year_published": 1934,
+          "genre": "Poetry"
+        },
+        {
+          "title": "Tobacco Shop",
+          "year_published": 1928,
+          "genre": "Poetry"
+        }
+      ]
+    },
+    {
+      "author": "Knut Hamsun",
+      "lived": "1859-1952",
+      "nationality": "Norwegian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Hunger",
+          "year_published": 1890,
+          "genre": "Novel"
+        },
+        {
+          "title": "Mysteries",
+          "year_published": 1892,
+          "genre": "Novel"
+        },
+        {
+          "title": "Pan",
+          "year_published": 1894,
+          "genre": "Novel"
+        },
+        {
+          "title": "Growth of the Soil",
+          "year_published": 1917,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1920
+    },
+    {
+      "author": "Sigrid Undset",
+      "lived": "1882-1949",
+      "nationality": "Norwegian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Kristin Lavransdatter",
+          "year_published": 1922,
+          "genre": "Novel",
+          "notes": "trilogy"
+        },
+        {
+          "title": "The Master of Hestviken",
+          "year_published": 1925,
+          "genre": "Novel",
+          "notes": "tetralogy"
+        },
+        {
+          "title": "Jenny",
+          "year_published": 1911,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1928
+    },
+    {
+      "author": "Halldór Laxness",
+      "lived": "1902-1998",
+      "nationality": "Icelandic",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Independent People",
+          "year_published": 1934,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Fish Can Sing",
+          "year_published": 1957,
+          "genre": "Novel"
+        },
+        {
+          "title": "World Light",
+          "year_published": 1940,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1955
+    },
+    {
+      "author": "Alexander Pushkin",
+      "lived": "1799-1837",
+      "nationality": "Russian",
+      "tier": "B",
+      "genre": null,
+      "works": [
+        {
+          "title": "Eugene Onegin",
+          "year_published": 1833,
+          "genre": "Novel in Verse"
+        },
+        {
+          "title": "The Captain's Daughter",
+          "year_published": 1836,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Queen of Spades",
+          "year_published": 1834,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Boris Godunov",
+          "year_published": 1831,
+          "genre": "Drama"
+        }
+      ]
+    }
+  ]
+}

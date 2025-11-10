@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "source_name": "Kirkus Prize for Young Readers' Literature",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 2014,
+    "prize_amount": "$50,000",
+    "notes": "Annual American literary award by Kirkus Reviews. This list includes the winner and all available finalists from the search results.",
+    "total_winners": 12,
+    "alternative_names": "Kirkus YRL Prize",
+    "category": "Young Readers' Literature (Picture Books, Middle Grade, and Young Adult)",
+    "award_type": "book-specific",
+    "years_active": 12,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "El Deafo",
+      "author": "Cece Bell",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "The Right Word: Roget and His Thesaurus",
+      "author": "Jen Bryant",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Echo",
+      "author": "Pam Muñoz Ryan",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Funny Bones: Posada and His Day of the Dead Calaveras",
+      "author": "Duncan Tonatiuh",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Shadowshaper",
+      "author": "Daniel José Older",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Lillian's Right to Vote: A Celebration of the Voting Rights Act of 1965",
+      "author": "Jonah Winter",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "As Brave as You",
+      "author": "Jason Reynolds",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Thunder Boy Jr.",
+      "author": "Sherman Alexie",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Burn Baby Burn",
+      "author": "Meg Medina",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Freedom Over Me: Eleven Slaves, Their Lives and Dreams",
+      "author": "Ashley Bryan",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "The Marrow Thieves",
+      "author": "Cherie Dimaline",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "The Hate U Give",
+      "author": "Angie Thomas",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Bronze and Sunflower",
+      "author": "Cao Wenxuan",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Crown: An Ode to the Fresh Cut",
+      "author": "Derrick Barnes",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Dreamers",
+      "author": "Yuyi Morales",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Children of Blood and Bone",
+      "author": "Tomi Adeyemi",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Harbor Me",
+      "author": "Jacqueline Woodson",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Merci Suárez Changes Gears",
+      "author": "Meg Medina",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "New Kid",
+      "author": "Jerry Craft",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Genesis Begins Again",
+      "author": "Alicia D. Williams",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "The Undefeated",
+      "author": "Kwame Alexander",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "On the Come Up",
+      "author": "Angie Thomas",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Imagine",
+      "author": "Juan Felipe Herrera",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "I Am Every Good Thing",
+      "author": "Derrick Barnes",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "We Are Water Protectors",
+      "author": "Carole Lindstrom",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Stamped: Racism, Antiracism, and You",
+      "author": "Jason Reynolds & Ibram X. Kendi",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Clap When You Land",
+      "author": "Elizabeth Acevedo",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Fighting Words",
+      "author": "Kimberly Brubaker Bradley",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "All Thirteen: The Incredible Cave Rescue of the Thai Boys' Soccer Team",
+      "author": "Christina Soontornvat",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Unspeakable: The Tulsa Race Massacre",
+      "author": "Carole Boston Weatherford",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Legacy: Women Poets of the Harlem Renaissance",
+      "author": "Nikki Grimes",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "The Life I'm In",
+      "author": "Sharon G. Flake",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "The Surprising Power of a Good Dumpling",
+      "author": "Wai Chim",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Your Mama",
+      "author": "NoNieqa Ramos",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Himawari House",
+      "author": "Harmony Becker",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "The Year We Learned to Fly",
+      "author": "Jacqueline Woodson",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "America Redux: Visual Stories from Our Dynamic History",
+      "author": "Ariel Aberg-Riger",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "The Skull: A Tyrolean Folktale",
+      "author": "Jon Klassen",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Julia and the Shark",
+      "author": "Kiran Millwood Hargrave",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Gather",
+      "author": "Kenneth M. Cadow",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Bright Red Fruit",
+      "author": "Safia Elhillo",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Safiyyah's War",
+      "author": "Hiba Noor Khan",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Shark Teeth",
+      "author": "Sherri Winston",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "We Who Produce Pearls: An Anthem for Asian America",
+      "author": "Joanna Ho",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "There Was a Party for Langston",
+      "author": "Jason Reynolds",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Everybelly",
+      "author": "Thao Lam",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": "Winner"
+    },
+    {
+      "title": "Island Storm",
+      "author": "Brian Floca",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "The Incredibly Human Henson Blayze",
+      "author": "Derrick Barnes",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "John the Skeleton",
+      "author": "Triinu Laan",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Butterfly Heart",
+      "author": "Moa Backe Åstot",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": "Finalist"
+    },
+    {
+      "title": "Death in the Jungle: Murder, Betrayal, and the Lost Dream of Jonestown",
+      "author": "Candace Fleming",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": "Finalist"
+    }
+  ]
+}

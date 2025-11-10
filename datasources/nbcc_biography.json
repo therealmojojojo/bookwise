@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "source_name": "National Book Critics Circle Award for Biography",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1983,
+    "prize_amount": "$1,000",
+    "notes": "From 1983 to 2004, this category included both Biography and Autobiography. It was split into two separate awards in 2005.",
+    "total_winners": 41,
+    "alternative_names": "NBCC Award for Biography",
+    "category": "Biography",
+    "award_type": "book-specific",
+    "years_active": 41,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "Minor Characters",
+      "author": "Joyce Johnson",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dostoevsky: The Years of Ordeal, 1850-1859",
+      "author": "Joseph Frank",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Henry James: A Life",
+      "author": "Leon Edel",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Tombee: Portrait of a Cotton Planter",
+      "author": "Theodore Rosengarten",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Chaucer: His Life, His Works, His World",
+      "author": "Donald R. Howard",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Oscar Wilde",
+      "author": "Richard Ellmann",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A First-Class Temperament: The Emergence of Franklin Roosevelt",
+      "author": "Geoffrey C. Ward",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Means of Ascent: The Years of Lyndon Johnson, Vol. 2",
+      "author": "Robert A. Caro",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Patrimony: A True Story",
+      "author": "Philip Roth",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Writing Dangerously: Mary McCarthy and Her World",
+      "author": "Carol Brightman",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Genet: A Biography",
+      "author": "Edmund White",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Shot in the Heart",
+      "author": "Mikal Gilmore",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Savage Art: A Biography of Jim Thompson",
+      "author": "Robert Polito",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Angela's Ashes",
+      "author": "Frank McCourt",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ernie Pyle's War: America's Eyewitness to World War II",
+      "author": "James Tobin",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Beautiful Mind",
+      "author": "Sylvia Nasar",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Hairstons: An American Family in Black and White",
+      "author": "Henry Wiencek",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hirohito and the Making of Modern Japan",
+      "author": "Herbert P. Bix",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Boswell's Presumptuous Task: The Making of the Life of Dr. Johnson",
+      "author": "Adam Sisman",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Master of the Senate: The Years of Lyndon Johnson, Vol. 3",
+      "author": "Robert A. Caro",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Khrushchev: The Man and His Era",
+      "author": "William Taubman",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Alexander Hamilton",
+      "author": "Ron Chernow",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": "Category split after this year."
+    },
+    {
+      "title": "De Kooning: An American Master",
+      "author": "Mark Stevens and Annalyn Swan",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "James Tiptree, Jr.: The Double Life of Alice B. Sheldon",
+      "author": "Julie Phillips",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stanley: The Impossible Life of Africa's Greatest Explorer",
+      "author": "Tim Jeal",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The World Is What It Is: The Authorized Biography of V.S. Naipaul",
+      "author": "Patrick French",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Cheever: A Life",
+      "author": "Blake Bailey",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "How to Live: A Life of Montaigne in One Question and Twenty Attempts at an Answer",
+      "author": "Sarah Bakewell",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "George F. Kennan: An American Life",
+      "author": "John Lewis Gaddis",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Passage of Power: The Years of Lyndon Johnson, Vol. 4",
+      "author": "Robert A. Caro",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Jonathan Swift: His Life and His World",
+      "author": "Leo Damrosch",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Tennessee Williams: Mad Pilgrimage of the Flesh",
+      "author": "John Lahr",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Romantic Outlaws: The Extraordinary Lives of Mary Wollstonecraft and Her Daughter Mary Shelley",
+      "author": "Charlotte Gordon",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Shirley Jackson: A Rather Haunted Life",
+      "author": "Ruth Franklin",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Prairie Fires: The American Dreams of Laura Ingalls Wilder",
+      "author": "Caroline Fraser",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "If: The Untold Story of Kipling's American Years",
+      "author": "Christopher Benfey",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Queen: The Forgotten Life Behind an American Myth",
+      "author": "Josh Levin",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stranger in the Shogun's City: A Japanese Woman and Her World",
+      "author": "Amy Stanley",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Orwell's Roses",
+      "author": "Rebecca Solnit",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "G-Man: J. Edgar Hoover and the Making of the American Century",
+      "author": "Beverly Gage",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Winnie and Nelson: Portrait of a Marriage",
+      "author": "Jonny Steinberg",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "source_name": "National Book Critics Circle Award for History",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 2014,
+    "prize_amount": "$1,000",
+    "notes": "Annual American award presented by the National Book Critics Circle. This category was established in 2014.",
+    "total_winners": 10,
+    "alternative_names": "NBCC Award for History",
+    "category": "History",
+    "award_type": "book-specific",
+    "years_active": 10,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "Empire of Cotton: A Global History",
+      "author": "Sven Beckert",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "SPQR: A History of Ancient Rome",
+      "author": "Mary Beard",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy",
+      "author": "Heather Ann Thompson",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Crashed: How a Decade of Financial Crises Changed the World",
+      "author": "Adam Tooze",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "These Truths: A History of the United States",
+      "author": "Jill Lepore",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Terrible Thing to Waste: Environmental Racism and Its Assault on the American Mind",
+      "author": "Harriet A. Washington",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Question of Freedom: The Families Who Challenged Slavery from the Nation’s Founding to the Civil War",
+      "author": "William G. Thomas III",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Covered with Night: A Story of Murder and Indigenous Justice in Early America",
+      "author": "Nicole Eustace",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Method: How the Twentieth Century Learned to Act",
+      "author": "Isaac Butler",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Unearthing the Black Old West: A Round-up of Primary Resources",
+      "author": "Tiya Miles",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

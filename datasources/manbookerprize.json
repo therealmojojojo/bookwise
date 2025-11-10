@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "source_name": "International Booker Prize",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 2005,
+    "prize_amount": "£50,000 (split between author and translator)",
+    "notes": "Awarded 2005-2015 for an author's body of work. Since 2016, awarded annually for a single translated book.",
+    "total_winners": 15,
+    "alternative_names": "Man Booker International Prize (2005-2019)",
+    "category": "Fiction (translated into English)",
+    "award_type": "book-specific",
+    "years_active": 20,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "The Vegetarian",
+      "author": "Han Kang",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": "Translator: Deborah Smith"
+    },
+    {
+      "title": "A Horse Walks Into a Bar",
+      "author": "David Grossman",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": "Translator: Jessica Cohen"
+    },
+    {
+      "title": "Flights",
+      "author": "Olga Tokarczuk",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Translator: Jennifer Croft"
+    },
+    {
+      "title": "Celestial Bodies",
+      "author": "Jokha al-Harthi",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Translator: Marilyn Booth"
+    },
+    {
+      "title": "The Discomfort of Evening",
+      "author": "Marieke Lucas Rijneveld",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Translator: Michele Hutchison"
+    },
+    {
+      "title": "At Night All Blood Is Black",
+      "author": "David Diop",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Translator: Anna Moschovakis"
+    },
+    {
+      "title": "Tomb of Sand",
+      "author": "Geetanjali Shree",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": "Translator: Daisy Rockwell"
+    },
+    {
+      "title": "Time Shelter",
+      "author": "Georgi Gospodinov",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Translator: Angela Rodel"
+    },
+    {
+      "title": "Kairos",
+      "author": "Jenny Erpenbeck",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Translator: Michael Hofmann"
+    }
+  ]
+}

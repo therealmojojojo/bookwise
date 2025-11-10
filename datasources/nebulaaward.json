@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "source_name": "Nebula Award for Best Novel",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1966,
+    "prize_amount": "Trophy",
+    "notes": "Premier peer-voted (SFWA) award in science fiction. Year denotes year of award presentation (for works from the previous year).",
+    "total_winners": 60,
+    "alternative_names": "",
+    "category": "Science fiction or fantasy novel",
+    "award_type": "book-specific",
+    "years_active": 59,
+    "joint_winners_years": [
+      1966
+    ]
+  },
+  "items": [
+    {
+      "title": "Babel-17",
+      "author": "Samuel R. Delany",
+      "year_awarded": 1966,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "year_awarded": 1966,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "The Einstein Intersection",
+      "author": "Samuel R. Delany",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rite of Passage",
+      "author": "Alexei Panshin",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ringworld",
+      "author": "Larry Niven",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Time of Changes",
+      "author": "Robert Silverberg",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Gods Themselves",
+      "author": "Isaac Asimov",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "author": "Arthur C. Clarke",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Forever War",
+      "author": "Joe Haldeman",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Man Plus",
+      "author": "Frederik Pohl",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gateway",
+      "author": "Frederik Pohl",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dreamsnake",
+      "author": "Vonda N. McIntyre",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fountains of Paradise",
+      "author": "Arthur C. Clarke",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Timescape",
+      "author": "Gregory Benford",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Claw of the Conciliator",
+      "author": "Gene Wolfe",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "No Enemy But Time",
+      "author": "Michael Bishop",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Startide Rising",
+      "author": "David Brin",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Speaker for the Dead",
+      "author": "Orson Scott Card",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Falling Woman",
+      "author": "Pat Murphy",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Falling Free",
+      "author": "Lois McMaster Bujold",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Healer's War",
+      "author": "Elizabeth Ann Scarborough",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Tehanu: The Last Book of Earthsea",
+      "author": "Ursula K. Le Guin",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stations of the Tide",
+      "author": "Michael Swanwick",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Doomsday Book",
+      "author": "Connie Willis",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Red Mars",
+      "author": "Kim Stanley Robinson",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Moving Mars",
+      "author": "Greg Bear",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Terminal Experiment",
+      "author": "Robert J. Sawyer",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Slow River",
+      "author": "Nicola Griffith",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Moon and the Sun",
+      "author": "Vonda N. McIntyre",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Forever Peace",
+      "author": "Joe Haldeman",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Parable of the Talents",
+      "author": "Octavia E. Butler",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Darwin's Radio",
+      "author": "Greg Bear",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Quantum Rose",
+      "author": "Catherine Asaro",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Speed of Dark",
+      "author": "Elizabeth Moon",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Paladin of Souls",
+      "author": "Lois McMaster Bujold",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Camouflage",
+      "author": "Joe Haldeman",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Seeker",
+      "author": "Jack McDevitt",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Yiddish Policemen's Union",
+      "author": "Michael Chabon",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Powers",
+      "author": "Ursula K. Le Guin",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blackout/All Clear",
+      "author": "Connie Willis",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Among Others",
+      "author": "Jo Walton",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "2312",
+      "author": "Kim Stanley Robinson",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ancillary Justice",
+      "author": "Ann Leckie",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Annihilation",
+      "author": "Jeff VanderMeer",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Uprooted",
+      "author": "Naomi Novik",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "All the Birds in the Sky",
+      "author": "Charlie Jane Anders",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Stone Sky",
+      "author": "N. K. Jemisin",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Calculating Stars",
+      "author": "Mary Robinette Kowal",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Song for a New Day",
+      "author": "Sarah Pinsker",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Network Effect",
+      "author": "Martha Wells",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Master of Djinn",
+      "author": "P. Djèlí Clark",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Babel",
+      "author": "R.F. Kuang",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Saint of Bright Doors",
+      "author": "Vajra Chandrasekera",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

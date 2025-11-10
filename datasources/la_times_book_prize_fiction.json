@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "source_name": "Los Angeles Times Book Prize for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1980,
+    "prize_amount": "$1,000",
+    "notes": "Annual American award presented by the Los Angeles Times for books from the previous year.",
+    "total_winners": 44,
+    "alternative_names": "L.A. Times Book Prize",
+    "category": "Fiction",
+    "award_type": "book-specific",
+    "years_active": 44,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "The Executioner's Song",
+      "author": "Norman Mailer",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Collected Stories",
+      "author": "Eudora Welty",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Flag for Sunrise",
+      "author": "Robert Stone",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Schindler's List",
+      "author": "Thomas Keneally",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Love Medicine",
+      "author": "Louise Erdrich",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Love in the Time of Cholera",
+      "author": "Gabriel García Márquez",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Billy Bathgate",
+      "author": "E.L. Doctorow",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Age of Iron",
+      "author": "J.M. Coetzee",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "White People",
+      "author": "Allan Gurganus",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Thousand Acres",
+      "author": "Jane Smiley",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rare & Endangered Species",
+      "author": "Richard Bausch",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Magic of Blood",
+      "author": "Dagoberto Gilb",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Blue Afternoon",
+      "author": "William Boyd",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Purple America",
+      "author": "Rick Moody",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Underworld",
+      "author": "Don DeLillo",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Charming Billy",
+      "author": "Alice McDermott",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Hours",
+      "author": "Michael Cunningham",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "author": "Michael Chabon",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Corrections",
+      "author": "Jonathan Franzen",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Story of Lucy Gault",
+      "author": "William Trevor",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Master",
+      "author": "Colm Tóibín",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Veronica",
+      "author": "Mary Gaitskill",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Woman in Jerusalem",
+      "author": "A.B. Yehoshua",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Out Stealing Horses",
+      "author": "Per Petterson",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Lazarus Project",
+      "author": "Aleksandar Hemon",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Your Face Tomorrow: Fever and Spear",
+      "author": "Javier Marías",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Salvage the Bones",
+      "author": "Jesmyn Ward",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Billy Lynn's Long Halftime Walk",
+      "author": "Ben Fountain",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Tale for the Time Being",
+      "author": "Ruth Ozeki",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Brief History of Seven Killings",
+      "author": "Marlon James",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Story of My Teeth",
+      "author": "Valeria Luiselli",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Vegetarian",
+      "author": "Han Kang",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sing, Unburied, Sing",
+      "author": "Jesmyn Ward",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Great Believers",
+      "author": "Rebecca Makkai",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Topeka School",
+      "author": "Ben Lerner",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Netanyahus",
+      "author": "Joshua Cohen",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Voids",
+      "author": "Ryan Lee Wong",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blackouts",
+      "author": "Justin Torres",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

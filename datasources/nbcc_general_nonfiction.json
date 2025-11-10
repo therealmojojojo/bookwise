@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "source_name": "National Book Critics Circle Award for General Nonfiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1975,
+    "prize_amount": "$1,000",
+    "notes": "Annual American award presented by the National Book Critics Circle.",
+    "total_winners": 49,
+    "alternative_names": "NBCC Award for General Nonfiction",
+    "category": "General Nonfiction",
+    "award_type": "book-specific",
+    "years_active": 49,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "The Great War and Modern Memory",
+      "author": "Paul Fussell",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Woman Warrior",
+      "author": "Maxine Hong Kingston",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Samuel Johnson",
+      "author": "Walter Jackson Bate",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Inventing America: Jefferson's Declaration of Independence",
+      "author": "Garry Wills",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Munich: The Price of Peace",
+      "author": "Telford Taylor",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Walter Lippmann and the American Century",
+      "author": "Ronald Steel",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Mismeasure of Man",
+      "author": "Stephen Jay Gould",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Path to Power: The Years of Lyndon Johnson, Vol. 1",
+      "author": "Robert A. Caro",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Price of Power: Kissinger in the Nixon White House",
+      "author": "Seymour M. Hersh",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Weapons and Hope",
+      "author": "Freeman Dyson",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Common Ground: A Turbulent Decade in the Lives of Three American Families",
+      "author": "J. Anthony Lukas",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Arctic Dreams",
+      "author": "Barry Lopez",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Making of the Atomic Bomb",
+      "author": "Richard Rhodes",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Parting the Waters: America in the King Years, 1954-63",
+      "author": "Taylor Branch",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Broken Cord",
+      "author": "Michael Dorris",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Content of Our Character: A New Vision of Race in America",
+      "author": "Shelby Steele",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Backlash: The Undeclared War Against American Women",
+      "author": "Susan Faludi",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Young Men and Fire",
+      "author": "Norman Maclean",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Land Where the Blues Began",
+      "author": "Alan Lomax",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rape of Europa: The Fate of Europe's Treasures in the Third Reich and the Second World War",
+      "author": "Lynn H. Nicholas",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Civil Action",
+      "author": "Jonathan Harr",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Bad Land: An American Romance",
+      "author": "Jonathan Raban",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Spirit Catches You and You Fall Down",
+      "author": "Anne Fadiman",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "We Wish to Inform You That Tomorrow We Will Be Killed with Our Families",
+      "author": "Philip Gourevitch",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Beak of the Finch: A Story of Evolution in Our Time",
+      "author": "Jonathan Weiner",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Newjack: Guarding Sing Sing",
+      "author": "Ted Conover",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Double Fold: Libraries and the Assault on Paper",
+      "author": "Nicholson Baker",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Problem from Hell: America and the Age of Genocide",
+      "author": "Samantha Power",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sons of Mississippi",
+      "author": "Paul Hendrickson",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The-Poisoner's Handbook",
+      "author": "Diarmuid Jeffreys",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Voices from Chernobyl: The Oral History of a Nuclear Disaster",
+      "author": "Svetlana Alexievich",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rough Crossings: Britain, the Slaves and the American Revolution",
+      "author": "Simon Schama",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present",
+      "author": "Harriet A. Washington",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Forever War",
+      "author": "Dexter Filkins",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science",
+      "author": "Richard Holmes",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+      "author": "Isabel Wilkerson",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Liberty's Exiles: American Loyalists in the Revolutionary World",
+      "author": "Maya Jasanoff",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Far from the Tree: Parents, Children and the Search for Identity",
+      "author": "Andrew Solomon",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Five Days at Memorial: Life and Death in a Storm-Ravaged Hospital",
+      "author": "Sheri Fink",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Deep Down Dark: The Untold Stories of 33 Men Buried in a Chilean Mine, and the Miracle That Set Them Free",
+      "author": "Hector Tobar",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dreamland: The True Tale of America's Opiate Epidemic",
+      "author": "Sam Quinones",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Evicted: Poverty and Profit in the American City",
+      "author": "Matthew Desmond",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Evangelicals: The Struggle to Shape America",
+      "author": "Frances FitzGerald",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Directorate S: The C.I.A. and America's Secret Wars in Afghanistan and Pakistan",
+      "author": "Steve Coll",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+      "author": "Patrick Radden Keefe",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Island on Fire: The Revolt That Ended Slavery in the British Empire",
+      "author": "Tom Zoellner",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "How the Word Is Passed: A Reckoning with the History of Slavery Across America",
+      "author": "Clint Smith",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stay True: A Memoir",
+      "author": "Hua Hsu",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy",
+      "author": "Nathan Thrall",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

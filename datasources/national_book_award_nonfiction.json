@@ -1,0 +1,838 @@
+{
+  "metadata": {
+    "source_name": "National Book Award for Nonfiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1950,
+    "prize_amount": "$10,000",
+    "notes": "Awarded annually by the National Book Foundation; includes various nonfiction subcategories over the years",
+    "total_winners": 122,
+    "category": "Nonfiction",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "The Life of Ralph Waldo Emerson",
+      "author": "Ralph L. Rusk",
+      "year_awarded": 1950,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Herman Melville",
+      "author": "Newton Arvin",
+      "year_awarded": 1951,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "year_awarded": 1952,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sea Around Us",
+      "author": "Rachel Carson",
+      "year_awarded": 1952,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Course of Empire",
+      "author": "Bernard De Voto",
+      "year_awarded": 1953,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Stillness at Appattox",
+      "author": "Bruce Catton",
+      "year_awarded": 1954,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Measure of Man",
+      "author": "Joseph Wood Krutch",
+      "year_awarded": 1955,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "An American in Italy",
+      "author": "Herbert Kubly",
+      "year_awarded": 1956,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Russia Leaves the War",
+      "author": "George F. Kennan",
+      "year_awarded": 1957,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Lion and the Throne",
+      "author": "Catherine Drinker Bowen",
+      "year_awarded": 1958,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mistress to an Age",
+      "author": "J. Christopher Herold",
+      "year_awarded": 1959,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "James Joyce",
+      "author": "Richard Ellmann",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rise and Fall of the Third Reich",
+      "author": "William L. Shirer",
+      "year_awarded": 1961,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The City in History",
+      "author": "Lewis Mumford",
+      "year_awarded": 1962,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "John Keats: The Making of a Poet",
+      "author": "Aileen Ward",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Man-made America",
+      "author": "Christopher Tunnard & Boris Pushkarev",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rise of the West",
+      "author": "William H. McNeill",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Oysters of Locmariaquer",
+      "author": "Eleanor Clark",
+      "year_awarded": 1965,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life of Lenin",
+      "author": "Louis Fischer",
+      "year_awarded": 1965,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "La Vida",
+      "author": "Oscar Lewis",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mr. Clemens and Mark Twain",
+      "author": "Justin Kaplan",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Death at an Early Age",
+      "author": "Jonathan Kozol",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Memoirs: 1925Ã¢â‚¬â€œ1950",
+      "author": "George F. Kennan",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Selected Essays",
+      "author": "William Troy",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Death in Life: Survivors of Hiroshima",
+      "author": "Robert J. Lifton",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "White over Black",
+      "author": "Winthrop D. Jordan",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "An Unfinished Woman",
+      "author": "Lillian Hellman",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Huey Long",
+      "author": "T. Harry Williams",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Cocteau: A Biography",
+      "author": "Francis Steegmuller",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Roosevelt: The Soldier of Freedom",
+      "author": "James MacGregor Burns",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Science in the British Colonies of America",
+      "author": "Raymond Phineas Sterns",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Eleanor and Franklin",
+      "author": "Joseph P. Lash",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Righteous Empire",
+      "author": "Martin E. Marty",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Blue Whale",
+      "author": "George L. Small",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Classical Style",
+      "author": "Charles Rosen",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Last Whole Earth Catalogue",
+      "author": "Stewart Brand",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Religious History of the American People",
+      "author": "Sydney E. Ahlstrom",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Augustus",
+      "author": "John Edward Williams",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Diderot",
+      "author": "Arthur M. Wilson",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Children of the Sun",
+      "author": "Lucy Mair",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Serengeti Lion",
+      "author": "George B. Schaller",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Lives of a Cell",
+      "author": "Lewis Thomas",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life of Emily Dickinson",
+      "author": "Richard B. Sewall",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Great War and Modern Memory",
+      "author": "Paul Fussell",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Norman Thomas: The Last Idealist",
+      "author": "W. A. Swanberg",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Samuel Beckett",
+      "author": "Deirdre Bair",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Snow Leopard",
+      "author": "Peter Matthiessen",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Gnostic Gospels",
+      "author": "Elaine Pagels",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Right Stuff",
+      "author": "Tom Wolfe",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rise of Theodore Roosevelt",
+      "author": "Edmund Morris",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "China Men",
+      "author": "Maxine Hong Kingston",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "China: Alive in the Bitter Sea",
+      "author": "Fox Butterfield",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Arctic Dreams",
+      "author": "Barry Lopez",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Common Ground: A Turbulent Decade in the Lives of Three American Families",
+      "author": "J. Anthony Lukas",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A First-Class Temperament",
+      "author": "Geoffrey C. Ward",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A First-Class Temperament: The Emergence of Franklin Roosevelt",
+      "author": "Geoffrey C. Ward",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The House of Morgan",
+      "author": "Ron Chernow",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Becoming a Man",
+      "author": "Paul Monette",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Becoming a Man: Half a Life Story",
+      "author": "Paul Monette",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "United States: Essays 1952-1992",
+      "author": "Gore Vidal",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "How We Die",
+      "author": "Sherwin B. Nuland",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "How We Die: Reflections on Life's Final Chapter",
+      "author": "Sherwin B. Nuland",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "An American Requiem",
+      "author": "James Carroll",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "American Sphinx",
+      "author": "Joseph J. Ellis",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Slaves in the Family",
+      "author": "Edward Ball",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Embracing Defeat",
+      "author": "John W. Dower",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Embracing Defeat: Japan in the Wake of World War II",
+      "author": "John W. Dower",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "In the Heart of the Sea",
+      "author": "Nathaniel Philbrick",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Noonday Demon",
+      "author": "Andrew Solomon",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Noonday Demon: An Atlas of Depression",
+      "author": "Andrew Solomon",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Waiting for Snow in Havana",
+      "author": "Carlos Eire",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Arc of Justice",
+      "author": "Kevin Boyle",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Year of Magical Thinking",
+      "author": "Joan Didion",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Worst Hard Time",
+      "author": "Timothy Egan",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Legacy of Ashes",
+      "author": "Tim Weiner",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Legacy of Ashes: The History of the CIA",
+      "author": "Tim Weiner",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The First Tycoon",
+      "author": "T.J. Stiles",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The First Tycoon: The Epic Life of Cornelius Vanderbilt",
+      "author": "T.J. Stiles",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Just Kids",
+      "author": "Patti Smith",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Swerve",
+      "author": "Stephen Greenblatt",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Behind the Beautiful Forevers",
+      "author": "Katherine Boo",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Unwinding",
+      "author": "George Packer",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Unwinding: An Inner History of the New America",
+      "author": "George Packer",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Age of Ambition",
+      "author": "Evan Osnos",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Between the World and Me",
+      "author": "Ta-Nehisi Coates",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stamped from the Beginning",
+      "author": "Ibram X. Kendi",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Future Is History",
+      "author": "Masha Gessen",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Future Is History: How Totalitarianism Reclaimed Russia",
+      "author": "Masha Gessen",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The New Negro",
+      "author": "Jeffrey C. Stewart",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The New Negro: The Life of Alain Locke",
+      "author": "Jeffrey C. Stewart",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Yellow House",
+      "author": "Sarah M. Broom",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Dead Are Arising",
+      "author": "Les Payne & Tamara Payne",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "All That She Carried",
+      "author": "Tiya Miles",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "South to America",
+      "author": "Imani Perry",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation",
+      "author": "Imani Perry",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Master Slave Husband Wife",
+      "author": "Ilyon Woo",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rediscovery of America",
+      "author": "Ned Blackhawk",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rediscovery of America: Native Peoples and the Unmaking of U.S. History",
+      "author": "Ned Blackhawk",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Our Moon",
+      "author": "Rebecca Boyle",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Soldiers and Kings",
+      "author": "Jason De LeÃƒÂ³n",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "There's Always This Year",
+      "author": "Hanif Abdurraqib",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Soldiers and Kings",
+      "author": "Jason De LeÃ³n",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Distant Mirror",
+      "author": "Barbara Tuchman",
+      "notes": ""
+    },
+    {
+      "title": "Chaos",
+      "author": "James Gleick",
+      "notes": ""
+    },
+    {
+      "title": "Founding Brothers",
+      "author": "Joseph J. Ellis",
+      "notes": ""
+    },
+    {
+      "title": "Genius: The Life and Science of Richard Feynman",
+      "author": "James Gleick",
+      "notes": ""
+    },
+    {
+      "title": "GÃƒÂ¶del, Escher, Bach",
+      "author": "Douglas Hofstadter",
+      "notes": ""
+    },
+    {
+      "title": "His Excellency: George Washington",
+      "author": "Joseph J. Ellis",
+      "notes": ""
+    },
+    {
+      "title": "I Know Why the Caged Bird Sings",
+      "author": "Maya Angelou",
+      "notes": ""
+    },
+    {
+      "title": "Master of the Senate",
+      "author": "Robert Caro",
+      "notes": ""
+    },
+    {
+      "title": "The 1619 Project",
+      "author": "Nikole Hannah-Jones",
+      "notes": ""
+    },
+    {
+      "title": "The Armies of the Night",
+      "author": "Norman Mailer",
+      "notes": ""
+    },
+    {
+      "title": "The Hemingses of Monticello",
+      "author": "Annette Gordon-Reed",
+      "notes": ""
+    },
+    {
+      "title": "The Information",
+      "author": "James Gleick",
+      "notes": ""
+    },
+    {
+      "title": "The Looming Tower",
+      "author": "Lawrence Wright",
+      "notes": ""
+    },
+    {
+      "title": "The Path Between the Seas",
+      "author": "David McCullough",
+      "notes": ""
+    },
+    {
+      "title": "The Power Broker",
+      "author": "Robert Caro",
+      "notes": ""
+    },
+    {
+      "title": "The Soul of an Octopus",
+      "author": "Sy Montgomery",
+      "notes": ""
+    },
+    {
+      "title": "Titan: The Life of John D. Rockefeller, Sr.",
+      "author": "Ron Chernow",
+      "notes": ""
+    },
+    {
+      "title": "Truman",
+      "author": "David McCullough",
+      "notes": ""
+    },
+    {
+      "title": "Will in the World",
+      "author": "Stephen Greenblatt",
+      "notes": ""
+    }
+  ]
+}

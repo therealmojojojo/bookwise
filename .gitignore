@@ -1,0 +1,84 @@
+# Environment configuration (contains API keys)
+.env
+.env.local
+.env.*.local
+.env.mcptest
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Generated data files (all regenerable from source)
+output/
+*.csv
+*.jsonl
+*.txt
+
+# ChromaDB vectors (moved to ~/Library/Application Support/bookwise/)
+book_vectors/
+
+# IDE and local settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/settings.local.json
+.cursorrules
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+*.log.*
+/private/tmp/*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.backup
+*.bak
+*_backup
+
+# Test scripts (may contain credentials)
+test_*.sh
+test_*.py
+
+# OAuth and credentials (never commit these!)
+oauth_*.json
+tokens.json
+auth_codes.json
+clients.json
+credentials.json
+*_credentials.json
+
+# Service configuration (local only)
+*.plist
+launchd/
+
+# Temporary documentation (keep only READMEs and essential guides)
+*SETUP*.md
+*CONFIG*.md
+*CREDENTIALS*.md
+*OAUTH*.md
+*CLAUDE*.md
+*DCR*.md
+*CORS*.md
+*TEST_RESULTS*.md
+*CHECKLIST*.md
+*SUMMARY*.md
+*GUIDE*.md
+!README.md
+!**/README.md
+!datasources/DATA_SOURCES_GUIDE.md
+!EXCEL_FILE_GUIDE.md
+!SECURITY_CHECKLIST.md

@@ -1,0 +1,442 @@
+{
+  "metadata": {
+    "source_name": "Booker Prize",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1969,
+    "prize_amount": "£50,000",
+    "notes": "Premier prize for English-language fiction",
+    "total_winners": 58,
+    "alternative_names": "Man Booker Prize (2002-2019)",
+    "category": "Fiction (English language)",
+    "award_type": "book-specific",
+    "years_active": 56,
+    "joint_winners_years": [
+      1974,
+      1992,
+      2019
+    ]
+  },
+  "items": [
+    {
+      "title": "Something to Answer For",
+      "author": "P.H. Newby",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Elected Member",
+      "author": "Bernice Rubens",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "In a Free State",
+      "author": "V.S. Naipaul",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "G.",
+      "author": "John Berger",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Siege of Krishnapur",
+      "author": "J.G. Farrell",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Conservationist",
+      "author": "Nadine Gordimer",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Holiday",
+      "author": "Stanley Middleton",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Heat and Dust",
+      "author": "Ruth Prawer Jhabvala",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Saville",
+      "author": "David Storey",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Staying On",
+      "author": "Paul Scott",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sea, The Sea",
+      "author": "Iris Murdoch",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Offshore",
+      "author": "Penelope Fitzgerald",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rites of Passage",
+      "author": "William Golding",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Schindler's Ark",
+      "author": "Thomas Keneally",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Life & Times of Michael K",
+      "author": "J.M. Coetzee",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hotel du Lac",
+      "author": "Anita Brookner",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Bone People",
+      "author": "Keri Hulme",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Old Devils",
+      "author": "Kingsley Amis",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Moon Tiger",
+      "author": "Penelope Lively",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Oscar and Lucinda",
+      "author": "Peter Carey",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Possession",
+      "author": "A.S. Byatt",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Famished Road",
+      "author": "Ben Okri",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The English Patient",
+      "author": "Michael Ondaatje",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Sacred Hunger",
+      "author": "Barry Unsworth",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Paddy Clarke Ha Ha Ha",
+      "author": "Roddy Doyle",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "How Late It Was, How Late",
+      "author": "James Kelman",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Ghost Road",
+      "author": "Pat Barker",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Last Orders",
+      "author": "Graham Swift",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Amsterdam",
+      "author": "Ian McEwan",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Disgrace",
+      "author": "J.M. Coetzee",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Blind Assassin",
+      "author": "Margaret Atwood",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "True History of the Kelly Gang",
+      "author": "Peter Carey",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Vernon God Little",
+      "author": "DBC Pierre",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Line of Beauty",
+      "author": "Alan Hollinghurst",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sea",
+      "author": "John Banville",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Inheritance of Loss",
+      "author": "Kiran Desai",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Gathering",
+      "author": "Anne Enright",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The White Tiger",
+      "author": "Aravind Adiga",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Wolf Hall",
+      "author": "Hilary Mantel",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Finkler Question",
+      "author": "Howard Jacobson",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sense of an Ending",
+      "author": "Julian Barnes",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Bring Up the Bodies",
+      "author": "Hilary Mantel",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Luminaries",
+      "author": "Eleanor Catton",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Narrow Road to the Deep North",
+      "author": "Richard Flanagan",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Brief History of Seven Killings",
+      "author": "Marlon James",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sellout",
+      "author": "Paul Beatty",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lincoln in the Bardo",
+      "author": "George Saunders",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Milkman",
+      "author": "Anna Burns",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Girl, Woman, Other",
+      "author": "Bernardine Evaristo",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "The Testaments",
+      "author": "Margaret Atwood",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Shuggie Bain",
+      "author": "Douglas Stuart",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Promise",
+      "author": "Damon Galgut",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Seven Moons of Maali Almeida",
+      "author": "Shehan Karunatilaka",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Prophet Song",
+      "author": "Paul Lynch",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Orbital",
+      "author": "Samantha Harvey",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

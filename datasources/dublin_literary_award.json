@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "source_name": "Dublin Literary Award",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1996,
+    "prize_amount": "€100,000 (€75,000 for author, €25,000 for translator if applicable)",
+    "notes": "One of the world's richest literary prizes. Books are nominated by public libraries worldwide.",
+    "total_winners": 30,
+    "alternative_names": "International IMPAC Dublin Literary Award (1996-2015)",
+    "category": "Fiction (International, translated or English-language)",
+    "award_type": "book-specific",
+    "years_active": 30,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "Remembering Babylon",
+      "author": "David Malouf",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Heart So White",
+      "author": "Javier Marías",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": "Translator: Margaret Jull Costa"
+    },
+    {
+      "title": "The Land of Green Plums",
+      "author": "Herta Müller",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": "Translator: Michael Hofmann"
+    },
+    {
+      "title": "Ingenious Pain",
+      "author": "Andrew Miller",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Wide Open",
+      "author": "Nicola Barker",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "No Great Mischief",
+      "author": "Alistair MacLeod",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Atomised (The Elementary Particles)",
+      "author": "Michel Houellebecq",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": "Translator: Frank Wynne"
+    },
+    {
+      "title": "My Name Is Red",
+      "author": "Orhan Pamuk",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": "Translator: Erdağ Göknar"
+    },
+    {
+      "title": "This Blinding Absence of Light",
+      "author": "Tahar Ben Jelloun",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": "Translator: Linda Coverdale"
+    },
+    {
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Master",
+      "author": "Colm Tóibín",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Out Stealing Horses",
+      "author": "Per Petterson",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": "Translator: Anne Born"
+    },
+    {
+      "title": "De Niro's Game",
+      "author": "Rawi Hage",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Man Gone Down",
+      "author": "Michael Thomas",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Twin",
+      "author": "Gerbrand Bakker",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": "Translator: David Colmer"
+    },
+    {
+      "title": "Let the Great World Spin",
+      "author": "Colum McCann",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Even the Dogs",
+      "author": "Jon McGregor",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "City of Bohane",
+      "author": "Kevin Barry",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sound of Things Falling",
+      "author": "Juan Gabriel Vásquez",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": "Translator: Anne McLean"
+    },
+    {
+      "title": "Harvest",
+      "author": "Jim Crace",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Family Life",
+      "author": "Akhil Sharma",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A General Theory of Oblivion",
+      "author": "José Eduardo Agualusa",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": "Translator: Daniel Hahn"
+    },
+    {
+      "title": "Solar Bones",
+      "author": "Mike McCormack",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Idaho",
+      "author": "Emily Ruskovich",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Milkman",
+      "author": "Anna Burns",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lost Children Archive",
+      "author": "Valeria Luiselli",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Art of Losing",
+      "author": "Alice Zeniter",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": "Translator: Frank Wynne"
+    },
+    {
+      "title": "Marzahn, Mon Amour",
+      "author": "Katja Oskamp",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Translator: Jo Heinrich"
+    },
+    {
+      "title": "Solenoid",
+      "author": "Mircea Cărtărescu",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Translator: Sean Cotter"
+    },
+    {
+      "title": "The Adversary",
+      "author": "Michael Crummey",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

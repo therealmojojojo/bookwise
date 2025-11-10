@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "source_name": "National Book Award for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1950,
+    "prize_amount": "$10,000",
+    "notes": "Awarded annually by the National Book Foundation",
+    "total_winners": 41,
+    "category": "Fiction",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "Butterfield 8",
+      "author": "John O'Hara",
+      "year_awarded": 1935,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Adventures of Augie March",
+      "author": "Saul Bellow",
+      "year_awarded": 1954,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Goodbye Columbus",
+      "author": "Philip Roth",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Moviegoer",
+      "author": "Walker Percy",
+      "year_awarded": 1962,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Centaur",
+      "author": "John Updike",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "year_awarded": 1965,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fixer",
+      "author": "Bernard Malamud",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mr. Sammler's Planet",
+      "author": "Saul Bellow",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Augustus",
+      "author": "John Williams",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gravity's Rainbow",
+      "author": "Thomas Pynchon",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dog Soldiers",
+      "author": "Robert Stone",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "JR",
+      "author": "William Gaddis",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Spectator Bird",
+      "author": "Wallace Stegner",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Right Stuff",
+      "author": "Tom Wolfe",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The World According to Garp",
+      "author": "John Irving",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "White Noise",
+      "author": "Don DeLillo",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Paco's Story",
+      "author": "Larry Heinemann",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Paris Trout",
+      "author": "Pete Dexter",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mao II",
+      "author": "Don DeLillo",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "All the Pretty Horses",
+      "author": "Cormac McCarthy",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Lesson Before Dying",
+      "author": "Ernest J. Gaines",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Frolic of His Own",
+      "author": "William Gaddis",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sabbath's Theater",
+      "author": "Philip Roth",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ship Fever",
+      "author": "Andrea Barrett",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Cold Mountain",
+      "author": "Charles Frazier",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Corrections",
+      "author": "Jonathan Franzen",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Salvage the Bones",
+      "author": "Jesmyn Ward",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Round House",
+      "author": "Louise Erdrich",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sing, Unburied, Sing",
+      "author": "Jesmyn Ward",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "notes": ""
+    },
+    {
+      "title": "The Invisible Man",
+      "author": "Ralph Ellison",
+      "notes": ""
+    },
+    {
+      "title": "The Fire Next Time",
+      "author": "James Baldwin",
+      "notes": ""
+    },
+    {
+      "title": "China Men",
+      "author": "Maxine Hong Kingston",
+      "notes": ""
+    },
+    {
+      "title": "Terms of Endearment",
+      "author": "Larry McMurtry",
+      "notes": ""
+    },
+    {
+      "title": "The Border Trilogy",
+      "author": "Cormac McCarthy",
+      "notes": ""
+    },
+    {
+      "title": "Rabbit Is Rich",
+      "author": "John Updike",
+      "notes": ""
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "notes": ""
+    },
+    {
+      "title": "The Farthest Shore",
+      "author": "Ursula K. Le Guin",
+      "notes": ""
+    }
+  ]
+}

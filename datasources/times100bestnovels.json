@@ -1,0 +1,602 @@
+{
+  "metadata": {
+    "source_name": "Time 100 Best Novels (1923-2005)",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2005,
+    "total_entries": 100,
+    "ranked": false,
+    "methodology": "An unranked list of the 100 best English-language novels published between 1923 (when Time magazine was first published) and 2005, selected by Time's critics Lev Grossman and Richard Lacayo."
+  },
+  "items": [
+    {
+      "title": "The Adventures of Augie March",
+      "author": "Saul Bellow",
+      "year_published": 1953,
+      "rank": null
+    },
+    {
+      "title": "All the King's Men",
+      "author": "Robert Penn Warren",
+      "year_published": 1946,
+      "rank": null
+    },
+    {
+      "title": "American Pastoral",
+      "author": "Philip Roth",
+      "year_published": 1997,
+      "rank": null
+    },
+    {
+      "title": "An American Tragedy",
+      "author": "Theodore Dreiser",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "year_published": 1946,
+      "rank": null
+    },
+    {
+      "title": "Appointment in Samarra",
+      "author": "John O'Hara",
+      "year_published": 1934,
+      "rank": null
+    },
+    {
+      "title": "Are You There God? It's Me, Margaret.",
+      "author": "Judy Blume",
+      "year_published": 1970,
+      "rank": null
+    },
+    {
+      "title": "The Assistant",
+      "author": "Bernard Malamud",
+      "year_published": 1957,
+      "rank": null
+    },
+    {
+      "title": "At Swim-Two-Birds",
+      "author": "Flann O'Brien",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "year_published": 2002,
+      "rank": null
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_published": 1987,
+      "rank": null
+    },
+    {
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "The Blind Assassin",
+      "author": "Margaret Atwood",
+      "year_published": 2000,
+      "rank": null
+    },
+    {
+      "title": "Blood Meridian",
+      "author": "Cormac McCarthy",
+      "year_published": 1985,
+      "rank": null
+    },
+    {
+      "title": "Brideshead Revisited",
+      "author": "Evelyn Waugh",
+      "year_published": 1945,
+      "rank": null
+    },
+    {
+      "title": "The Bridge of San Luis Rey",
+      "author": "Thornton Wilder",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Call It Sleep",
+      "author": "Henry Roth",
+      "year_published": 1934,
+      "rank": null
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "year_published": 1963,
+      "rank": null
+    },
+    {
+      "title": "The Confessions of Nat Turner",
+      "author": "William Styron",
+      "year_published": 1967,
+      "rank": null
+    },
+    {
+      "title": "The Corrected Squintern",
+      "author": "Nathanael West",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "Crash",
+      "author": "J.G. Ballard",
+      "year_published": 1973,
+      "rank": null
+    },
+    {
+      "title": "The Crying of Lot 49",
+      "author": "Thomas Pynchon",
+      "year_published": 1966,
+      "rank": null
+    },
+    {
+      "title": "A Dance to the Music of Time (series)",
+      "author": "Anthony Powell",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "The Day of the Locust",
+      "author": "Nathanael West",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "Death Comes for the Archbishop",
+      "author": "Willa Cather",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "A Death in the Family",
+      "author": "James Agee",
+      "year_published": 1957,
+      "rank": null
+    },
+    {
+      "title": "The Death of the Heart",
+      "author": "Elizabeth Bowen",
+      "year_published": 1938,
+      "rank": null
+    },
+    {
+      "title": "Deliverance",
+      "author": "James Dickey",
+      "year_published": 1970,
+      "rank": null
+    },
+    {
+      "title": "Dog Soldiers",
+      "author": "Robert Stone",
+      "year_published": 1974,
+      "rank": null
+    },
+    {
+      "title": "Falconer",
+      "author": "John Cheever",
+      "year_published": 1977,
+      "rank": null
+    },
+    {
+      "title": "The French Lieutenant's Woman",
+      "author": "John Fowles",
+      "year_published": 1969,
+      "rank": null
+    },
+    {
+      "title": "The Golden Notebook",
+      "author": "Doris Lessing",
+      "year_published": 1962,
+      "rank": null
+    },
+    {
+      "title": "Go Tell It on the Mountain",
+      "author": "James Baldwin",
+      "year_published": 1953,
+      "rank": null
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year_published": 1936,
+      "rank": null
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "Gravity's Rainbow",
+      "author": "Thomas Pynchon",
+      "year_published": 1973,
+      "rank": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "A Handful of Dust",
+      "author": "Evelyn Waugh",
+      "year_published": 1934,
+      "rank": null
+    },
+    {
+      "title": "The Heart Is a Lonely Hunter",
+      "author": "Carson McCullers",
+      "year_published": 1940,
+      "rank": null
+    },
+    {
+      "title": "The Heart of the Matter",
+      "author": "Graham Greene",
+      "year_published": 1948,
+      "rank": null
+    },
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "year_published": 1964,
+      "rank": null
+    },
+    {
+      "title": "Housekeeping",
+      "author": "Marilynne Robinson",
+      "year_published": 1981,
+      "rank": null
+    },
+    {
+      "title": "A House for Mr Biswas",
+      "author": "V.S. Naipaul",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "I, Claudius",
+      "author": "Robert Graves",
+      "year_published": 1934,
+      "rank": null
+    },
+    {
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace",
+      "year_published": 1996,
+      "rank": null
+    },
+    {
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "year_published": 1952,
+      "rank": null
+    },
+    {
+      "title": "Light in August",
+      "author": "William Faulkner",
+      "year_published": 1932,
+      "rank": null
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "year_published": 1950,
+      "rank": null
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "Loving",
+      "author": "Henry Green",
+      "year_published": 1945,
+      "rank": null
+    },
+    {
+      "title": "Lucky Jim",
+      "author": "Kingsley Amis",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "The Man Who Loved Children",
+      "author": "Christina Stead",
+      "year_published": 1940,
+      "rank": null
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "year_published": 1981,
+      "rank": null
+    },
+    {
+      "title": "Money",
+      "author": "Martin Amis",
+      "year_published": 1984,
+      "rank": null
+    },
+    {
+      "title": "The Moviegoer",
+      "author": "Walker Percy",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "Naked Lunch",
+      "author": "William S. Burroughs",
+      "year_published": 1959,
+      "rank": null
+    },
+    {
+      "title": "Native Son",
+      "author": "Richard Wright",
+      "year_published": 1940,
+      "rank": null
+    },
+    {
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "year_published": 2005,
+      "rank": null
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year_published": 1949,
+      "rank": null
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "year_published": 1957,
+      "rank": null
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey",
+      "year_published": 1962,
+      "rank": null
+    },
+    {
+      "title": "The Painted Bird",
+      "author": "Jerzy Kosinski",
+      "year_published": 1965,
+      "rank": null
+    },
+    {
+      "title": "Pale Fire",
+      "author": "Vladimir Nabokov",
+      "year_published": 1962,
+      "rank": null
+    },
+    {
+      "title": "A Passage to India",
+      "author": "E.M. Forster",
+      "year_published": 1924,
+      "rank": null
+    },
+    {
+      "title": "Play It as It Lays",
+      "author": "Joan Didion",
+      "year_published": 1970,
+      "rank": null
+    },
+    {
+      "title": "Portnoy's Complaint",
+      "author": "Philip Roth",
+      "year_published": 1969,
+      "rank": null
+    },
+    {
+      "title": "Possession",
+      "author": "A.S. Byatt",
+      "year_published": 1990,
+      "rank": null
+    },
+    {
+      "title": "The Power and the Glory",
+      "author": "Graham Greene",
+      "year_published": 1940,
+      "rank": null
+    },
+    {
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "Rabbit, Run",
+      "author": "John Updike",
+      "year_published": 1960,
+      "rank": null
+    },
+    {
+      "title": "Ragtime",
+      "author": "E.L. Doctorow",
+      "year_published": 1975,
+      "rank": null
+    },
+    {
+      "title": "The Recognitions",
+      "author": "William Gaddis",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "Red Harvest",
+      "author": "Dashiell Hammett",
+      "year_published": 1929,
+      "rank": null
+    },
+    {
+      "title": "Revolutionary Road",
+      "author": "Richard Yates",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "The Sheltering Sky",
+      "author": "Paul Bowles",
+      "year_published": 1949,
+      "rank": null
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "year_published": 1969,
+      "rank": null
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "year_published": 1992,
+      "rank": null
+    },
+    {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "year_published": 1929,
+      "rank": null
+    },
+    {
+      "title": "The Sportswriter",
+      "author": "Richard Ford",
+      "year_published": 1986,
+      "rank": null
+    },
+    {
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "year_published": 1926,
+      "rank": null
+    },
+    {
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "year_published": 1937,
+      "rank": null
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year_published": 1958,
+      "rank": null
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "rank": null
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Tropic of Cancer",
+      "author": "Henry Miller",
+      "year_published": 1934,
+      "rank": null
+    },
+    {
+      "title": "Ubik",
+      "author": "Philip K. Dick",
+      "year_published": 1969,
+      "rank": null
+    },
+    {
+      "title": "Under the Net",
+      "author": "Iris Murdoch",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "Under the Volcano",
+      "author": "Malcolm Lowry",
+      "year_published": 1947,
+      "rank": null
+    },
+    {
+      "title": "Watchmen",
+      "author": "Alan Moore and Dave Gibbons",
+      "year_published": 1986,
+      "rank": null
+    },
+    {
+      "title": "White Noise",
+      "author": "Don DeLillo",
+      "year_published": 1985,
+      "rank": null
+    },
+    {
+      "title": "White Teeth",
+      "author": "Zadie Smith",
+      "year_published": 2000,
+      "rank": null
+    },
+    {
+      "title": "Wide Sargasso Sea",
+      "author": "Jean Rhys",
+      "year_published": 1966,
+      "rank": null
+    }
+  ]
+}

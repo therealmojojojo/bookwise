@@ -1,0 +1,620 @@
+{
+  "metadata": {
+    "source_name": "The Observer - 100 Greatest Novels of All Time",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2003,
+    "total_entries": 100,
+    "ranked": false,
+    "methodology": "A list of 100 novels selected by critic Robert McCrum, presented in chronological order of publication."
+  },
+  "items": [
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "year_published": 1605,
+      "rank": null
+    },
+    {
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "year_published": 1678,
+      "rank": null
+    },
+    {
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "year_published": 1719,
+      "rank": null
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "year_published": 1726,
+      "rank": null
+    },
+    {
+      "title": "Tom Jones",
+      "author": "Henry Fielding",
+      "year_published": 1749,
+      "rank": null
+    },
+    {
+      "title": "Clarissa",
+      "author": "Samuel Richardson",
+      "year_published": 1748,
+      "rank": null
+    },
+    {
+      "title": "Tristram Shandy",
+      "author": "Laurence Sterne",
+      "year_published": 1759,
+      "rank": null
+    },
+    {
+      "title": "Dangerous Liaisons",
+      "author": "Pierre Choderlos de Laclos",
+      "year_published": 1782,
+      "rank": null
+    },
+    {
+      "title": "Emma",
+      "author": "Jane Austen",
+      "year_published": 1815,
+      "rank": null
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year_published": 1818,
+      "rank": null
+    },
+    {
+      "title": "Nightmare Abbey",
+      "author": "Thomas Love Peacock",
+      "year_published": 1818,
+      "rank": null
+    },
+    {
+      "title": "The Black Sheep",
+      "author": "Honoré de Balzac",
+      "year_published": 1842,
+      "rank": null
+    },
+    {
+      "title": "The Charterhouse of Parma",
+      "author": "Stendhal",
+      "year_published": 1839,
+      "rank": null
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "year_published": 1844,
+      "rank": null
+    },
+    {
+      "title": "Sybil",
+      "author": "Benjamin Disraeli",
+      "year_published": 1845,
+      "rank": null
+    },
+    {
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "year_published": 1850,
+      "rank": null
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "year_published": 1847,
+      "rank": null
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "year_published": 1847,
+      "rank": null
+    },
+    {
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "year_published": 1848,
+      "rank": null
+    },
+    {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "year_published": 1850,
+      "rank": null
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year_published": 1851,
+      "rank": null
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "year_published": 1856,
+      "rank": null
+    },
+    {
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "year_published": 1859,
+      "rank": null
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "year_published": 1865,
+      "rank": null
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "year_published": 1868,
+      "rank": null
+    },
+    {
+      "title": "The Way We Live Now",
+      "author": "Anthony Trollope",
+      "year_published": 1875,
+      "rank": null
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "year_published": 1877,
+      "rank": null
+    },
+    {
+      "title": "Daniel Deronda",
+      "author": "George Eliot",
+      "year_published": 1876,
+      "rank": null
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "year_published": 1880,
+      "rank": null
+    },
+    {
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "year_published": 1881,
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year_published": 1884,
+      "rank": null
+    },
+    {
+      "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "author": "Robert Louis Stevenson",
+      "year_published": 1886,
+      "rank": null
+    },
+    {
+      "title": "Three Men in a Boat",
+      "author": "Jerome K. Jerome",
+      "year_published": 1889,
+      "rank": null
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year_published": 1890,
+      "rank": null
+    },
+    {
+      "title": "The Diary of a Nobody",
+      "author": "George Grossmith",
+      "year_published": 1892,
+      "rank": null
+    },
+    {
+      "title": "Jude the Obscure",
+      "author": "Thomas Hardy",
+      "year_published": 1895,
+      "rank": null
+    },
+    {
+      "title": "The Riddle of the Sands",
+      "author": "Erskine Childers",
+      "year_published": 1903,
+      "rank": null
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "year_published": 1903,
+      "rank": null
+    },
+    {
+      "title": "Nostromo",
+      "author": "Joseph Conrad",
+      "year_published": 1904,
+      "rank": null
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "year_published": 1908,
+      "rank": null
+    },
+    {
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "year_published": 1913,
+      "rank": null
+    },
+    {
+      "title": "The Rainbow",
+      "author": "D.H. Lawrence",
+      "year_published": 1915,
+      "rank": null
+    },
+    {
+      "title": "The Good Soldier",
+      "author": "Ford Madox Ford",
+      "year_published": 1915,
+      "rank": null
+    },
+    {
+      "title": "The Thirty-Nine Steps",
+      "author": "John Buchan",
+      "year_published": 1915,
+      "rank": null
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "year_published": 1922,
+      "rank": null
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "A Passage to India",
+      "author": "E.M. Forster",
+      "year_published": 1924,
+      "rank": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "Men Without Women",
+      "author": "Ernest Hemingway",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Journey to the End of the Night",
+      "author": "Louis-Ferdinand Céline",
+      "year_published": 1932,
+      "rank": null
+    },
+    {
+      "title": "As I Lay Dying",
+      "author": "William Faulkner",
+      "year_published": 1930,
+      "rank": null
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year_published": 1932,
+      "rank": null
+    },
+    {
+      "title": "Scoop",
+      "author": "Evelyn Waugh",
+      "year_published": 1938,
+      "rank": null
+    },
+    {
+      "title": "U.S.A. (trilogy)",
+      "author": "John Dos Passos",
+      "year_published": 1938,
+      "rank": null
+    },
+    {
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "The Pursuit of Love",
+      "author": "Nancy Mitford",
+      "year_published": 1945,
+      "rank": null
+    },
+    {
+      "title": "The Plague",
+      "author": "Albert Camus",
+      "year_published": 1947,
+      "rank": null
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year_published": 1949,
+      "rank": null
+    },
+    {
+      "title": "Malone Dies",
+      "author": "Samuel Beckett",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "Wise Blood",
+      "author": "Flannery O'Connor",
+      "year_published": 1952,
+      "rank": null
+    },
+    {
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "year_published": 1952,
+      "rank": null
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "Lucky Jim",
+      "author": "Kingsley Amis",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "The Quiet American",
+      "author": "Graham Greene",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "year_published": 1957,
+      "rank": null
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "The Tin Drum",
+      "author": "Günter Grass",
+      "year_published": 1959,
+      "rank": null
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year_published": 1958,
+      "rank": null
+    },
+    {
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "rank": null
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year_published": 1961,
+      "rank": null
+    },
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "year_published": 1964,
+      "rank": null
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year_published": 1967,
+      "rank": null
+    },
+    {
+      "title": "Mrs Palfrey at the Claremont",
+      "author": "Elizabeth Taylor",
+      "year_published": 1971,
+      "rank": null
+    },
+    {
+      "title": "Tinker, Tailor, Soldier, Spy",
+      "author": "John le Carré",
+      "year_published": 1974,
+      "rank": null
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "year_published": 1977,
+      "rank": null
+    },
+    {
+      "title": "The Bottle Factory Outing",
+      "author": "Beryl Bainbridge",
+      "year_published": 1974,
+      "rank": null
+    },
+    {
+      "title": "The Golden Notebook",
+      "author": "Doris Lessing",
+      "year_published": 1962,
+      "rank": null
+    },
+    {
+      "title": "If on a Winter's Night a Traveler",
+      "author": "Italo Calvino",
+      "year_published": 1979,
+      "rank": null
+    },
+    {
+      "title": "A Bend in the River",
+      "author": "V.S. Naipaul",
+      "year_published": 1979,
+      "rank": null
+    },
+    {
+      "title": "Waiting for the Barbarians",
+      "author": "J.M. Coetzee",
+      "year_published": 1980,
+      "rank": null
+    },
+    {
+      "title": "Housekeeping",
+      "author": "Marilynne Robinson",
+      "year_published": 1980,
+      "rank": null
+    },
+    {
+      "title": "Lanark",
+      "author": "Alasdair Gray",
+      "year_published": 1981,
+      "rank": null
+    },
+    {
+      "title": "Money",
+      "author": "Martin Amis",
+      "year_published": 1984,
+      "rank": null
+    },
+    {
+      "title": "The BFG",
+      "author": "Roald Dahl",
+      "year_published": 1982,
+      "rank": null
+    },
+    {
+      "title": "The Periodic Table",
+      "author": "Primo Levi",
+      "year_published": 1975,
+      "rank": null
+    },
+    {
+      "title": "Haroun and the Sea of Stories",
+      "author": "Salman Rushdie",
+      "year_published": 1990,
+      "rank": null
+    },
+    {
+      "title": "Oscar and Lucinda",
+      "author": "Peter Carey",
+      "year_published": 1988,
+      "rank": null
+    },
+    {
+      "title": "The New York Trilogy",
+      "author": "Paul Auster",
+      "year_published": 1987,
+      "rank": null
+    },
+    {
+      "title": "An Artist of the Floating World",
+      "author": "Kazuo Ishiguro",
+      "year_published": 1986,
+      "rank": null
+    },
+    {
+      "title": "The Book of Laughter and Forgetting",
+      "author": "Milan Kundera",
+      "year_published": 1979,
+      "rank": null
+    },
+    {
+      "title": "American Pastoral",
+      "author": "Philip Roth",
+      "year_published": 1997,
+      "rank": null
+    },
+    {
+      "title": "His Dark Materials",
+      "author": "Philip Pullman",
+      "year_published": 1995,
+      "rank": null
+    },
+    {
+      "title": "Austerlitz",
+      "author": "W.G. Sebald",
+      "year_published": 2001,
+      "rank": null
+    },
+    {
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "year_published": 2001,
+      "rank": null
+    },
+    {
+      "title": "L.A. Confidential",
+      "author": "James Ellroy",
+      "year_published": 1990,
+      "rank": null
+    },
+    {
+      "title": "Wise Children",
+      "author": "Angela Carter",
+      "year_published": 1991,
+      "rank": null
+    }
+  ]
+}

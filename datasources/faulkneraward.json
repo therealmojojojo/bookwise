@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "source_name": "PEN/Faulkner Award for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1981,
+    "prize_amount": "$15,000",
+    "notes": "Major American literary prize for fiction.",
+    "total_winners": 44,
+    "alternative_names": "",
+    "category": "Fiction (by American citizen)",
+    "award_type": "book-specific",
+    "years_active": 44,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "How German Is It",
+      "author": "Walter Abish",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Chaneysville Incident",
+      "author": "David Bradley",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Seaview",
+      "author": "Toby Olson",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sent for You Yesterday",
+      "author": "John Edgar Wideman",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Barracks Thief",
+      "author": "Tobias Wolff",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Old Forest and Other Stories",
+      "author": "Peter Taylor",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Soldiers in Hiding",
+      "author": "Richard Wiley",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "World's End",
+      "author": "T. Coraghessan Boyle",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dusk and Other Stories",
+      "author": "James Salter",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Billy Bathgate",
+      "author": "E.L. Doctorow",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Philadelphia Fire",
+      "author": "John Edgar Wideman",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mao II",
+      "author": "Don DeLillo",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Shipping News",
+      "author": "E. Annie Proulx",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Operation Shylock",
+      "author": "Philip Roth",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Snow Falling on Cedars",
+      "author": "David Guterson",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Independence Day",
+      "author": "Richard Ford",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Women in Their Beds",
+      "author": "Gina Berriault",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Bear Comes Home",
+      "author": "Rafi Zabor",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Hours",
+      "author": "Michael Cunningham",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Waiting",
+      "author": "Ha Jin",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Human Stain",
+      "author": "Philip Roth",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Bel Canto",
+      "author": "Ann Patchett",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Caprices",
+      "author": "Sabina Murray",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Early Stories: 1953–1975",
+      "author": "John Updike",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "War Trash",
+      "author": "Ha Jin",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The March",
+      "author": "E.L. Doctorow",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Everyman",
+      "author": "Philip Roth",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Great Man",
+      "author": "Kate Christensen",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Netherland",
+      "author": "Joseph O'Neill",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "War Dances",
+      "author": "Sherman Alexie",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Collected Stories of Deborah Eisenberg",
+      "author": "Deborah Eisenberg",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Buddha in the Attic",
+      "author": "Julie Otsuka",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Everything Begins and Ends at the Kentucky Club",
+      "author": "Benjamin Alire Sáenz",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "We Are All Completely Beside Ourselves",
+      "author": "Karen Joy Fowler",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Preparation for the Next Life",
+      "author": "Atticus Lish",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Delicious Foods",
+      "author": "James Hannaham",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Behold the Dreamers",
+      "author": "Imbolo Mbue",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Improvement",
+      "author": "Joan Silber",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Call Me Zebra",
+      "author": "Azareen Van der Vliet Oloomi",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sea Monsters",
+      "author": "Chloe Aridjis",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Secret Lives of Church Ladies",
+      "author": "Deesha Philyaw",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Wrong End of the Telescope",
+      "author": "Rabih Alameddine",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Book of Goose",
+      "author": "Yiyun Li",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "I Love You but I've Chosen Darkness",
+      "author": "Claire Vaye Watkins",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "source_name": "National Book Critics Circle Award for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1975,
+    "prize_amount": "$1,000",
+    "notes": "Annual American award presented by the National Book Critics Circle.",
+    "total_winners": 50,
+    "alternative_names": "NBCC Award for Fiction",
+    "category": "Fiction",
+    "award_type": "book-specific",
+    "years_active": 49,
+    "joint_winners_years": [
+      1984
+    ]
+  },
+  "items": [
+    {
+      "title": "Ragtime",
+      "author": "E.L. Doctorow",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "October Light",
+      "author": "John Gardner",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Stories of John Cheever",
+      "author": "John Cheever",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Year of the French",
+      "author": "Thomas Flanagan",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Transit of Venus",
+      "author": "Shirley Hazzard",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rabbit Is Rich",
+      "author": "John Updike",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "George Mills",
+      "author": "Stanley Elkin",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ironweed",
+      "author": "William Kennedy",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Love Medicine",
+      "author": "Louise Erdrich",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Foreign Affairs",
+      "author": "Alison Lurie",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "The Accidental Tourist",
+      "author": "Anne Tyler",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Kate Vaiden",
+      "author": "Reynolds Price",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Counterlife",
+      "author": "Philip Roth",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Middleman and Other Stories",
+      "author": "Bharati Mukherjee",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Billy Bathgate",
+      "author": "E.L. Doctorow",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rabbit at Rest",
+      "author": "John Updike",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Thousand Acres",
+      "author": "Jane Smiley",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "All the Pretty Horses",
+      "author": "Cormac McCarthy",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Lesson Before Dying",
+      "author": "Ernest J. Gaines",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Stone Diaries",
+      "author": "Carol Shields",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mrs. Ted Bliss",
+      "author": "Stanley Elkin",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Women in Their Beds",
+      "author": "Gina Berriault",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Blue Flower",
+      "author": "Penelope Fitzgerald",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Love of a Good Woman",
+      "author": "Alice Munro",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Motherless Brooklyn",
+      "author": "Jonathan Lethem",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Being Dead",
+      "author": "Jim Crace",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Austerlitz",
+      "author": "W.G. Sebald",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The March",
+      "author": "E.L. Doctorow",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Inheritance of Loss",
+      "author": "Kiran Desai",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Díaz",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "2666",
+      "author": "Roberto Bolaño",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Wolf Hall",
+      "author": "Hilary Mantel",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Binocular Vision",
+      "author": "Edith Pearlman",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Billy Lynn's Long Halftime Walk",
+      "author": "Ben Fountain",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Americanah",
+      "author": "Chimamanda Ngozi Adichie",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lila",
+      "author": "Marilynne Robinson",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sellout",
+      "author": "Paul Beatty",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Story of My Teeth",
+      "author": "Valeria Luiselli",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Improvement",
+      "author": "Joan Silber",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Milkman",
+      "author": "Anna Burns",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Everything Inside",
+      "author": "Edwidge Danticat",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hamnet",
+      "author": "Maggie O'Farrell",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Love Songs of W.E.B. Du Bois",
+      "author": "Honorée Fanonne Jeffers",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Bliss Montage",
+      "author": "Ling Ma",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blackouts",
+      "author": "Justin Torres",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "source_name": "BBC Big Read Top 100",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2003,
+    "total_entries": 100,
+    "ranked": true,
+    "methodology": "A ranked list of the UK's 100 best-loved novels, based on a public poll conducted by the BBC."
+  },
+  "items": [
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": 1
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_published": 1813,
+      "rank": 2
+    },
+    {
+      "title": "His Dark Materials",
+      "author": "Philip Pullman",
+      "year_published": 1995,
+      "rank": 3
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year_published": 1979,
+      "rank": 4
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "year_published": 2000,
+      "rank": 5
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "rank": 6
+    },
+    {
+      "title": "Winnie the Pooh",
+      "author": "A.A. Milne",
+      "year_published": 1926,
+      "rank": 7
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year_published": 1949,
+      "rank": 8
+    },
+    {
+      "title": "The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "year_published": 1950,
+      "rank": 9
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "year_published": 1847,
+      "rank": 10
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year_published": 1961,
+      "rank": 11
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "year_published": 1847,
+      "rank": 12
+    },
+    {
+      "title": "Birdsong",
+      "author": "Sebastian Faulks",
+      "year_published": 1993,
+      "rank": 13
+    },
+    {
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "year_published": 1938,
+      "rank": 14
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "rank": 15
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "year_published": 1908,
+      "rank": 16
+    },
+    {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "year_published": 1861,
+      "rank": 17
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "year_published": 1868,
+      "rank": 18
+    },
+    {
+      "title": "Captain Corelli's Mandolin",
+      "author": "Louis de Bernières",
+      "year_published": 1994,
+      "rank": 19
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year_published": 1869,
+      "rank": 20
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year_published": 1936,
+      "rank": 21
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "year_published": 1997,
+      "rank": 22
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "year_published": 1998,
+      "rank": 23
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "year_published": 1999,
+      "rank": 24
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1937,
+      "rank": 25
+    },
+    {
+      "title": "Tess of the d'Urbervilles",
+      "author": "Thomas Hardy",
+      "year_published": 1891,
+      "rank": 26
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year_published": 1871,
+      "rank": 27
+    },
+    {
+      "title": "A Prayer for Owen Meany",
+      "author": "John Irving",
+      "year_published": 1989,
+      "rank": 28
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_published": 1939,
+      "rank": 29
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "year_published": 1865,
+      "rank": 30
+    },
+    {
+      "title": "The Story of Tracy Beaker",
+      "author": "Jacqueline Wilson",
+      "year_published": 1991,
+      "rank": 31
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year_published": 1967,
+      "rank": 32
+    },
+    {
+      "title": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "year_published": 1989,
+      "rank": 33
+    },
+    {
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "year_published": 1850,
+      "rank": 34
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "author": "Roald Dahl",
+      "year_published": 1964,
+      "rank": 35
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "year_published": 1883,
+      "rank": 36
+    },
+    {
+      "title": "A Town Like Alice",
+      "author": "Nevil Shute",
+      "year_published": 1950,
+      "rank": 37
+    },
+    {
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "year_published": 1817,
+      "rank": 38
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year_published": 1965,
+      "rank": 39
+    },
+    {
+      "title": "Emma",
+      "author": "Jane Austen",
+      "year_published": 1816,
+      "rank": 40
+    },
+    {
+      "title": "Anne of Green Gables",
+      "author": "L.M. Montgomery",
+      "year_published": 1908,
+      "rank": 41
+    },
+    {
+      "title": "Watership Down",
+      "author": "Richard Adams",
+      "year_published": 1972,
+      "rank": 42
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": 43
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "year_published": 1844,
+      "rank": 44
+    },
+    {
+      "title": "Brideshead Revisited",
+      "author": "Evelyn Waugh",
+      "year_published": 1945,
+      "rank": 45
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "year_published": 1945,
+      "rank": 46
+    },
+    {
+      "title": "ATale of Two Cities",
+      "author": "Charles Dickens",
+      "year_published": 1859,
+      "rank": 47
+    },
+    {
+      "title": "Far from the Madding Crowd",
+      "author": "Thomas Hardy",
+      "year_published": 1874,
+      "rank": 48
+    },
+    {
+      "title": "Swallows and Amazons",
+      "author": "Arthur Ransome",
+      "year_published": 1930,
+      "rank": 49
+    },
+    {
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "year_published": 1980,
+      "rank": 50
+    },
+    {
+      "title": "The Gormenghast Trilogy",
+      "author": "Mervyn Peake",
+      "year_published": 1950,
+      "rank": 51
+    },
+    {
+      "title": "The Lord of the Flies",
+      "author": "William Golding",
+      "year_published": 1954,
+      "rank": 52
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "year_published": 1982,
+      "rank": 53
+    },
+    {
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "year_published": 1989,
+      "rank": 54
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "year_published": 1856,
+      "rank": 55
+    },
+    {
+      "title": "ASuitable Boy",
+      "author": "Vikram Seth",
+      "year_published": 1993,
+      "rank": 56
+    },
+    {
+      "title": "The BFG",
+      "author": "Roald Dahl",
+      "year_published": 1982,
+      "rank": 57
+    },
+    {
+      "title": "The Twits",
+      "author": "Roald Dahl",
+      "year_published": 1980,
+      "rank": 58
+    },
+    {
+      "title": "Good Omens",
+      "author": "Terry Pratchett and Neil Gaiman",
+      "year_published": 1990,
+      "rank": 59
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year_published": 1985,
+      "rank": 60
+    },
+    {
+      "title": "Love in the Time of Cholera",
+      "author": "Gabriel García Márquez",
+      "year_published": 1985,
+      "rank": 61
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "year_published": 1937,
+      "rank": 62
+    },
+    {
+      "title": "The Stand",
+      "author": "Stephen King",
+      "year_published": 1978,
+      "rank": 63
+    },
+    {
+      "title": "The Shell Seekers",
+      "author": "Rosamunde Pilcher",
+      "year_published": 1987,
+      "rank": 64
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera",
+      "year_published": 1984,
+      "rank": 65
+    },
+    {
+      "title": "The Secret Diary of Adrian Mole, Aged 13¾",
+      "author": "Sue Townsend",
+      "year_published": 1982,
+      "rank": 66
+    },
+    {
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "year_published": 1860,
+      "rank": 67
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "year_published": 1922,
+      "rank": 68
+    },
+    {
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "year_published": 1853,
+      "rank": 69
+    },
+    {
+      "title": "Double Act",
+      "author": "Jacqueline Wilson",
+      "year_published": 1995,
+      "rank": 70
+    },
+    {
+      "title": "I Capture the Castle",
+      "author": "Dodie Smith",
+      "year_published": 1948,
+      "rank": 72
+    },
+    {
+      "title": "Holes",
+      "author": "Louis Sachar",
+      "year_published": 1998,
+      "rank": 73
+    },
+    {
+      "title": "Gormenghast",
+      "author": "Mervyn Peake",
+      "year_published": 1950,
+      "rank": 74
+    },
+    {
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "year_published": 1997,
+      "rank": 75
+    },
+    {
+      "title": "Vicky Angel",
+      "author": "Jacqueline Wilson",
+      "year_published": 2000,
+      "rank": 76
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year_published": 1932,
+      "rank": 77
+    },
+    {
+      "title": "Cold Comfort Farm",
+      "author": "Stella Gibbons",
+      "year_published": 1932,
+      "rank": 78
+    },
+    {
+      "title": "Magician",
+      "author": "Raymond E. Feist",
+      "year_published": 1982,
+      "rank": 79
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "year_published": 1957,
+      "rank": 80
+    },
+    {
+      "title": "The Godfather",
+      "author": "Mario Puzo",
+      "year_published": 1969,
+      "rank": 81
+    },
+    {
+      "title": "The Clan of the Cave Bear",
+      "author": "Jean M. Auel",
+      "year_published": 1980,
+      "rank": 82
+    },
+    {
+      "title": "The Colour of Magic",
+      "author": "Terry Pratchett",
+      "year_published": 1983,
+      "rank": 83
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year_published": 1988,
+      "rank": 84
+    },
+    {
+      "title": "Katherine",
+      "author": "Anya Seton",
+      "year_published": 1954,
+      "rank": 85
+    },
+    {
+      "title": "Kane and Abel",
+      "author": "Jeffrey Archer",
+      "year_published": 1979,
+      "rank": 86
+    },
+    {
+      "title": "Girls in Love",
+      "author": "Jacqueline Wilson",
+      "year_published": 1997,
+      "rank": 88
+    },
+    {
+      "title": "The Princess Diaries",
+      "author": "Meg Cabot",
+      "year_published": 2000,
+      "rank": 89
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "year_published": 1981,
+      "rank": 90
+    },
+    {
+      "title": "Three Men in a Boat",
+      "author": "Jerome K. Jerome",
+      "year_published": 1889,
+      "rank": 91
+    },
+    {
+      "title": "Small Gods",
+      "author": "Terry Pratchett",
+      "year_published": 1992,
+      "rank": 92
+    },
+    {
+      "title": "The Beach",
+      "author": "Alex Garland",
+      "year_published": 1996,
+      "rank": 93
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "year_published": 1897,
+      "rank": 94
+    },
+    {
+      "title": "Point Blanc",
+      "author": "Anthony Horowitz",
+      "year_published": 2001,
+      "rank": 95
+    },
+    {
+      "title": "The Pickwick Papers",
+      "author": "Charles Dickens",
+      "year_published": 1837,
+      "rank": 96
+    },
+    {
+      "title": "Stormbreaker",
+      "author": "Anthony Horowitz",
+      "year_published": 2000,
+      "rank": 97
+    },
+    {
+      "title": "The Wasp Factory",
+      "author": "Iain Banks",
+      "year_published": 1984,
+      "rank": 98
+    },
+    {
+      "title": "The Day of the Jackal",
+      "author": "Frederick Forsyth",
+      "year_published": 1971,
+      "rank": 99
+    },
+    {
+      "title": "The Illustrated Mum",
+      "author": "Jacqueline Wilson",
+      "year_published": 1999,
+      "rank": 100
+    }
+  ]
+}

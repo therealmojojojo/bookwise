@@ -1,0 +1,620 @@
+{
+  "metadata": {
+    "source_name": "The Telegraph - 100 Novels Everyone Should Read",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2014,
+    "total_entries": 100,
+    "ranked": true,
+    "methodology": "A ranked list of 100 novels selected by The Telegraph's critics."
+  },
+  "items": [
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year_published": 1871,
+      "rank": 1
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year_published": 1851,
+      "rank": 2
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "year_published": 1877,
+      "rank": 3
+    },
+    {
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "year_published": 1881,
+      "rank": 4
+    },
+    {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "year_published": 1899,
+      "rank": 5
+    },
+    {
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "year_published": 1913,
+      "rank": 6
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "year_published": 1847,
+      "rank": 7
+    },
+    {
+      "title": "Disgrace",
+      "author": "J.M. Coetzee",
+      "year_published": 1999,
+      "rank": 8
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "year_published": 1925,
+      "rank": 9
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "year_published": 1605,
+      "rank": 10
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_published": 1813,
+      "rank": 11
+    },
+    {
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "year_published": 1719,
+      "rank": 12
+    },
+    {
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "year_published": 1850,
+      "rank": 13
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "year_published": 1847,
+      "rank": 14
+    },
+    {
+      "title": "The Code of the Woosters",
+      "author": "P.G. Wodehouse",
+      "year_published": 1938,
+      "rank": 15
+    },
+    {
+      "title": "Brighton Rock",
+      "author": "Graham Greene",
+      "year_published": 1938,
+      "rank": 16
+    },
+    {
+      "title": "Tess of the d'Urbervilles",
+      "author": "Thomas Hardy",
+      "year_published": 1891,
+      "rank": 17
+    },
+    {
+      "title": "Scoop",
+      "author": "Evelyn Waugh",
+      "year_published": 1938,
+      "rank": 18
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "year_published": 1898,
+      "rank": 19
+    },
+    {
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "author": "Laurence Sterne",
+      "year_published": 1759,
+      "rank": 20
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year_published": 1949,
+      "rank": 21
+    },
+    {
+      "title": "A Passage to India",
+      "author": "E.M. Forster",
+      "year_published": 1924,
+      "rank": 22
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "year_published": 1856,
+      "rank": 23
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "year_published": 1922,
+      "rank": 24
+    },
+    {
+      "title": "The Moonstone",
+      "author": "Wilkie Collins",
+      "year_published": 1868,
+      "rank": 25
+    },
+    {
+      "title": "Cranford",
+      "author": "Elizabeth Gaskell",
+      "year_published": 1853,
+      "rank": 26
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year_published": 1818,
+      "rank": 27
+    },
+    {
+      "title": "Tom Jones",
+      "author": "Henry Fielding",
+      "year_published": 1749,
+      "rank": 28
+    },
+    {
+      "title": "Life: A User's Manual",
+      "author": "Georges Perec",
+      "year_published": 1978,
+      "rank": 29
+    },
+    {
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "year_published": 2001,
+      "rank": 30
+    },
+    {
+      "title": "Suite Française",
+      "author": "Irène Némirovsky",
+      "year_published": 2004,
+      "rank": 31
+    },
+    {
+      "title": "A Dance to the Music of Time",
+      "author": "Anthony Powell",
+      "year_published": 1951,
+      "rank": 32
+    },
+    {
+      "title": "Clarissa",
+      "author": "Samuel Richardson",
+      "year_published": 1748,
+      "rank": 33
+    },
+    {
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "year_published": 1939,
+      "rank": 34
+    },
+    {
+      "title": "Lucky Jim",
+      "author": "Kingsley Amis",
+      "year_published": 1954,
+      "rank": 35
+    },
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "year_published": 1862,
+      "rank": 36
+    },
+    {
+      "title": "The Warden",
+      "author": "Anthony Trollope",
+      "year_published": 1855,
+      "rank": 37
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": 38
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year_published": 1958,
+      "rank": 39
+    },
+    {
+      "title": "The House of Mirth",
+      "author": "Edith Wharton",
+      "year_published": 1905,
+      "rank": 40
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "year_published": 1902,
+      "rank": 41
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year_published": 1884,
+      "rank": 42
+    },
+    {
+      "title": "Rabbit Angstrom: A Tetralogy",
+      "author": "John Updike",
+      "year_published": 1995,
+      "rank": 43
+    },
+    {
+      "title": "Nausea",
+      "author": "Jean-Paul Sartre",
+      "year_published": 1938,
+      "rank": 44
+    },
+    {
+      "title": "The Voyeur",
+      "author": "Alain Robbe-Grillet",
+      "year_published": 1955,
+      "rank": 45
+    },
+    {
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "year_published": 1961,
+      "rank": 46
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera",
+      "year_published": 1984,
+      "rank": 47
+    },
+    {
+      "title": "Go Tell It on the Mountain",
+      "author": "James Baldwin",
+      "year_published": 1953,
+      "rank": 48
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_published": 1939,
+      "rank": 49
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_published": 1987,
+      "rank": 50
+    },
+    {
+      "title": "Underworld",
+      "author": "Don DeLillo",
+      "year_published": 1997,
+      "rank": 51
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "rank": 52
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year_published": 1985,
+      "rank": 53
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "year_published": 1955,
+      "rank": 54
+    },
+    {
+      "title": "Austerlitz",
+      "author": "W.G. Sebald",
+      "year_published": 2001,
+      "rank": 55
+    },
+    {
+      "title": "The Tin Drum",
+      "author": "Günter Grass",
+      "year_published": 1959,
+      "rank": 56
+    },
+    {
+      "title": "The Glass Bead Game",
+      "author": "Hermann Hesse",
+      "year_published": 1943,
+      "rank": 57
+    },
+    {
+      "title": "The Savage Detectives",
+      "author": "Roberto Bolaño",
+      "year_published": 1998,
+      "rank": 58
+    },
+    {
+      "title": "London Fields",
+      "author": "Martin Amis",
+      "year_published": 1989,
+      "rank": 59
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year_published": 1967,
+      "rank": 60
+    },
+    {
+      "title": "My Name Is Red",
+      "author": "Orhan Pamuk",
+      "year_published": 1998,
+      "rank": 61
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "year_published": 1726,
+      "rank": 62
+    },
+    {
+      "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "author": "Robert Louis Stevenson",
+      "year_published": 1886,
+      "rank": 63
+    },
+    {
+      "title": "The Cairo Trilogy",
+      "author": "Naguib Mahfouz",
+      "year_published": 1956,
+      "rank": 64
+    },
+    {
+      "title": "Doctor Zhivago",
+      "author": "Boris Pasternak",
+      "year_published": 1957,
+      "rank": 65
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year_published": 1866,
+      "rank": 66
+    },
+    {
+      "title": "A Bend in the River",
+      "author": "V.S. Naipaul",
+      "year_published": 1979,
+      "rank": 67
+    },
+    {
+      "title": "Crash",
+      "author": "J.G. Ballard",
+      "year_published": 1973,
+      "rank": 68
+    },
+    {
+      "title": "If on a Winter's Night a Traveler",
+      "author": "Italo Calvino",
+      "year_published": 1979,
+      "rank": 69
+    },
+    {
+      "title": "The Leopard",
+      "author": "Giuseppe Tomasi di Lampedusa",
+      "year_published": 1958,
+      "rank": 70
+    },
+    {
+      "title": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "year_published": 1791,
+      "rank": 71
+    },
+    {
+      "title": "Dinner at the Homesick Restaurant",
+      "author": "Anne Tyler",
+      "year_published": 1982,
+      "rank": 72
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "author": "Erich Maria Remarque",
+      "year_published": 1929,
+      "rank": 73
+    },
+    {
+      "title": "Waiting for the Mahatma",
+      "author": "R.K. Narayan",
+      "year_published": 1955,
+      "rank": 74
+    },
+    {
+      "title": "Cider with Rosie",
+      "author": "Laurie Lee",
+      "year_published": 1959,
+      "rank": 75
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "year_published": 1925,
+      "rank": 76
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year_published": 1961,
+      "rank": 77
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "year_published": 1865,
+      "rank": 78
+    },
+    {
+      "title": "Wide Sargasso Sea",
+      "author": "Jean Rhys",
+      "year_published": 1966,
+      "rank": 79
+    },
+    {
+      "title": "Oscar and Lucinda",
+      "author": "Peter Carey",
+      "year_published": 188,
+      "rank": 80
+    },
+    {
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "year_published": 1980,
+      "rank": 81
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "year_published": 1942,
+      "rank": 82
+    },
+    {
+      "title": "Germinal",
+      "author": "Émile Zola",
+      "year_published": 1885,
+      "rank": 83
+    },
+    {
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "year_published": 1844,
+      "rank": 84
+    },
+    {
+      "title": "The Red and the Black",
+      "author": "Stendhal",
+      "year_published": 1830,
+      "rank": 85
+    },
+    {
+      "title": "Old Goriot",
+      "author": "Honoré de Balzac",
+      "year_published": 1835,
+      "rank": 86
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "year_published": 1957,
+      "rank": 87
+    },
+    {
+      "title": "Eugene Onegin",
+      "author": "Alexander Pushkin",
+      "year_published": 1833,
+      "rank": 88
+    },
+    {
+      "title": "The Golden Notebook",
+      "author": "Doris Lessing",
+      "year_published": 1962,
+      "rank": 89
+    },
+    {
+      "title": "Under the Net",
+      "author": "Iris Murdoch",
+      "year_published": 1954,
+      "rank": 90
+    },
+    {
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "year_published": 1021,
+      "rank": 91
+    },
+    {
+      "title": "Cold Comfort Farm",
+      "author": "Stella Gibbons",
+      "year_published": 1932,
+      "rank": 92
+    },
+    {
+      "title": "Tinker, Tailor, Soldier, Spy",
+      "author": "John le Carré",
+      "year_published": 1974,
+      "rank": 93
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "year_published": 1981,
+      "rank": 94
+    },
+    {
+      "title": "The Sorrows of Young Werther",
+      "author": "Johann Wolfgang von Goethe",
+      "year_published": 1774,
+      "rank": 95
+    },
+    {
+      "title": "One Thousand and One Nights",
+      "author": "Anonymous",
+      "year_published": null,
+      "rank": 96
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year_published": 1979,
+      "rank": 97
+    },
+    {
+      "title": "The Home and the World",
+      "author": "Rabindranath Tagore",
+      "year_published": 1916,
+      "rank": 98
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "rank": 99
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": 100
+    }
+  ]
+}

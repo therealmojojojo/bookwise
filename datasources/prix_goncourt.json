@@ -1,0 +1,915 @@
+{
+  "metadata": {
+    "source_name": "Prix Goncourt",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1903,
+    "awarding_body": "Académie Goncourt",
+    "prize_amount": "€10 (symbolic) + major sales boost",
+    "notes": "France's most prestigious literary prize. Awarded annually for the best imaginary prose work of the year.",
+    "total_winners": 121,
+    "category": "Fiction (French language)",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "Force ennemie",
+      "author": "John-Antoine Nau",
+      "year_awarded": 1903,
+      "year_published": 1903,
+      "notes": "First Prix Goncourt winner"
+    },
+    {
+      "title": "La Maternelle",
+      "author": "Léon Frapié",
+      "year_awarded": 1904,
+      "year_published": 1904,
+      "notes": ""
+    },
+    {
+      "title": "Les Civilisés",
+      "author": "Claude Farrère",
+      "year_awarded": 1905,
+      "year_published": 1905,
+      "notes": ""
+    },
+    {
+      "title": "Dingley, l'illustre écrivain",
+      "author": "Jérôme Tharaud and Jean Tharaud",
+      "year_awarded": 1906,
+      "year_published": 1906,
+      "notes": ""
+    },
+    {
+      "title": "Terre promise",
+      "author": "Émile Moselly",
+      "year_awarded": 1907,
+      "year_published": 1907,
+      "notes": ""
+    },
+    {
+      "title": "Écrit sur de l'eau",
+      "author": "Francis de Miomandre",
+      "year_awarded": 1908,
+      "year_published": 1908,
+      "notes": ""
+    },
+    {
+      "title": "En France",
+      "author": "Marius-Ary Leblond",
+      "year_awarded": 1909,
+      "year_published": 1909,
+      "notes": ""
+    },
+    {
+      "title": "De Goupil à Margot",
+      "author": "Louis Pergaud",
+      "year_awarded": 1910,
+      "year_published": 1910,
+      "notes": ""
+    },
+    {
+      "title": "Monsieur des Lourdines",
+      "author": "Alphonse de Châteaubriant",
+      "year_awarded": 1911,
+      "year_published": 1911,
+      "notes": ""
+    },
+    {
+      "title": "Les Filles de la pluie",
+      "author": "André Savignon",
+      "year_awarded": 1912,
+      "year_published": 1912,
+      "notes": ""
+    },
+    {
+      "title": "Le Peuple de la mer",
+      "author": "Marc Elder",
+      "year_awarded": 1913,
+      "year_published": 1913,
+      "notes": ""
+    },
+    {
+      "title": "À l'ombre des jeunes filles en fleurs",
+      "author": "Marcel Proust",
+      "year_awarded": 1919,
+      "year_published": 1919,
+      "notes": "",
+      "alternate_titles": [
+        "In the Shadow of Young Girls in Flower",
+        "Within a Budding Grove"
+      ]
+    },
+    {
+      "title": "Nêne",
+      "author": "Ernest Pérochon",
+      "year_awarded": 1920,
+      "year_published": 1920,
+      "notes": ""
+    },
+    {
+      "title": "Batouala",
+      "author": "René Maran",
+      "year_awarded": 1921,
+      "year_published": 1921,
+      "notes": "First Black writer to win"
+    },
+    {
+      "title": "Le Vitriol de lune",
+      "author": "Henri Béraud",
+      "year_awarded": 1922,
+      "year_published": 1922,
+      "notes": ""
+    },
+    {
+      "title": "Rabevel ou le Mal des ardents",
+      "author": "Lucien Fabre",
+      "year_awarded": 1923,
+      "year_published": 1923,
+      "notes": ""
+    },
+    {
+      "title": "Le Chèvrefeuille",
+      "author": "Thierry Sandre",
+      "year_awarded": 1924,
+      "year_published": 1924,
+      "notes": ""
+    },
+    {
+      "title": "Raboliot",
+      "author": "Maurice Genevoix",
+      "year_awarded": 1925,
+      "year_published": 1925,
+      "notes": ""
+    },
+    {
+      "title": "Le Supplice de Phèdre",
+      "author": "Henri Deberly",
+      "year_awarded": 1926,
+      "year_published": 1926,
+      "notes": ""
+    },
+    {
+      "title": "Jérôme 60° latitude Nord",
+      "author": "Maurice Bedel",
+      "year_awarded": 1927,
+      "year_published": 1927,
+      "notes": ""
+    },
+    {
+      "title": "Un homme se penche sur son passé",
+      "author": "Maurice Constantin-Weyer",
+      "year_awarded": 1928,
+      "year_published": 1928,
+      "notes": ""
+    },
+    {
+      "title": "L'Ordre",
+      "author": "Marcel Arland",
+      "year_awarded": 1929,
+      "year_published": 1929,
+      "notes": ""
+    },
+    {
+      "title": "Malaisie",
+      "author": "Henri Fauconnier",
+      "year_awarded": 1930,
+      "year_published": 1930,
+      "notes": ""
+    },
+    {
+      "title": "Vol de nuit",
+      "author": "Antoine de Saint-Exupéry",
+      "year_awarded": 1931,
+      "year_published": 1931,
+      "notes": "",
+      "alternate_titles": [
+        "Night Flight"
+      ]
+    },
+    {
+      "title": "Les Loups",
+      "author": "Guy Mazeline",
+      "year_awarded": 1932,
+      "year_published": 1932,
+      "notes": ""
+    },
+    {
+      "title": "La Condition humaine",
+      "author": "André Malraux",
+      "year_awarded": 1933,
+      "year_published": 1933,
+      "notes": "",
+      "alternate_titles": [
+        "Man's Fate"
+      ]
+    },
+    {
+      "title": "Le Capitaine Fracasse",
+      "author": "Roger Vercel",
+      "year_awarded": 1934,
+      "year_published": 1934,
+      "notes": ""
+    },
+    {
+      "title": "Sang et Lumières",
+      "author": "Joseph Peyré",
+      "year_awarded": 1935,
+      "year_published": 1935,
+      "notes": ""
+    },
+    {
+      "title": "L'Empreinte du Dieu",
+      "author": "Maxence Van der Meersch",
+      "year_awarded": 1936,
+      "year_published": 1936,
+      "notes": ""
+    },
+    {
+      "title": "Faux Passeports",
+      "author": "Charles Plisnier",
+      "year_awarded": 1937,
+      "year_published": 1937,
+      "notes": ""
+    },
+    {
+      "title": "Les Grandes Vacances",
+      "author": "Henri Troyat",
+      "year_awarded": 1938,
+      "year_published": 1938,
+      "notes": ""
+    },
+    {
+      "title": "Les Enfants gâtés",
+      "author": "Philippe Hériat",
+      "year_awarded": 1939,
+      "year_published": 1939,
+      "notes": ""
+    },
+    {
+      "title": "Vent de mars",
+      "author": "Francis Ambrière",
+      "year_awarded": 1940,
+      "year_published": 1940,
+      "notes": ""
+    },
+    {
+      "title": "Les Grandes Familles",
+      "author": "Maurice Druon",
+      "year_awarded": 1948,
+      "year_published": 1948,
+      "notes": "First awarded after WWII"
+    },
+    {
+      "title": "Week-end à Zuydcoote",
+      "author": "Robert Merle",
+      "year_awarded": 1949,
+      "year_published": 1949,
+      "notes": ""
+    },
+    {
+      "title": "Les Jeux sauvages",
+      "author": "Paul Colin",
+      "year_awarded": 1950,
+      "year_published": 1950,
+      "notes": ""
+    },
+    {
+      "title": "Le Rivage des Syrtes",
+      "author": "Julien Gracq",
+      "year_awarded": 1951,
+      "year_published": 1951,
+      "notes": "Refused the prize"
+    },
+    {
+      "title": "Léon Morin, prêtre",
+      "author": "Béatrix Beck",
+      "year_awarded": 1952,
+      "year_published": 1952,
+      "notes": ""
+    },
+    {
+      "title": "Les Bestiaires",
+      "author": "Pierre Gascar",
+      "year_awarded": 1953,
+      "year_published": 1953,
+      "notes": ""
+    },
+    {
+      "title": "Les Mandarins",
+      "author": "Simone de Beauvoir",
+      "year_awarded": 1954,
+      "year_published": 1954,
+      "notes": "",
+      "alternate_titles": [
+        "The Mandarins"
+      ]
+    },
+    {
+      "title": "Les Eaux mêlées",
+      "author": "Roger Ikor",
+      "year_awarded": 1955,
+      "year_published": 1955,
+      "notes": ""
+    },
+    {
+      "title": "Les Racines du ciel",
+      "author": "Romain Gary",
+      "year_awarded": 1956,
+      "year_published": 1956,
+      "notes": "",
+      "alternate_titles": [
+        "The Roots of Heaven"
+      ]
+    },
+    {
+      "title": "La Loi",
+      "author": "Roger Vailland",
+      "year_awarded": 1957,
+      "year_published": 1957,
+      "notes": "",
+      "alternate_titles": [
+        "The Law"
+      ]
+    },
+    {
+      "title": "Saint-Germain ou la Négociation",
+      "author": "Francis Walder",
+      "year_awarded": 1958,
+      "year_published": 1958,
+      "notes": ""
+    },
+    {
+      "title": "Le Dernier des Justes",
+      "author": "André Schwarz-Bart",
+      "year_awarded": 1959,
+      "year_published": 1959,
+      "notes": "",
+      "alternate_titles": [
+        "The Last of the Just"
+      ]
+    },
+    {
+      "title": "Dieu est né en exil",
+      "author": "Vintilă Horia",
+      "year_awarded": 1960,
+      "year_published": 1960,
+      "notes": "Prize withdrawn due to controversy"
+    },
+    {
+      "title": "La Pitié de Dieu",
+      "author": "Jean Cau",
+      "year_awarded": 1961,
+      "year_published": 1961,
+      "notes": ""
+    },
+    {
+      "title": "Les Bagages de sable",
+      "author": "Anna Langfus",
+      "year_awarded": 1962,
+      "year_published": 1962,
+      "notes": ""
+    },
+    {
+      "title": "Quand la mer se retire",
+      "author": "Armand Lanoux",
+      "year_awarded": 1963,
+      "year_published": 1963,
+      "notes": ""
+    },
+    {
+      "title": "L'État sauvage",
+      "author": "Georges Conchon",
+      "year_awarded": 1964,
+      "year_published": 1964,
+      "notes": ""
+    },
+    {
+      "title": "L'Adoration",
+      "author": "Jacques Borel",
+      "year_awarded": 1965,
+      "year_published": 1965,
+      "notes": ""
+    },
+    {
+      "title": "Les Choses",
+      "author": "Georges Perec",
+      "year_awarded": 1965,
+      "year_published": 1965,
+      "notes": "",
+      "alternate_titles": [
+        "Things: A Story of the Sixties"
+      ]
+    },
+    {
+      "title": "Histoire",
+      "author": "Claude Simon",
+      "year_awarded": 1967,
+      "year_published": 1967,
+      "notes": "Won Nobel Prize 1985"
+    },
+    {
+      "title": "Les Fruits de l'hiver",
+      "author": "Bernard Clavel",
+      "year_awarded": 1968,
+      "year_published": 1968,
+      "notes": ""
+    },
+    {
+      "title": "Creezy",
+      "author": "Félicien Marceau",
+      "year_awarded": 1969,
+      "year_published": 1969,
+      "notes": ""
+    },
+    {
+      "title": "Le Roi des Aulnes",
+      "author": "Michel Tournier",
+      "year_awarded": 1970,
+      "year_published": 1970,
+      "notes": "",
+      "alternate_titles": [
+        "The Erl-King",
+        "The Ogre"
+      ]
+    },
+    {
+      "title": "Les Bêtises",
+      "author": "Jacques Laurent",
+      "year_awarded": 1971,
+      "year_published": 1971,
+      "notes": ""
+    },
+    {
+      "title": "L'Épervier de Maheux",
+      "author": "Jean Carrière",
+      "year_awarded": 1972,
+      "year_published": 1972,
+      "notes": ""
+    },
+    {
+      "title": "L'Ogre",
+      "author": "Jacques Chessex",
+      "year_awarded": 1973,
+      "year_published": 1973,
+      "notes": ""
+    },
+    {
+      "title": "La Dentellière",
+      "author": "Pascal Lainé",
+      "year_awarded": 1974,
+      "year_published": 1974,
+      "notes": "",
+      "alternate_titles": [
+        "The Lacemaker"
+      ]
+    },
+    {
+      "title": "La Vie devant soi",
+      "author": "Émile Ajar",
+      "year_awarded": 1975,
+      "year_published": 1975,
+      "notes": "Émile Ajar was pseudonym of Romain Gary",
+      "alternate_titles": [
+        "The Life Before Us"
+      ]
+    },
+    {
+      "title": "Les Flamboyants",
+      "author": "Patrick Grainville",
+      "year_awarded": 1976,
+      "year_published": 1976,
+      "notes": ""
+    },
+    {
+      "title": "John l'Enfer",
+      "author": "Didier Decoin",
+      "year_awarded": 1977,
+      "year_published": 1977,
+      "notes": ""
+    },
+    {
+      "title": "Rue des boutiques obscures",
+      "author": "Patrick Modiano",
+      "year_awarded": 1978,
+      "year_published": 1978,
+      "notes": "Won Nobel Prize 2014",
+      "alternate_titles": [
+        "Missing Person"
+      ]
+    },
+    {
+      "title": "Pélagie-la-Charrette",
+      "author": "Antonine Maillet",
+      "year_awarded": 1979,
+      "year_published": 1979,
+      "notes": "",
+      "alternate_titles": [
+        "Pélagie: The Return to Acadie"
+      ]
+    },
+    {
+      "title": "Le Jardin d'acclimatation",
+      "author": "Yves Navarre",
+      "year_awarded": 1980,
+      "year_published": 1980,
+      "notes": ""
+    },
+    {
+      "title": "Anne-Marie",
+      "author": "Lucien Bodard",
+      "year_awarded": 1981,
+      "year_published": 1981,
+      "notes": ""
+    },
+    {
+      "title": "Dans la main de l'ange",
+      "author": "Dominique Fernandez",
+      "year_awarded": 1982,
+      "year_published": 1982,
+      "notes": ""
+    },
+    {
+      "title": "Les Égares",
+      "author": "Frédérick Tristan",
+      "year_awarded": 1983,
+      "year_published": 1983,
+      "notes": ""
+    },
+    {
+      "title": "L'Amant",
+      "author": "Marguerite Duras",
+      "year_awarded": 1984,
+      "year_published": 1984,
+      "notes": "",
+      "alternate_titles": [
+        "The Lover"
+      ]
+    },
+    {
+      "title": "Les Noces barbares",
+      "author": "Yann Queffélec",
+      "year_awarded": 1985,
+      "year_published": 1985,
+      "notes": ""
+    },
+    {
+      "title": "Valet de nuit",
+      "author": "Michel Host",
+      "year_awarded": 1986,
+      "year_published": 1986,
+      "notes": ""
+    },
+    {
+      "title": "La Nuit sacrée",
+      "author": "Tahar Ben Jelloun",
+      "year_awarded": 1987,
+      "year_published": 1987,
+      "notes": "",
+      "alternate_titles": [
+        "The Sacred Night"
+      ]
+    },
+    {
+      "title": "L'Exposition coloniale",
+      "author": "Erik Orsenna",
+      "year_awarded": 1988,
+      "year_published": 1988,
+      "notes": ""
+    },
+    {
+      "title": "La Gloire de Dina",
+      "author": "Michel Tournier",
+      "year_awarded": 1989,
+      "year_published": 1989,
+      "notes": ""
+    },
+    {
+      "title": "Les Champs d'honneur",
+      "author": "Jean Rouaud",
+      "year_awarded": 1990,
+      "year_published": 1990,
+      "notes": "",
+      "alternate_titles": [
+        "Fields of Glory"
+      ]
+    },
+    {
+      "title": "Les Vignes de la liberté",
+      "author": "Pierre Combescot",
+      "year_awarded": 1991,
+      "year_published": 1991,
+      "notes": ""
+    },
+    {
+      "title": "Texaco",
+      "author": "Patrick Chamoiseau",
+      "year_awarded": 1992,
+      "year_published": 1992,
+      "notes": "",
+      "alternate_titles": [
+        "Texaco"
+      ]
+    },
+    {
+      "title": "Le Rocher de Tanios",
+      "author": "Amin Maalouf",
+      "year_awarded": 1993,
+      "year_published": 1993,
+      "notes": "",
+      "alternate_titles": [
+        "The Rock of Tanios"
+      ]
+    },
+    {
+      "title": "Un aller simple",
+      "author": "Didier van Cauwelaert",
+      "year_awarded": 1994,
+      "year_published": 1994,
+      "notes": "",
+      "alternate_titles": [
+        "One-Way"
+      ]
+    },
+    {
+      "title": "Le Testament français",
+      "author": "Andreï Makine",
+      "year_awarded": 1995,
+      "year_published": 1995,
+      "notes": "",
+      "alternate_titles": [
+        "Dreams of My Russian Summers"
+      ]
+    },
+    {
+      "title": "La Bataille",
+      "author": "Patrick Rambaud",
+      "year_awarded": 1997,
+      "year_published": 1997,
+      "notes": "",
+      "alternate_titles": [
+        "The Battle"
+      ]
+    },
+    {
+      "title": "Confidence pour confidence",
+      "author": "Paule Constant",
+      "year_awarded": 1998,
+      "year_published": 1998,
+      "notes": ""
+    },
+    {
+      "title": "Je m'en vais",
+      "author": "Jean Echenoz",
+      "year_awarded": 1999,
+      "year_published": 1999,
+      "notes": "",
+      "alternate_titles": [
+        "I'm Gone"
+      ]
+    },
+    {
+      "title": "Ingrid Caven",
+      "author": "Jean-Jacques Schuhl",
+      "year_awarded": 2000,
+      "year_published": 2000,
+      "notes": ""
+    },
+    {
+      "title": "Rouge Brésil",
+      "author": "Jean-Christophe Rufin",
+      "year_awarded": 2001,
+      "year_published": 2001,
+      "notes": "",
+      "alternate_titles": [
+        "Brazil Red"
+      ]
+    },
+    {
+      "title": "Les Ombres errantes",
+      "author": "Pascal Quignard",
+      "year_awarded": 2002,
+      "year_published": 2002,
+      "notes": "",
+      "alternate_titles": [
+        "The Roving Shadows"
+      ]
+    },
+    {
+      "title": "Les Égarés",
+      "author": "Jacques-Pierre Amette",
+      "year_awarded": 2003,
+      "year_published": 2003,
+      "notes": ""
+    },
+    {
+      "title": "Le Soleil des Scorta",
+      "author": "Laurent Gaudé",
+      "year_awarded": 2004,
+      "year_published": 2004,
+      "notes": "",
+      "alternate_titles": [
+        "The House of Scorta"
+      ]
+    },
+    {
+      "title": "Trois jours chez ma mère",
+      "author": "François Weyergans",
+      "year_awarded": 2005,
+      "year_published": 2005,
+      "notes": ""
+    },
+    {
+      "title": "Les Bienveillantes",
+      "author": "Jonathan Littell",
+      "year_awarded": 2006,
+      "year_published": 2006,
+      "notes": "",
+      "alternate_titles": [
+        "The Kindly Ones"
+      ]
+    },
+    {
+      "title": "Alabama Song",
+      "author": "Gilles Leroy",
+      "year_awarded": 2007,
+      "year_published": 2007,
+      "notes": ""
+    },
+    {
+      "title": "Syngué sabour. Pierre de patience",
+      "author": "Atiq Rahimi",
+      "year_awarded": 2008,
+      "year_published": 2008,
+      "notes": "",
+      "alternate_titles": [
+        "The Patience Stone"
+      ]
+    },
+    {
+      "title": "Trois femmes puissantes",
+      "author": "Marie NDiaye",
+      "year_awarded": 2009,
+      "year_published": 2009,
+      "notes": "",
+      "alternate_titles": [
+        "Three Strong Women"
+      ]
+    },
+    {
+      "title": "La Carte et le Territoire",
+      "author": "Michel Houellebecq",
+      "year_awarded": 2010,
+      "year_published": 2010,
+      "notes": "",
+      "alternate_titles": [
+        "The Map and the Territory"
+      ]
+    },
+    {
+      "title": "L'Art français de la guerre",
+      "author": "Alexis Jenni",
+      "year_awarded": 2011,
+      "year_published": 2011,
+      "notes": "",
+      "alternate_titles": [
+        "The French Art of War"
+      ]
+    },
+    {
+      "title": "Le Sermon sur la chute de Rome",
+      "author": "Jérôme Ferrari",
+      "year_awarded": 2012,
+      "year_published": 2012,
+      "notes": "",
+      "alternate_titles": [
+        "The Sermon on the Fall of Rome"
+      ]
+    },
+    {
+      "title": "Au revoir là-haut",
+      "author": "Pierre Lemaitre",
+      "year_awarded": 2013,
+      "year_published": 2013,
+      "notes": "",
+      "alternate_titles": [
+        "The Great Swindle"
+      ]
+    },
+    {
+      "title": "Pas pleurer",
+      "author": "Lydie Salvayre",
+      "year_awarded": 2014,
+      "year_published": 2014,
+      "notes": "",
+      "alternate_titles": [
+        "Cry, Mother Spain"
+      ]
+    },
+    {
+      "title": "Boussole",
+      "author": "Mathias Énard",
+      "year_awarded": 2015,
+      "year_published": 2015,
+      "notes": "",
+      "alternate_titles": [
+        "Compass"
+      ]
+    },
+    {
+      "title": "Chanson douce",
+      "author": "Leïla Slimani",
+      "year_awarded": 2016,
+      "year_published": 2016,
+      "notes": "",
+      "alternate_titles": [
+        "The Perfect Nanny",
+        "Lullaby"
+      ]
+    },
+    {
+      "title": "L'Ordre du jour",
+      "author": "Éric Vuillard",
+      "year_awarded": 2017,
+      "year_published": 2017,
+      "notes": "",
+      "alternate_titles": [
+        "The Order of the Day"
+      ]
+    },
+    {
+      "title": "Leurs enfants après eux",
+      "author": "Nicolas Mathieu",
+      "year_awarded": 2018,
+      "year_published": 2018,
+      "notes": "",
+      "alternate_titles": [
+        "And Their Children After Them"
+      ]
+    },
+    {
+      "title": "Tous les hommes n'habitent pas le monde de la même façon",
+      "author": "Jean-Paul Dubois",
+      "year_awarded": 2019,
+      "year_published": 2019,
+      "notes": "",
+      "alternate_titles": [
+        "Everyone's a Different Person"
+      ]
+    },
+    {
+      "title": "L'Anomalie",
+      "author": "Hervé Le Tellier",
+      "year_awarded": 2020,
+      "year_published": 2020,
+      "notes": "",
+      "alternate_titles": [
+        "The Anomaly"
+      ]
+    },
+    {
+      "title": "La plus secrète mémoire des hommes",
+      "author": "Mohamed Mbougar Sarr",
+      "year_awarded": 2021,
+      "year_published": 2021,
+      "notes": "",
+      "alternate_titles": [
+        "The Most Secret Memory of Men"
+      ]
+    },
+    {
+      "title": "Vivre vite",
+      "author": "Brigitte Giraud",
+      "year_awarded": 2022,
+      "year_published": 2022,
+      "notes": "",
+      "alternate_titles": [
+        "Live Fast"
+      ]
+    },
+    {
+      "title": "Veiller sur elle",
+      "author": "Jean-Baptiste Andrea",
+      "year_awarded": 2023,
+      "year_published": 2023,
+      "notes": "",
+      "alternate_titles": [
+        "Watch Over Her"
+      ]
+    },
+    {
+      "title": "Houris",
+      "author": "Kamel Daoud",
+      "year_awarded": 2024,
+      "year_published": 2024,
+      "notes": ""
+    }
+  ]
+}

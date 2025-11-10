@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "source_name": "Pulitzer Prize for General Nonfiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1962,
+    "prize_amount": "$15,000",
+    "notes": "Awarded for distinguished book of nonfiction by an American author that is not eligible for consideration in any other category",
+    "total_winners": 46,
+    "category": "General Nonfiction",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "A Bright Shining Lie",
+      "author": "Neil Sheehan",
+      "notes": ""
+    },
+    {
+      "title": "A Problem from Hell: America and the Age of Genocide",
+      "author": "Samantha Power",
+      "notes": ""
+    },
+    {
+      "title": "Amity and Prosperity",
+      "author": "Eliza Griswold",
+      "notes": ""
+    },
+    {
+      "title": "And Their Children After Them",
+      "author": "Dale Maharidge & Michael Williamson",
+      "notes": ""
+    },
+    {
+      "title": "Annals of the Former World",
+      "author": "John McPhee",
+      "notes": ""
+    },
+    {
+      "title": "Anti-Intellectualism in American Life",
+      "author": "Richard Hofstadter",
+      "notes": ""
+    },
+    {
+      "title": "Arab and Jew: Wounded Spirits in a Promised Land",
+      "author": "David K. Shipler",
+      "notes": ""
+    },
+    {
+      "title": "Beautiful Swimmers",
+      "author": "William W. Warner",
+      "notes": ""
+    },
+    {
+      "title": "Black Flags",
+      "author": "Joby Warrick",
+      "notes": ""
+    },
+    {
+      "title": "Common Ground",
+      "author": "J. Anthony Lukas",
+      "notes": ""
+    },
+    {
+      "title": "Devil in the Grove",
+      "author": "Gilbert King",
+      "notes": ""
+    },
+    {
+      "title": "Fin-de-SiÃƒÂ¨cle Vienna: Politics and Culture",
+      "author": "Carl E. Schorske",
+      "notes": ""
+    },
+    {
+      "title": "Fire in the Lake",
+      "author": "Frances FitzGerald",
+      "notes": ""
+    },
+    {
+      "title": "Gandhi's Truth",
+      "author": "Erik Erikson; Erik H. Erikson",
+      "notes": ""
+    },
+    {
+      "title": "Ghost Wars",
+      "author": "Steve Coll",
+      "notes": ""
+    },
+    {
+      "title": "Gulag: A History",
+      "author": "Anne Applebaum",
+      "notes": ""
+    },
+    {
+      "title": "Hirohito and the Making of Modern Japan",
+      "author": "Herbert Bix",
+      "notes": ""
+    },
+    {
+      "title": "Imperial Reckoning",
+      "author": "Caroline Elkins",
+      "notes": ""
+    },
+    {
+      "title": "Invisible Child",
+      "author": "Andrea Elliott",
+      "notes": ""
+    },
+    {
+      "title": "Is There No Place on Earth for Me?",
+      "author": "Susan Sheehan",
+      "notes": ""
+    },
+    {
+      "title": "Lenin's Tomb",
+      "author": "David Remnick",
+      "notes": ""
+    },
+    {
+      "title": "Lincoln at Gettysburg",
+      "author": "Garry Wills",
+      "notes": ""
+    },
+    {
+      "title": "Locking Up Our Own",
+      "author": "James Forman Jr.",
+      "notes": ""
+    },
+    {
+      "title": "Move Your Shadow",
+      "author": "Joseph Lelyveld",
+      "notes": ""
+    },
+    {
+      "title": "O Strange New World",
+      "author": "Howard Mumford Jones",
+      "notes": ""
+    },
+    {
+      "title": "On Human Nature",
+      "author": "Edward O. Wilson",
+      "notes": ""
+    },
+    {
+      "title": "Slavery by Another Name",
+      "author": "Douglas A. Blackmon",
+      "notes": ""
+    },
+    {
+      "title": "So Human an Animal",
+      "author": "RenÃƒÂ© Dubos",
+      "notes": ""
+    },
+    {
+      "title": "The Ants",
+      "author": "Bert HÃƒÂ¶lldobler & E.O. Wilson",
+      "notes": ""
+    },
+    {
+      "title": "The Beak of the Finch",
+      "author": "Jonathan Weiner",
+      "notes": ""
+    },
+    {
+      "title": "The Dead Hand",
+      "author": "David E. Hoffman",
+      "notes": ""
+    },
+    {
+      "title": "The Denial of Death",
+      "author": "Ernest Becker",
+      "notes": ""
+    },
+    {
+      "title": "The End of the Myth",
+      "author": "Greg Grandin",
+      "notes": ""
+    },
+    {
+      "title": "The Good War: An Oral History of World War II",
+      "author": "Studs Terkel",
+      "notes": ""
+    },
+    {
+      "title": "The Haunted Land",
+      "author": "Tina Rosenberg",
+      "notes": ""
+    },
+    {
+      "title": "The Making of the Atomic Bomb",
+      "author": "Richard Rhodes",
+      "notes": ""
+    },
+    {
+      "title": "The Making of the President 1960",
+      "author": "Theodore H. White",
+      "notes": ""
+    },
+    {
+      "title": "The Problem of Slavery in Western Culture",
+      "author": "David Brion Davis",
+      "notes": ""
+    },
+    {
+      "title": "The Rising Sun",
+      "author": "John Toland",
+      "notes": ""
+    },
+    {
+      "title": "The Social Transformation of American Medicine",
+      "author": "Paul Starr",
+      "notes": ""
+    },
+    {
+      "title": "The Story of Civilization: Rousseau and Revolution",
+      "author": "Will & Ariel Durant",
+      "notes": ""
+    },
+    {
+      "title": "The Years of Extermination",
+      "author": "Saul FriedlÃƒÂ¤nder",
+      "notes": ""
+    },
+    {
+      "title": "Toms River",
+      "author": "Dan Fagin",
+      "notes": ""
+    },
+    {
+      "title": "Wandering through Winter",
+      "author": "Edwin Way Teale",
+      "notes": ""
+    },
+    {
+      "title": "Why Survive?: Being Old in America",
+      "author": "Robert N. Butler",
+      "notes": ""
+    },
+    {
+      "title": "Wilmington's Lie",
+      "author": "David Zucchino",
+      "notes": ""
+    }
+  ]
+}

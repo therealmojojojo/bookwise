@@ -1,0 +1,620 @@
+{
+  "metadata": {
+    "source_name": "Modern Library 100 Best Nonfiction",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 1999,
+    "total_entries": 100,
+    "ranked": true,
+    "methodology": "A list of the 100 best non-fiction books of the 20th century, selected by the Modern Library board."
+  },
+  "items": [
+    {
+      "title": "The Education of Henry Adams",
+      "author": "Henry Adams",
+      "year_published": 1918,
+      "rank": 1
+    },
+    {
+      "title": "The Varieties of Religious Experience",
+      "author": "William James",
+      "year_published": 1902,
+      "rank": 2
+    },
+    {
+      "title": "Up from Slavery",
+      "author": "Booker T. Washington",
+      "year_published": 1901,
+      "rank": 3
+    },
+    {
+      "title": "A Room of One's Own",
+      "author": "Virginia Woolf",
+      "year_published": 1929,
+      "rank": 4
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "year_published": 1962,
+      "rank": 5
+    },
+    {
+      "title": "Selected Essays, 1917-1932",
+      "author": "T.S. Eliot",
+      "year_published": 1932,
+      "rank": 6
+    },
+    {
+      "title": "The Double Helix",
+      "author": "James D. Watson",
+      "year_published": 1968,
+      "rank": 7
+    },
+    {
+      "title": "Speak, Memory",
+      "author": "Vladimir Nabokov",
+      "year_published": 1951,
+      "rank": 8
+    },
+    {
+      "title": "The American Language",
+      "author": "H.L. Mencken",
+      "year_published": 1919,
+      "rank": 9
+    },
+    {
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "year_published": 1936,
+      "rank": 10
+    },
+    {
+      "title": "The Lives of a Cell",
+      "author": "Lewis Thomas",
+      "year_published": 1974,
+      "rank": 11
+    },
+    {
+      "title": "The Frontier in American History",
+      "author": "Frederick Jackson Turner",
+      "year_published": 1920,
+      "rank": 12
+    },
+    {
+      "title": "Black Boy",
+      "author": "Richard Wright",
+      "year_published": 1945,
+      "rank": 13
+    },
+    {
+      "title": "Aspects of the Novel",
+      "author": "E.M. Forster",
+      "year_published": 1927,
+      "rank": 14
+    },
+    {
+      "title": "The Age of Reform",
+      "author": "Richard Hofstadter",
+      "year_published": 1955,
+      "rank": 15
+    },
+    {
+      "title": "The Making of the Atomic Bomb",
+      "author": "Richard Rhodes",
+      "year_published": 1986,
+      "rank": 16
+    },
+    {
+      "title": "The Souls of Black Folk",
+      "author": "W.E.B. Du Bois",
+      "year_published": 1903,
+      "rank": 17
+    },
+    {
+      "title": "The Second World War",
+      "author": "Winston Churchill",
+      "year_published": 1948,
+      "rank": 18
+    },
+    {
+      "title": "The Armies of the Night",
+      "author": "Norman Mailer",
+      "year_published": 1968,
+      "rank": 19
+    },
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn",
+      "year_published": 1962,
+      "rank": 20
+    },
+    {
+      "title": "The Good War",
+      "author": "Studs Terkel",
+      "year_published": 1984,
+      "rank": 21
+    },
+    {
+      "title": "Appeals to the Affluent",
+      "author": "John Kenneth Galbraith",
+      "year_published": 1958,
+      "rank": 22
+    },
+    {
+      "title": "The Great Bridge",
+      "author": "David McCullough",
+      "year_published": 1972,
+      "rank": 23
+    },
+    {
+      "title": "Patriotic Gore",
+      "author": "Edmund Wilson",
+      "year_published": 1962,
+      "rank": 24
+    },
+    {
+      "title": "The Autobiography of Alice B. Toklas",
+      "author": "Gertrude Stein",
+      "year_published": 1933,
+      "rank": 25
+    },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E.B. White",
+      "year_published": 1918,
+      "rank": 26
+    },
+    {
+      "title": "An American Dilemma",
+      "author": "Gunnar Myrdal",
+      "year_published": 1944,
+      "rank": 27
+    },
+    {
+      "title": "The Open Society and Its Enemies",
+      "author": "Karl Popper",
+      "year_published": 1945,
+      "rank": 28
+    },
+    {
+      "title": "The Art of Memory",
+      "author": "Frances A. Yates",
+      "year_published": 1966,
+      "rank": 29
+    },
+    {
+      "title": "The Civil War",
+      "author": "Shelby Foote",
+      "year_published": 1958,
+      "rank": 30
+    },
+    {
+      "title": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "year_published": 1962,
+      "rank": 31
+    },
+    {
+      "title": "The Proper Study of Mankind",
+      "author": "Isaiah Berlin",
+      "year_published": 1997,
+      "rank": 32
+    },
+    {
+      "title": "The Power Broker",
+      "author": "Robert A. Caro",
+      "year_published": 1974,
+      "rank": 33
+    },
+    {
+      "title": "Shadow and Act",
+      "author": "Ralph Ellison",
+      "year_published": 1964,
+      "rank": 34
+    },
+    {
+      "title": "The Age of Jackson",
+      "author": "Arthur M. Schlesinger Jr.",
+      "year_published": 1945,
+      "rank": 35
+    },
+    {
+      "title": "The Rise of the West",
+      "author": "William H. McNeill",
+      "year_published": 1963,
+      "rank": 36
+    },
+    {
+      "title": "The Gnostic Gospels",
+      "author": "Elaine Pagels",
+      "year_published": 1979,
+      "rank": 37
+    },
+    {
+      "title": "The Rise and Fall of the Third Reich",
+      "author": "William L. Shirer",
+      "year_published": 1960,
+      "rank": 38
+    },
+    {
+      "title": "Battle Cry of Freedom",
+      "author": "James M. McPherson",
+      "year_published": 1988,
+      "rank": 39
+    },
+    {
+      "title": "Why We Can't Wait",
+      "author": "Martin Luther King, Jr.",
+      "year_published": 1964,
+      "rank": 40
+    },
+    {
+      "title": "The Mismeasure of Man",
+      "author": "Stephen Jay Gould",
+      "year_published": 1981,
+      "rank": 41
+    },
+    {
+      "title": "The Phenomenon of Man",
+      "author": "Pierre Teilhard de Chardin",
+      "year_published": 1955,
+      "rank": 42
+    },
+    {
+      "title": "The Other America",
+      "author": "Michael Harrington",
+      "year_published": 1962,
+      "rank": 43
+    },
+    {
+      "title": "The Autobiography of Malcolm X",
+      "author": "Alex Haley and Malcolm X",
+      "year_published": 1965,
+      "rank": 44
+    },
+    {
+      "title": "The Reason Why",
+      "author": "Cecil Woodham-Smith",
+      "year_published": 1953,
+      "rank": 45
+    },
+    {
+      "title": "The Fire Next Time",
+      "author": "James Baldwin",
+      "year_published": 1963,
+      "rank": 46
+    },
+    {
+      "title": "AStudy of History",
+      "author": "Arnold J. Toynbee",
+      "year_published": 1934,
+      "rank": 47
+    },
+    {
+      "title": "The American Political Tradition",
+      "author": "Richard Hofstadter",
+      "year_published": 1948,
+      "rank": 48
+    },
+    {
+      "title": "The Contender",
+      "author": "Robert Lipsyte",
+      "year_published": 1967,
+      "rank": 49
+    },
+    {
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "year_published": 1966,
+      "rank": 50
+    },
+    {
+      "title": "The Strange Career of Jim Crow",
+      "author": "C. Vann Woodward",
+      "year_published": 1955,
+      "rank": 51
+    },
+    {
+      "title": "The Future of American Politics",
+      "author": "Samuel Lubell",
+      "year_published": 1952,
+      "rank": 52
+    },
+    {
+      "title": "The Ape in Me",
+      "author": "Cornelia Otis Skinner",
+      "year_published": 1959,
+      "rank": 53
+    },
+    {
+      "title": "The Death and Life of Great American Cities",
+      "author": "Jane Jacobs",
+      "year_published": 1961,
+      "rank": 54
+    },
+    {
+      "title": "AHistory of the English-Speaking Peoples",
+      "author": "Winston Churchill",
+      "year_published": 1956,
+      "rank": 55
+    },
+    {
+      "title": "The Cross of Culture",
+      "author": "Pauline Kael",
+      "year_published": 1965,
+      "rank": 56
+    },
+    {
+      "title": "The Politics of National Party Conventions",
+      "author": "Paul T. David, Ralph M. Goldman, Richard C. Bain",
+      "year_published": 1960,
+      "rank": 57
+    },
+    {
+      "title": "The Mountain of My Fear",
+      "author": "David Roberts",
+      "year_published": 1968,
+      "rank": 58
+    },
+    {
+      "title": "The Exploring Spirit",
+      "author": "Daniel J. Boorstin",
+      "year_published": 1976,
+      "rank": 59
+    },
+    {
+      "title": "The Twisted Dream",
+      "author": "Robert J. Donovan",
+      "year_published": 1962,
+      "rank": 60
+    },
+    {
+      "title": "The New Meaning of Treason",
+      "author": "Rebecca West",
+      "year_published": 1947,
+      "rank": 61
+    },
+    {
+      "title": "The Gate of Heavenly Peace",
+      "author": "Jonathan D. Spence",
+      "year_published": 1981,
+      "rank": 62
+    },
+    {
+      "title": "The Story of Art",
+      "author": "E.H. Gombrich",
+      "year_published": 1950,
+      "rank": 63
+    },
+    {
+      "title": "The Sweet Science",
+      "author": "A.J. Liebling",
+      "year_published": 1956,
+      "rank": 64
+    },
+    {
+      "title": "The Great Crash, 1929",
+      "author": "John Kenneth Galbraith",
+      "year_published": 1955,
+      "rank": 65
+    },
+    {
+      "title": "The Tangled Bank",
+      "author": "Carl Zimmer",
+      "year_published": 2009,
+      "rank": 66
+    },
+    {
+      "title": "The Crucial Decade - And After",
+      "author": "Eric F. Goldman",
+      "year_published": 1956,
+      "rank": 67
+    },
+    {
+      "title": "The Lion and the Fox",
+      "author": "James MacGregor Burns",
+      "year_published": 1956,
+      "rank": 68
+    },
+    {
+      "title": "The Child, the Family, and the Outside World",
+      "author": "D.W. Winnicott",
+      "year_published": 1964,
+      "rank": 69
+    },
+    {
+      "title": "The Coming of the New Deal",
+      "author": "Arthur M. Schlesinger Jr.",
+      "year_published": 1958,
+      "rank": 70
+    },
+    {
+      "title": "Homage to Catalonia",
+      "author": "George Orwell",
+      "year_published": 1938,
+      "rank": 71
+    },
+    {
+      "title": "The Way Things Work",
+      "author": "David Macaulay",
+      "year_published": 1988,
+      "rank": 72
+    },
+    {
+      "title": "The Making of the President, 1960",
+      "author": "Theodore H. White",
+      "year_published": 1961,
+      "rank": 73
+    },
+    {
+      "title": "The First Circle",
+      "author": "Aleksandr Solzhenitsyn",
+      "year_published": 1968,
+      "rank": 74
+    },
+    {
+      "title": "Pragmatism",
+      "author": "William James",
+      "year_published": 1907,
+      "rank": 75
+    },
+    {
+      "title": "The Two Cultures",
+      "author": "C.P. Snow",
+      "year_published": 1959,
+      "rank": 76
+    },
+    {
+      "title": "The Affluent Society",
+      "author": "John Kenneth Galbraith",
+      "year_published": 1958,
+      "rank": 77
+    },
+    {
+      "title": "The Autobiography of Lincoln Steffens",
+      "author": "Lincoln Steffens",
+      "year_published": 1931,
+      "rank": 78
+    },
+    {
+      "title": "The Radicalism of the American Revolution",
+      "author": "Gordon S. Wood",
+      "year_published": 1991,
+      "rank": 79
+    },
+    {
+      "title": "The Feminine Mystique",
+      "author": "Betty Friedan",
+      "year_published": 1963,
+      "rank": 80
+    },
+    {
+      "title": "Present at the Creation",
+      "author": "Dean Acheson",
+      "year_published": 1969,
+      "rank": 81
+    },
+    {
+      "title": "The Working Poor",
+      "author": "David K. Shipler",
+      "year_published": 2004,
+      "rank": 82
+    },
+    {
+      "title": "Darkness Visible",
+      "author": "William Styron",
+      "year_published": 1990,
+      "rank": 83
+    },
+    {
+      "title": "This Boy's Life",
+      "author": "Tobias Wolff",
+      "year_published": 1989,
+      "rank": 84
+    },
+    {
+      "title": "AHeartbreaking Work of Staggering Genius",
+      "author": "Dave Eggers",
+      "year_published": 2000,
+      "rank": 85
+    },
+    {
+      "title": "We Wish to Inform You That Tomorrow We Will Be Killed with Our Families",
+      "author": "Philip Gourevitch",
+      "year_published": 1998,
+      "rank": 86
+    },
+    {
+      "title": "The Best and the Brightest",
+      "author": "David Halberstam",
+      "year_published": 1972,
+      "rank": 87
+    },
+    {
+      "title": "AWalker in the City",
+      "author": "Alfred Kazin",
+      "year_published": 1951,
+      "rank": 88
+    },
+    {
+      "title": "The Martian Chronicles",
+      "author": "Ray Bradbury",
+      "year_published": 1950,
+      "rank": 89
+    },
+    {
+      "title": "Out of Africa",
+      "author": "Isak Dinesen (Karen Blixen)",
+      "year_published": 1937,
+      "rank": 90
+    },
+    {
+      "title": "Jefferson and His Time",
+      "author": "Dumas Malone",
+      "year_published": 1948,
+      "rank": 91
+    },
+    {
+      "title": "In the American Grain",
+      "author": "William Carlos Williams",
+      "year_published": 1925,
+      "rank": 92
+    },
+    {
+      "title": "Cadillac Desert",
+      "author": "Marc Reisner",
+      "year_published": 1986,
+      "rank": 93
+    },
+    {
+      "title": "The Right Stuff",
+      "author": "Tom Wolfe",
+      "year_published": 1979,
+      "rank": 94
+    },
+    {
+      "title": "Let Us Now Praise Famous Men",
+      "author": "James Agee and Walker Evans",
+      "year_published": 1941,
+      "rank": 95
+    },
+    {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "year_published": 1976,
+      "rank": 96
+    },
+    {
+      "title": "The American Way of Death",
+      "author": "Jessica Mitford",
+      "year_published": 1963,
+      "rank": 97
+    },
+    {
+      "title": "The Children of Sanchez",
+      "author": "Oscar Lewis",
+      "year_published": 1961,
+      "rank": 98
+    },
+    {
+      "title": "AStudy in History",
+      "author": "Arnold J. Toynbee",
+      "year_published": 1934,
+      "rank": 99
+    },
+    {
+      "title": "Melbourne",
+      "author": "Lord David Cecil",
+      "year_published": 1939,
+      "rank": 100
+    }
+  ]
+}

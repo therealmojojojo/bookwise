@@ -1,0 +1,596 @@
+{
+  "metadata": {
+    "source_name": "Le Monde's 100 Books of the Century",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 1999,
+    "total_entries": 100,
+    "ranked": false,
+    "methodology": "A list of the 100 best books of the 20th century, based on a poll of 17,000 French readers."
+  },
+  "items": [
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "year_published": 1942,
+      "rank": null
+    },
+    {
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "year_published": 1913,
+      "rank": null
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year_published": 1943,
+      "rank": null
+    },
+    {
+      "title": "Man's Fate",
+      "author": "André Malraux",
+      "year_published": 1933,
+      "rank": null
+    },
+    {
+      "title": "Journey to the End of the Night",
+      "author": "Louis-Ferdinand Céline",
+      "year_published": 1932,
+      "rank": null
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "For Whom the Bell Tolls",
+      "author": "Ernest Hemingway",
+      "year_published": 1940,
+      "rank": null
+    },
+    {
+      "title": "Le Grand Meaulnes",
+      "author": "Alain-Fournier",
+      "year_published": 1913,
+      "rank": null
+    },
+    {
+      "title": "Froth on the Daydream",
+      "author": "Boris Vian",
+      "year_published": 1947,
+      "rank": null
+    },
+    {
+      "title": "The Second Sex",
+      "author": "Simone de Beauvoir",
+      "year_published": 1949,
+      "rank": null
+    },
+    {
+      "title": "Waiting for Godot",
+      "author": "Samuel Beckett",
+      "year_published": 1952,
+      "rank": null
+    },
+    {
+      "title": "Being and Nothingness",
+      "author": "Jean-Paul Sartre",
+      "year_published": 1943,
+      "rank": null
+    },
+    {
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "year_published": 1980,
+      "rank": null
+    },
+    {
+      "title": "The Gulag Archipelago",
+      "author": "Aleksandr Solzhenitsyn",
+      "year_published": 1973,
+      "rank": null
+    },
+    {
+      "title": "Paroles",
+      "author": "Jacques Prévert",
+      "year_published": 1946,
+      "rank": null
+    },
+    {
+      "title": "Alcools",
+      "author": "Guillaume Apollinaire",
+      "year_published": 1913,
+      "rank": null
+    },
+    {
+      "title": "The Blue Lotus",
+      "author": "Hergé",
+      "year_published": 1936,
+      "rank": null
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "year_published": 1947,
+      "rank": null
+    },
+    {
+      "title": "Tristes Tropiques",
+      "author": "Claude Lévi-Strauss",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year_published": 1932,
+      "rank": null
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year_published": 1949,
+      "rank": null
+    },
+    {
+      "title": "Asterix the Gaul",
+      "author": "René Goscinny and Albert Uderzo",
+      "year_published": 1959,
+      "rank": null
+    },
+    {
+      "title": "The Bald Soprano",
+      "author": "Eugène Ionesco",
+      "year_published": 1950,
+      "rank": null
+    },
+    {
+      "title": "Three Essays on the Theory of Sexuality",
+      "author": "Sigmund Freud",
+      "year_published": 1905,
+      "rank": null
+    },
+    {
+      "title": "The Foundations of Arithmetic",
+      "author": "Gottlob Frege",
+      "year_published": 1884,
+      "rank": null
+    },
+    {
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert M. Pirsig",
+      "year_published": 1974,
+      "rank": null
+    },
+    {
+      "title": "The Opposing Shore",
+      "author": "Julien Gracq",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year_published": 1967,
+      "rank": null
+    },
+    {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "year_published": 1929,
+      "rank": null
+    },
+    {
+      "title": "Thérèse Desqueyroux",
+      "author": "François Mauriac",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Zazie in the Metro",
+      "author": "Raymond Queneau",
+      "year_published": 1959,
+      "rank": null
+    },
+    {
+      "title": "Confusion of Feelings",
+      "author": "Stefan Zweig",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year_published": 1936,
+      "rank": null
+    },
+    {
+      "title": "Lady Chatterley's Lover",
+      "author": "D.H. Lawrence",
+      "year_published": 1928,
+      "rank": null
+    },
+    {
+      "title": "The Castle",
+      "author": "Franz Kafka",
+      "year_published": 1926,
+      "rank": null
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera",
+      "year_published": 1984,
+      "rank": null
+    },
+    {
+      "title": "AHeartbreaking Work of Staggering Genius",
+      "author": "Dave Eggers",
+      "year_published": 2000,
+      "rank": null
+    },
+    {
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "year_published": 1924,
+      "rank": null
+    },
+    {
+      "title": "Bonjour Tristesse",
+      "author": "Françoise Sagan",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "Le Ravissement de Lol V. Stein",
+      "author": "Marguerite Duras",
+      "year_published": 1964,
+      "rank": null
+    },
+    {
+      "title": "The Rules of the Game",
+      "author": "Jean Renoir",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "Under the Sun of Satan",
+      "author": "Georges Bernanos",
+      "year_published": 1926,
+      "rank": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "The Joke",
+      "author": "Milan Kundera",
+      "year_published": 1967,
+      "rank": null
+    },
+    {
+      "title": "Contempt",
+      "author": "Alberto Moravia",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "year_published": 1926,
+      "rank": null
+    },
+    {
+      "title": "Nadja",
+      "author": "André Breton",
+      "year_published": 1928,
+      "rank": null
+    },
+    {
+      "title": "Aurélien",
+      "author": "Louis Aragon",
+      "year_published": 1944,
+      "rank": null
+    },
+    {
+      "title": "The Satin Slipper",
+      "author": "Paul Claudel",
+      "year_published": 1929,
+      "rank": null
+    },
+    {
+      "title": "Six Characters in Search of an Author",
+      "author": "Luigi Pirandello",
+      "year_published": 1921,
+      "rank": null
+    },
+    {
+      "title": "The Arturo Ui's Resistible Rise",
+      "author": "Bertolt Brecht",
+      "year_published": 1941,
+      "rank": null
+    },
+    {
+      "title": "Friday",
+      "author": "Michel Tournier",
+      "year_published": 1967,
+      "rank": null
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "year_published": 1898,
+      "rank": null
+    },
+    {
+      "title": "If This Is a Man",
+      "author": "Primo Levi",
+      "year_published": 1947,
+      "rank": null
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": null
+    },
+    {
+      "title": "Les Faux-monnayeurs",
+      "author": "André Gide",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "The Horseman on the Roof",
+      "author": "Jean Giono",
+      "year_published": 1951,
+      "rank": null
+    },
+    {
+      "title": "Belle du Seigneur",
+      "author": "Albert Cohen",
+      "year_published": 1968,
+      "rank": null
+    },
+    {
+      "title": "The Man Without Qualities",
+      "author": "Robert Musil",
+      "year_published": 1930,
+      "rank": null
+    },
+    {
+      "title": "The Red and the Black",
+      "author": "Stendhal",
+      "year_published": 1830,
+      "rank": null
+    },
+    {
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "year_published": 1966,
+      "rank": null
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "year_published": 1901,
+      "rank": null
+    },
+    {
+      "title": "Sophie's Choice",
+      "author": "William Styron",
+      "year_published": 1979,
+      "rank": null
+    },
+    {
+      "title": "Gypsy Ballads",
+      "author": "Federico García Lorca",
+      "year_published": 1928,
+      "rank": null
+    },
+    {
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie",
+      "year_published": 1920,
+      "rank": null
+    },
+    {
+      "title": "Tropic of Cancer",
+      "author": "Henry Miller",
+      "year_published": 1934,
+      "rank": null
+    },
+    {
+      "title": "The Quiet American",
+      "author": "Graham Greene",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "year_published": 1952,
+      "rank": null
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "year_published": 1955,
+      "rank": null
+    },
+    {
+      "title": "The Golden Notebook",
+      "author": "Doris Lessing",
+      "year_published": 1962,
+      "rank": null
+    },
+    {
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "Amers",
+      "author": "Saint-John Perse",
+      "year_published": 1957,
+      "rank": null
+    },
+    {
+      "title": "The Complete Stories",
+      "author": "Franz Kafka",
+      "year_published": 1971,
+      "rank": null
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "year_published": 1903,
+      "rank": null
+    },
+    {
+      "title": "The Roots of Heaven",
+      "author": "Romain Gary",
+      "year_published": 1956,
+      "rank": null
+    },
+    {
+      "title": "The Sea of Fertility",
+      "author": "Yukio Mishima",
+      "year_published": 1969,
+      "rank": null
+    },
+    {
+      "title": "The Interrogation",
+      "author": "J.M.G. Le Clézio",
+      "year_published": 1963,
+      "rank": null
+    },
+    {
+      "title": "AClockwork Orange",
+      "author": "Anthony Burgess",
+      "year_published": 1962,
+      "rank": null
+    },
+    {
+      "title": "The Third Man",
+      "author": "Graham Greene",
+      "year_published": 1950,
+      "rank": null
+    },
+    {
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "year_published": 1926,
+      "rank": null
+    },
+    {
+      "title": "The Plague",
+      "author": "Albert Camus",
+      "year_published": 1947,
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Tintin",
+      "author": "Hergé",
+      "year_published": 1929,
+      "rank": null
+    },
+    {
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "year_published": 1963,
+      "rank": null
+    },
+    {
+      "title": "The Rosy Crucifixion",
+      "author": "Henry Miller",
+      "year_published": 1949,
+      "rank": null
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "year_published": 1895,
+      "rank": null
+    },
+    {
+      "title": "The Age of Reason",
+      "author": "Jean-Paul Sartre",
+      "year_published": 1945,
+      "rank": null
+    },
+    {
+      "title": "The World According to Garp",
+      "author": "John Irving",
+      "year_published": 1978,
+      "rank": null
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year_published": 1979,
+      "rank": null
+    },
+    {
+      "title": "The Little World of Don Camillo",
+      "author": "Giovannino Guareschi",
+      "year_published": 1948,
+      "rank": null
+    },
+    {
+      "title": "Doctor Zhivago",
+      "author": "Boris Pasternak",
+      "year_published": 1957,
+      "rank": null
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "year_published": 1908,
+      "rank": null
+    },
+    {
+      "title": "The Man Who Was Thursday",
+      "author": "G.K. Chesterton",
+      "year_published": 1908,
+      "rank": null
+    },
+    {
+      "title": "The Children of the New Forest",
+      "author": "Frederick Marryat",
+      "year_published": 1847,
+      "rank": null
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "year_published": 1981,
+      "rank": null
+    }
+  ]
+}

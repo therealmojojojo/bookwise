@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "source_name": "Women's Prize for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1996,
+    "prize_amount": "£30,000",
+    "notes": "Awarded annually to a female author of any nationality for the best original full-length novel written in English and published in the United Kingdom",
+    "total_winners": 30,
+    "category": "Fiction written by women in English",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "A Spell of Winter",
+      "author": "Helen Dunmore",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": "Inaugural winner"
+    },
+    {
+      "title": "Fugitive Pieces",
+      "author": "Anne Michaels",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Larry's Party",
+      "author": "Carol Shields",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Crime in the Neighborhood",
+      "author": "Suzanne Berne",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "When I Lived in Modern Times",
+      "author": "Linda Grant",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Idea of Perfection",
+      "author": "Kate Grenville",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Bel Canto",
+      "author": "Ann Patchett",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Property",
+      "author": "Valerie Martin",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Small Island",
+      "author": "Andrea Levy",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "We Need to Talk About Kevin",
+      "author": "Lionel Shriver",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "On Beauty",
+      "author": "Zadie Smith",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Half of a Yellow Sun",
+      "author": "Chimamanda Ngozi Adichie",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Road Home",
+      "author": "Rose Tremain",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Home",
+      "author": "Marilynne Robinson",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Lacuna",
+      "author": "Barbara Kingsolver",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Tiger's Wife",
+      "author": "Téa Obreht",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Song of Achilles",
+      "author": "Madeline Miller",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "May We Be Forgiven",
+      "author": "A.M. Homes",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Girl Is a Half-formed Thing",
+      "author": "Eimear McBride",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "How to Be Both",
+      "author": "Ali Smith",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Glorious Heresies",
+      "author": "Lisa McInerney",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Power",
+      "author": "Naomi Alderman",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Home Fire",
+      "author": "Kamila Shamsie",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "An American Marriage",
+      "author": "Tayari Jones",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hamnet",
+      "author": "Maggie O'Farrell",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Book of Form and Emptiness",
+      "author": "Ruth Ozeki",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Demon Copperhead",
+      "author": "Barbara Kingsolver",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Kairos",
+      "author": "Jenny Erpenbeck",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stone Yard Devotional",
+      "author": "Charlotte Wood",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

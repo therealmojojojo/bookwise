@@ -1,0 +1,1277 @@
+{
+  "metadata": {
+    "source_name": "Tier 1 - Major Literary Award Winners",
+    "source_type": "significant_books",
+    "version": "2.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "author_quality",
+      "qualifier_for_author_bonus": false
+    },
+    "description": "Consolidated curated literature - Tier 1 - Major Literary Award Winners",
+    "total_authors": 41,
+    "total_works": 294,
+    "selection_criteria": [
+      "Curated by Claude.ai based on literary merit",
+      "Includes Nobel Prize winners, major award winners, and highly regarded authors",
+      "Consolidated from original significant_books and curated CSV lists"
+    ],
+    "note": "This represents Claude.ai's curated view of significant literature"
+  },
+  "authors": [
+    {
+      "author": "Abdulrazak Gurnah",
+      "recognition": "Nobel Prize in Literature 2021",
+      "country": "Tanzania/UK",
+      "genre": "Literary Fiction",
+      "significance": "Colonialism, refugees, and displacement",
+      "works": [
+        {
+          "title": "Paradise",
+          "year_published": 1994,
+          "notes": "Coming-of-age in East Africa; Booker shortlist"
+        },
+        {
+          "title": "By the Sea",
+          "year_published": 2001,
+          "notes": "Refugee experience"
+        },
+        {
+          "title": "Afterlives",
+          "year_published": 2020,
+          "notes": "German colonialism in East Africa"
+        }
+      ]
+    },
+    {
+      "author": "Albert Camus",
+      "recognition": "Nobel Prize in Literature 1957",
+      "country": "France/Algeria",
+      "genre": "Existentialism, Absurdism",
+      "significance": "Philosopher-novelist; absurdism and human condition",
+      "works": [
+        {
+          "title": "The Stranger",
+          "year_published": 1942,
+          "notes": "Existential masterpiece"
+        },
+        {
+          "title": "The Plague",
+          "year_published": 1947,
+          "notes": "Allegory of Nazi occupation"
+        },
+        {
+          "title": "The Fall",
+          "year_published": 1956,
+          "notes": "Monologue; guilt and judgment"
+        },
+        {
+          "title": "The Myth of Sisyphus",
+          "year_published": null,
+          "notes": "Existentialism; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Aleksandr Solzhenitsyn",
+      "recognition": "Nobel Prize in Literature 1970",
+      "country": "Russia/Soviet Union",
+      "genre": "Historical Fiction, Non-fiction",
+      "significance": "Chronicler of Soviet labor camps and totalitarianism",
+      "works": [
+        {
+          "title": "One Day in the Life of Ivan Denisovich",
+          "year_published": 1962,
+          "notes": "Landmark novella about the Gulag"
+        },
+        {
+          "title": "Cancer Ward",
+          "year_published": 1968,
+          "notes": "Major novel about Soviet society"
+        },
+        {
+          "title": "The Gulag Archipelago",
+          "year_published": 1973,
+          "notes": "Epic non-fiction about Soviet camps; three volumes"
+        }
+      ]
+    },
+    {
+      "author": "Alice Munro",
+      "recognition": "Nobel Prize in Literature 2013; Multiple Governor General's Awards",
+      "country": "Canada",
+      "genre": "Short Stories",
+      "significance": "Master of the contemporary short story",
+      "works": [
+        {
+          "title": "Dance of the Happy Shades",
+          "year_published": 1968,
+          "notes": "Debut collection; Governor General's Award"
+        },
+        {
+          "title": "Lives of Girls and Women",
+          "year_published": 1971,
+          "notes": "Canadian Canon"
+        },
+        {
+          "title": "Who Do You Think You Are?",
+          "year_published": 1978,
+          "notes": "Governor General's Award"
+        },
+        {
+          "title": "The Progress of Love",
+          "year_published": 1986,
+          "notes": "Governor General's Award"
+        },
+        {
+          "title": "Friend of My Youth",
+          "year_published": 1990,
+          "notes": "Major collection"
+        },
+        {
+          "title": "Open Secrets",
+          "year_published": 1994,
+          "notes": "Critically acclaimed"
+        },
+        {
+          "title": "The Love of a Good Woman",
+          "year_published": 1998,
+          "notes": "Giller Prize"
+        },
+        {
+          "title": "Hateship Friendship Courtship Loveship Marriage",
+          "year_published": 2001,
+          "notes": "Masterwork"
+        },
+        {
+          "title": "Runaway",
+          "year_published": 2004,
+          "notes": "Giller Prize"
+        },
+        {
+          "title": "The View from Castle Rock",
+          "year_published": 2006,
+          "notes": "Semi-autobiographical"
+        },
+        {
+          "title": "Too Much Happiness",
+          "year_published": 2009,
+          "notes": "Late masterpiece"
+        },
+        {
+          "title": "Dear Life",
+          "year_published": 2012,
+          "notes": "Final collection"
+        },
+        {
+          "title": "Selected Stories",
+          "year_published": null,
+          "notes": "Nobel Prize 2013"
+        },
+        {
+          "title": "Something I've Been Meaning to Tell You",
+          "year_published": null,
+          "notes": "Nobel Prize 2013"
+        },
+        {
+          "title": "The Moons of Jupiter",
+          "year_published": null,
+          "notes": "Nobel Prize 2013"
+        }
+      ]
+    },
+    {
+      "author": "Annie Ernaux",
+      "recognition": "Nobel Prize in Literature 2022",
+      "country": "France",
+      "genre": "Autofiction, Memoir",
+      "significance": "Memory, class, and gender",
+      "works": [
+        {
+          "title": "A Man's Place",
+          "year_published": 1983,
+          "notes": "Father's life and death"
+        },
+        {
+          "title": "A Woman's Story",
+          "year_published": 1987,
+          "notes": "Mother's life and Alzheimer's"
+        },
+        {
+          "title": "The Years",
+          "year_published": 2008,
+          "notes": "Collective autobiography; masterpiece"
+        }
+      ]
+    },
+    {
+      "author": "Doris Lessing",
+      "recognition": "Nobel Prize in Literature 2007",
+      "country": "UK/Zimbabwe",
+      "genre": "Literary Fiction",
+      "significance": "Epic of female experience; colonialism and social issues",
+      "works": [
+        {
+          "title": "The Grass Is Singing",
+          "year_published": 1950,
+          "notes": "Debut; race relations in Africa"
+        },
+        {
+          "title": "The Golden Notebook",
+          "year_published": 1962,
+          "notes": "Feminist masterpiece"
+        },
+        {
+          "title": "The Summer Before the Dark",
+          "year_published": 1973,
+          "notes": "Middle-aged woman's liberation"
+        },
+        {
+          "title": "Memoirs of a Survivor",
+          "year_published": 1974,
+          "notes": "Dystopian vision"
+        }
+      ]
+    },
+    {
+      "author": "Ernest Hemingway",
+      "recognition": "Modern Library; Nobel Prize 1954; Nobel Prize 1954; Pulitzer Prize 1953",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Old Man and the Sea",
+          "notes": "Nobel Prize 1954; Pulitzer Prize 1953"
+        },
+        {
+          "title": "The Sun Also Rises",
+          "notes": "Modern Library; Nobel Prize 1954"
+        },
+        {
+          "title": "For Whom the Bell Tolls",
+          "notes": "Modern Library; Nobel Prize 1954"
+        },
+        {
+          "title": "A Farewell to Arms",
+          "notes": "Modern Library; Nobel Prize 1954"
+        }
+      ]
+    },
+    {
+      "author": "Gabriel García Márquez",
+      "recognition": "Nobel Prize in Literature 1982",
+      "country": "Colombia",
+      "genre": "Magical Realism",
+      "significance": "Master of magical realism and Latin American literature",
+      "works": [
+        {
+          "title": "Chronicle of a Death Foretold",
+          "year_published": 1981,
+          "notes": "Masterful novella; murder investigation"
+        },
+        {
+          "title": "One Hundred Years of Solitude",
+          "notes": "Nobel Prize 1982"
+        },
+        {
+          "title": "Love in the Time of Cholera",
+          "notes": "Nobel Prize 1982"
+        }
+      ]
+    },
+    {
+      "author": "Günter Grass",
+      "recognition": "Nobel Prize in Literature 1999",
+      "country": "Germany",
+      "genre": "Literary Fiction",
+      "significance": "Post-war German literature; magical realism",
+      "works": [
+        {
+          "title": "The Tin Drum",
+          "year_published": 1959,
+          "notes": "Masterpiece; Danzig Trilogy"
+        },
+        {
+          "title": "Cat and Mouse",
+          "year_published": 1961,
+          "notes": "Danzig Trilogy; WWII coming-of-age"
+        },
+        {
+          "title": "Dog Years",
+          "year_published": 1963,
+          "notes": "Danzig Trilogy; Nazi era"
+        }
+      ]
+    },
+    {
+      "author": "Halldór Laxness",
+      "recognition": "Nobel Prize in Literature 1955",
+      "country": "Iceland",
+      "genre": "Literary Fiction",
+      "significance": "Icelandic literature; social issues",
+      "works": [
+        {
+          "title": "Independent People",
+          "year_published": 1934,
+          "notes": "Masterpiece; sheep farmer's struggles"
+        },
+        {
+          "title": "World Light",
+          "year_published": 1937,
+          "notes": "Poet's life"
+        },
+        {
+          "title": "The Great Weaver from Kashmir",
+          "year_published": 1927,
+          "notes": "Spiritual quest"
+        }
+      ]
+    },
+    {
+      "author": "Han Kang",
+      "recognition": "Nobel Prize in Literature 2024; Man Booker International Prize 2016",
+      "country": "South Korea",
+      "genre": "Literary Fiction",
+      "significance": "Violence, trauma, and human fragility",
+      "works": [
+        {
+          "title": "The Vegetarian",
+          "year_published": 2007,
+          "notes": "Man Booker International winner"
+        },
+        {
+          "title": "Human Acts",
+          "year_published": 2014,
+          "notes": "Gwangju Uprising; violence"
+        },
+        {
+          "title": "The White Book",
+          "year_published": 2016,
+          "notes": "Meditation on loss"
+        }
+      ]
+    },
+    {
+      "author": "Hermann Hesse",
+      "recognition": "Nobel Prize in Literature 1946",
+      "country": "Germany/Switzerland",
+      "genre": "Philosophical Fiction",
+      "significance": "Exploration of spirituality, individuality, and authenticity",
+      "works": [
+        {
+          "title": "Peter Camenzind",
+          "year_published": 1904,
+          "notes": "Early novel; nature and solitude"
+        },
+        {
+          "title": "Beneath the Wheel",
+          "year_published": 1906,
+          "notes": "Critique of academic system"
+        },
+        {
+          "title": "Gertrude",
+          "year_published": 1910,
+          "notes": "Art and personal sacrifice"
+        },
+        {
+          "title": "Rosshalde",
+          "year_published": 1914,
+          "notes": "Artist's life and marriage"
+        },
+        {
+          "title": "Demian",
+          "year_published": 1919,
+          "notes": "Coming-of-age masterpiece"
+        },
+        {
+          "title": "Siddhartha",
+          "year_published": 1922,
+          "notes": "Spiritual journey; most famous work"
+        },
+        {
+          "title": "Steppenwolf",
+          "year_published": 1927,
+          "notes": "Dual nature of humanity"
+        },
+        {
+          "title": "Narcissus and Goldmund",
+          "year_published": 1930,
+          "notes": "Ascetic vs. aesthetic life"
+        },
+        {
+          "title": "The Journey to the East",
+          "year_published": 1932,
+          "notes": "Spiritual quest"
+        },
+        {
+          "title": "The Glass Bead Game",
+          "year_published": 1943,
+          "notes": "Magnum opus; won Nobel Prize"
+        },
+        {
+          "title": "Klingsor's Last Summer",
+          "year_published": 1920,
+          "notes": "Artist's final season"
+        },
+        {
+          "title": "Wandering",
+          "year_published": null,
+          "notes": "Nobel Prize 1946"
+        }
+      ]
+    },
+    {
+      "author": "J.M. Coetzee",
+      "recognition": "Nobel Prize in Literature 2003; Two-time Booker Prize winner",
+      "country": "South Africa",
+      "genre": "Literary Fiction",
+      "significance": "Moral philosophy; apartheid and post-apartheid",
+      "works": [
+        {
+          "title": "Life & Times of Michael K",
+          "year_published": 1983,
+          "notes": "Booker Prize winner"
+        },
+        {
+          "title": "Foe",
+          "year_published": 1986,
+          "notes": "Robinson Crusoe reimagining"
+        },
+        {
+          "title": "The Childhood of Jesus",
+          "year_published": 2013,
+          "notes": "Philosophical trilogy"
+        },
+        {
+          "title": "Disgrace",
+          "notes": "Booker Prize 1999; Nobel Prize 2003"
+        },
+        {
+          "title": "Waiting for the Barbarians",
+          "notes": "Nobel Prize 2003"
+        }
+      ]
+    },
+    {
+      "author": "John Steinbeck",
+      "recognition": "Pulitzer Prize 1940; Nobel Prize 1962",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Grapes of Wrath",
+          "notes": "Pulitzer Prize 1940; Nobel Prize 1962"
+        }
+      ]
+    },
+    {
+      "author": "Jon Fosse",
+      "recognition": "Nobel Prize in Literature 2023",
+      "country": "Norway",
+      "genre": "Drama, Fiction",
+      "significance": "Minimalist style; existential themes",
+      "works": [
+        {
+          "title": "Melancholy I-II",
+          "year_published": 1995,
+          "notes": "Minimalist prose"
+        },
+        {
+          "title": "Morning and Evening",
+          "year_published": 2000,
+          "notes": "Birth and death"
+        },
+        {
+          "title": "Septology",
+          "year_published": 2019,
+          "notes": "Seven-part masterwork"
+        },
+        {
+          "title": "Jon Fosse Trilogy",
+          "year_published": null,
+          "notes": "Nobel Prize 2023"
+        }
+      ]
+    },
+    {
+      "author": "Jorge Luis Borges",
+      "recognition": "Nobel Prize Shortlist",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "In Praise of Darkness",
+          "year_published": null,
+          "notes": "Bloom's Canon; Nobel Prize Shortlist"
+        },
+        {
+          "title": "Labyrinths",
+          "year_published": null,
+          "notes": "Bloom's Canon; Time 100"
+        },
+        {
+          "title": "The Aleph",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        },
+        {
+          "title": "The Book of Sand",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        },
+        {
+          "title": "Ficciones",
+          "notes": "Bloom's Canon; Modern Library"
+        }
+      ]
+    },
+    {
+      "author": "José Saramago",
+      "recognition": "Nobel Prize in Literature 1998",
+      "country": "Portugal",
+      "genre": "Literary Fiction",
+      "significance": "Innovative narrative style; social and philosophical themes",
+      "works": [
+        {
+          "title": "Baltasar and Blimunda",
+          "year_published": 1982,
+          "notes": "Historical novel; considered his masterpiece"
+        },
+        {
+          "title": "The Gospel According to Jesus Christ",
+          "year_published": 1991,
+          "notes": "Controversial religious reimagining"
+        },
+        {
+          "title": "All the Names",
+          "year_published": 1997,
+          "notes": "Kafkaesque bureaucracy tale"
+        },
+        {
+          "title": "The Cave",
+          "year_published": 2000,
+          "notes": "Plato's allegory in modern setting"
+        },
+        {
+          "title": "The Double",
+          "year_published": 2002,
+          "notes": "Identity and existence"
+        },
+        {
+          "title": "Death with Interruptions",
+          "year_published": 2005,
+          "notes": "Death goes on strike"
+        },
+        {
+          "title": "The Year of the Death of Ricardo Reis",
+          "year_published": 1984,
+          "notes": "Pessoa's heteronym comes to life"
+        },
+        {
+          "title": "Blindness",
+          "notes": "Nobel Prize 1998"
+        }
+      ]
+    },
+    {
+      "author": "Kazuo Ishiguro",
+      "recognition": "Nobel Prize in Literature 2017; Booker Prize 1989",
+      "country": "UK/Japan",
+      "genre": "Literary Fiction",
+      "significance": "Memory, time, and self-delusion",
+      "works": [
+        {
+          "title": "An Artist of the Floating World",
+          "year_published": 1986,
+          "notes": "Post-war Japan; Booker shortlist"
+        },
+        {
+          "title": "The Remains of the Day",
+          "year_published": 1989,
+          "notes": "Booker Prize winner; masterpiece"
+        },
+        {
+          "title": "Never Let Me Go",
+          "year_published": 2005,
+          "notes": "Dystopian meditation on humanity"
+        }
+      ]
+    },
+    {
+      "author": "Kenzaburo Oe",
+      "recognition": "Nobel Prize in Literature 1994",
+      "country": "Japan",
+      "genre": "Literary Fiction",
+      "significance": "Post-war Japan; disability and marginalization",
+      "works": [
+        {
+          "title": "A Personal Matter",
+          "year_published": 1964,
+          "notes": "Father dealing with disabled son"
+        },
+        {
+          "title": "The Silent Cry",
+          "year_published": 1967,
+          "notes": "Tanizaki Prize; brothers and history"
+        },
+        {
+          "title": "Nip the Buds, Shoot the Kids",
+          "year_published": 1958,
+          "notes": "Youth during wartime"
+        },
+        {
+          "title": "Hiroshima Notes",
+          "year_published": 1965,
+          "notes": "Non-fiction; atomic bomb"
+        },
+        {
+          "title": "Death by Water",
+          "year_published": 2009,
+          "notes": "Late masterwork"
+        }
+      ]
+    },
+    {
+      "author": "Knut Hamsun",
+      "recognition": "Nobel Prize in Literature 1920",
+      "country": "Norway",
+      "genre": "Psychological Fiction",
+      "significance": "Stream of consciousness pioneer",
+      "works": [
+        {
+          "title": "Hunger",
+          "year_published": 1890,
+          "notes": "Psychological masterpiece"
+        },
+        {
+          "title": "Mysteries",
+          "year_published": 1892,
+          "notes": "Enigmatic stranger"
+        },
+        {
+          "title": "Pan",
+          "year_published": 1894,
+          "notes": "Nature and passion"
+        },
+        {
+          "title": "Growth of the Soil",
+          "year_published": 1917,
+          "notes": "Epic; won Nobel Prize"
+        }
+      ]
+    },
+    {
+      "author": "Mario Vargas Llosa",
+      "recognition": "Nobel Prize in Literature 2010",
+      "country": "Peru",
+      "genre": "Literary Fiction",
+      "significance": "Latin American literature; political themes",
+      "works": [
+        {
+          "title": "The Time of the Hero",
+          "year_published": 1963,
+          "notes": "Military academy critique"
+        },
+        {
+          "title": "Conversation in the Cathedral",
+          "year_published": 1969,
+          "notes": "Peruvian dictatorship; masterwork"
+        },
+        {
+          "title": "Aunt Julia and the Scriptwriter",
+          "year_published": 1977,
+          "notes": "Autobiographical; humor"
+        },
+        {
+          "title": "The War of the End of the World",
+          "year_published": 1981,
+          "notes": "Historical epic"
+        },
+        {
+          "title": "The Feast of the Goat",
+          "year_published": 2000,
+          "notes": "Trujillo dictatorship"
+        }
+      ]
+    },
+    {
+      "author": "Mo Yan",
+      "recognition": "Nobel Prize in Literature 2012",
+      "country": "China",
+      "genre": "Literary Fiction",
+      "significance": "Chinese rural life; magical realism",
+      "works": [
+        {
+          "title": "Red Sorghum",
+          "year_published": 1987,
+          "notes": "War and family saga"
+        },
+        {
+          "title": "Big Breasts and Wide Hips",
+          "year_published": 1996,
+          "notes": "20th century China epic"
+        },
+        {
+          "title": "Life and Death Are Wearing Me Out",
+          "year_published": 2006,
+          "notes": "Reincarnation and Chinese history"
+        }
+      ]
+    },
+    {
+      "author": "Nadine Gordimer",
+      "recognition": "Nobel Prize in Literature 1991",
+      "country": "South Africa",
+      "genre": "Political Fiction",
+      "significance": "Apartheid and post-apartheid South Africa",
+      "works": [
+        {
+          "title": "Burger's Daughter",
+          "year_published": 1979,
+          "notes": "Political commitment under apartheid"
+        },
+        {
+          "title": "July's People",
+          "year_published": 1981,
+          "notes": "Race relations and revolution"
+        },
+        {
+          "title": "A Sport of Nature",
+          "year_published": 1987,
+          "notes": "Political awakening"
+        },
+        {
+          "title": "The Conservationist",
+          "year_published": 1974,
+          "notes": "Booker Prize joint winner"
+        },
+        {
+          "title": "The Pickup",
+          "year_published": 2001,
+          "notes": "Class and displacement"
+        }
+      ]
+    },
+    {
+      "author": "Naguib Mahfouz",
+      "recognition": "Nobel Prize in Literature 1988",
+      "country": "Egypt",
+      "genre": "Literary Fiction",
+      "significance": "Modern Arabic literature; Cairo life",
+      "works": [
+        {
+          "title": "Palace Walk",
+          "year_published": 1956,
+          "notes": "Cairo Trilogy Part 1"
+        },
+        {
+          "title": "Palace of Desire",
+          "year_published": 1957,
+          "notes": "Cairo Trilogy Part 2"
+        },
+        {
+          "title": "Sugar Street",
+          "year_published": 1957,
+          "notes": "Cairo Trilogy Part 3"
+        },
+        {
+          "title": "Midaq Alley",
+          "year_published": 1947,
+          "notes": "Cairo neighborhood life"
+        },
+        {
+          "title": "Children of the Alley",
+          "year_published": 1959,
+          "notes": "Allegorical; controversial"
+        },
+        {
+          "title": "Arabian Nights and Days",
+          "year_published": 1982,
+          "notes": "Arabian Nights reimagining"
+        },
+        {
+          "title": "The Cairo Trilogy",
+          "notes": "Nobel Prize 1988"
+        },
+        {
+          "title": "Children of Gebelawi",
+          "notes": "Nobel Prize 1988"
+        }
+      ]
+    },
+    {
+      "author": "Octavio Paz",
+      "recognition": "Nobel Prize in Literature 1990",
+      "country": "Mexico",
+      "genre": "Poetry, Essays",
+      "significance": "Mexican identity; surrealism and existentialism",
+      "works": [
+        {
+          "title": "The Labyrinth of Solitude",
+          "year_published": 1950,
+          "notes": "Essay; Mexican identity"
+        },
+        {
+          "title": "Sunstone",
+          "year_published": 1957,
+          "notes": "Poetry; circular structure"
+        },
+        {
+          "title": "The Double Flame",
+          "year_published": 1993,
+          "notes": "Love and eroticism"
+        }
+      ]
+    },
+    {
+      "author": "Olga Tokarczuk",
+      "recognition": "Nobel Prize in Literature 2018; Man Booker International Prize 2018",
+      "country": "Poland",
+      "genre": "Literary Fiction",
+      "significance": "Mythical imagination; boundary-crossing narratives",
+      "works": [
+        {
+          "title": "Flights",
+          "year_published": 2007,
+          "notes": "Man Booker International winner"
+        },
+        {
+          "title": "Drive Your Plow Over the Bones of the Dead",
+          "year_published": 2009,
+          "notes": "Eccentric detective story"
+        },
+        {
+          "title": "The Books of Jacob",
+          "year_published": 2014,
+          "notes": "Epic historical novel"
+        }
+      ]
+    },
+    {
+      "author": "Orhan Pamuk",
+      "recognition": "Nobel Prize in Literature 2006",
+      "country": "Turkey",
+      "genre": "Literary Fiction",
+      "significance": "East-West cultural clash; Turkish modernization",
+      "works": [
+        {
+          "title": "My Name is Red",
+          "year_published": 1998,
+          "notes": "Historical mystery; Ottoman art"
+        },
+        {
+          "title": "Snow",
+          "year_published": 2002,
+          "notes": "Political and religious tensions"
+        },
+        {
+          "title": "The Museum of Innocence",
+          "year_published": 2008,
+          "notes": "Love and obsession in Istanbul"
+        }
+      ]
+    },
+    {
+      "author": "Pablo Neruda",
+      "recognition": "Nobel Prize in Literature 1971",
+      "country": "Chile",
+      "genre": "Poetry",
+      "significance": "Love poetry; political engagement",
+      "works": [
+        {
+          "title": "Twenty Love Poems and a Song of Despair",
+          "year_published": 1924,
+          "notes": "Most famous collection"
+        },
+        {
+          "title": "Canto General",
+          "year_published": 1950,
+          "notes": "Epic; Latin American history"
+        },
+        {
+          "title": "Residence on Earth",
+          "year_published": 1933,
+          "notes": "Surrealist poetry"
+        }
+      ]
+    },
+    {
+      "author": "Pearl S. Buck",
+      "recognition": "Pulitzer Prize 1932; Nobel Prize 1938",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Good Earth",
+          "notes": "Pulitzer Prize 1932; Nobel Prize 1938"
+        }
+      ]
+    },
+    {
+      "author": "Richard H. Thaler & Cass R. Sunstein",
+      "recognition": "Nobel Prize Economics 2017",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Nudge",
+          "year_published": null,
+          "notes": "Bestseller; Nobel Prize Economics 2017"
+        }
+      ]
+    },
+    {
+      "author": "Samuel Beckett",
+      "recognition": "Nobel Prize in Literature 1969",
+      "country": "Ireland/France",
+      "genre": "Absurdist Drama, Fiction",
+      "significance": "Theatre of the Absurd; existentialism",
+      "works": [
+        {
+          "title": "Molloy",
+          "year_published": 1951,
+          "notes": "Trilogy Part 1"
+        },
+        {
+          "title": "Malone Dies",
+          "year_published": 1951,
+          "notes": "Trilogy Part 2"
+        },
+        {
+          "title": "The Unnamable",
+          "year_published": 1953,
+          "notes": "Trilogy Part 3"
+        },
+        {
+          "title": "Waiting for Godot",
+          "year_published": 1953,
+          "notes": "Iconic absurdist play"
+        },
+        {
+          "title": "Endgame",
+          "year_published": 1957,
+          "notes": "Major play"
+        }
+      ]
+    },
+    {
+      "author": "Saul Bellow",
+      "recognition": "Modern Library; Nobel Prize 1976; National Book Award 1954; Nobel Prize 1976; National Book Award 1965; Nobel Prize 1976; National Book Award 1971; Nobel Prize 1976; Pulitzer Prize 1976; Nobel Prize 1976",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Herzog",
+          "notes": "National Book Award 1965; Nobel Prize 1976"
+        },
+        {
+          "title": "The Adventures of Augie March",
+          "notes": "National Book Award 1954; Nobel Prize 1976"
+        },
+        {
+          "title": "Humboldt's Gift",
+          "notes": "Pulitzer Prize 1976; Nobel Prize 1976"
+        },
+        {
+          "title": "Seize the Day",
+          "notes": "Modern Library; Nobel Prize 1976"
+        },
+        {
+          "title": "Henderson the Rain King",
+          "notes": "Nobel Prize 1976"
+        },
+        {
+          "title": "Mr. Sammler's Planet",
+          "notes": "National Book Award 1971"
+        },
+        {
+          "title": "Ravelstein",
+          "notes": "Nobel Prize 1976"
+        },
+        {
+          "title": "The Dean's December",
+          "notes": "Nobel Prize 1976"
+        }
+      ]
+    },
+    {
+      "author": "Sinclair Lewis",
+      "recognition": "Nobel Prize in Literature 1930; Pulitzer Prize 1926 (declined)",
+      "country": "USA",
+      "genre": "Satire, Social Commentary",
+      "significance": "American middle-class satire",
+      "works": [
+        {
+          "title": "Main Street",
+          "year_published": 1920,
+          "notes": "Small-town conformity"
+        },
+        {
+          "title": "Babbitt",
+          "year_published": 1922,
+          "notes": "American businessman satire"
+        },
+        {
+          "title": "Arrowsmith",
+          "year_published": 1925,
+          "notes": "Pulitzer Prize (declined)"
+        },
+        {
+          "title": "Elmer Gantry",
+          "year_published": 1927,
+          "notes": "Religious hypocrisy"
+        },
+        {
+          "title": "Dodsworth",
+          "year_published": 1929,
+          "notes": "American abroad"
+        },
+        {
+          "title": "It Can't Happen Here",
+          "year_published": 1935,
+          "notes": "Fascism in America"
+        }
+      ]
+    },
+    {
+      "author": "T.S. Eliot",
+      "recognition": "Nobel Prize in Literature 1948",
+      "country": "USA/UK",
+      "genre": "Poetry, Drama",
+      "significance": "Modernist poetry; cultural criticism",
+      "works": [
+        {
+          "title": "The Waste Land",
+          "year_published": 1922,
+          "notes": "Modernist masterpiece"
+        },
+        {
+          "title": "Four Quartets",
+          "year_published": 1943,
+          "notes": "Poetic meditation"
+        },
+        {
+          "title": "The Love Song of J. Alfred Prufrock",
+          "year_published": 1915,
+          "notes": "Iconic modern poem"
+        },
+        {
+          "title": "Murder in the Cathedral",
+          "year_published": 1935,
+          "notes": "Verse drama"
+        },
+        {
+          "title": "Selected Essays, 1917-1932",
+          "notes": "Modern Library 100 Nonfiction #6"
+        }
+      ]
+    },
+    {
+      "author": "Thomas Mann",
+      "recognition": "Nobel Prize in Literature 1929",
+      "country": "Germany",
+      "genre": "Literary Fiction",
+      "significance": "Master of the German novel; intellectual and philosophical depth",
+      "works": [
+        {
+          "title": "Buddenbrooks",
+          "year_published": 1901,
+          "notes": "Family saga; early masterpiece"
+        },
+        {
+          "title": "Death in Venice",
+          "year_published": 1912,
+          "notes": "Novella; beauty and decay"
+        },
+        {
+          "title": "The Magic Mountain",
+          "year_published": 1924,
+          "notes": "Philosophical novel; European culture pre-WWI"
+        }
+      ]
+    },
+    {
+      "author": "Toni Morrison",
+      "recognition": "Nobel Prize in Literature 1993; Pulitzer Prize 1988",
+      "country": "USA",
+      "genre": "African American Literature",
+      "significance": "African American experience; poetic prose",
+      "works": [
+        {
+          "title": "The Bluest Eye",
+          "year_published": 1970,
+          "notes": "Debut novel; beauty standards and racism"
+        },
+        {
+          "title": "Beloved",
+          "notes": "Nobel Prize 1993; Pulitzer Prize 1988"
+        },
+        {
+          "title": "Song of Solomon",
+          "notes": "Nobel Prize 1993"
+        }
+      ]
+    },
+    {
+      "author": "V.S. Naipaul",
+      "recognition": "Nobel Prize in Literature 2001",
+      "country": "Trinidad/UK",
+      "genre": "Literary Fiction, Travel Writing",
+      "significance": "Post-colonial experience; displacement and identity",
+      "works": [
+        {
+          "title": "A House for Mr Biswas",
+          "year_published": 1961,
+          "notes": "Masterpiece; Trinidad life"
+        },
+        {
+          "title": "A Bend in the River",
+          "year_published": 1979,
+          "notes": "Post-colonial Africa; Booker shortlist"
+        },
+        {
+          "title": "Guerrillas",
+          "year_published": 1975,
+          "notes": "Political violence"
+        },
+        {
+          "title": "The Enigma of Arrival",
+          "year_published": 1987,
+          "notes": "Semi-autobiographical; displacement"
+        },
+        {
+          "title": "In a Free State",
+          "notes": "Nobel Prize 2001; Booker Prize 1971"
+        }
+      ]
+    },
+    {
+      "author": "William Faulkner",
+      "recognition": "Modern Library #1; Nobel Prize 1949; Modern Library; Nobel Prize 1949; Modern Library; Nobel Prize 1949; Time 100; Nobel Prize 1949",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Sound and the Fury",
+          "notes": "Modern Library #1; Nobel Prize 1949"
+        },
+        {
+          "title": "As I Lay Dying",
+          "notes": "Modern Library; Nobel Prize 1949; Time 100"
+        },
+        {
+          "title": "Absalom Absalom!",
+          "notes": "Nobel Prize 1949"
+        },
+        {
+          "title": "Light in August",
+          "notes": "Modern Library; Nobel Prize 1949"
+        },
+        {
+          "title": "Go Down Moses",
+          "notes": "Modern Library; Nobel Prize 1949"
+        }
+      ]
+    },
+    {
+      "author": "William Golding",
+      "recognition": "Nobel Prize 1983",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Inheritors",
+          "year_published": null,
+          "notes": "Nobel Prize 1983"
+        },
+        {
+          "title": "Lord of the Flies",
+          "notes": "Modern Library; BBC Big Read; Nobel Prize 1983"
+        }
+      ]
+    },
+    {
+      "author": "Wole Soyinka",
+      "recognition": "Nobel Prize in Literature 1986; First African Nobel laureate",
+      "country": "Nigeria",
+      "genre": "Drama, Fiction",
+      "significance": "African literature; Yoruba culture and politics",
+      "works": [
+        {
+          "title": "The Interpreters",
+          "year_published": 1965,
+          "notes": "Post-independence Nigeria"
+        },
+        {
+          "title": "Season of Anomy",
+          "year_published": 1973,
+          "notes": "Political allegory"
+        },
+        {
+          "title": "Aké: The Years of Childhood",
+          "year_published": 1981,
+          "notes": "Autobiography; childhood"
+        },
+        {
+          "title": "Death and the King's Horseman",
+          "year_published": 1975,
+          "notes": "Play; Yoruba ritual and colonialism"
+        },
+        {
+          "title": "The Lion and the Jewel",
+          "year_published": 1963,
+          "notes": "Play; tradition vs. modernity"
+        }
+      ]
+    },
+    {
+      "author": "Yasunari Kawabata",
+      "recognition": "Nobel Prize in Literature 1968",
+      "country": "Japan",
+      "genre": "Literary Fiction",
+      "significance": "First Japanese Nobel laureate; lyrical prose",
+      "works": [
+        {
+          "title": "Snow Country",
+          "year_published": 1948,
+          "notes": "Lyrical masterpiece; geisha love story"
+        },
+        {
+          "title": "Thousand Cranes",
+          "year_published": 1952,
+          "notes": "Tea ceremony; subtle eroticism"
+        },
+        {
+          "title": "The Sound of the Mountain",
+          "year_published": 1954,
+          "notes": "Aging and family"
+        },
+        {
+          "title": "The Old Capital",
+          "year_published": 1962,
+          "notes": "Kyoto; twin sisters"
+        },
+        {
+          "title": "The Master of Go",
+          "year_published": 1954,
+          "notes": "Go game; passing of tradition"
+        },
+        {
+          "title": "Beauty and Sadness",
+          "year_published": 1965,
+          "notes": "Love and art"
+        }
+      ]
+    }
+  ]
+}

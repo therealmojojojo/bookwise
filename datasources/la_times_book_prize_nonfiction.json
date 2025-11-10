@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "source_name": "Los Angeles Times Book Prize for Nonfiction (History & Biography)",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1980,
+    "prize_amount": "$1,000",
+    "notes": "A combined list of winners from the History and Biography categories of the L.A. Times Book Prize, sorted by year.",
+    "total_winners": 62,
+    "alternative_names": "L.A. Times Book Prize",
+    "category": "History and Biography",
+    "award_type": "book-specific",
+    "years_active": 45,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "Walter Lippmann and the American Century",
+      "author": "Ronald Steel",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Land of Savagery, Land of Promise",
+      "author": "Ray Allen Billington",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Mornings on Horseback",
+      "author": "David McCullough",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Gate of Heavenly Peace",
+      "author": "Jonathan D. Spence",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Waldo Emerson: A Biography",
+      "author": "Gay Wilson Allen",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Wheels of Commerce",
+      "author": "Fernand Braudel",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "The Price of Power: Kissinger in the Nixon White House",
+      "author": "Seymour Hersh",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Great Cat Massacre",
+      "author": "Robert Darnton",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "The Nightmare of Reason",
+      "author": "Ernst Pawel",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Son of the Morning Star",
+      "author": "Evan S. Connell",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Solzhenitsyn",
+      "author": "Michael Scammell",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The First Socialist Society",
+      "author": "Geoffrey Hosking",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Alexander Pope: A Life",
+      "author": "Maynard Mack",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Nazi Doctors",
+      "author": "Robert Jay Lifton",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Hemingway",
+      "author": "Kenneth S. Lynn",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Reconstruction: America's Unfinished Revolution, 1863–1877",
+      "author": "Eric Foner",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Nora: The Real Life of Molly Bloom",
+      "author": "Brenda Maddox",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "An Empire of Their Own: How the Jews Invented Hollywood",
+      "author": "Neal Gabler",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "This Boy's Life: A Memoir",
+      "author": "Tobias Wolff",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Quest for El Cid",
+      "author": "Richard Fletcher",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "A First-Class Temperament: The Emergence of Franklin Roosevelt",
+      "author": "Geoffrey C. Ward",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Promised Land: The Great Black Migration and How It Changed America",
+      "author": "Nicholas Lemann",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Righteous Pilgrim: The Life and Times of Harold L. Ickes, 1874–1952",
+      "author": "T. H. Watkins",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Benevolence and Betrayal: Five Italian Jewish Families under Fascism",
+      "author": "Alexander Stille",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Eleanor Roosevelt: Volume One, 1884–1933",
+      "author": "Blanche Wiesen Cook",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "New Worlds, Ancient Texts: The Power of Tradition and the Shock of Discovery",
+      "author": "Anthony Grafton",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Daniel Boone: The Life and Legend of an American Pioneer",
+      "author": "John Mack Faragher",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Gay New York: Gender, Urban Culture, and the Making of the Gay Male World, 1890–1940",
+      "author": "George Chauncey",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Shot in the Heart",
+      "author": "Mikal Gilmore",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Fables of Abundance: A Cultural History of Advertising in America",
+      "author": "Jackson Lears",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Under My Skin: Volume One of My Autobiography, to 1949",
+      "author": "Doris Lessing",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Black Sea",
+      "author": "Neal Ascherson",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Angela's Ashes: A Memoir",
+      "author": "Frank McCourt",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Whittaker Chambers: A Biography",
+      "author": "Sam Tanenhaus",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Lindbergh",
+      "author": "A. Scott Berg",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Secrets of the Flesh: A Life of Colette",
+      "author": "Judith Thurman",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Jefferson Davis, American",
+      "author": "William J. Cooper, Jr.",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Theodore Rex",
+      "author": "Edmund Morris",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Master of the Senate: The Years of Lyndon Johnson, Vol. 3",
+      "author": "Robert A. Caro",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "American Empire: Roosevelt's Geographer and the Prelude to Globalization",
+      "author": "Neil Smith",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "de Kooning: An American Master",
+      "author": "Mark Stevens and Annalyn Swan",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Matisse the Master: A Life of Henri Matisse, the Conquest of Colour, 1909–1954",
+      "author": "Hilary Spurling",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Walt Disney: The Triumph of the American Imagination",
+      "author": "Neal Gabler",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Young Stalin",
+      "author": "Simon Sebag Montefiore",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Ida: A Sword Among Lions: Ida B. Wells and the Campaign Against Lynching",
+      "author": "Paula J. Giddings",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Dorothea Lange: A Life Beyond Limits",
+      "author": "Linda Gordon",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+      "author": "Laura Hillenbrand",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Clarence Darrow: Attorney for the Damned",
+      "author": "John A. Farrell",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "The Passage of Power: The Years of Lyndon Johnson",
+      "author": "Robert A. Caro",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Bolivar: American Liberator",
+      "author": "Marie Arana",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Napoleon: A Life",
+      "author": "Andrew Roberts",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Listening to Stone: The Art and Life of Isamu Noguchi",
+      "author": "Hayden Herrera",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Hitler: Ascent, 1889–1939",
+      "author": "Volker Ullrich",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Henry David Thoreau: A Life",
+      "author": "Laura Walls",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Frederick Douglass: Prophet of Freedom",
+      "author": "David W. Blight",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Our Man: Richard Holbrooke and the End of the American Century",
+      "author": "George Packer",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Mad at the World: A Life of John Steinbeck",
+      "author": "William Souder",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Burning Boy: The Life and Work of Stephen Crane",
+      "author": "Paul Auster",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Cuba: An American History",
+      "author": "Ada Ferrer",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "G-Man: J. Edgar Hoover and the Making of the American Century",
+      "author": "Beverly Gage",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "By Hands Now Known: Jim Crow's Legal Executioners",
+      "author": "Margaret A. Burnham",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "The Life and Times of Hannah Crafts",
+      "author": "Gregg Hecimovich",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Shadows at Noon: The South Asian Twentieth Century",
+      "author": "Joya Chatterji",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "History Prize"
+    },
+    {
+      "title": "Orwell's Ghosts: Wisdom and Warnings for the Twenty-First Century",
+      "author": "Laura Beers",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "Biography Prize"
+    },
+    {
+      "title": "Ruin Their Crops on the Ground",
+      "author": "Andrea Freeman",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": "History Prize"
+    }
+  ]
+}

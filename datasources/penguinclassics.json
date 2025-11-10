@@ -1,0 +1,7110 @@
+{
+  "metadata": {
+    "source_name": "Penguin Classics",
+    "source_type": "series",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": null,
+    "total_entries": 1419,
+    "ranked": false,
+    "methodology": "A curated list of classic works of literature published by Penguin Classics, one of the most prestigious and comprehensive collections of world literature."
+  },
+  "items": [
+    {
+      "title": "Abortion Stories: American Literature Before Roe v. Wade",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Absentee",
+      "author": "Maria Edgeworth",
+      "rank": null
+    },
+    {
+      "title": "About Love",
+      "author": "Anton Chekhov",
+      "rank": null
+    },
+    {
+      "title": "According to Mark",
+      "author": "Penelope Lively",
+      "rank": null
+    },
+    {
+      "title": "The Acts of King Arthur and His Noble Knights",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Actual",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Adam Bede",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "Adolphe",
+      "author": "Benjamin Constant",
+      "rank": null
+    },
+    {
+      "title": "The Adventure of the Blue Carbuncle",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Augie March",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of David Simple",
+      "author": "Sarah Fielding",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Pinocchio",
+      "author": "Carlo Collodi",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Roderick Random",
+      "author": "Tobias Smollett",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Aeneid",
+      "author": "Virgil",
+      "rank": null
+    },
+    {
+      "title": "An African Millionaire",
+      "author": "Grant Allen",
+      "rank": null
+    },
+    {
+      "title": "African Myths of Origin",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Against Nature",
+      "author": "Joris-Karl Huysmans",
+      "rank": null
+    },
+    {
+      "title": "Against Slavery: An Abolitionist Reader",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Agapē Agape",
+      "author": "William Gaddis",
+      "rank": null
+    },
+    {
+      "title": "The Age of Alexander",
+      "author": "Plutarch",
+      "rank": null
+    },
+    {
+      "title": "The Alexiad",
+      "author": "Anna Comnena",
+      "rank": null
+    },
+    {
+      "title": "The Age of Bede",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "rank": null
+    },
+    {
+      "title": "Agnes Grey",
+      "author": "Anne Brontë",
+      "rank": null
+    },
+    {
+      "title": "The Agricola",
+      "author": "Tacitus",
+      "rank": null
+    },
+    {
+      "title": "Alcestis, Hippolytus and Iphigenia in Tauris",
+      "author": "Euripides",
+      "rank": null
+    },
+    {
+      "title": "The Aleph and Other Stories",
+      "author": "Jorge Luis Borges",
+      "rank": null
+    },
+    {
+      "title": "Alfred the Great: Including Asser's Life of King Alfred",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "rank": null
+    },
+    {
+      "title": "All Desire is a Desire for Being",
+      "author": "René Girard",
+      "rank": null
+    },
+    {
+      "title": "All My Sons",
+      "author": "Arthur Miller",
+      "rank": null
+    },
+    {
+      "title": "The All-Pervading Melodious Drumbeat",
+      "author": "Ra Yeshe Senge",
+      "rank": null
+    },
+    {
+      "title": "All's Well That Ends Well",
+      "author": "William Shakespeare",
+      "rank": null
+    },
+    {
+      "title": "Along This Way",
+      "author": "James Weldon Johnson",
+      "rank": null
+    },
+    {
+      "title": "Alpine Giggle Week",
+      "author": "Dorothy Parker",
+      "rank": null
+    },
+    {
+      "title": "The Amateur Emigrant",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "The Ambassadors",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "America and Americans and Selected Nonfiction",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The American",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The American Clock",
+      "author": "Arthur Miller",
+      "rank": null
+    },
+    {
+      "title": "American Indian Stories, Legends, and Other Writings",
+      "author": "Zitkala-Ša",
+      "rank": null
+    },
+    {
+      "title": "American Local Color Writing, 1880-1920",
+      "author": "Multiple Authors",
+      "rank": null
+    },
+    {
+      "title": "American Notes for General Circulation",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "American Places",
+      "author": "Wallace and Page Stegner",
+      "rank": null
+    },
+    {
+      "title": "American Scriptures: An Anthology of Sacred Writings edited",
+      "author": "Laurie F. Maffly-Kipp",
+      "rank": null
+    },
+    {
+      "title": "American Supernatural Tales edited",
+      "author": "S. T. Joshi",
+      "rank": null
+    },
+    {
+      "title": "Amerika",
+      "author": "Franz Kafka",
+      "rank": null
+    },
+    {
+      "title": "America is in the Heart",
+      "author": "Carlos Bulosan",
+      "rank": null
+    },
+    {
+      "title": "The Analects",
+      "author": "Confucius",
+      "rank": null
+    },
+    {
+      "title": "The Anatomy of Melancholy",
+      "author": "Robert Burton",
+      "rank": null
+    },
+    {
+      "title": "The Ancien Régime and the Revolution",
+      "author": "Alexis de Tocqueville",
+      "rank": null
+    },
+    {
+      "title": "Ancient Sorceries and Other Weird Stories",
+      "author": "Algernon Blackwood",
+      "rank": null
+    },
+    {
+      "title": "Ancrene Wisse: A Guide for Anchoresses",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Andromache, Britannicus and Berenice",
+      "author": "Jean Racine",
+      "rank": null
+    },
+    {
+      "title": "The Anger of Achilles",
+      "author": "Homer",
+      "rank": null
+    },
+    {
+      "title": "Angle of Repose",
+      "author": "Wallace Stegner",
+      "rank": null
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "rank": null
+    },
+    {
+      "title": "Ann Veronica",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The Annals of Imperial Rome",
+      "author": "Tacitus",
+      "rank": null
+    },
+    {
+      "title": "The Annotated Archy and Mehitabel",
+      "author": "Don Marquis",
+      "rank": null
+    },
+    {
+      "title": "The Anti-Christ",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "Anti-Oedipus",
+      "author": "Gilles Deleuze and Félix Guattari",
+      "rank": null
+    },
+    {
+      "title": "Anton Reiser",
+      "author": "Karl Philipp Moritz",
+      "rank": null
+    },
+    {
+      "title": "Antony and Cleopatra",
+      "author": "William Shakespeare",
+      "rank": null
+    },
+    {
+      "title": "Aphorisms",
+      "author": "Georg Christoph Lichtenberg",
+      "rank": null
+    },
+    {
+      "title": "Apocalypse",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Apologia Pro Vita Sua",
+      "author": "John Henry Newman",
+      "rank": null
+    },
+    {
+      "title": "An Apology for Raymond Sebond",
+      "author": "Michel de Montaigne",
+      "rank": null
+    },
+    {
+      "title": "Appointment in Samarra",
+      "author": "John O'Hara",
+      "rank": null
+    },
+    {
+      "title": "The Arabian Nights: Tales of 1,001 Nights",
+      "author": "Anonymous",
+      "rank": null
+    },
+    {
+      "title": "Arabian Sands",
+      "author": "Wilfred Thesiger",
+      "rank": null
+    },
+    {
+      "title": "The Aran Islands",
+      "author": "J. M. Synge",
+      "rank": null
+    },
+    {
+      "title": "The Archbishop's Ceiling",
+      "author": "Arthur Miller",
+      "rank": null
+    },
+    {
+      "title": "The Archeologist and Selected Sea Stories",
+      "author": "Andreas Karkavitsas",
+      "rank": null
+    },
+    {
+      "title": "Ardhakathanak (A Half Story)",
+      "author": "Banarasidas",
+      "rank": null
+    },
+    {
+      "title": "Areopagitica and Other Writings",
+      "author": "John Milton",
+      "rank": null
+    },
+    {
+      "title": "Armadale",
+      "author": "Wilkie Collins",
+      "rank": null
+    },
+    {
+      "title": "Army Life in a Black Regiment and Other Writings",
+      "author": "Thomas Wentworth Higginson",
+      "rank": null
+    },
+    {
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "rank": null
+    },
+    {
+      "title": "Around the World in Seventy-Two Days: And Other Writings",
+      "author": "Nellie Bly",
+      "rank": null
+    },
+    {
+      "title": "Arsène Lupin, Gentleman-Thief",
+      "author": "Maurice Leblanc",
+      "rank": null
+    },
+    {
+      "title": "The Art of Happiness",
+      "author": "Epicurus",
+      "rank": null
+    },
+    {
+      "title": "The Art of Rhetoric",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "rank": null
+    },
+    {
+      "title": "The Arthashastra",
+      "author": "Kautilya",
+      "rank": null
+    },
+    {
+      "title": "Arthurian Romances",
+      "author": "Chrétien de Troyes",
+      "rank": null
+    },
+    {
+      "title": "As I Crossed a Bridge of Dreams",
+      "author": "Lady Sarashina",
+      "rank": null
+    },
+    {
+      "title": "Aspects of the Novel",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "The Aspern Papers",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "L'Assommoir (The Drinking Den)",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "At Fault",
+      "author": "Kate Chopin",
+      "rank": null
+    },
+    {
+      "title": "Atalanta in Calydon",
+      "author": "Algernon Charles Swinburne",
+      "rank": null
+    },
+    {
+      "title": "The Athenian Constitution",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "Au Bonheur des Dames",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "Aurora Leigh and Other Poems",
+      "author": "Elizabeth Barrett Browning",
+      "rank": null
+    },
+    {
+      "title": "Autobiography",
+      "author": "Benvenuto Cellini",
+      "rank": null
+    },
+    {
+      "title": "Autobiography",
+      "author": "Morrissey",
+      "rank": null
+    },
+    {
+      "title": "The Autobiography and Other Writings",
+      "author": "Benjamin Franklin",
+      "rank": null
+    },
+    {
+      "title": "The Autobiography of an Ex-Coloured Man",
+      "author": "James Weldon Johnson",
+      "rank": null
+    },
+    {
+      "title": "Autobiographies",
+      "author": "Charles Darwin",
+      "rank": null
+    },
+    {
+      "title": "The Awakening and Selected Stories",
+      "author": "Kate Chopin",
+      "rank": null
+    },
+    {
+      "title": "The Awkward Age",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Babur Nama: Journal of Emperor Babur",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Bacchae and Other Plays (Ion, The Women of Troy, Helen)",
+      "author": "Euripides",
+      "rank": null
+    },
+    {
+      "title": "The Barber of Seville",
+      "author": "Pierre Beaumarchais",
+      "rank": null
+    },
+    {
+      "title": "Barlaam and Josaphat: A Christian Tale of the Buddha",
+      "author": "Gui de Cambrai",
+      "rank": null
+    },
+    {
+      "title": "Barchester Towers",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Barnaby Rudge",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Baudelaire in English",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Bayou Folk",
+      "author": "Kate Chopin",
+      "rank": null
+    },
+    {
+      "title": "Been Down So Long It Looks Like Up to Me",
+      "author": "Richard Fariña",
+      "rank": null
+    },
+    {
+      "title": "The Beast Within",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "The Beggar's Opera",
+      "author": "John Gay",
+      "rank": null
+    },
+    {
+      "title": "Behind the Scenes",
+      "author": "Elizabeth Keckley",
+      "rank": null
+    },
+    {
+      "title": "Bel-Ami",
+      "author": "Guy de Maupassant",
+      "rank": null
+    },
+    {
+      "title": "The Bell",
+      "author": "Iris Murdoch",
+      "rank": null
+    },
+    {
+      "title": "Beowulf: A Glossed Text",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Beowulf: A Prose Translation",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Beowulf: A Verse Translation",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "La Bête Humaine",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "The Betrothed",
+      "author": "Alessandro Manzoni",
+      "rank": null
+    },
+    {
+      "title": "Between Past and Future",
+      "author": "Hannah Arendt",
+      "rank": null
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "The Bhagavad Gita",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Bible (King James, Authorized Version of 1611) edited",
+      "author": "David Norton",
+      "rank": null
+    },
+    {
+      "title": "Billy Budd and Other Tales (including Bartleby, the Scrivener and Benito Cereno)",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "The Birds and Other Plays (The Knights, Peace, The Assemblywomen and Wealth)",
+      "author": "Aristophanes",
+      "rank": null
+    },
+    {
+      "title": "The Birth of Tragedy",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "The Black Arrow",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Black Lamb and Grey Falcon",
+      "author": "Rebecca West",
+      "rank": null
+    },
+    {
+      "title": "Black Panther",
+      "author": "Don McGregor, Rich Buckler, Billy Graham, Stan Lee, Jack Kirby",
+      "rank": null
+    },
+    {
+      "title": "The Black Prince",
+      "author": "Iris Murdoch",
+      "rank": null
+    },
+    {
+      "title": "The Black Sheep",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "The Black Tulip",
+      "author": "Alexandre Dumas",
+      "rank": null
+    },
+    {
+      "title": "The Blazing World and Other Writings",
+      "author": "Margaret Cavendish",
+      "rank": null
+    },
+    {
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Bliss",
+      "author": "Katherine Mansfield",
+      "rank": null
+    },
+    {
+      "title": "The Blithedale Romance",
+      "author": "Nathaniel Hawthorne",
+      "rank": null
+    },
+    {
+      "title": "Blood, Toil, Tears and Sweat: The Great Speeches",
+      "author": "Winston Churchill",
+      "rank": null
+    },
+    {
+      "title": "Bodily Secrets",
+      "author": "William Trevor",
+      "rank": null
+    },
+    {
+      "title": "Bonjour Tristesse and A Certain Smile",
+      "author": "Francoise Sagan",
+      "rank": null
+    },
+    {
+      "title": "The Book of Chuang Tzu",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Book of the City of Ladies",
+      "author": "Christine de Pizan",
+      "rank": null
+    },
+    {
+      "title": "The Book of Contemplation: Islam and the Crusades",
+      "author": "Usama ibn Munqidh",
+      "rank": null
+    },
+    {
+      "title": "The Book of the Courtier",
+      "author": "Baldassare Castiglione",
+      "rank": null
+    },
+    {
+      "title": "The Book of Dede Korkut",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "rank": null
+    },
+    {
+      "title": "The Book of Imaginary Beings",
+      "author": "Jorge Luis Borges",
+      "rank": null
+    },
+    {
+      "title": "The Book of Margery Kempe",
+      "author": "Margery Kempe",
+      "rank": null
+    },
+    {
+      "title": "The Book of Master Mo",
+      "author": "Mo Zi",
+      "rank": null
+    },
+    {
+      "title": "The Book of Mormon translated",
+      "author": "Joseph Smith Jr.",
+      "rank": null
+    },
+    {
+      "title": "Botchan",
+      "author": "Natsume Sōseki",
+      "rank": null
+    },
+    {
+      "title": "The Bostonians",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The Bounty Mutiny",
+      "author": "William Bligh and Edward Christian",
+      "rank": null
+    },
+    {
+      "title": "Bouvard and Pecuchet with the Dictionary of Received Ideas",
+      "author": "Gustave Flaubert",
+      "rank": null
+    },
+    {
+      "title": "Brand",
+      "author": "Henrik Ibsen",
+      "rank": null
+    },
+    {
+      "title": "The Bride of Lammermoor",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "Brighton Rock",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "Brigitta and Other Tales",
+      "author": "Adalbert Stifter",
+      "rank": null
+    },
+    {
+      "title": "Brodie's Report",
+      "author": "Jorge Luis Borges",
+      "rank": null
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Buddhist Scriptures",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Burning Bright",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "A Burnt-Out Case",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "But Gentlemen Marry Brunettes",
+      "author": "Anita Loos",
+      "rank": null
+    },
+    {
+      "title": "By the Open Sea",
+      "author": "August Strindberg",
+      "rank": null
+    },
+    {
+      "title": "Caleb Williams",
+      "author": "William Godwin",
+      "rank": null
+    },
+    {
+      "title": "The Call of Cthulhu and Other Weird Stories",
+      "author": "H. P. Lovecraft",
+      "rank": null
+    },
+    {
+      "title": "The Call of the Wild, White Fang, and Other Stories",
+      "author": "Jack London",
+      "rank": null
+    },
+    {
+      "title": "The Campaigns of Alexander",
+      "author": "Arrian",
+      "rank": null
+    },
+    {
+      "title": "Can You Forgive Her?",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Candide",
+      "author": "Voltaire",
+      "rank": null
+    },
+    {
+      "title": "Cannery Row",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "rank": null
+    },
+    {
+      "title": "The Canterbury Tales: The First Fragment",
+      "author": "Geoffrey Chaucer",
+      "rank": null
+    },
+    {
+      "title": "Capital, Volume I; Capital, Volume II; and Capital, Volume III",
+      "author": "Karl Marx",
+      "rank": null
+    },
+    {
+      "title": "Capitalism and Slavery",
+      "author": "Eric Williams",
+      "rank": null
+    },
+    {
+      "title": "Captain America",
+      "author": "Jack Kirby, Joe Simon, Stan Lee, Jim Steranko, John Romita Sr.",
+      "rank": null
+    },
+    {
+      "title": "Captain Blood",
+      "author": "Rafael Sabatini",
+      "rank": null
+    },
+    {
+      "title": "Captains Courageous",
+      "author": "Rudyard Kipling",
+      "rank": null
+    },
+    {
+      "title": "Carpenter's Gothic",
+      "author": "William Gaddis",
+      "rank": null
+    },
+    {
+      "title": "The Castle of Otranto",
+      "author": "Horace Walpole",
+      "rank": null
+    },
+    {
+      "title": "Castle Rackrent",
+      "author": "Maria Edgeworth",
+      "rank": null
+    },
+    {
+      "title": "Cavalleria Rusticana and Other Stories",
+      "author": "Giovanni Verga",
+      "rank": null
+    },
+    {
+      "title": "La Celestina (The Spanish Bawd)",
+      "author": "Fernando de Rojas",
+      "rank": null
+    },
+    {
+      "title": "A Celtic Miscellany translated",
+      "author": "Kenneth Hurlstone Jackson",
+      "rank": null
+    },
+    {
+      "title": "Chance",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "Characters",
+      "author": "Jean de la Bruyère",
+      "rank": null
+    },
+    {
+      "title": "Charlotte Temple and Lucy Temple",
+      "author": "Susanna Rowson",
+      "rank": null
+    },
+    {
+      "title": "The Charterhouse of Parma",
+      "author": "Stendhal",
+      "rank": null
+    },
+    {
+      "title": "Chattering Courtesans and Other Sardonic Sketches",
+      "author": "Lucian",
+      "rank": null
+    },
+    {
+      "title": "Chess",
+      "author": "Stefan Zweig",
+      "rank": null
+    },
+    {
+      "title": "Childhood, Boyhood, Youth",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "A Christmas Carol and Other Christmas Writings",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Chronicle of the Narváez Expedition",
+      "author": "Álvar Núñez Cabeza de Vaca",
+      "rank": null
+    },
+    {
+      "title": "Chronicles",
+      "author": "Jean Froissart",
+      "rank": null
+    },
+    {
+      "title": "Chronicles of the Canongate",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "Chronicles of the Crusades",
+      "author": "Jean de Joinville and Geoffrey of Villehardouin",
+      "rank": null
+    },
+    {
+      "title": "Chung Yung",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Cicero's Letters to Atticus",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "The Cid, Cinna, The Theatrical Illusion",
+      "author": "Pierre Corneille",
+      "rank": null
+    },
+    {
+      "title": "The Cistercian World: Monastic Writings of the Twelfth Century",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "City of God",
+      "author": "St.Augustine",
+      "rank": null
+    },
+    {
+      "title": "City of Gold",
+      "author": "Len Deighton",
+      "rank": null
+    },
+    {
+      "title": "Civil Disobedience",
+      "author": "Henry David Thoreau",
+      "rank": null
+    },
+    {
+      "title": "The Civil War",
+      "author": "Julius Caesar",
+      "rank": null
+    },
+    {
+      "title": "The Civil Wars",
+      "author": "Appian",
+      "rank": null
+    },
+    {
+      "title": "Clarissa",
+      "author": "Samuel Richardson",
+      "rank": null
+    },
+    {
+      "title": "The Classic of Mountains and Seas",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Classical Literary Criticism",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Clotel, or The President's Daughter",
+      "author": "William Wells Brown",
+      "rank": null
+    },
+    {
+      "title": "The Cloud of Unknowing and Other Works",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Cold Comfort Farm",
+      "author": "Stella Gibbons",
+      "rank": null
+    },
+    {
+      "title": "Collected Poems",
+      "author": "Arthur Rimbaud",
+      "rank": null
+    },
+    {
+      "title": "Collected Poems",
+      "author": "Kingsley Amis",
+      "rank": null
+    },
+    {
+      "title": "Collected Stories",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Collected Stories",
+      "author": "Vladimir Nabokov",
+      "rank": null
+    },
+    {
+      "title": "Colonial American Travel Narratives",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Comedians",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Comedies: Adelphoe, Andria, Eunuchus, Heauton Timorumenos, Hecyra and Phormio",
+      "author": "Terence",
+      "rank": null
+    },
+    {
+      "title": "The Conquest of Gaul",
+      "author": "Julius Caesar",
+      "rank": null
+    },
+    {
+      "title": "Common Sense",
+      "author": "Thomas Paine",
+      "rank": null
+    },
+    {
+      "title": "The Complete Dead Sea Scrolls in English translated",
+      "author": "Geza Vermes",
+      "rank": null
+    },
+    {
+      "title": "The Complete English Poems",
+      "author": "John Donne",
+      "rank": null
+    },
+    {
+      "title": "The Complete English Poems",
+      "author": "George Herbert",
+      "rank": null
+    },
+    {
+      "title": "The Complete Essays",
+      "author": "Michel de Montaigne",
+      "rank": null
+    },
+    {
+      "title": "The Complete Fables",
+      "author": "Aesop",
+      "rank": null
+    },
+    {
+      "title": "The Complete Fairy Tales",
+      "author": "George MacDonald",
+      "rank": null
+    },
+    {
+      "title": "The Complete Odes and Epodes",
+      "author": "Horace",
+      "rank": null
+    },
+    {
+      "title": "The Complete Plays",
+      "author": "Christopher Marlowe",
+      "rank": null
+    },
+    {
+      "title": "The Complete Plays, Lenz, and Other Writings",
+      "author": "Georg Büchner",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "William Blake",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "Samuel Taylor Coleridge",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "John Keats",
+      "rank": null
+    },
+    {
+      "title": "Complete Poems",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "Andrew Marvell",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "John Milton",
+      "rank": null
+    },
+    {
+      "title": "Complete Poems",
+      "author": "Marianne Moore",
+      "rank": null
+    },
+    {
+      "title": "Complete Poems",
+      "author": "Dorothy Parker",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "Christina Rossetti",
+      "rank": null
+    },
+    {
+      "title": "The Complete Poems",
+      "author": "Jean-Jacques Rousseau",
+      "rank": null
+    },
+    {
+      "title": "Complete Short Fiction",
+      "author": "Oscar Wilde",
+      "rank": null
+    },
+    {
+      "title": "Complete Short Stories",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "Complete Stories",
+      "author": "Kingsley Amis",
+      "rank": null
+    },
+    {
+      "title": "Complete Stories",
+      "author": "Dorothy Parker",
+      "rank": null
+    },
+    {
+      "title": "Complete Writings",
+      "author": "Phillis Wheatley",
+      "rank": null
+    },
+    {
+      "title": "Con Men and Cutpurses: Scenes From the Hogarthian Underworld",
+      "author": "Lucy Moore",
+      "rank": null
+    },
+    {
+      "title": "The Conference of the Birds",
+      "author": "Farid Ud-Din Attar",
+      "rank": null
+    },
+    {
+      "title": "A Confession and Other Religious Writings",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The Confession of a Child of the Century",
+      "author": "Alfred de Musset",
+      "rank": null
+    },
+    {
+      "title": "Confessions",
+      "author": "St. Augustine",
+      "rank": null
+    },
+    {
+      "title": "The Confessions",
+      "author": "Jean-Jacques Rousseau",
+      "rank": null
+    },
+    {
+      "title": "Confessions of an English Opium Eater",
+      "author": "Thomas De Quincey",
+      "rank": null
+    },
+    {
+      "title": "The Confidence-Man",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "Conjure Tales and Stories of the Colour Line",
+      "author": "Charles W. Chesnutt",
+      "rank": null
+    },
+    {
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Conquest of Bread",
+      "author": "Peter Kropotkin",
+      "rank": null
+    },
+    {
+      "title": "The Conquest of New Spain",
+      "author": "Bernal Díaz del Castillo",
+      "rank": null
+    },
+    {
+      "title": "The Consolation of Philosophy",
+      "author": "Boethius",
+      "rank": null
+    },
+    {
+      "title": "Conversations of Socrates",
+      "author": "Xenophon",
+      "rank": null
+    },
+    {
+      "title": "Conversations with Goethe",
+      "author": "Johann Peter Eckermann",
+      "rank": null
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "rank": null
+    },
+    {
+      "title": "Count Magnus and Other Ghost Stories",
+      "author": "M. R. James",
+      "rank": null
+    },
+    {
+      "title": "The Countess of Pembroke's Arcadia",
+      "author": "Philip Sidney",
+      "rank": null
+    },
+    {
+      "title": "The Country of the Blind and Other Stories",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The Country of the Pointed Firs and Other Stories",
+      "author": "Sarah Orne Jewett",
+      "rank": null
+    },
+    {
+      "title": "Cousin Bette",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "Cousin Phillis",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "Cousin Pons",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "Cranford",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Critias",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "The Crucible",
+      "author": "Arthur Miller",
+      "rank": null
+    },
+    {
+      "title": "The Cruise of the Snark",
+      "author": "Jack London",
+      "rank": null
+    },
+    {
+      "title": "Cup of Gold",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Curious Case of Benjamin Button and Other Jazz Age Stories",
+      "author": "F. Scott Fitzgerald",
+      "rank": null
+    },
+    {
+      "title": "The Custom of the Country",
+      "author": "Edith Wharton",
+      "rank": null
+    },
+    {
+      "title": "Cyrano de Bergerac",
+      "author": "Edmond Rostand",
+      "rank": null
+    },
+    {
+      "title": "D. H. Lawrence and Italy",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Daddy-Long-Legs",
+      "author": "Jean Webster",
+      "rank": null
+    },
+    {
+      "title": "Daisy Miller",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "D'Alembert's Dream",
+      "author": "Denis Diderot",
+      "rank": null
+    },
+    {
+      "title": "The Damnation of Theron Ware",
+      "author": "Harold Frederic",
+      "rank": null
+    },
+    {
+      "title": "The Damned",
+      "author": "Joris-Karl Huysmans",
+      "rank": null
+    },
+    {
+      "title": "Daniel Deronda",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "Dangerous Liaisons",
+      "author": "Choderlos de Laclos",
+      "rank": null
+    },
+    {
+      "title": "Dangling Man",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Daphnis and Chloe",
+      "author": "Longus",
+      "rank": null
+    },
+    {
+      "title": "The Dark Eidolon and Other Fantasies",
+      "author": "Clark Ashton Smith",
+      "rank": null
+    },
+    {
+      "title": "Dashing Diamond Dick and Other Classic Dime Novels",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "De Anima",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "De Profundis and Other Writings",
+      "author": "Oscar Wilde",
+      "rank": null
+    },
+    {
+      "title": "A Dead Man's Memoir (A Theatrical Novel)",
+      "author": "Mikhail Bulgakov",
+      "rank": null
+    },
+    {
+      "title": "Dead Souls",
+      "author": "Nikolai Gogol",
+      "rank": null
+    },
+    {
+      "title": "The Dean's December",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Dear Enemy",
+      "author": "Jean Webster",
+      "rank": null
+    },
+    {
+      "title": "Death in Venice and Other Tales",
+      "author": "Thomas Mann",
+      "rank": null
+    },
+    {
+      "title": "Death of a Hero",
+      "author": "Richard Aldington",
+      "rank": null
+    },
+    {
+      "title": "The Death of Ivan Ilyich and Other Stories",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The Death of Jim Loney",
+      "author": "James Welch",
+      "rank": null
+    },
+    {
+      "title": "The Death of King Arthur (Mort Artu)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Death of a Salesman",
+      "author": "Arthur Miller",
+      "rank": null
+    },
+    {
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "rank": null
+    },
+    {
+      "title": "Declarations of War",
+      "author": "Len Deighton",
+      "rank": null
+    },
+    {
+      "title": "Decline and Fall",
+      "author": "Evelyn Waugh",
+      "rank": null
+    },
+    {
+      "title": "The Deerslayer",
+      "author": "James Fenimore Cooper",
+      "rank": null
+    },
+    {
+      "title": "Democracy in America",
+      "author": "Alexis de Tocqueville",
+      "rank": null
+    },
+    {
+      "title": "Demons",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Demosthenes and Aeschines (On the Embassy, On the Crown, Against Ctesiphon)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Descent of Man",
+      "author": "Charles Darwin",
+      "rank": null
+    },
+    {
+      "title": "The Description of Wales",
+      "author": "Gerald of Wales",
+      "rank": null
+    },
+    {
+      "title": "The Desert Fathers: Sayings of the Early Christian Monks",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Despair",
+      "author": "Vladimir Nabokov",
+      "rank": null
+    },
+    {
+      "title": "Desperate Remedies",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "The Devils",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "The Dhammapada",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "author": "David Hume",
+      "rank": null
+    },
+    {
+      "title": "The Diaries of Samuel Pepys",
+      "author": "Samuel Pepys",
+      "rank": null
+    },
+    {
+      "title": "The Diary of Lady Murasaki",
+      "author": "Murasaki Shikibu",
+      "rank": null
+    },
+    {
+      "title": "Diary of a Madman and Other Stories",
+      "author": "Nikolai Gogol",
+      "rank": null
+    },
+    {
+      "title": "A Dictionary of the English Language: an Anthology",
+      "author": "Samuel Johnson",
+      "rank": null
+    },
+    {
+      "title": "Difficulties with Girls",
+      "author": "Kingsley Amis",
+      "rank": null
+    },
+    {
+      "title": "The Digest of Roman Law",
+      "author": "Justinian",
+      "rank": null
+    },
+    {
+      "title": "Dirty Bird Blues",
+      "author": "Clarence Major",
+      "rank": null
+    },
+    {
+      "title": "Discourse on Inequality",
+      "author": "Jean-Jacques Rousseau",
+      "rank": null
+    },
+    {
+      "title": "Discourse on Method and Related Writings",
+      "author": "René Descartes",
+      "rank": null
+    },
+    {
+      "title": "Discourses",
+      "author": "Epictetus",
+      "rank": null
+    },
+    {
+      "title": "The Discourses",
+      "author": "Niccolò Machiavelli",
+      "rank": null
+    },
+    {
+      "title": "The Discovery of India",
+      "author": "Jawaharlal Nehru",
+      "rank": null
+    },
+    {
+      "title": "Dispatches for the New York Tribune",
+      "author": "Karl Marx, edited by James Ledbetter and Francis Wheen",
+      "rank": null
+    },
+    {
+      "title": "The Distracted Preacher and Other Stories",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 1: Hell",
+      "author": "Dante Alighieri, translated by Dorothy Sayers",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 1: Inferno",
+      "author": "Dante Alighieri, translated by Mark Musa",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 1: Inferno",
+      "author": "Dante Alighieri, translated by Robin Kirkpatrick",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 2: Purgatorio",
+      "author": "Dante Alighieri, translated by Mark Musa",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 2: Purgatorio",
+      "author": "Dante Alighieri, translated by Robin Kirkpatrick",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 2: Purgatory",
+      "author": "Dante Alighieri, translated by Dorothy Sayers",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 3: Paradise",
+      "author": "Dante Alighieri, translated by Dorothy Sayers and Barbara Reynolds",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 3: Paradiso",
+      "author": "Dante Alighieri, translated by Mark Musa",
+      "rank": null
+    },
+    {
+      "title": "The Divine Comedy, Volume 3: Paradiso",
+      "author": "Dante Alighieri, translated by Robin Kirkpatrick",
+      "rank": null
+    },
+    {
+      "title": "Doctor Thorne",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Dr. Wortle's School",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "A Dog's Heart",
+      "author": "Mikhail Bulgakov",
+      "rank": null
+    },
+    {
+      "title": "A Doll's House and Other Plays (The League of Youth, The Lady From the Sea)",
+      "author": "Henrik Ibsen",
+      "rank": null
+    },
+    {
+      "title": "Dombey and Son",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Domesday Book, translated",
+      "author": "Geoffrey Martin",
+      "rank": null
+    },
+    {
+      "title": "Domestic Manners of the Americans",
+      "author": "Frances Trollope",
+      "rank": null
+    },
+    {
+      "title": "Don Juan",
+      "author": "Lord Byron",
+      "rank": null
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "rank": null
+    },
+    {
+      "title": "Don't Look Now and Other Stories",
+      "author": "Daphne du Maurier",
+      "rank": null
+    },
+    {
+      "title": "Doveglion: Collected Poems",
+      "author": "José Garcia Villa",
+      "rank": null
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "rank": null
+    },
+    {
+      "title": "The Dreams in the Witch House and Other Weird Stories",
+      "author": "H. P. Lovecraft",
+      "rank": null
+    },
+    {
+      "title": "Dred: A Tale of the Great Dismal Swamp",
+      "author": "Harriet Beecher Stowe",
+      "rank": null
+    },
+    {
+      "title": "The Drinking Den (L'Assommoir)",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "The Earliest English Poems",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Early American Drama: The Contrast",
+      "author": "Royall Tyler, André by William Dunlap, The Indian Princess by James Nelson Barker, The Gladiator by Robert Montgomery Bird, The Drunkard by William Henry Smith, Fashion by Anna Cora Mowatt, Uncle Tom's Cabin by George Aiken, The Octoroon by Dion Boucicault",
+      "rank": null
+    },
+    {
+      "title": "Early American Writing",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Early Christian Lives: Life of Antony",
+      "author": "Athanasius; Life of Paul of Thebes, Life of Hilarion and Life of Malchus by Jerome; Life of Martin of Tours by Sulpicius Severus; Life of Benedict by Gregory the Great",
+      "rank": null
+    },
+    {
+      "title": "Early Greek Philosophy",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Early History of Rome (Books I-V)",
+      "author": "Titus Livy",
+      "rank": null
+    },
+    {
+      "title": "Early Irish Myths and Sagas",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Early Socratic Dialogues: (Ion, Laches, Lysis, Charmides, Hippias Major, Hippias Minor, Euthydemus)",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "Early Writings",
+      "author": "Karl Marx",
+      "rank": null
+    },
+    {
+      "title": "East of Eden",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Ecclesiastical History of the English People",
+      "author": "Bede",
+      "rank": null
+    },
+    {
+      "title": "Ecce Homo",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "Edgar Huntly",
+      "author": "Charles Brockden Brown",
+      "rank": null
+    },
+    {
+      "title": "The Education of Henry Adams",
+      "author": "Henry Adams",
+      "rank": null
+    },
+    {
+      "title": "Effi Briest",
+      "author": "Theodor Fontane",
+      "rank": null
+    },
+    {
+      "title": "Egil's Saga",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Egyptian Book of the Dead, translated",
+      "author": "E. A. Wallis Budge",
+      "rank": null
+    },
+    {
+      "title": "Eichmann in Jerusalem",
+      "author": "Hannah Arendt",
+      "rank": null
+    },
+    {
+      "title": "Either/Or",
+      "author": "Søren Kierkegaard",
+      "rank": null
+    },
+    {
+      "title": "Elective Affinities",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "Electra and Other Plays (Ajax, Women of Trachis, Philoctetes)",
+      "author": "Sophocles",
+      "rank": null
+    },
+    {
+      "title": "The Emigrants",
+      "author": "Gilbert Imlay",
+      "rank": null
+    },
+    {
+      "title": "Emma",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "The End of Nature",
+      "author": "Bill McKibben",
+      "rank": null
+    },
+    {
+      "title": "The End of the Affair",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "England Made Me",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "English Romantic Verse",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Enneads",
+      "author": "Plotinus",
+      "rank": null
+    },
+    {
+      "title": "Ennui",
+      "author": "Maria Edgeworth",
+      "rank": null
+    },
+    {
+      "title": "Enquiry Concerning Political Justice",
+      "author": "William Godwin",
+      "rank": null
+    },
+    {
+      "title": "The Epic of Gilgamesh, prose translation",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Epic of Gilgamesh, verse translation",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Erewhon",
+      "author": "Samuel Butler",
+      "rank": null
+    },
+    {
+      "title": "The Erotic Poems (including Amores and Ars Amatoria)",
+      "author": "Ovid",
+      "rank": null
+    },
+    {
+      "title": "An Essay Concerning Human Understanding",
+      "author": "John Locke",
+      "rank": null
+    },
+    {
+      "title": "The Essays",
+      "author": "Francis Bacon",
+      "rank": null
+    },
+    {
+      "title": "Essays",
+      "author": "Michel de Montaigne",
+      "rank": null
+    },
+    {
+      "title": "Essays",
+      "author": "Plutarch",
+      "rank": null
+    },
+    {
+      "title": "Essays and Aphorisms",
+      "author": "Arthur Schopenhauer",
+      "rank": null
+    },
+    {
+      "title": "Essays in Idleness and Hojoki",
+      "author": "Kenkō and Chōmei",
+      "rank": null
+    },
+    {
+      "title": "Esther",
+      "author": "Henry Adams",
+      "rank": null
+    },
+    {
+      "title": "Ethan Frome",
+      "author": "Edith Wharton",
+      "rank": null
+    },
+    {
+      "title": "Eugene Onegin",
+      "author": "Alexander Pushkin",
+      "rank": null
+    },
+    {
+      "title": "Eugenie Grandet",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "The Europeans",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The Eustace Diamonds",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Evelina",
+      "author": "Frances Burney",
+      "rank": null
+    },
+    {
+      "title": "Exemplary Stories",
+      "author": "Miguel de Cervantes",
+      "rank": null
+    },
+    {
+      "title": "The Exploration of the Colorado River and Its Canyons",
+      "author": "John Wesley Powell",
+      "rank": null
+    },
+    {
+      "title": "The Fable of the Bees",
+      "author": "Bernard Mandeville",
+      "rank": null
+    },
+    {
+      "title": "Facundo",
+      "author": "Domingo F. Sarmiento",
+      "rank": null
+    },
+    {
+      "title": "The Faerie Queene",
+      "author": "Edmund Spenser",
+      "rank": null
+    },
+    {
+      "title": "A Fairly Honourable Defeat",
+      "author": "Iris Murdoch",
+      "rank": null
+    },
+    {
+      "title": "Fairy Tales",
+      "author": "Hans Christian Andersen",
+      "rank": null
+    },
+    {
+      "title": "The Fall of the House of Usher and Other Writings",
+      "author": "Edgar Allan Poe",
+      "rank": null
+    },
+    {
+      "title": "The Fall of the Roman Republic",
+      "author": "Plutarch",
+      "rank": null
+    },
+    {
+      "title": "The Fallen Idol",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "Fanny Hill",
+      "author": "John Cleland",
+      "rank": null
+    },
+    {
+      "title": "Fantômas",
+      "author": "Marcel Allain and Pierre Souvestre",
+      "rank": null
+    },
+    {
+      "title": "Far from the Madding Crowd",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Fasti",
+      "author": "Ovid",
+      "rank": null
+    },
+    {
+      "title": "Father and Son",
+      "author": "Edmund Gosse",
+      "rank": null
+    },
+    {
+      "title": "Fathers and Sons",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "Faust, Part I",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "Faust, Part II",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "Fear and Trembling",
+      "author": "Søren Kierkegaard",
+      "rank": null
+    },
+    {
+      "title": "The Federalist Papers",
+      "author": "Alexander Hamilton, James Madison and John Jay",
+      "rank": null
+    },
+    {
+      "title": "Felix Holt, the Radical",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "The Female Quixote",
+      "author": "Charlotte Lennox",
+      "rank": null
+    },
+    {
+      "title": "The Fiddler of the Reels and Other Stories",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "The Figure in the Carpet and Other Stories",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "El Filibusterismo",
+      "author": "José Rizal",
+      "rank": null
+    },
+    {
+      "title": "First Love",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "The First Men in the Moon",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "Five Italian Renaissance Comedies: The Mandragora",
+      "author": "Niccolò Machiavelli, Lena by Ludovico Ariosto, The Stablemaster by Pietro Aretino, The Faithful Shepherd by Giovanni Guarini and The Deceived by \"Gl'Intronati\"",
+      "rank": null
+    },
+    {
+      "title": "Five Plays: (A Trick to Catch the Old One, A Chaste Maid in Cheapside, Women Beware Women, The Changeling, The Revenger's Tragedy)",
+      "author": "Thomas Middleton",
+      "rank": null
+    },
+    {
+      "title": "Five-and-Twenty Tales of the Genie",
+      "author": "Śivadāsa",
+      "rank": null
+    },
+    {
+      "title": "Flatland",
+      "author": "Edwin A. Abbott",
+      "rank": null
+    },
+    {
+      "title": "Flaubert in Egypt",
+      "author": "Gustave Flaubert",
+      "rank": null
+    },
+    {
+      "title": "Fools of Fortune",
+      "author": "William Trevor",
+      "rank": null
+    },
+    {
+      "title": "The Forest of Thieves and The Magic Garden: An Anthology of Medieval Jain Stories",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Fortress Besieged",
+      "author": "Qian Zhongshu",
+      "rank": null
+    },
+    {
+      "title": "Fortunata and Jacinta",
+      "author": "Benito Pérez Galdós",
+      "rank": null
+    },
+    {
+      "title": "The Fortunes of Richard Mahony",
+      "author": "Henry Handel Richardson",
+      "rank": null
+    },
+    {
+      "title": "Forty Stories",
+      "author": "Donald Barthelme",
+      "rank": null
+    },
+    {
+      "title": "Four Comedies",
+      "author": "Carlo Goldoni",
+      "rank": null
+    },
+    {
+      "title": "Four Russian Plays (The Infant",
+      "author": "Denis Fonvizin, Chatsky by Alexander Griboyedov, The Inspector General by Nikolai Gogol, Thunder by Alexander Ostrovsky)",
+      "rank": null
+    },
+    {
+      "title": "Four Tragedies",
+      "author": "Seneca",
+      "rank": null
+    },
+    {
+      "title": "The Four Voyages of Christopher Columbus",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Fourteen Byzantine Rulers (The Chronographia)",
+      "author": "Michael Psellus",
+      "rank": null
+    },
+    {
+      "title": "The Fox, The Captain's Doll, The Ladybird",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Fragments",
+      "author": "Heraclitus",
+      "rank": null
+    },
+    {
+      "title": "Fragments from My Diary",
+      "author": "Maxim Gorky",
+      "rank": null
+    },
+    {
+      "title": "Framley Parsonage",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "rank": null
+    },
+    {
+      "title": "The Frogs and Other Plays (The Wasps and The Poet and the Women)",
+      "author": "Aristophanes",
+      "rank": null
+    },
+    {
+      "title": "From Here to Eternity",
+      "author": "James Jones",
+      "rank": null
+    },
+    {
+      "title": "The Gambler, Bobok, A Nasty Story",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Gargantua and Pantagruel",
+      "author": "François Rabelais",
+      "rank": null
+    },
+    {
+      "title": "Gentlemen Prefer Blondes",
+      "author": "Anita Loos",
+      "rank": null
+    },
+    {
+      "title": "The Georgics",
+      "author": "Virgil, translated by Kimberly Johnson",
+      "rank": null
+    },
+    {
+      "title": "Germania",
+      "author": "Tacitus",
+      "rank": null
+    },
+    {
+      "title": "Germinie Lacerteux",
+      "author": "Edmond and Jules de Goncourt",
+      "rank": null
+    },
+    {
+      "title": "Ghosts and Other Plays (A Public Enemy and When We Dead Wake)",
+      "author": "Henrik Ibsen",
+      "rank": null
+    },
+    {
+      "title": "The Gift of the Magi",
+      "author": "O. Henry",
+      "rank": null
+    },
+    {
+      "title": "The Gilded Age",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Girls' Guide to Hunting and Fishing",
+      "author": "Melissa Bank",
+      "rank": null
+    },
+    {
+      "title": "Gisli Sursson's Saga and The Saga of the People of Eyri",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Glory",
+      "author": "Vladimir Nabokov",
+      "rank": null
+    },
+    {
+      "title": "The God Boy",
+      "author": "Ian Cross",
+      "rank": null
+    },
+    {
+      "title": "God's Trombones",
+      "author": "James Weldon Johnson",
+      "rank": null
+    },
+    {
+      "title": "The Gods Will Have Blood",
+      "author": "Anatole France",
+      "rank": null
+    },
+    {
+      "title": "Going to Meet the Man",
+      "author": "James Baldwin",
+      "rank": null
+    },
+    {
+      "title": "The Golden Ass",
+      "author": "Apuleius",
+      "rank": null
+    },
+    {
+      "title": "The Golden Bowl",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The Golden Casket: Chinese Novellas of Two Millennia",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Golden Legend: Selections",
+      "author": "Jacobus de Voragine",
+      "rank": null
+    },
+    {
+      "title": "The Golovlyov Family",
+      "author": "Mikhail Saltykov-Shchedrin",
+      "rank": null
+    },
+    {
+      "title": "The Good Apprentice",
+      "author": "Iris Murdoch",
+      "rank": null
+    },
+    {
+      "title": "The Good Person of Szechwan",
+      "author": "Bertolt Brecht",
+      "rank": null
+    },
+    {
+      "title": "The Good Soldier",
+      "author": "Ford Madox Ford",
+      "rank": null
+    },
+    {
+      "title": "The Good Soldier Svejk and His Fortunes in the World War",
+      "author": "Jaroslav Hašek",
+      "rank": null
+    },
+    {
+      "title": "Gorgias",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "The Gospel of Wealth: Essays and Other Writings",
+      "author": "Andrew Carnegie",
+      "rank": null
+    },
+    {
+      "title": "Gothic Tales",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "Grace Abounding to the Chief of Sinners",
+      "author": "John Bunyan",
+      "rank": null
+    },
+    {
+      "title": "The Grandissimes",
+      "author": "George Washington Cable",
+      "rank": null
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Greek Fiction (Chariton, Longus)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Greek Political Oratory (Thucydides, Lysias, Andocides, Isocrates, Demosthenes)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Greek Sophists",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Grundrisse",
+      "author": "Karl Marx",
+      "rank": null
+    },
+    {
+      "title": "The Guide",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "Guide to Greece: Volume 1, Central Greece",
+      "author": "Pausanias",
+      "rank": null
+    },
+    {
+      "title": "Guide to Greece: Volume 2, Southern Greece",
+      "author": "Pausanias",
+      "rank": null
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "rank": null
+    },
+    {
+      "title": "Guy Mannering",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "Guys and Dolls and Other Writings",
+      "author": "Damon Runyon",
+      "rank": null
+    },
+    {
+      "title": "The Hand of Ethelberta",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Hard Times",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "A Harlot High and Low",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "Hashish",
+      "author": "Henry de Monfreid",
+      "rank": null
+    },
+    {
+      "title": "The Haunted Dolls' House and Other Ghost Stories",
+      "author": "M. R. James",
+      "rank": null
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "author": "Shirley Jackson",
+      "rank": null
+    },
+    {
+      "title": "A Hazard of New Fortunes",
+      "author": "William Dean Howells",
+      "rank": null
+    },
+    {
+      "title": "He Knew He Was Right",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "The Heart of the Matter",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Heart of Midlothian",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "Heartbreak House",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "Heat Wave",
+      "author": "Penelope Lively",
+      "rank": null
+    },
+    {
+      "title": "Hedda Gabler and Other Plays (The Wild Duck and The Pillars of the Community)",
+      "author": "Henrik Ibsen",
+      "rank": null
+    },
+    {
+      "title": "Helena",
+      "author": "Evelyn Waugh",
+      "rank": null
+    },
+    {
+      "title": "Henderson the Rain King",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "The Heptameron",
+      "author": "Marguerite de Navarre",
+      "rank": null
+    },
+    {
+      "title": "Her Lover",
+      "author": "Albert Cohen",
+      "rank": null
+    },
+    {
+      "title": "Heracles and Other Plays",
+      "author": "Euripides",
+      "rank": null
+    },
+    {
+      "title": "Herland, The Yellow Wallpaper, and Selected Writings",
+      "author": "Charlotte Perkins Gilman",
+      "rank": null
+    },
+    {
+      "title": "A Hero of Our Time",
+      "author": "Mikhail Lermontov",
+      "rank": null
+    },
+    {
+      "title": "Heroides",
+      "author": "Ovid",
+      "rank": null
+    },
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Hesiod (Theogony, Works and Days) and Theognis (Elegies)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Hindu Myths",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Hippocratic Writings",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Histories",
+      "author": "Herodotus",
+      "rank": null
+    },
+    {
+      "title": "The Histories",
+      "author": "Tacitus",
+      "rank": null
+    },
+    {
+      "title": "The History of Alexander",
+      "author": "Quintus Curtius Rufus",
+      "rank": null
+    },
+    {
+      "title": "The History of the Church",
+      "author": "Eusebius",
+      "rank": null
+    },
+    {
+      "title": "The History of Civilization in Europe",
+      "author": "François Guizot",
+      "rank": null
+    },
+    {
+      "title": "The History of the Decline and Fall of the Roman Empire",
+      "author": "Edward Gibbon",
+      "rank": null
+    },
+    {
+      "title": "The History of England (abridged)",
+      "author": "Lord Macaulay",
+      "rank": null
+    },
+    {
+      "title": "A History of the Franks",
+      "author": "Gregory of Tours",
+      "rank": null
+    },
+    {
+      "title": "The History of the Kings of Britain",
+      "author": "Geoffrey of Monmouth translated by Lewis Thorpe",
+      "rank": null
+    },
+    {
+      "title": "The History of Mary Prince",
+      "author": "Mary Prince",
+      "rank": null
+    },
+    {
+      "title": "The History of Mr Polly",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "A History of My Times",
+      "author": "Xenophon",
+      "rank": null
+    },
+    {
+      "title": "A History of New York",
+      "author": "Washington Irving",
+      "rank": null
+    },
+    {
+      "title": "The History of the Peloponnesian War",
+      "author": "Thucydides",
+      "rank": null
+    },
+    {
+      "title": "The History of Rasselas, Prince of Abissinia",
+      "author": "Samuel Johnson",
+      "rank": null
+    },
+    {
+      "title": "History of the Thirteen: (Ferragus, The Duchess of Langeais, The Girl with the Golden Eyes)",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "The History of Tom Jones",
+      "author": "Henry Fielding",
+      "rank": null
+    },
+    {
+      "title": "The Hitopadeśa attributed to \"Narayana\"",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Home and the World",
+      "author": "Rabindranath Tagore",
+      "rank": null
+    },
+    {
+      "title": "Home of the Gentry",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "Homeric Hymns",
+      "author": "Homer",
+      "rank": null
+    },
+    {
+      "title": "Hope Leslie",
+      "author": "Catharine Maria Sedgwick",
+      "rank": null
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "The Hour of the Star",
+      "author": "Clarice Lispector",
+      "rank": null
+    },
+    {
+      "title": "The House of the Dead",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "The House of Mirth",
+      "author": "Edith Wharton",
+      "rank": null
+    },
+    {
+      "title": "The House of the Seven Gables",
+      "author": "Nathaniel Hawthorne",
+      "rank": null
+    },
+    {
+      "title": "The House of Ulloa",
+      "author": "Emilia Pardo Bazán",
+      "rank": null
+    },
+    {
+      "title": "The House with the Green Shutters",
+      "author": "George Douglas Brown",
+      "rank": null
+    },
+    {
+      "title": "How Much Land Does a Man Need? and Other Stories",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "How the Other Half Lives",
+      "author": "Jacob A. Riis",
+      "rank": null
+    },
+    {
+      "title": "Howards End",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "Hrafnkel's Saga and Other Icelandic Stories",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Humboldt's Gift",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Hunger",
+      "author": "Knut Hamsun",
+      "rank": null
+    },
+    {
+      "title": "Hungry Hearts",
+      "author": "Anzia Yezierska",
+      "rank": null
+    },
+    {
+      "title": "The Hunting of the Snark",
+      "author": "Lewis Carroll",
+      "rank": null
+    },
+    {
+      "title": "I Never Promised You a Rose Garden",
+      "author": "Joanne Greenberg",
+      "rank": null
+    },
+    {
+      "title": "I Paint What I Want to See",
+      "author": "Philip Guston",
+      "rank": null
+    },
+    {
+      "title": "Ibn Fadlān and the Land of Darkness: Arab Travellers in the Far North",
+      "author": "ibn Fadlān",
+      "rank": null
+    },
+    {
+      "title": "Ice",
+      "author": "Anna Kavan",
+      "rank": null
+    },
+    {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Idylls of the King",
+      "author": "Alfred Tennyson",
+      "rank": null
+    },
+    {
+      "title": "If Beale Street Could Talk",
+      "author": "James Baldwin",
+      "rank": null
+    },
+    {
+      "title": "The Iliad",
+      "author": "Homer",
+      "rank": null
+    },
+    {
+      "title": "The Imitation of Christ",
+      "author": "Thomas à Kempis",
+      "rank": null
+    },
+    {
+      "title": "The Importance of Being Earnest and Other Plays",
+      "author": "Oscar Wilde",
+      "rank": null
+    },
+    {
+      "title": "In Dubious Battle",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "In the Land of Time, and Other Fantasy Tales",
+      "author": "Lord Dunsany",
+      "rank": null
+    },
+    {
+      "title": "In Patagonia",
+      "author": "Bruce Chatwin",
+      "rank": null
+    },
+    {
+      "title": "In Search of Lost Time: The Way",
+      "author": "Swann's by Marcel Proust",
+      "rank": null
+    },
+    {
+      "title": "In Search of Lost Time: In the Shadow of Young Girls in Flower",
+      "author": "Marcel Proust",
+      "rank": null
+    },
+    {
+      "title": "In Search of Lost Time: The Guernmantes Way",
+      "author": "Marcel Proust",
+      "rank": null
+    },
+    {
+      "title": "In the South Seas",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Incidents in the Life of a Slave Girl",
+      "author": "Harriet Jacobs",
+      "rank": null
+    },
+    {
+      "title": "Inferno and From an Occult Diary",
+      "author": "August Strindberg",
+      "rank": null
+    },
+    {
+      "title": "The Inheritance",
+      "author": "Louisa May Alcott",
+      "rank": null
+    },
+    {
+      "title": "The Innocents Abroad",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "Into the War",
+      "author": "Italo Calvino",
+      "rank": null
+    },
+    {
+      "title": "The Interesting Narrative and Other Writings",
+      "author": "Olaudah Equiano",
+      "rank": null
+    },
+    {
+      "title": "Introductory Lectures on Aesthetics",
+      "author": "Georg Wilhelm Friedrich Hegel",
+      "rank": null
+    },
+    {
+      "title": "The Invisible Man",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The Iron Heel",
+      "author": "Jack London",
+      "rank": null
+    },
+    {
+      "title": "Iron in the Soul",
+      "author": "Jean-Paul Sartre",
+      "rank": null
+    },
+    {
+      "title": "Islamic Mystical Poetry: Sufi Verse from the early Mystics to Rumi",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Island of Dr. Moreau",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "Israel Potter",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "Italian Folktales",
+      "author": "Italo Calvino",
+      "rank": null
+    },
+    {
+      "title": "Italian Hours",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Italian Journey",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "Ivanhoe",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "J R",
+      "author": "William Gaddis",
+      "rank": null
+    },
+    {
+      "title": "Jacques the Fatalist and His Master",
+      "author": "Denis Diderot",
+      "rank": null
+    },
+    {
+      "title": "The Jātakas: Birth Stories of the Bodhisatta",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "rank": null
+    },
+    {
+      "title": "Japanese Nō Dramas",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Jewish War",
+      "author": "Flavius Josephus",
+      "rank": null
+    },
+    {
+      "title": "The Joke and Its Relation to the Unconscious",
+      "author": "Sigmund Freud",
+      "rank": null
+    },
+    {
+      "title": "Joseph Andrews/Shamela",
+      "author": "Henry Fielding",
+      "rank": null
+    },
+    {
+      "title": "The Journal",
+      "author": "George Fox",
+      "rank": null
+    },
+    {
+      "title": "A Journal of the Plague Year",
+      "author": "Daniel Defoe",
+      "rank": null
+    },
+    {
+      "title": "The Journal of a Tour to the Hebrides",
+      "author": "Samuel Johnson",
+      "rank": null
+    },
+    {
+      "title": "Journals and Letters",
+      "author": "Frances Burney",
+      "rank": null
+    },
+    {
+      "title": "The Journals of Captain Cook",
+      "author": "James Cook",
+      "rank": null
+    },
+    {
+      "title": "The Journals of Lewis and Clark",
+      "author": "Meriwether Lewis and William Clark",
+      "rank": null
+    },
+    {
+      "title": "The Journey Through Wales",
+      "author": "Gerald of Wales",
+      "rank": null
+    },
+    {
+      "title": "A Journey to the Western Islands of Scotland",
+      "author": "Samuel Johnson",
+      "rank": null
+    },
+    {
+      "title": "Journey Without Maps",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "Jude the Obscure",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "The Jugurthine War and The Conspiracy of Catiline",
+      "author": "Sallust",
+      "rank": null
+    },
+    {
+      "title": "The Jungle",
+      "author": "Upton Sinclair",
+      "rank": null
+    },
+    {
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "rank": null
+    },
+    {
+      "title": "Just-So Stories",
+      "author": "Rudyard Kipling",
+      "rank": null
+    },
+    {
+      "title": "The Kabbalistic Tradition: An Anthology of Jewish Mysticism",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Kenilworth",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Kim",
+      "author": "Rudyard Kipling",
+      "rank": null
+    },
+    {
+      "title": "King Harald's Saga",
+      "author": "Snorri Sturluson",
+      "rank": null
+    },
+    {
+      "title": "King Solomon's Mines",
+      "author": "H. Rider Haggard",
+      "rank": null
+    },
+    {
+      "title": "Kipps",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The Knockout Artist",
+      "author": "Harry Crews",
+      "rank": null
+    },
+    {
+      "title": "The Koran, translated",
+      "author": "N. J. Dawood",
+      "rank": null
+    },
+    {
+      "title": "The Koran: With Parallel Arabic Text",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Kreutzer Sonata and Other Stories",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "Krishna: The Beautiful Legend of God (Śrīmad Bhāgavata Purāṇa Book X)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Kristin Lavransdatter",
+      "author": "Sigrid Undset",
+      "rank": null
+    },
+    {
+      "title": "Kristin Lavransdatter I: The Wreath",
+      "author": "Sigrid Undset",
+      "rank": null
+    },
+    {
+      "title": "Kristin Lavransdatter II: The Wife",
+      "author": "Sigrid Undset",
+      "rank": null
+    },
+    {
+      "title": "Kristin Lavransdatter III: The Cross",
+      "author": "Sigrid Undset",
+      "rank": null
+    },
+    {
+      "title": "Kusamakura",
+      "author": "Natsume Sōseki",
+      "rank": null
+    },
+    {
+      "title": "The Ladies of the Corridor",
+      "author": "Dorothy Parker and Arnaud d'Usseau",
+      "rank": null
+    },
+    {
+      "title": "Lady Audley's Secret",
+      "author": "Mary Elizabeth Braddon",
+      "rank": null
+    },
+    {
+      "title": "Lady Chatterley's Lover",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Lady Macbeth of Mtsensk and Other Stories",
+      "author": "Nikolai Leskov",
+      "rank": null
+    },
+    {
+      "title": "Lady Susan, The Watsons, Sanditon",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "Lady with the Little Dog and Other Stories, 1896–1904",
+      "author": "Anton Chekhov",
+      "rank": null
+    },
+    {
+      "title": "The Lais of Marie de France",
+      "author": "Marie de France",
+      "rank": null
+    },
+    {
+      "title": "A Laodicean",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "The Last Days of Socrates (Euthyphro, Apology, Crito, Phaedo)",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "The Last Man",
+      "author": "Mary Shelley",
+      "rank": null
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "author": "James Fenimore Cooper",
+      "rank": null
+    },
+    {
+      "title": "A Last Supper of Queer Apostles",
+      "author": "Pedro Lemebel",
+      "rank": null
+    },
+    {
+      "title": "The Later Roman Empire",
+      "author": "Ammianus Marcellinus",
+      "rank": null
+    },
+    {
+      "title": "The Law and the Lady",
+      "author": "Wilkie Collins",
+      "rank": null
+    },
+    {
+      "title": "The Laws",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "The Laws of Manu",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Laxdaela Saga",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Lazarillo de Tormes and The Swindler",
+      "author": "Francisco de Quevedo: Two Spanish Picaresque Novels",
+      "rank": null
+    },
+    {
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "rank": null
+    },
+    {
+      "title": "A Legacy",
+      "author": "Sybille Bedford",
+      "rank": null
+    },
+    {
+      "title": "The Legend of Sleepy Hollow and Other Stories",
+      "author": "Washington Irving",
+      "rank": null
+    },
+    {
+      "title": "Letters from an American Farmer",
+      "author": "J. Hector St.John de Crèvecoeur",
+      "rank": null
+    },
+    {
+      "title": "Letters From My Windmill",
+      "author": "Alphonse Daudet",
+      "rank": null
+    },
+    {
+      "title": "Letters From Russia",
+      "author": "Astolphe de Custine",
+      "rank": null
+    },
+    {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "rank": null
+    },
+    {
+      "title": "The Letters of Abelard and Heloise",
+      "author": "Peter Abelard",
+      "rank": null
+    },
+    {
+      "title": "The Letters of John and Abigail Adams",
+      "author": "Abigail Adams and John Adams",
+      "rank": null
+    },
+    {
+      "title": "Letters of the Late Ignatius Sancho, an African",
+      "author": "Ignatius Sancho",
+      "rank": null
+    },
+    {
+      "title": "The Letters of Vincent van Gogh",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Letters of the Younger Pliny",
+      "author": "Pliny the Younger",
+      "rank": null
+    },
+    {
+      "title": "Letters on England",
+      "author": "Voltaire",
+      "rank": null
+    },
+    {
+      "title": "Letters to Father",
+      "author": "Celeste Galilei",
+      "rank": null
+    },
+    {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "rank": null
+    },
+    {
+      "title": "The Life and Adventures of Nicholas Nickleby",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "The Life and Opinions of the Tomcat Murr",
+      "author": "E. T. A. Hoffmann",
+      "rank": null
+    },
+    {
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "author": "Laurence Sterne",
+      "rank": null
+    },
+    {
+      "title": "A Life in Letters",
+      "author": "Anton Chekhov",
+      "rank": null
+    },
+    {
+      "title": "A Life in Letters",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "A Life in Letters",
+      "author": "Wolfgang Amadeus Mozart",
+      "rank": null
+    },
+    {
+      "title": "A Life in Letters",
+      "author": "William Wordsworth",
+      "rank": null
+    },
+    {
+      "title": "Life is a Dream",
+      "author": "Pedro Calderón de la Barca",
+      "rank": null
+    },
+    {
+      "title": "Life of Apollonius",
+      "author": "Philostratus",
+      "rank": null
+    },
+    {
+      "title": "Life of Black Hawk, or Mà-ka-tai-me-she-kià-kiàk",
+      "author": "Black Hawk",
+      "rank": null
+    },
+    {
+      "title": "The Life of Charlotte Brontë",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "Life of Galileo",
+      "author": "Bertolt Brecht",
+      "rank": null
+    },
+    {
+      "title": "The Life of Henri Brulard",
+      "author": "Stendhal",
+      "rank": null
+    },
+    {
+      "title": "The Life of Milarepa",
+      "author": "Tsangnyön Heruka",
+      "rank": null
+    },
+    {
+      "title": "The Life of St. Columba",
+      "author": "Adomnán of Iona",
+      "rank": null
+    },
+    {
+      "title": "The Life of Saint Teresa of Avila",
+      "author": "Herself",
+      "rank": null
+    },
+    {
+      "title": "The Life of Samuel Johnson",
+      "author": "James Boswell",
+      "rank": null
+    },
+    {
+      "title": "Life on the Mississippi",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Lifted Veil and Brother Jacob",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "The Literature of Japanese American Incarceration edited",
+      "author": "Edited by Frank Abe and Floyd Cheung.",
+      "rank": null
+    },
+    {
+      "title": "A Literary Review",
+      "author": "Søren Kierkegaard",
+      "rank": null
+    },
+    {
+      "title": "The Little Demon",
+      "author": "Fyodor Sologub",
+      "rank": null
+    },
+    {
+      "title": "Little Dorrit",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "A Little Larger Than the Entire Universe",
+      "author": "Fernando Pessoa",
+      "rank": null
+    },
+    {
+      "title": "A Little Learning",
+      "author": "Evelyn Waugh",
+      "rank": null
+    },
+    {
+      "title": "Little Red Riding Hood, Cinderella, and Other Classic Fairy Tales",
+      "author": "Charles Perrault",
+      "rank": null
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "rank": null
+    },
+    {
+      "title": "Lives of the Artists (in two volumes)",
+      "author": "Giorgio Vasari",
+      "rank": null
+    },
+    {
+      "title": "Lives of the Later Caesars",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Living My Life",
+      "author": "Emma Goldman",
+      "rank": null
+    },
+    {
+      "title": "London Labour and the London Poor",
+      "author": "Henry Mayhew",
+      "rank": null
+    },
+    {
+      "title": "The Log from the Sea of Cortez",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Log of a Cowboy",
+      "author": "Andy Adams",
+      "rank": null
+    },
+    {
+      "title": "Lolly Willowes",
+      "author": "Sylvia Townsend Warner",
+      "rank": null
+    },
+    {
+      "title": "The Long Valley",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Longest Journey",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "Looking Backward",
+      "author": "Edward Bellamy",
+      "rank": null
+    },
+    {
+      "title": "Lord Jim",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "Lorna Doone",
+      "author": "R. D. Blackmore",
+      "rank": null
+    },
+    {
+      "title": "The Loss of the Ship Essex, Sunk",
+      "author": "a Whale by Thomas Nickerson and Owen Chase",
+      "rank": null
+    },
+    {
+      "title": "The Lost Estate (Le Grand Meaulnes)",
+      "author": "Alain-Fournier",
+      "rank": null
+    },
+    {
+      "title": "The Lost Honour of Katharina Blum",
+      "author": "Heinrich Böll",
+      "rank": null
+    },
+    {
+      "title": "Lost Illusions",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "The Lost World and Other Thrilling Tales",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "Love and Mr. Lewisham",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "Love (De L'Amour)",
+      "author": "Stendhal",
+      "rank": null
+    },
+    {
+      "title": "Love and Friendship: And Other Youthful Writings",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "Love Visions: The Book of the Duchess; The House of Fame; The Parliament of Birds; The Legend of Good Women",
+      "author": "Geoffrey Chaucer",
+      "rank": null
+    },
+    {
+      "title": "Love-Letters Between a Nobleman and His Sister",
+      "author": "Aphra Behn",
+      "rank": null
+    },
+    {
+      "title": "Loving/Living/Party Going",
+      "author": "Henry Green",
+      "rank": null
+    },
+    {
+      "title": "The Luck of Roaring Camp and Other Writings",
+      "author": "Bret Harte",
+      "rank": null
+    },
+    {
+      "title": "The Lusiads",
+      "author": "Luís Vaz de Camõens",
+      "rank": null
+    },
+    {
+      "title": "Lysistrata and Other Plays (The Acharnians and The Clouds)",
+      "author": "Aristophanes",
+      "rank": null
+    },
+    {
+      "title": "The Mabinogion",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "rank": null
+    },
+    {
+      "title": "Mademoiselle de Maupin",
+      "author": "Théophile Gautier",
+      "rank": null
+    },
+    {
+      "title": "Maggie: A Girl of the Streets",
+      "author": "Stephen Crane",
+      "rank": null
+    },
+    {
+      "title": "The Mahābhārata (abridged)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Maias",
+      "author": "Eça de Queiroz",
+      "rank": null
+    },
+    {
+      "title": "Main Street",
+      "author": "Sinclair Lewis",
+      "rank": null
+    },
+    {
+      "title": "Major Barbara",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "The Major Works",
+      "author": "Sir Thomas Browne",
+      "rank": null
+    },
+    {
+      "title": "Makers of Rome",
+      "author": "Plutarch",
+      "rank": null
+    },
+    {
+      "title": "Maldoror and Poems",
+      "author": "Lautréamont",
+      "rank": null
+    },
+    {
+      "title": "Malgudi Days",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "MAMista",
+      "author": "Len Deighton",
+      "rank": null
+    },
+    {
+      "title": "Man and Superman",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "The Man in the Iron Mask",
+      "author": "Alexandre Dumas",
+      "rank": null
+    },
+    {
+      "title": "The Man Who Had All the Luck",
+      "author": "Arthur Miller",
+      "rank": null
+    },
+    {
+      "title": "The Man Within",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Man-Eater of Malgudi",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "Manon Lescaut",
+      "author": "Abbé Prévost",
+      "rank": null
+    },
+    {
+      "title": "Mansfield Park",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "The Manticore",
+      "author": "Robertson Davies",
+      "rank": null
+    },
+    {
+      "title": "The Manifesto of the Communist Party",
+      "author": "Karl Marx and Friedrich Engels",
+      "rank": null
+    },
+    {
+      "title": "The Manuscript Found in Saragossa",
+      "author": "Jan Potocki",
+      "rank": null
+    },
+    {
+      "title": "The Marble Faun",
+      "author": "Nathaniel Hawthorne",
+      "rank": null
+    },
+    {
+      "title": "Mardi",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "Marius the Epicurean",
+      "author": "Walter Pater",
+      "rank": null
+    },
+    {
+      "title": "The Mark of Zorro",
+      "author": "Johnston McCulley",
+      "rank": null
+    },
+    {
+      "title": "The Marquise of O-- and Other Stories",
+      "author": "Heinrich von Kleist",
+      "rank": null
+    },
+    {
+      "title": "The Marriage of Figaro",
+      "author": "Pierre Beaumarchais",
+      "rank": null
+    },
+    {
+      "title": "The Marsh Arabs",
+      "author": "Wilfred Thesiger",
+      "rank": null
+    },
+    {
+      "title": "Martin Chuzzlewit",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Martin Eden",
+      "author": "Jack London",
+      "rank": null
+    },
+    {
+      "title": "The Martyred",
+      "author": "Richard E. Kim",
+      "rank": null
+    },
+    {
+      "title": "Mary and Maria",
+      "author": "Mary Wollstonecraft/Matilda by Mary Shelley (in one volume)",
+      "rank": null
+    },
+    {
+      "title": "Mary Barton",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "The Masque of the Red Death",
+      "author": "Edgar Allan Poe",
+      "rank": null
+    },
+    {
+      "title": "Master and Man and Other Stories",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "rank": null
+    },
+    {
+      "title": "The Master Builder and Other Plays (Rosmersholm, Little Eyolf and John Gabriel Borkman)",
+      "author": "Henrik Ibsen",
+      "rank": null
+    },
+    {
+      "title": "The Master of Ballantrae",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Maurice",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "Maxims",
+      "author": "La Rochefoucauld",
+      "rank": null
+    },
+    {
+      "title": "Maxims and Reflections",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "The Mayflower Papers (including Of Plymouth Plantation",
+      "author": "William Bradford)",
+      "rank": null
+    },
+    {
+      "title": "The Mayor of Casterbridge",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "McTeague",
+      "author": "Frank Norris",
+      "rank": null
+    },
+    {
+      "title": "Medea and Other Plays (Hecabe, Electra, Heracles)",
+      "author": "Euripides",
+      "rank": null
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "rank": null
+    },
+    {
+      "title": "Meditations and Other Metaphysical Writings",
+      "author": "René Descartes",
+      "rank": null
+    },
+    {
+      "title": "Medieval Writings on Female Spirituality",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Melmoth the Wanderer",
+      "author": "Charles Robert Maturin",
+      "rank": null
+    },
+    {
+      "title": "Memoirs",
+      "author": "Philippe de Commynes",
+      "rank": null
+    },
+    {
+      "title": "Memoirs",
+      "author": "William Tecumseh Sherman",
+      "rank": null
+    },
+    {
+      "title": "Memoirs of My Life",
+      "author": "Edward Gibbon",
+      "rank": null
+    },
+    {
+      "title": "The Memoirs of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "The Memorial Feast for Kökötöy Khan",
+      "author": "Sagymbaĭ Orozbak uulu",
+      "rank": null
+    },
+    {
+      "title": "Mencius",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Metamorphoses",
+      "author": "Ovid",
+      "rank": null
+    },
+    {
+      "title": "The Metaphysical Poets",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Metaphysics",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "Michel the Giant",
+      "author": "Tété-Michel Kpomassie",
+      "rank": null
+    },
+    {
+      "title": "Micromegas and Other Short Fictions",
+      "author": "Voltaire",
+      "rank": null
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "rank": null
+    },
+    {
+      "title": "The Mill on the Floss",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "The Minister's Wooing",
+      "author": "Harriet Beecher Stowe",
+      "rank": null
+    },
+    {
+      "title": "The Misanthrope and Other Plays (Such Preposterously Precious Ladies, Tartuffe, A Doctor Despite Himself, The Would-be Gentleman, Those Learned Ladies)",
+      "author": "Jean-Baptiste Molière",
+      "rank": null
+    },
+    {
+      "title": "The Miser and Other Plays (The School for Wives, The School for Wives Criticized, Don Juan, The Hypochondriac)",
+      "author": "Jean-Baptiste Molière",
+      "rank": null
+    },
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "rank": null
+    },
+    {
+      "title": "Miss Ravenel's Conversion from Secession to Loyalty",
+      "author": "John William De Forest",
+      "rank": null
+    },
+    {
+      "title": "Mr. Sammler's Planet",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "A Modern Instance",
+      "author": "William Dean Howells",
+      "rank": null
+    },
+    {
+      "title": "A Modern Utopia",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "A Modest Proposal and Other Writings",
+      "author": "Jonathan Swift",
+      "rank": null
+    },
+    {
+      "title": "Moll Flanders",
+      "author": "Daniel Defoe",
+      "rank": null
+    },
+    {
+      "title": "The Monk",
+      "author": "Matthew Lewis",
+      "rank": null
+    },
+    {
+      "title": "Monkey King: Journey to the West",
+      "author": "Wu Cheng’en",
+      "rank": null
+    },
+    {
+      "title": "Mont Saint-Michel and Chartres",
+      "author": "Henry Adams",
+      "rank": null
+    },
+    {
+      "title": "A Month in the Country",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "The Moon and Sixpence",
+      "author": "W. Somerset Maugham",
+      "rank": null
+    },
+    {
+      "title": "The Moon Is Down",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Moonstone",
+      "author": "Wilkie Collins",
+      "rank": null
+    },
+    {
+      "title": "More Die of Heartbreak",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "The Morgesons",
+      "author": "Elizabeth Stoddard",
+      "rank": null
+    },
+    {
+      "title": "Le Morte d'Arthur (in two volumes)",
+      "author": "Thomas Malory",
+      "rank": null
+    },
+    {
+      "title": "Mother Courage and Her Children",
+      "author": "Bertolt Brecht",
+      "rank": null
+    },
+    {
+      "title": "The Mountains of California",
+      "author": "John Muir",
+      "rank": null
+    },
+    {
+      "title": "Mozart's Journey to Prague and a Selection of Poems",
+      "author": "Eduard Mörike",
+      "rank": null
+    },
+    {
+      "title": "Mrs Craddock",
+      "author": "W. Somerset Maugham",
+      "rank": null
+    },
+    {
+      "title": "A Murder of Quality",
+      "author": "John le Carré",
+      "rank": null
+    },
+    {
+      "title": "Murder Trials",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "The Murderer",
+      "author": "Roy Heath",
+      "rank": null
+    },
+    {
+      "title": "My Bondage and My Freedom",
+      "author": "Frederick Douglass",
+      "rank": null
+    },
+    {
+      "title": "My Brilliant Career",
+      "author": "Miles Franklin",
+      "rank": null
+    },
+    {
+      "title": "My Childhood, My Apprenticeship and My Universities",
+      "author": "Maxim Gorky",
+      "rank": null
+    },
+    {
+      "title": "Mysteries",
+      "author": "Knut Hamsun",
+      "rank": null
+    },
+    {
+      "title": "The Mysteries of Udolpho",
+      "author": "Ann Radcliffe",
+      "rank": null
+    },
+    {
+      "title": "The Mystery of Edwin Drood",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "The Naked Civil Servant",
+      "author": "Quentin Crisp",
+      "rank": null
+    },
+    {
+      "title": "Nana",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+      "author": "Edgar Allan Poe",
+      "rank": null
+    },
+    {
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "rank": null
+    },
+    {
+      "title": "Narrative of Sojourner Truth",
+      "author": "Sojourner Truth",
+      "rank": null
+    },
+    {
+      "title": "The Narrow Road to the Deep North and Other Travel Sketches",
+      "author": "Matsuo Bashō",
+      "rank": null
+    },
+    {
+      "title": "A Nation of Women",
+      "author": "Luisa Capetillo",
+      "rank": null
+    },
+    {
+      "title": "Natural History: A Selection",
+      "author": "Pliny the Elder",
+      "rank": null
+    },
+    {
+      "title": "Nature and Selected Essays",
+      "author": "Ralph Waldo Emerson",
+      "rank": null
+    },
+    {
+      "title": "The Nature of the Gods",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "rank": null
+    },
+    {
+      "title": "Netochka Nezvanova",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "The New Atalantis",
+      "author": "Delarivier Manley",
+      "rank": null
+    },
+    {
+      "title": "A New England Nun",
+      "author": "Mary Eleanor Wilkins Freeman",
+      "rank": null
+    },
+    {
+      "title": "A New-England Tale",
+      "author": "Catharine Maria Sedgwick",
+      "rank": null
+    },
+    {
+      "title": "The New Machiavelli",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "New Science",
+      "author": "Giambattista Vico",
+      "rank": null
+    },
+    {
+      "title": "A New View of Society and Other Writings",
+      "author": "Robert Owen",
+      "rank": null
+    },
+    {
+      "title": "News from Nowhere and Other Writings",
+      "author": "William Morris",
+      "rank": null
+    },
+    {
+      "title": "The Nibelungenlied",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Nicomachean Ethics",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "Niels Lyhne",
+      "author": "Jens Peter Jacobsen",
+      "rank": null
+    },
+    {
+      "title": "A Nietzsche Reader",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "The Nigger of the Narcissus",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "A Night in Acadie",
+      "author": "Kate Chopin",
+      "rank": null
+    },
+    {
+      "title": "Nights with Uncle Remus",
+      "author": "Joel Chandler Harris",
+      "rank": null
+    },
+    {
+      "title": "Nineteenth-Century American Poetry",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Njal's Saga",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "No Name",
+      "author": "Wilkie Collins",
+      "rank": null
+    },
+    {
+      "title": "Nobody Knows My Name",
+      "author": "James Baldwin",
+      "rank": null
+    },
+    {
+      "title": "Noli Me Tangere",
+      "author": "José Rizal",
+      "rank": null
+    },
+    {
+      "title": "North American Indians",
+      "author": "George Catlin",
+      "rank": null
+    },
+    {
+      "title": "North and South",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "Northanger Abbey",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "Northland Stories",
+      "author": "Jack London",
+      "rank": null
+    },
+    {
+      "title": "Nostromo",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "The Notebooks of Malte Laurids Brigge",
+      "author": "Rainer Maria Rilke",
+      "rank": null
+    },
+    {
+      "title": "Notes from Underground, The Double: A Petersburg Poem",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Notes on the State of Virginia",
+      "author": "Thomas Jefferson",
+      "rank": null
+    },
+    {
+      "title": "Notre-Dame of Paris",
+      "author": "Victor Hugo",
+      "rank": null
+    },
+    {
+      "title": "O Pioneers!",
+      "author": "Willa Cather",
+      "rank": null
+    },
+    {
+      "title": "The Obedience of a Christian Man",
+      "author": "William Tyndale",
+      "rank": null
+    },
+    {
+      "title": "Oblomov",
+      "author": "Ivan Goncharov",
+      "rank": null
+    },
+    {
+      "title": "Octavia",
+      "author": "Seneca",
+      "rank": null
+    },
+    {
+      "title": "The Octopus",
+      "author": "Frank Norris",
+      "rank": null
+    },
+    {
+      "title": "The Odd Women",
+      "author": "George Gissing",
+      "rank": null
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "rank": null
+    },
+    {
+      "title": "Of Ghosts and Goblins",
+      "author": "Lafcadio Hearn",
+      "rank": null
+    },
+    {
+      "title": "Of Human Bondage",
+      "author": "W. Somerset Maugham",
+      "rank": null
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Old Curiosity Shop",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Old Goriot",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "The Old Wives' Tale",
+      "author": "Arnold Bennett",
+      "rank": null
+    },
+    {
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Omoo",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "On the Good Life (including The Dream of Scipio)",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "On Government",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "rank": null
+    },
+    {
+      "title": "On Love and Barley: Haiku",
+      "author": "Matsuo Bashō",
+      "rank": null
+    },
+    {
+      "title": "On the Nature of the Universe",
+      "author": "Lucretius",
+      "rank": null
+    },
+    {
+      "title": "On Painting",
+      "author": "Leon Battista Alberti",
+      "rank": null
+    },
+    {
+      "title": "On Revolution",
+      "author": "Hannah Arendt",
+      "rank": null
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "rank": null
+    },
+    {
+      "title": "On Suicide",
+      "author": "Émile Durkheim",
+      "rank": null
+    },
+    {
+      "title": "On to the Alamo",
+      "author": "Richard Penn Smith",
+      "rank": null
+    },
+    {
+      "title": "On War",
+      "author": "Karl Von Clausewitz",
+      "rank": null
+    },
+    {
+      "title": "Once There Was A War",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey",
+      "rank": null
+    },
+    {
+      "title": "Only When I Larf",
+      "author": "Len Deighton",
+      "rank": null
+    },
+    {
+      "title": "The Ordeal of Richard Feverel",
+      "author": "George Meredith",
+      "rank": null
+    },
+    {
+      "title": "The Oregon Trail",
+      "author": "Francis Parkman",
+      "rank": null
+    },
+    {
+      "title": "The Oresteia: Agamemnon, The Libation Bearers, The Eumenides",
+      "author": "Aeschylus",
+      "rank": null
+    },
+    {
+      "title": "Orestes and Other Plays (The Children of Heracles, Andromache, The Suppliant Women, The Phoenician Women, Iphigenia in Aulis)",
+      "author": "Euripides",
+      "rank": null
+    },
+    {
+      "title": "An Organizer's Tale: Speeches",
+      "author": "César Chávez",
+      "rank": null
+    },
+    {
+      "title": "Orient Express",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Origin of the Family, Private Property and the State",
+      "author": "Friedrich Engels",
+      "rank": null
+    },
+    {
+      "title": "The Origin of Species",
+      "author": "Charles Darwin",
+      "rank": null
+    },
+    {
+      "title": "Orkneyinga Saga",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Orlando Furioso (in two volumes)",
+      "author": "Ludovico Ariosto",
+      "rank": null
+    },
+    {
+      "title": "Oroonoko, The Rover, and Other Works",
+      "author": "Aphra Behn",
+      "rank": null
+    },
+    {
+      "title": "Our Man in Havana",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "Our Mutual Friend",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Our Nig",
+      "author": "Harriet E. Wilson",
+      "rank": null
+    },
+    {
+      "title": "P – Q",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Painter of Signs",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "A Pair of Blue Eyes",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Pamela",
+      "author": "Samuel Richardson",
+      "rank": null
+    },
+    {
+      "title": "Pan",
+      "author": "Knut Hamsun",
+      "rank": null
+    },
+    {
+      "title": "The Pañcatantra",
+      "author": "Viśnu Sarma",
+      "rank": null
+    },
+    {
+      "title": "Parade's End",
+      "author": "Ford Madox Ford",
+      "rank": null
+    },
+    {
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "rank": null
+    },
+    {
+      "title": "A Parisian Affair and Other Stories",
+      "author": "Guy de Maupassant",
+      "rank": null
+    },
+    {
+      "title": "Parzival",
+      "author": "Wolfram von Eschenbach",
+      "rank": null
+    },
+    {
+      "title": "A Passage to India",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "Passing",
+      "author": "Nella Larsen",
+      "rank": null
+    },
+    {
+      "title": "The Pastures of Heaven",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "Patañjali's Yoga Sūtra",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Pathfinder",
+      "author": "James Fenimore Cooper",
+      "rank": null
+    },
+    {
+      "title": "Paul and Virginia",
+      "author": "Bernardin de Saint-Pierre",
+      "rank": null
+    },
+    {
+      "title": "The Pearl",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "Peer Gynt",
+      "author": "Henrik Ibsen",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of Demons",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of First World War Poetry",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of French Poetry",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of Mermaids",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of Pirates",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of Renaissance Verse",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of Victorian Verse",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Penguin Book of Witches",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Penrod",
+      "author": "Booth Tarkington",
+      "rank": null
+    },
+    {
+      "title": "Pensées",
+      "author": "Blaise Pascal",
+      "rank": null
+    },
+    {
+      "title": "The People Opposite",
+      "author": "Georges Simenon",
+      "rank": null
+    },
+    {
+      "title": "A Persian Expedition",
+      "author": "Xenophon",
+      "rank": null
+    },
+    {
+      "title": "The Persian Letters",
+      "author": "Montesquieu",
+      "rank": null
+    },
+    {
+      "title": "Personal Memoirs",
+      "author": "Ulysses S. Grant",
+      "rank": null
+    },
+    {
+      "title": "Personal Narrative of a Journey to the Equinoctial Regions of the New Continent",
+      "author": "Alexander von Humboldt",
+      "rank": null
+    },
+    {
+      "title": "Personal Writings",
+      "author": "Ignatius of Loyola",
+      "rank": null
+    },
+    {
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "Petals of Blood",
+      "author": "Ngũgĩ wa Thiong'o",
+      "rank": null
+    },
+    {
+      "title": "Peter Pan: Peter and Wendy and Peter Pan in Kensington Gardens",
+      "author": "J. M. Barrie",
+      "rank": null
+    },
+    {
+      "title": "Petersburg",
+      "author": "Andrei Bely",
+      "rank": null
+    },
+    {
+      "title": "Phaedrus and Letters VII and VIII",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "Philebus",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "Philosophical Dictionary",
+      "author": "François Voltaire",
+      "rank": null
+    },
+    {
+      "title": "A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful",
+      "author": "Edmund Burke",
+      "rank": null
+    },
+    {
+      "title": "Phineas Redux",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "The Physiology of Taste",
+      "author": "Jean-Anthelme Brillat-Savarin",
+      "rank": null
+    },
+    {
+      "title": "The Pickwick Papers",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "rank": null
+    },
+    {
+      "title": "Pictures from Italy",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Pierre: or, The Ambiguities",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "Pierre and Jean",
+      "author": "Guy de Maupassant",
+      "rank": null
+    },
+    {
+      "title": "Piers the Ploughman",
+      "author": "William Langland",
+      "rank": null
+    },
+    {
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "rank": null
+    },
+    {
+      "title": "The Pillow Book of Sei Shōnagon",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Pinocchio: The Tale of a Puppet",
+      "author": "Carlo Collodi",
+      "rank": null
+    },
+    {
+      "title": "The Pioneers",
+      "author": "James Fenimore Cooper",
+      "rank": null
+    },
+    {
+      "title": "The Pit",
+      "author": "Frank Norris",
+      "rank": null
+    },
+    {
+      "title": "Plays",
+      "author": "Anton Chekhov",
+      "rank": null
+    },
+    {
+      "title": "Plays and Fragments",
+      "author": "Menander (earlier edition includes Characters by Theophrastus)",
+      "rank": null
+    },
+    {
+      "title": "Plays Pleasant: (Arms and the Man, Candida, The Man of Destiny and You Never Can Tell)",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "Plays Unpleasant: (Widowers' Houses, The Philanderer and Mrs. Warren's Profession)",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "Plutarch on Sparta",
+      "author": "Plutarch",
+      "rank": null
+    },
+    {
+      "title": "Poems",
+      "author": "Li Po",
+      "rank": null
+    },
+    {
+      "title": "Poems",
+      "author": "Wang Wei",
+      "rank": null
+    },
+    {
+      "title": "Poems and Ballads",
+      "author": "Algernon Charles Swinburne",
+      "rank": null
+    },
+    {
+      "title": "Poems and Prose",
+      "author": "Gerard Manley Hopkins",
+      "rank": null
+    },
+    {
+      "title": "Poems, Protest, and a Dream",
+      "author": "Sor Juana Inés de la Cruz",
+      "rank": null
+    },
+    {
+      "title": "Poetics",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "The Politics",
+      "author": "Aristotle",
+      "rank": null
+    },
+    {
+      "title": "Polyeuctus, The Liar, Nicomedia",
+      "author": "Pierre Corneille",
+      "rank": null
+    },
+    {
+      "title": "Poor Folk and Other Stories",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "The Portable Anna Julia Cooper",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Arthur Miller",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Beat Reader",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Charles W. Chesnutt",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Dante",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Edith Wharton",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Faulkner",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Graham Greene",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Hannah Arendt",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Henry James",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable John Adams",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Mark Twain",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Nietzsche",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Sixties Reader",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Twentieth-Century Russian Reader",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Portable Walt Whitman",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "A Portrait of the Artist as a Young Man",
+      "author": "James Joyce",
+      "rank": null
+    },
+    {
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The Pot of Gold and Other Plays (The Prisoners, The Brothers Menaechmus, The Swaggering Soldier, Pseudolus)",
+      "author": "Plautus",
+      "rank": null
+    },
+    {
+      "title": "The Power and the Glory",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Power of Sympathy",
+      "author": "William Hill Brown/The Coquette by Hannah Webster Foster (in one volume)",
+      "rank": null
+    },
+    {
+      "title": "Pragmatism and Other Writings",
+      "author": "William James",
+      "rank": null
+    },
+    {
+      "title": "The Prairie",
+      "author": "James Fenimore Cooper",
+      "rank": null
+    },
+    {
+      "title": "Praise of Folly",
+      "author": "Desiderius Erasmus",
+      "rank": null
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "The Prime Minister",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "rank": null
+    },
+    {
+      "title": "A Prince of Swindlers",
+      "author": "Guy Boothby",
+      "rank": null
+    },
+    {
+      "title": "The Prince and the Pauper",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Princess Casamassima",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "La Princesse de Clèves",
+      "author": "Madame de Lafayette",
+      "rank": null
+    },
+    {
+      "title": "A Princess of Mars",
+      "author": "Edgar Rice Burroughs",
+      "rank": null
+    },
+    {
+      "title": "Principles of Geology",
+      "author": "Charles Lyell",
+      "rank": null
+    },
+    {
+      "title": "Principles of Human Knowledge and Three Dialogues",
+      "author": "George Berkeley",
+      "rank": null
+    },
+    {
+      "title": "The Prisoner of Zenda",
+      "author": "Anthony Hope",
+      "rank": null
+    },
+    {
+      "title": "The Private Journal of William Reynolds",
+      "author": "William Reynolds",
+      "rank": null
+    },
+    {
+      "title": "The Private Memoirs and Confessions of a Justified Sinner",
+      "author": "James Hogg",
+      "rank": null
+    },
+    {
+      "title": "The Professor",
+      "author": "Charlotte Brontë",
+      "rank": null
+    },
+    {
+      "title": "Prometheus Bound and Other Plays (The Suppliants, Seven Against Thebes, The Persians)",
+      "author": "Aeschylus",
+      "rank": null
+    },
+    {
+      "title": "Protagoras and Meno",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "The Psychopathology of Everyday Life",
+      "author": "Sigmund Freud",
+      "rank": null
+    },
+    {
+      "title": "Pudd'nhead Wilson",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Apocolocyntosis",
+      "author": "Petronius and Seneca",
+      "rank": null
+    },
+    {
+      "title": "The Pursuit of the Well-Beloved",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Pygmalion",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "The Queen of Spades and Other Stories",
+      "author": "Alexander Pushkin",
+      "rank": null
+    },
+    {
+      "title": "The Quest of the Holy Grail",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Quiet American",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "Raffles: The Amateur Cracksman",
+      "author": "E. W. Hornung",
+      "rank": null
+    },
+    {
+      "title": "Ragged Dick",
+      "author": "Horatio Alger Jr.",
+      "rank": null
+    },
+    {
+      "title": "The Rainbow",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Rama the Steadfast",
+      "author": "Valmiki",
+      "rank": null
+    },
+    {
+      "title": "The Ramayana: A Shortened Modern Prose Version",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "Rameau's Nephew",
+      "author": "Denis Diderot",
+      "rank": null
+    },
+    {
+      "title": "Rashōmon and Seventeen Other Stories",
+      "author": "Ryunosuke Akutagawa",
+      "rank": null
+    },
+    {
+      "title": "Ravelstein",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Rebecca of Sunnybrook Farm",
+      "author": "Kate Douglas Wiggin",
+      "rank": null
+    },
+    {
+      "title": "The Recognitions",
+      "author": "William Gaddis",
+      "rank": null
+    },
+    {
+      "title": "The Red and the Black",
+      "author": "Stendhal",
+      "rank": null
+    },
+    {
+      "title": "The Red Badge of Courage and Other Stories",
+      "author": "Stephen Crane",
+      "rank": null
+    },
+    {
+      "title": "The Red Pony",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "Redburn",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "Reflections on the Revolution in France",
+      "author": "Edmund Burke",
+      "rank": null
+    },
+    {
+      "title": "La Regenta",
+      "author": "Leopoldo Alas",
+      "rank": null
+    },
+    {
+      "title": "Relativity: The Special and the General Theory",
+      "author": "Albert Einstein",
+      "rank": null
+    },
+    {
+      "title": "Renaissance Women Poets",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "Resurrection",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The Return of the Native",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Revelations of Divine Love",
+      "author": "Julian of Norwich",
+      "rank": null
+    },
+    {
+      "title": "Reveries of the Solitary Walker",
+      "author": "Jean-Jacques Rousseau",
+      "rank": null
+    },
+    {
+      "title": "The Rig Veda",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Rights of Man",
+      "author": "Thomas Paine",
+      "rank": null
+    },
+    {
+      "title": "The Rise and Fall of Athens",
+      "author": "Plutarch",
+      "rank": null
+    },
+    {
+      "title": "The Rise of the Roman Empire",
+      "author": "Polybius",
+      "rank": null
+    },
+    {
+      "title": "Rob Roy",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "The Robbers and Wallenstein",
+      "author": "Friedrich Schiller",
+      "rank": null
+    },
+    {
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "rank": null
+    },
+    {
+      "title": "Roderick Hudson",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The Roman History: The Reign of Augustus",
+      "author": "Cassius Dio",
+      "rank": null
+    },
+    {
+      "title": "The Romance of Tristan",
+      "author": "Beroul",
+      "rank": null
+    },
+    {
+      "title": "Romance in Marseille,",
+      "author": "Claude McKay",
+      "rank": null
+    },
+    {
+      "title": "The Romance of the Three Kingdoms",
+      "author": "Luo Guanzhong",
+      "rank": null
+    },
+    {
+      "title": "Romantic Fairy Tales",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Rome and Italy (Books VI-X)",
+      "author": "Titus Livy",
+      "rank": null
+    },
+    {
+      "title": "Rome and the Mediterranean (Books XXXI-XLV)",
+      "author": "Titus Livy",
+      "rank": null
+    },
+    {
+      "title": "Romola",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "A Room of One's Own",
+      "author": "Virginia Woolf",
+      "rank": null
+    },
+    {
+      "title": "A Room with a View",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "The Roots of Ayurveda",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Roots of Vedānta: Selections from Śaṅkara's Writings",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Rostam: Tales of Love and War from the Shahnameh",
+      "author": "Abolqasem Ferdowsi",
+      "rank": null
+    },
+    {
+      "title": "The Rope and Other Plays (The Ghost, A Three-Dollar Day, Amphitryo)",
+      "author": "Plautus",
+      "rank": null
+    },
+    {
+      "title": "Roughing It",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "Roxana, Or The Fortunate Mistress",
+      "author": "Daniel Defoe",
+      "rank": null
+    },
+    {
+      "title": "The Ruba'iyat of Omar Khayyam",
+      "author": "Omar Khayyam",
+      "rank": null
+    },
+    {
+      "title": "Rudin",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "The Rule of St Benedict",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Rumpole's Return",
+      "author": "John Mortimer",
+      "rank": null
+    },
+    {
+      "title": "Rupert of Hentzau",
+      "author": "Anthony Hope",
+      "rank": null
+    },
+    {
+      "title": "R.U.R.",
+      "author": "Karel Čapek",
+      "rank": null
+    },
+    {
+      "title": "A Russian Journal",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "Russian Thinkers",
+      "author": "Isaiah Berlin",
+      "rank": null
+    },
+    {
+      "title": "Ruth Hall",
+      "author": "Fanny Fern",
+      "rank": null
+    },
+    {
+      "title": "The Saga of Grettir the Strong",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Saga of the People of Laxardal and Bolli Bollason's Tale",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Saga of the Volsungs",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Sagas of Warrior-Poets (Kormak's Saga, The Saga of Hallfred Troublesome-Poet, The Saga of Gunnlaug Serpent-Tongue, The Saga of Bjorn, Champion of the Hitardal People and Viglund's Saga)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Sailing Alone Around the World",
+      "author": "Joshua Slocum",
+      "rank": null
+    },
+    {
+      "title": "Saint Joan",
+      "author": "George Bernard Shaw",
+      "rank": null
+    },
+    {
+      "title": "Salammbô",
+      "author": "Gustave Flaubert",
+      "rank": null
+    },
+    {
+      "title": "Sanshirō",
+      "author": "Natsume Sōseki",
+      "rank": null
+    },
+    {
+      "title": "Satires and Epistles",
+      "author": "Persius and Satires by Horace",
+      "rank": null
+    },
+    {
+      "title": "Satirical Sketches",
+      "author": "Lucian",
+      "rank": null
+    },
+    {
+      "title": "The Satyricon",
+      "author": "Petronius and Seneca",
+      "rank": null
+    },
+    {
+      "title": "The Savoy Operas: The Complete Gilbert and Sullivan",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "rank": null
+    },
+    {
+      "title": "Scenes of Clerical Life",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "The School for Scandal and Other Plays",
+      "author": "Richard Brinsley Sheridan",
+      "rank": null
+    },
+    {
+      "title": "The Schreber Case",
+      "author": "Sigmund Freud",
+      "rank": null
+    },
+    {
+      "title": "The Science Fiction of Edgar Allan Poe",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Sea and Sardinia",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "The Sea, The Sea",
+      "author": "Iris Murdoch",
+      "rank": null
+    },
+    {
+      "title": "The Sebastopol Sketches",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The Secret Agent",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "rank": null
+    },
+    {
+      "title": "The Secret History",
+      "author": "Procopius",
+      "rank": null
+    },
+    {
+      "title": "Seize the Day",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Selected Essays",
+      "author": "Samuel Johnson",
+      "rank": null
+    },
+    {
+      "title": "Selected Fables",
+      "author": "Jean de La Fontaine",
+      "rank": null
+    },
+    {
+      "title": "Selected Journalism: 1850–1870",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Selected Letters",
+      "author": "Pietro Aretino",
+      "rank": null
+    },
+    {
+      "title": "Selected Letters",
+      "author": "Lady Mary Wortley Montagu",
+      "rank": null
+    },
+    {
+      "title": "Selected Letters",
+      "author": "Madame de Sévigné",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Charles Baudelaire",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Robert Browning",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Robert Burns",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Lord Byron",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "John Clare",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Samuel Taylor Coleridge",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "John Dryden",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Paul Laurence Dunbar",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Victor Hugo",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "John Keats",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Jules Laforgue",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Henry Wadsworth Longfellow",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems and Letters",
+      "author": "Michelangelo",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Pierre Ronsard",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Percy Bysshe Shelley",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Rabindranath Tagore",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Alfred Tennyson",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "William Wordsworth",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems and Prose",
+      "author": "Percy Shelley",
+      "rank": null
+    },
+    {
+      "title": "Selected Poems and Fragments",
+      "author": "Friedrich Hölderlin",
+      "rank": null
+    },
+    {
+      "title": "Selected Political Speeches",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "Selected Prose",
+      "author": "Matthew Arnold",
+      "rank": null
+    },
+    {
+      "title": "Selected Prose",
+      "author": "John Donne",
+      "rank": null
+    },
+    {
+      "title": "Selected Prose",
+      "author": "Heinrich Heine",
+      "rank": null
+    },
+    {
+      "title": "Selected Prose",
+      "author": "Charles Lamb",
+      "rank": null
+    },
+    {
+      "title": "Selected Short Stories",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "Selected Short Stories",
+      "author": "Rabindranath Tagore",
+      "rank": null
+    },
+    {
+      "title": "Selected Stories",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Selected Stories",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "Selected Tales",
+      "author": "Jacob and Wilhelm Grimm",
+      "rank": null
+    },
+    {
+      "title": "Selected Tales",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Selected Tales and Sketches",
+      "author": "Nathaniel Hawthorne",
+      "rank": null
+    },
+    {
+      "title": "Selected Verse",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "Selected Works",
+      "author": "Marcus Tullius Cicero",
+      "rank": null
+    },
+    {
+      "title": "Selected Works",
+      "author": "John Wilmot, Earl of Rochester",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Thomas Aquinas",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Rubén Darío",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Gérard de Nerval",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Meister Eckhart",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "William Hazlitt",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Samuel Johnson",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "José Martí",
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Sir Walter Raleigh",
+      "rank": null
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "rank": null
+    },
+    {
+      "title": "Sentimental Education",
+      "author": "Gustave Flaubert",
+      "rank": null
+    },
+    {
+      "title": "A Sentimental Journey",
+      "author": "Laurence Sterne",
+      "rank": null
+    },
+    {
+      "title": "Servitude and Grandeur of Arms",
+      "author": "Alfred de Vigny",
+      "rank": null
+    },
+    {
+      "title": "Seven Viking Romances (Arrow-Odd, King Gautrek, Halfdan Eysteinsson, Bosi and Herraud, Egil and Asmund, Thorstein Mansion-Might and Helgi Thorisson)",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Shadow-Line",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "Shahnameh: The Persian Book of Kings",
+      "author": "Abolqasem Ferdowsi",
+      "rank": null
+    },
+    {
+      "title": "The Shape of Things to Come",
+      "author": "H.G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The Shattered Thigh and Other Plays",
+      "author": "Bhāsa",
+      "rank": null
+    },
+    {
+      "title": "She",
+      "author": "H. Rider Haggard",
+      "rank": null
+    },
+    {
+      "title": "Shirley",
+      "author": "Charlotte Brontë",
+      "rank": null
+    },
+    {
+      "title": "The Shooting Party",
+      "author": "Anton Chekhov",
+      "rank": null
+    },
+    {
+      "title": "A Short Account of the Destruction of the Indies",
+      "author": "Bartolomé de Las Casas",
+      "rank": null
+    },
+    {
+      "title": "A Short History of the World",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The Short Reign of Pippin IV",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Shorter Poems",
+      "author": "Edmund Spenser",
+      "rank": null
+    },
+    {
+      "title": "Sickness unto Death",
+      "author": "Søren Kierkegaard",
+      "rank": null
+    },
+    {
+      "title": "Sidney's the Defence of Poesy and Selected Renaissance Literary Criticism",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Sign of Four",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "Silas Marner",
+      "author": "George Eliot",
+      "rank": null
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "rank": null
+    },
+    {
+      "title": "Simhāsana Dvātrimśikā: Thirty-Two Tales of the Throne of Vikramaditya",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Sir Gawain and the Green Knight",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Sister Carrie",
+      "author": "Theodore Dreiser",
+      "rank": null
+    },
+    {
+      "title": "Six Records of a Floating Life",
+      "author": "Shen Fu",
+      "rank": null
+    },
+    {
+      "title": "Six Yüan Plays",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Sixteen Satires",
+      "author": "Juvenal",
+      "rank": null
+    },
+    {
+      "title": "Sixty Stories",
+      "author": "Donald Barthelme",
+      "rank": null
+    },
+    {
+      "title": "Sketches",
+      "author": "Boz by Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "Sketches from a Hunter's Album",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "Slaughterhouse 5",
+      "author": "Kurt Vonnegut",
+      "rank": null
+    },
+    {
+      "title": "The Sleeper Awakes",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The Small House at Allington",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "A Small Town in Germany",
+      "author": "John le Carré",
+      "rank": null
+    },
+    {
+      "title": "The Snow Leopard",
+      "author": "Peter Matthiessen",
+      "rank": null
+    },
+    {
+      "title": "The Social Contract",
+      "author": "Jean-Jacques Rousseau",
+      "rank": null
+    },
+    {
+      "title": "Something of Myself",
+      "author": "Rudyard Kipling",
+      "rank": null
+    },
+    {
+      "title": "Sometimes a Great Notion",
+      "author": "Ken Kesey",
+      "rank": null
+    },
+    {
+      "title": "Song of the Cid: Dual-Language Edition with Parallel Text",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Song of Roland",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Songs of the South: An Anthology of Ancient Chinese Poems",
+      "author": "Qu Yuan and Other Poets",
+      "rank": null
+    },
+    {
+      "title": "Sons and Lovers",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "The Sorrows of Young Werther",
+      "author": "Johann Wolfgang von Goethe",
+      "rank": null
+    },
+    {
+      "title": "The Soul of Man Under Socialism and Selected Critical Prose",
+      "author": "Oscar Wilde",
+      "rank": null
+    },
+    {
+      "title": "The Souls of Black Folk",
+      "author": "W. E. B. Du Bois",
+      "rank": null
+    },
+    {
+      "title": "South: The Endurance Expedition",
+      "author": "Ernest Shackleton",
+      "rank": null
+    },
+    {
+      "title": "Spain, Take This Chalice from Me and Other Poems",
+      "author": "Cesar Vallejo",
+      "rank": null
+    },
+    {
+      "title": "Speaking of Śiva",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Spiritual Verses",
+      "author": "Rumi",
+      "rank": null
+    },
+    {
+      "title": "The Spoils of Poynton",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Spoon River Anthology",
+      "author": "Edgar Lee Masters",
+      "rank": null
+    },
+    {
+      "title": "Spring Torrents",
+      "author": "Ivan Turgenev",
+      "rank": null
+    },
+    {
+      "title": "The Spy",
+      "author": "James Fenimore Cooper",
+      "rank": null
+    },
+    {
+      "title": "The Star-Child",
+      "author": "Oscar Wilde",
+      "rank": null
+    },
+    {
+      "title": "The State and Revolution",
+      "author": "V. I. Lenin",
+      "rank": null
+    },
+    {
+      "title": "Steal This Book",
+      "author": "Abbie Hoffman",
+      "rank": null
+    },
+    {
+      "title": "The Storm",
+      "author": "Daniel Defoe",
+      "rank": null
+    },
+    {
+      "title": "Storm of Steel",
+      "author": "Ernst Jünger",
+      "rank": null
+    },
+    {
+      "title": "The Story of an African Farm",
+      "author": "Olive Schreiner",
+      "rank": null
+    },
+    {
+      "title": "The Story of Gösta Berling",
+      "author": "Selma Lagerlöf",
+      "rank": null
+    },
+    {
+      "title": "The Story of Hong Gildong",
+      "author": "Heo Gyun",
+      "rank": null
+    },
+    {
+      "title": "The Story of My Life",
+      "author": "Giacomo Casanova",
+      "rank": null
+    },
+    {
+      "title": "The Story of the Stone, vol.1: The Golden Days",
+      "author": "Cao Xueqin",
+      "rank": null
+    },
+    {
+      "title": "The Story of the Stone, vol.2: The Crab-Flower Club",
+      "author": "Cao Xueqin",
+      "rank": null
+    },
+    {
+      "title": "The Story of the Stone, vol.3: The Warning Voice",
+      "author": "Cao Xueqin",
+      "rank": null
+    },
+    {
+      "title": "The Story of the Stone, vol.4: The Debt of Tears",
+      "author": "Cao Xueqin and Gao E",
+      "rank": null
+    },
+    {
+      "title": "The Story of the Stone, vol.5: The Dreamer Wakes",
+      "author": "Cao Xueqin and Gao E",
+      "rank": null
+    },
+    {
+      "title": "The Strange Adventures of Mr. Andrew Hawthorn and Other Stories",
+      "author": "John Buchan",
+      "rank": null
+    },
+    {
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Strange Tales From a Chinese Studio",
+      "author": "Pu Songling",
+      "rank": null
+    },
+    {
+      "title": "Street Haunting",
+      "author": "Virginia Woolf",
+      "rank": null
+    },
+    {
+      "title": "The Street of Crocodiles",
+      "author": "Bruno Schulz",
+      "rank": null
+    },
+    {
+      "title": "Struggles and Triumphs",
+      "author": "P. T. Barnum",
+      "rank": null
+    },
+    {
+      "title": "Struggling Upward",
+      "author": "Horatio Alger Jr.",
+      "rank": null
+    },
+    {
+      "title": "Studies on Hysteria",
+      "author": "Sigmund Freud",
+      "rank": null
+    },
+    {
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "Subhashitavali: An Anthology of Comic, Erotic, and Other Verse",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Summer",
+      "author": "Edith Wharton",
+      "rank": null
+    },
+    {
+      "title": "Sunjata",
+      "author": "Bamba Suso and Banna Kanute",
+      "rank": null
+    },
+    {
+      "title": "Sunset Song",
+      "author": "Lewis Grassic Gibbon",
+      "rank": null
+    },
+    {
+      "title": "Sweet Thursday",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Swiss Family Robinson",
+      "author": "Johann Wyss",
+      "rank": null
+    },
+    {
+      "title": "Symposium",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "Ta Hsüeh",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Táin, translated",
+      "author": "Ciarán Carson",
+      "rank": null
+    },
+    {
+      "title": "A Tale of Four Dervishes",
+      "author": "Mir Amman",
+      "rank": null
+    },
+    {
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "rank": null
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "rank": null
+    },
+    {
+      "title": "The Tale of the Heike translated",
+      "author": "Royall Tyler",
+      "rank": null
+    },
+    {
+      "title": "The Tale of Princess Fatima, Warrior Woman",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Tales From the Kathāsaritsāgara",
+      "author": "Somadeva",
+      "rank": null
+    },
+    {
+      "title": "Tales from the Thousand and One Nights",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Tales of Belkin and Other Prose Writings",
+      "author": "Alexander Pushkin",
+      "rank": null
+    },
+    {
+      "title": "The Cosmography and Geography of Africa",
+      "author": "Johannes Leo Africanus",
+      "rank": null
+    },
+    {
+      "title": "Tales of the Greek Heroes",
+      "author": "Roger Lancelyn Green",
+      "rank": null
+    },
+    {
+      "title": "Tales of Hoffmann",
+      "author": "E. T. A. Hoffmann",
+      "rank": null
+    },
+    {
+      "title": "Tales of Soldiers and Civilians",
+      "author": "Ambrose Bierce",
+      "rank": null
+    },
+    {
+      "title": "Tales, Speeches, Essays, and Sketches",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "Talkative Man",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "The Talmud: A Selection",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "rank": null
+    },
+    {
+      "title": "A Taste of Power",
+      "author": "Elaine Brown",
+      "rank": null
+    },
+    {
+      "title": "Ten Days that Shook the World",
+      "author": "John Reed",
+      "rank": null
+    },
+    {
+      "title": "The Tenant of Wildfell Hall",
+      "author": "Anne Brontë",
+      "rank": null
+    },
+    {
+      "title": "Tess of the D'Urbervilles",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Testament of Youth",
+      "author": "Vera Brittain",
+      "rank": null
+    },
+    {
+      "title": "A Texas Cowboy",
+      "author": "Charles A. Siringo",
+      "rank": null
+    },
+    {
+      "title": "Theaetetus",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "Thérèse Raquin",
+      "author": "Émile Zola",
+      "rank": null
+    },
+    {
+      "title": "The Case of Lizzie Borden and Other Writings",
+      "author": "Elizabeth Garver Jordan",
+      "rank": null
+    },
+    {
+      "title": "The Castle",
+      "author": "Franz Kafka",
+      "rank": null
+    },
+    {
+      "title": "The Dawn of Modern Cosmology",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Thing on the Doorstep and Other Weird Stories",
+      "author": "H. P. Lovecraft",
+      "rank": null
+    },
+    {
+      "title": "The Third Man",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Thirty-Nine Steps",
+      "author": "John Buchan",
+      "rank": null
+    },
+    {
+      "title": "Thirty-Two Tales of the Throne of Vikramaditya",
+      "author": "Simhāsana Dvātriṃśikā",
+      "rank": null
+    },
+    {
+      "title": "The Thomas Paine Reader",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Thoughts and Sentiments on the Evil of Slavery",
+      "author": "Quobna Ottobah Cugoano",
+      "rank": null
+    },
+    {
+      "title": "Thoughts from the Ice-Drinker's Studio",
+      "author": "Liang Qichao",
+      "rank": null
+    },
+    {
+      "title": "The Three-Cornered Hat and Other Stories",
+      "author": "Pedro Antonio de Alarcón",
+      "rank": null
+    },
+    {
+      "title": "Three Men in a Boat",
+      "author": "Jerome K. Jerome",
+      "rank": null
+    },
+    {
+      "title": "Three Men on the Bummel",
+      "author": "Jerome K. Jerome",
+      "rank": null
+    },
+    {
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "rank": null
+    },
+    {
+      "title": "Three Plays: (The Father, Miss Julie, Easter)",
+      "author": "August Strindberg",
+      "rank": null
+    },
+    {
+      "title": "Three Plays for Puritans (The Devil's Disciple, Caesar and Cleopatra, Captain Brassbound's Conversion)",
+      "author": "George Bernard Shaw, with a long preface by the author",
+      "rank": null
+    },
+    {
+      "title": "Three Sanskrit Plays (Śakuntalā",
+      "author": "Kālidāsa, Rākshasa's Ring by Viśākhadatta, Mālatī and Mādhava by Bhavabhūti)",
+      "rank": null
+    },
+    {
+      "title": "Three Soldiers",
+      "author": "John Dos Passos",
+      "rank": null
+    },
+    {
+      "title": "Three Tales",
+      "author": "Gustave Flaubert",
+      "rank": null
+    },
+    {
+      "title": "The Three Theban Plays: (Antigone, Oedipus the King, Oedipus at Colonus)",
+      "author": "Sophocles",
+      "rank": null
+    },
+    {
+      "title": "The Threepenny Opera",
+      "author": "Bertolt Brecht",
+      "rank": null
+    },
+    {
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "rank": null
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "Tibetan Book of the Dead",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "A Tiger for Malgudi",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "Timaeus",
+      "author": "Plato",
+      "rank": null
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "To a God Unknown",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "To Jerusalem and Back",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Tono-Bungay",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "Tortilla Flat",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "A Tourist in Africa",
+      "author": "Evelyn Waugh",
+      "rank": null
+    },
+    {
+      "title": "A Tramp Abroad",
+      "author": "Mark Twain",
+      "rank": null
+    },
+    {
+      "title": "The Travels",
+      "author": "Marco Polo",
+      "rank": null
+    },
+    {
+      "title": "The Travels of Sir John Mandeville",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Travels with Charley",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "Travels with a Donkey in the Cévennes",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "Travels with My Aunt",
+      "author": "Graham Greene",
+      "rank": null
+    },
+    {
+      "title": "The Treasure Chest",
+      "author": "Johann Peter Hebel",
+      "rank": null
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "rank": null
+    },
+    {
+      "title": "The Treasure of the City of Ladies",
+      "author": "Christine de Pizan",
+      "rank": null
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "rank": null
+    },
+    {
+      "title": "Tristan",
+      "author": "Gottfried von Strassburg",
+      "rank": null
+    },
+    {
+      "title": "Troilus and Criseyde",
+      "author": "Geoffrey Chaucer",
+      "rank": null
+    },
+    {
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Twelve Angry Men",
+      "author": "Reginald Rose",
+      "rank": null
+    },
+    {
+      "title": "Twelve Years a Slave",
+      "author": "Solomon Northup",
+      "rank": null
+    },
+    {
+      "title": "The Twelve Caesars",
+      "author": "Suetonius",
+      "rank": null
+    },
+    {
+      "title": "Twenty Love Poems and a Song of Despair",
+      "author": "Pablo Neruda",
+      "rank": null
+    },
+    {
+      "title": "The Twilight of the Idols",
+      "author": "Friedrich Nietzsche",
+      "rank": null
+    },
+    {
+      "title": "Two Lives of Charlemagne",
+      "author": "Einhard (Vita Karoli Magni) and Notker the Stammerer (De Carolo Magno",
+      "rank": null
+    },
+    {
+      "title": "The Woman Who Had Two Navels and Tales of the Tropical Gothic",
+      "author": "Nick Joaquin",
+      "rank": null
+    },
+    {
+      "title": "Two on a Tower",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Two Years Before the Mast",
+      "author": "Richard Henry Dana Jr.",
+      "rank": null
+    },
+    {
+      "title": "Typee",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "Typhoon and Other Stories",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "U – V",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Uncanny",
+      "author": "Sigmund Freud",
+      "rank": null
+    },
+    {
+      "title": "Uncle Remus",
+      "author": "Joel Chandler Harris",
+      "rank": null
+    },
+    {
+      "title": "Uncle Silas",
+      "author": "Joseph Sheridan Le Fanu",
+      "rank": null
+    },
+    {
+      "title": "Uncle Tom's Cabin",
+      "author": "Harriet Beecher Stowe",
+      "rank": null
+    },
+    {
+      "title": "Under the Banyan Tree",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "Under Fire",
+      "author": "Henri Barbusse",
+      "rank": null
+    },
+    {
+      "title": "Under the Greenwood Tree",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Under the Sea Wind",
+      "author": "Rachel Carson",
+      "rank": null
+    },
+    {
+      "title": "Under Western Eyes",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "The Underdogs",
+      "author": "Mariano Azuela",
+      "rank": null
+    },
+    {
+      "title": "The Unfortunate Traveller and Other Works",
+      "author": "Thomas Nashe",
+      "rank": null
+    },
+    {
+      "title": "A Universal History of Iniquity",
+      "author": "Jorge Luis Borges",
+      "rank": null
+    },
+    {
+      "title": "Unto This Last and Other Writings",
+      "author": "John Ruskin",
+      "rank": null
+    },
+    {
+      "title": "Untouchable",
+      "author": "Mulk Raj Anand",
+      "rank": null
+    },
+    {
+      "title": "Up From the Country, Infidelities, The Game of Love and Chance",
+      "author": "Pierre de Marivaux",
+      "rank": null
+    },
+    {
+      "title": "Up from Slavery",
+      "author": "Booker T. Washington",
+      "rank": null
+    },
+    {
+      "title": "The Upanishads",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Utilitarianism and Other Essays",
+      "author": "John Stuart Mill",
+      "rank": null
+    },
+    {
+      "title": "Utopia",
+      "author": "Thomas More",
+      "rank": null
+    },
+    {
+      "title": "The Valley of Fear and Selected Stories",
+      "author": "Arthur Conan Doyle",
+      "rank": null
+    },
+    {
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "rank": null
+    },
+    {
+      "title": "The Varieties of Religious Experience",
+      "author": "William James",
+      "rank": null
+    },
+    {
+      "title": "Vathek and Other Stories",
+      "author": "William Beckford",
+      "rank": null
+    },
+    {
+      "title": "The Vendor of Sweets",
+      "author": "R. K. Narayan",
+      "rank": null
+    },
+    {
+      "title": "The Venice Train",
+      "author": "Georges Simenon",
+      "rank": null
+    },
+    {
+      "title": "Venus in Furs",
+      "author": "Leopold von Sacher-Masoch",
+      "rank": null
+    },
+    {
+      "title": "The Vicar of Wakefield",
+      "author": "Oliver Goldsmith",
+      "rank": null
+    },
+    {
+      "title": "The Victim",
+      "author": "Saul Bellow",
+      "rank": null
+    },
+    {
+      "title": "Victory",
+      "author": "Joseph Conrad",
+      "rank": null
+    },
+    {
+      "title": "The Village of Stepanchikovo",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Villette",
+      "author": "Charlotte Brontë",
+      "rank": null
+    },
+    {
+      "title": "A Vindication of the Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "rank": null
+    },
+    {
+      "title": "The Vinland Sagas",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Violent Ward",
+      "author": "Len Deighton",
+      "rank": null
+    },
+    {
+      "title": "Virginia",
+      "author": "Ellen Glasgow",
+      "rank": null
+    },
+    {
+      "title": "The Virginian",
+      "author": "Owen Wister",
+      "rank": null
+    },
+    {
+      "title": "Vis and Rāmin",
+      "author": "Fakhraddin Gorgani",
+      "rank": null
+    },
+    {
+      "title": "La Vita Nuova",
+      "author": "Dante Alighieri",
+      "rank": null
+    },
+    {
+      "title": "The Vivisector",
+      "author": "Patrick White",
+      "rank": null
+    },
+    {
+      "title": "A Vocation and a Voice",
+      "author": "Kate Chopin",
+      "rank": null
+    },
+    {
+      "title": "Volpone and Other Plays (The Alchemist and Bartholomew Fair)",
+      "author": "Ben Jonson",
+      "rank": null
+    },
+    {
+      "title": "Voss",
+      "author": "Patrick White",
+      "rank": null
+    },
+    {
+      "title": "The Voyage of Argo",
+      "author": "Apollonius of Rhodes",
+      "rank": null
+    },
+    {
+      "title": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "rank": null
+    },
+    {
+      "title": "Voyages and Discoveries",
+      "author": "Richard Hakluyt",
+      "rank": null
+    },
+    {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "rank": null
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "The War in the Air",
+      "author": "H.G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H. G. Wells",
+      "rank": null
+    },
+    {
+      "title": "The War with Hannibal (Books XXI-XXX)",
+      "author": "Titus Livy",
+      "rank": null
+    },
+    {
+      "title": "Ward No. 6 and Other Stories, 1892–1895",
+      "author": "Anton Chekhov",
+      "rank": null
+    },
+    {
+      "title": "The Warden",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "Washington Square",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "The Waste Land and Other Poems",
+      "author": "T. S. Eliot",
+      "rank": null
+    },
+    {
+      "title": "The Water-Babies",
+      "author": "Charles Kingsley",
+      "rank": null
+    },
+    {
+      "title": "Waverley",
+      "author": "Walter Scott",
+      "rank": null
+    },
+    {
+      "title": "The Way of All Flesh",
+      "author": "Samuel Butler",
+      "rank": null
+    },
+    {
+      "title": "The Way of the World and Other Plays",
+      "author": "William Congreve",
+      "rank": null
+    },
+    {
+      "title": "The Way We Live Now",
+      "author": "Anthony Trollope",
+      "rank": null
+    },
+    {
+      "title": "The Wayward Bus",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "We",
+      "author": "Yevgeny Zamyatin",
+      "rank": null
+    },
+    {
+      "title": "The Wealth of Nations",
+      "author": "Adam Smith",
+      "rank": null
+    },
+    {
+      "title": "A Week on the Concord and Merrimack Rivers",
+      "author": "Henry David Thoreau",
+      "rank": null
+    },
+    {
+      "title": "The Well-Beloved",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "What Is Art?",
+      "author": "Leo Tolstoy",
+      "rank": null
+    },
+    {
+      "title": "What Is To Be Done?",
+      "author": "V. I. Lenin",
+      "rank": null
+    },
+    {
+      "title": "What Maisie Knew",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Where Angels Fear to Tread",
+      "author": "E. M. Forster",
+      "rank": null
+    },
+    {
+      "title": "White Jacket",
+      "author": "Herman Melville",
+      "rank": null
+    },
+    {
+      "title": "White Nights",
+      "author": "Fyodor Dostoyevsky",
+      "rank": null
+    },
+    {
+      "title": "Who Would Have Thought It?",
+      "author": "María Amparo Ruíz de Burton",
+      "rank": null
+    },
+    {
+      "title": "Why Read the Classics?",
+      "author": "Italo Calvino",
+      "rank": null
+    },
+    {
+      "title": "Wieland and Memoirs of Carwin the Biloquist",
+      "author": "Charles Brockden Brown",
+      "rank": null
+    },
+    {
+      "title": "The Wild Ass's Skin",
+      "author": "Honoré de Balzac",
+      "rank": null
+    },
+    {
+      "title": "Winesburg, Ohio",
+      "author": "Sherwood Anderson",
+      "rank": null
+    },
+    {
+      "title": "The Wings of the Dove",
+      "author": "Henry James",
+      "rank": null
+    },
+    {
+      "title": "Winter in the Blood",
+      "author": "James Welch",
+      "rank": null
+    },
+    {
+      "title": "The Winter of Our Discontent",
+      "author": "John Steinbeck",
+      "rank": null
+    },
+    {
+      "title": "The Withered Arm and Other Stories",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Wives and Daughters",
+      "author": "Elizabeth Gaskell",
+      "rank": null
+    },
+    {
+      "title": "Wolf Willow",
+      "author": "Wallace Stegner",
+      "rank": null
+    },
+    {
+      "title": "The Wolfman and Other Cases",
+      "author": "Sigmund Freud",
+      "rank": null
+    },
+    {
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "rank": null
+    },
+    {
+      "title": "The Woman Who Rode Away and Other Stories",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Women in Love",
+      "author": "D. H. Lawrence",
+      "rank": null
+    },
+    {
+      "title": "Women in Power",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Women's Early American Historical Narratives",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "Women's Indian Captivity Narratives",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "The Women's War",
+      "author": "Alexandre Dumas",
+      "rank": null
+    },
+    {
+      "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+      "author": "Mary Seacole",
+      "rank": null
+    },
+    {
+      "title": "The Wonderful World of Oz (The Wizard of Oz, The Emerald City of Oz, Glinda of Oz)",
+      "author": "L. Frank Baum",
+      "rank": null
+    },
+    {
+      "title": "The Woodlanders",
+      "author": "Thomas Hardy",
+      "rank": null
+    },
+    {
+      "title": "Work: A Story of Experience",
+      "author": "Louisa May Alcott",
+      "rank": null
+    },
+    {
+      "title": "World of Wonders",
+      "author": "Robertson Davies",
+      "rank": null
+    },
+    {
+      "title": "The Worst Journey in the World",
+      "author": "Apsley Cherry-Garrard",
+      "rank": null
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "rank": null
+    },
+    {
+      "title": "X – Y – Z",
+      "author": "Unknown",
+      "rank": null
+    },
+    {
+      "title": "A Year in Thoreau's Journal",
+      "author": "Henry David Thoreau",
+      "rank": null
+    },
+    {
+      "title": "Young Lonigan",
+      "author": "James T. Farrell",
+      "rank": null
+    },
+    {
+      "title": "Youth, The End of the Tether",
+      "author": "Joseph Conrad",
+      "rank": null
+    }
+  ]
+}

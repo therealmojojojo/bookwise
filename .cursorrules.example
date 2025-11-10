@@ -1,0 +1,132 @@
+# BookWise Project Rules
+
+## 🚨 CRITICAL: Calibre Database Rule
+
+**For queries: Direct SQL is allowed (read-only mode recommended)**  
+**For modifications: ALWAYS use `calibredb` CLI**
+
+### Why
+`calibredb` handles triggers, constraints, filesystem operations, and schema integrity. Direct SQL modifications risk corruption.
+
+### Examples
+```python
+# ✅ Queries: Direct SQL OK
+conn = sqlite3.connect('file:/path/to/metadata.db?mode=ro', uri=True)
+cursor.execute("SELECT * FROM books WHERE title LIKE '%Old%'")
+```
+
+```bash
+# ✅ Modifications: Use calibredb
+calibredb add book.epub --title "Title" --authors "Author"
+calibredb set_metadata 123 --field tags:"Fiction"
+calibredb remove 123 --permanent
+```
+
+```sql
+-- ❌ FORBIDDEN: Direct SQL for modifications
+INSERT INTO books ...
+UPDATE books SET ...
+DELETE FROM books ...
+ALTER TABLE books ...  -- NEVER alter schema
+```
+
+### Safety
+- Close Calibre before running `calibredb`
+- Backup before bulk operations
+- Test on sample data first
+- Use read-only connections for queries (`?mode=ro`)
+
+---
+
+## Project Structure
+
+### Key Directories
+- `/src/librarian/` - FastAPI REST API for Claude.ai integration
+- `/src/dataenrichment/` - AI enrichment pipeline (Claude + OpenAI + ChromaDB)
+- `/src/config/` - Configuration and settings
+- `/datasources/` - Award lists, canonical authors (JSON/CSV)
+- `/calibredatabase/` - Database rules
+- `/output/` - Generated files (gitignored)
+
+### Data Locations
+- **Calibre DB**: Set via `CALIBRE_DB_PATH` in `.env` (e.g., `/path/to/Calibre/metadata.db`)
+- **ChromaDB**: Set via `CHROMADB_PATH` in `.env` (e.g., `~/Library/Application Support/bookwise/vectors/`)
+- **Quality Scores**: `output/calibre_owned_scored_books.csv`
+
+---
+
+## Development Guidelines
+
+### Code Style
+- Python with type hints
+- Clear documentation
+- Read-only connections for Calibre queries
+- Absolute paths preferred
+
+### Quality Scoring
+- Hierarchical award-based (0-100)
+- Nobel, Pulitzer, Booker = highest weight
+- Includes temporal recency boost
+
+### Enrichment Pipeline
+1. `generate_enrichment_input.py` - Find un-enriched books
+2. `enrich_books.py` - Claude API → OpenAI embeddings → ChromaDB
+3. `add_tags_to_calibre.py` - Import tags via `calibredb`
+
+### Librarian API
+- Deployed as macOS `launchd` service
+- Auto-restart on boot/crash
+- Semantic search + quality filtering
+- Export to Google Drive via `calibredb export`
+
+---
+
+## Common Tasks
+
+### Query Calibre
+```python
+# Always use read-only mode
+conn = sqlite3.connect('file:{CALIBRE_DB_PATH}?mode=ro', uri=True)
+cursor.execute("SELECT * FROM books LIMIT 10")
+```
+
+### Modify Calibre
+```bash
+# Close Calibre first
+calibredb list --search "author:Hemingway"
+calibredb set_metadata 123 --field tags:"Award Winner"
+```
+
+### Enrich Books
+```bash
+python3 src/dataenrichment/generate_enrichment_input.py
+python3 src/dataenrichment/enrich_books.py --yes
+python3 src/dataenrichment/add_tags_to_calibre.py --yes
+```
+
+### Manage API Service
+```bash
+cd src/librarian/deployment
+./service-start.sh   # Production (auto-restart)
+./dev-start.sh       # Development (manual, with reload)
+./test-api.sh        # Test endpoints
+```
+
+---
+
+## Error Prevention
+
+- Verify paths exist before file operations
+- Close Calibre before database writes
+- Backup before bulk operations
+- Test with LIMIT clause first
+- Use `calibredb` for all modifications (never direct SQL)
+
+---
+
+## When In Doubt
+
+**Database query?** → Direct SQL with read-only mode  
+**Database modification?** → Use `calibredb`  
+**Custom metadata?** → Calibre's custom columns (GUI)  
+**Destructive operation?** → Ask user first

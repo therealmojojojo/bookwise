@@ -1,0 +1,7013 @@
+{
+  "metadata": {
+    "source_name": "Tier 3 - Curated Recommendations",
+    "source_type": "significant_books",
+    "version": "2.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "author_quality",
+      "qualifier_for_author_bonus": false
+    },
+    "description": "Consolidated curated literature - Tier 3 - Curated Recommendations",
+    "total_authors": 329,
+    "total_works": 867,
+    "selection_criteria": [
+      "Curated by Claude.ai based on literary merit",
+      "Includes Nobel Prize winners, major award winners, and highly regarded authors",
+      "Consolidated from original significant_books and curated CSV lists"
+    ],
+    "note": "This represents Claude.ai's curated view of significant literature"
+  },
+  "authors": [
+    {
+      "author": "Adrian Nicole LeBlanc",
+      "recognition": "National Book Critics Circle Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Random Family",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Aeschylus",
+      "recognition": "Bloom's Canon; Greek Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Oresteia",
+          "year_published": null,
+          "notes": "Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "Agamemnon",
+          "notes": "St. John's College; Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "Prometheus Bound",
+          "notes": "Bloom's Canon; Greek Canon"
+        }
+      ]
+    },
+    {
+      "author": "Ahlam Mosteghanemi",
+      "recognition": "Arab Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Memory in the Flesh",
+          "year_published": null,
+          "notes": "Arab Canon"
+        }
+      ]
+    },
+    {
+      "author": "Alaa Al Aswany",
+      "recognition": "Arab Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Chicago",
+          "year_published": null,
+          "notes": "Arab Canon"
+        },
+        {
+          "title": "The Yacoubian Building",
+          "year_published": null,
+          "notes": "Arab Canon"
+        }
+      ]
+    },
+    {
+      "author": "Alejo Carpentier",
+      "recognition": "Latin American Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Explosion in a Cathedral",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        },
+        {
+          "title": "The Kingdom of This World",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        }
+      ]
+    },
+    {
+      "author": "Alexander Pushkin",
+      "recognition": "Russian Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Captain's Daughter",
+          "year_published": null,
+          "notes": "Russian Canon"
+        },
+        {
+          "title": "The Queen of Spades",
+          "year_published": null,
+          "notes": "Russian Canon"
+        },
+        {
+          "title": "Eugene Onegin",
+          "notes": "Bloom's Canon; Russian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Alice Sebold",
+      "recognition": "International Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Lovely Bones",
+          "year_published": null,
+          "notes": "International Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Allen Ginsberg",
+      "recognition": "Beat Generation Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Howl and Other Poems",
+          "year_published": null,
+          "notes": "Beat Generation Canon; Modern Library"
+        }
+      ]
+    },
+    {
+      "author": "Andre Agassi",
+      "recognition": "Sports Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Open",
+          "year_published": null,
+          "notes": "Sports Memoir; William Hill Prize"
+        }
+      ]
+    },
+    {
+      "author": "Andre Dubus III",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "House of Sand and Fog",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Andrea Wulf",
+      "recognition": "Baillie Gifford Prize 2015; Costa Biography Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Invention of Nature",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2015; Costa Biography Award"
+        }
+      ]
+    },
+    {
+      "author": "Andrew Hodges",
+      "recognition": "Biography Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Alan Turing: The Enigma",
+          "year_published": null,
+          "notes": "Biography Classic"
+        }
+      ]
+    },
+    {
+      "author": "Andrew S. Grove",
+      "recognition": "Business Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "High Output Management",
+          "year_published": null,
+          "notes": "Business Classic"
+        }
+      ]
+    },
+    {
+      "author": "Angela Duckworth",
+      "recognition": "Bestseller; TED Talk Fame",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Grit",
+          "year_published": null,
+          "notes": "Bestseller; TED Talk Fame"
+        }
+      ]
+    },
+    {
+      "author": "Anna Funder",
+      "recognition": "Baillie Gifford Prize 2004",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Stasiland",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2004"
+        },
+        {
+          "title": "Stasiland: Stories from Behind the Berlin Wall",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2004"
+        }
+      ]
+    },
+    {
+      "author": "Anne BrontÁ«",
+      "recognition": "Victorian Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Agnes Grey",
+          "year_published": null,
+          "notes": "Victorian Canon; Penguin Classics"
+        },
+        {
+          "title": "The Tenant of Wildfell Hall",
+          "year_published": null,
+          "notes": "Victorian Canon; Penguin Classics"
+        }
+      ]
+    },
+    {
+      "author": "Anne Frank",
+      "recognition": "Cultural Icon; UNESCO Memory of the World",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Diary of a Young Girl",
+          "notes": "Cultural Icon; UNESCO Memory of the World"
+        }
+      ]
+    },
+    {
+      "author": "Annette Gordon-Reed",
+      "recognition": "Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "On Juneteenth",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "The Hemingses of Monticello",
+          "notes": "National Book Award; Pulitzer Prize 2009 History"
+        }
+      ]
+    },
+    {
+      "author": "Anonymous",
+      "recognition": "Arthurian Canon; Bloom's Canon; Medieval Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Beowulf",
+          "year_published": null,
+          "notes": "Bloom's Canon; Medieval Canon; Anglo-Saxon Epic"
+        },
+        {
+          "title": "Sir Gawain and the Green Knight",
+          "year_published": null,
+          "notes": "Medieval Canon; Arthurian Canon"
+        },
+        {
+          "title": "The Song of Roland",
+          "year_published": null,
+          "notes": "Medieval Canon; Epic Poetry"
+        }
+      ]
+    },
+    {
+      "author": "Anthony Bourdain",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Kitchen Confidential",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Anthony Doerr",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Cloud Cuckoo Land",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "All the Light We Cannot See",
+          "notes": "Pulitzer Prize 2015"
+        }
+      ]
+    },
+    {
+      "author": "Anthony Trollope",
+      "recognition": "Bloom's Canon; Victorian Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Way We Live Now",
+          "notes": "Bloom's Canon; Victorian Canon"
+        },
+        {
+          "title": "Barchester Towers",
+          "notes": "Bloom's Canon; Victorian Canon"
+        },
+        {
+          "title": "Can You Forgive Her?",
+          "notes": "Bloom's Canon; Victorian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Anton Chekhov",
+      "recognition": "Bloom's Canon; Modern Drama Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Cherry Orchard",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "The Seagull",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Drama Canon"
+        },
+        {
+          "title": "Three Sisters",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Drama Canon"
+        },
+        {
+          "title": "Uncle Vanya",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Drama Canon"
+        }
+      ]
+    },
+    {
+      "author": "Antony Beevor",
+      "recognition": "Baillie Gifford Prize 1999; Wolfson History Prize",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Stalingrad",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 1999; Wolfson History Prize"
+        }
+      ]
+    },
+    {
+      "author": "Aristophanes",
+      "recognition": "Bloom's Canon; Greek Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Lysistrata",
+          "year_published": null,
+          "notes": "Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "The Frogs",
+          "year_published": null,
+          "notes": "Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "The Clouds",
+          "notes": "St. John's College; Bloom's Canon; Greek Canon"
+        }
+      ]
+    },
+    {
+      "author": "Aristotle",
+      "recognition": "Great Books; Philosophy Classic; St. John's College; St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction, Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Nicomachean Ethics",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Poetics",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Politics",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Nicomachean Ethics",
+          "notes": "Great Books; Philosophy Classic; St. John's College"
+        }
+      ]
+    },
+    {
+      "author": "Augustine",
+      "recognition": "Bloom's Canon; Great Books",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The City of God",
+          "year_published": null,
+          "notes": "Bloom's Canon; Great Books"
+        },
+        {
+          "title": "The Confessions",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Banana Yoshimoto",
+      "recognition": "Italian Scanno Prize",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Kitchen",
+          "year_published": null,
+          "notes": "Italian Scanno Prize"
+        }
+      ]
+    },
+    {
+      "author": "Barack Obama",
+      "recognition": "Autobiography; Bestseller; Presidential Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Promised Land",
+          "year_published": null,
+          "notes": "Bestseller; Presidential Memoir"
+        },
+        {
+          "title": "Dreams from My Father",
+          "year_published": null,
+          "notes": "Autobiography; Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Barbara Demick",
+      "recognition": "Baillie Gifford Prize 2010",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Nothing to Envy: Ordinary Lives in North Korea",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2010"
+        }
+      ]
+    },
+    {
+      "author": "Ben Okri",
+      "recognition": "Contemporary African Literature; Famished Road Trilogy",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Infinite Riches",
+          "year_published": null,
+          "notes": "Famished Road Trilogy"
+        },
+        {
+          "title": "Songs of Enchantment",
+          "year_published": null,
+          "notes": "Famished Road Trilogy"
+        },
+        {
+          "title": "Starbook",
+          "year_published": null,
+          "notes": "Contemporary African Literature"
+        },
+        {
+          "title": "The Famished Road",
+          "notes": "Booker Prize 1991"
+        }
+      ]
+    },
+    {
+      "author": "Benjamin Graham",
+      "recognition": "Investment Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Intelligent Investor",
+          "year_published": null,
+          "notes": "Investment Classic"
+        }
+      ]
+    },
+    {
+      "author": "Bernhard Schlink",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Reader",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Bessel van der Kolk",
+      "recognition": "Bestseller; Trauma Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Body Keeps the Score",
+          "year_published": null,
+          "notes": "Bestseller; Trauma Classic"
+        }
+      ]
+    },
+    {
+      "author": "Bill Bryson",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Short History of Nearly Everything",
+          "year_published": null,
+          "notes": "Descartes Prize; Royal Society Aventis Prize 2004"
+        },
+        {
+          "title": "At Home",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "The Body",
+          "year_published": null,
+          "notes": "Royal Society Science Book Prize Shortlist"
+        }
+      ]
+    },
+    {
+      "author": "Billie Letts",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Where the Heart Is",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Blaise Pascal",
+      "recognition": "Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Pensées",
+          "notes": "Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Bob Dylan",
+      "recognition": "National Book Critics Circle Award Nominee",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Chronicles: Volume One",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award Nominee"
+        }
+      ]
+    },
+    {
+      "author": "Bob Woodward",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Fear: Trump in the White House",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Bob Woodward & Carl Bernstein",
+      "recognition": "Cultural Impact; Watergate Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "All the President's Men",
+          "year_published": null,
+          "notes": "Cultural Impact; Watergate Classic"
+        }
+      ]
+    },
+    {
+      "author": "Brené Brown",
+      "recognition": "Bestseller; Vulnerability Research",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Dare to Lead",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Daring Greatly",
+          "year_published": null,
+          "notes": "Bestseller; Vulnerability Research"
+        },
+        {
+          "title": "The Gifts of Imperfection",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Brian Moore",
+      "recognition": "Irish Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "An Answer from Limbo",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "Black Robe",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "Cold Heaven",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "Fergus",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "I Am Mary Dunne",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "Lies of Silence",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Doctor's Wife",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Emperor of Ice-Cream",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Lonely Passion of Judith Hearne",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Magician's Wife",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Mangan Inheritance",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Statement",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Temptation of Eileen Hughes",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "Catholics",
+          "year_published": null,
+          "notes": "W.H. Smith Literary Award"
+        },
+        {
+          "title": "No Other Life",
+          "year_published": null,
+          "notes": "Sunday Express Book of the Year"
+        },
+        {
+          "title": "The Color of Blood",
+          "year_published": null,
+          "notes": "Heinemann Award"
+        },
+        {
+          "title": "The Great Victorian Collection",
+          "year_published": null,
+          "notes": "Governor General's Award"
+        },
+        {
+          "title": "The Luck of Ginger Coffey",
+          "year_published": null,
+          "notes": "Governor General's Award"
+        }
+      ]
+    },
+    {
+      "author": "Bruce Chatwin",
+      "recognition": "Travel Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Songlines",
+          "year_published": null,
+          "notes": "Travel Writing Classic"
+        },
+        {
+          "title": "In Patagonia",
+          "notes": "Hawthornden Prize; Travel Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "Bruce Springsteen; Christopher McDougall",
+      "recognition": "Bestseller; Music Memoir; Running Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Born to Run",
+          "year_published": null,
+          "notes": "Bestseller; Music Memoir; Running Classic"
+        }
+      ]
+    },
+    {
+      "author": "Bryan Stevenson",
+      "recognition": "Carnegie Medal",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Just Mercy",
+          "year_published": null,
+          "notes": "Carnegie Medal; NAACP Image Award"
+        }
+      ]
+    },
+    {
+      "author": "Burton Malkiel",
+      "recognition": "Investment Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Random Walk Down Wall Street",
+          "year_published": null,
+          "notes": "Investment Classic"
+        }
+      ]
+    },
+    {
+      "author": "C.S. Lewis",
+      "recognition": "Christian Canon; Fantasy Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Grief Observed",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "Mere Christianity",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "Miracles",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "The Four Loves",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "The Great Divorce",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "The Problem of Pain",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "The Screwtape Letters",
+          "year_published": null,
+          "notes": "Christian Canon"
+        },
+        {
+          "title": "Till We Have Faces",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Out of the Silent Planet",
+          "year_published": null,
+          "notes": "Space Trilogy"
+        },
+        {
+          "title": "Perelandra",
+          "year_published": null,
+          "notes": "Space Trilogy"
+        },
+        {
+          "title": "Prince Caspian",
+          "year_published": null,
+          "notes": "Narnia Series"
+        },
+        {
+          "title": "Surprised by Joy",
+          "year_published": null,
+          "notes": "Autobiography"
+        },
+        {
+          "title": "That Hideous Strength",
+          "year_published": null,
+          "notes": "Space Trilogy"
+        },
+        {
+          "title": "The Chronicles of Narnia",
+          "year_published": null,
+          "notes": "BBC Big Read; Children's Classic"
+        },
+        {
+          "title": "The Horse and His Boy",
+          "year_published": null,
+          "notes": "Narnia Series"
+        },
+        {
+          "title": "The Last Battle",
+          "year_published": null,
+          "notes": "Carnegie Medal"
+        },
+        {
+          "title": "The Magician's Nephew",
+          "year_published": null,
+          "notes": "Narnia Series"
+        },
+        {
+          "title": "The Silver Chair",
+          "year_published": null,
+          "notes": "Narnia Series"
+        },
+        {
+          "title": "The Voyage of the Dawn Treader",
+          "year_published": null,
+          "notes": "Narnia Series"
+        },
+        {
+          "title": "The Lion the Witch and the Wardrobe",
+          "notes": "Children's Classic"
+        }
+      ]
+    },
+    {
+      "author": "Carl Jung",
+      "recognition": "Psychology Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Man and His Symbols",
+          "year_published": null,
+          "notes": "Psychology Classic"
+        }
+      ]
+    },
+    {
+      "author": "Carlo Rovelli",
+      "recognition": "Bestseller; Critical Acclaim; International Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Helgoland",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "Seven Brief Lessons on Physics",
+          "year_published": null,
+          "notes": "International Bestseller; Royal Society Winton Prize 2016"
+        },
+        {
+          "title": "The Order of Time",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Carlos Fuentes",
+      "recognition": "Latin American Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Aura",
+          "year_published": null,
+          "notes": "Latin American Canon; Latin American Literature"
+        },
+        {
+          "title": "The Death of Artemio Cruz",
+          "year_published": null,
+          "notes": "Latin American Canon; Latin American Literature"
+        },
+        {
+          "title": "The Old Gringo",
+          "year_published": null,
+          "notes": "Latin American Canon; Latin American Literature"
+        },
+        {
+          "title": "Terra Nostra",
+          "year_published": null,
+          "notes": "Latin American Literature"
+        },
+        {
+          "title": "The Years with Laura Díaz",
+          "year_published": null,
+          "notes": "Latin American Literature"
+        }
+      ]
+    },
+    {
+      "author": "Carol S. Dweck",
+      "recognition": "Education Impact; Psychology Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Mindset",
+          "year_published": null,
+          "notes": "Education Impact; Psychology Classic"
+        }
+      ]
+    },
+    {
+      "author": "Cathy Park Hong",
+      "recognition": "National Book Critics Circle Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Minor Feelings",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Chanel Miller",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Know My Name",
+          "year_published": null,
+          "notes": "Bestseller; National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Charles Dickens",
+      "recognition": "Victorian Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Christmas Carol",
+          "year_published": null,
+          "notes": "Victorian Canon; Christmas Classic"
+        },
+        {
+          "title": "Nicholas Nickleby",
+          "year_published": null,
+          "notes": "Victorian Canon; BBC Adaptation"
+        },
+        {
+          "title": "Great Expectations",
+          "notes": "Bloom's Canon; BBC Big Read; Modern Library"
+        },
+        {
+          "title": "Bleak House",
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "David Copperfield",
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "A Tale of Two Cities",
+          "notes": "Bloom's Canon; BBC Big Read"
+        },
+        {
+          "title": "Hard Times",
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "Oliver Twist",
+          "notes": "Bloom's Canon; BBC Big Read"
+        },
+        {
+          "title": "Our Mutual Friend",
+          "notes": "Bloom's Canon; Victorian Canon"
+        },
+        {
+          "title": "Little Dorrit",
+          "notes": "Bloom's Canon; Victorian Canon"
+        },
+        {
+          "title": "Dombey and Son",
+          "notes": "Bloom's Canon; Victorian Canon"
+        },
+        {
+          "title": "The Old Curiosity Shop",
+          "notes": "Victorian Canon"
+        },
+        {
+          "title": "Martin Chuzzlewit",
+          "notes": "Victorian Canon"
+        },
+        {
+          "title": "Barnaby Rudge",
+          "notes": "Victorian Canon"
+        },
+        {
+          "title": "The Pickwick Papers",
+          "notes": "Victorian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Charlotte BrontÁ«",
+      "recognition": "Bloom's Canon; Victorian Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Jane Eyre",
+          "year_published": null,
+          "notes": "BBC Big Read; Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "Shirley",
+          "year_published": null,
+          "notes": "Victorian Canon; Penguin Classics"
+        },
+        {
+          "title": "The Professor",
+          "year_published": null,
+          "notes": "Victorian Canon"
+        },
+        {
+          "title": "Villette",
+          "year_published": null,
+          "notes": "Bloom's Canon; Victorian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Cheryl Strayed",
+      "recognition": "Bestseller; Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Wild",
+          "year_published": null,
+          "notes": "Bestseller; Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Chimamanda Ngozi Adichie",
+      "recognition": "Commonwealth Writers' Prize",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Purple Hibiscus",
+          "year_published": null,
+          "notes": "Commonwealth Writers' Prize"
+        },
+        {
+          "title": "Half of a Yellow Sun",
+          "notes": "Orange Prize 2007"
+        },
+        {
+          "title": "Americanah",
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Clayton M. Christensen",
+      "recognition": "Business Classic; HBR",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Innovator's Dilemma",
+          "year_published": null,
+          "notes": "Business Classic; HBR"
+        }
+      ]
+    },
+    {
+      "author": "Cormor McCarthy",
+      "recognition": "Southern Gothic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Outer Dark",
+          "year_published": null,
+          "notes": "Southern Gothic"
+        }
+      ]
+    },
+    {
+      "author": "Craig Brown",
+      "recognition": "Baillie Gifford Prize 2020",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "One Two Three Four: The Beatles in Time",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2020"
+        }
+      ]
+    },
+    {
+      "author": "Dale Carnegie",
+      "recognition": "Self-Help Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "How to Win Friends and Influence People",
+          "year_published": null,
+          "notes": "Self-Help Classic"
+        }
+      ]
+    },
+    {
+      "author": "Dan Ariely",
+      "recognition": "Behavioral Economics; Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Predictably Irrational",
+          "year_published": null,
+          "notes": "Behavioral Economics; Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Dan Harris",
+      "recognition": "Bestseller; Mindfulness Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "10% Happier",
+          "year_published": null,
+          "notes": "Bestseller; Mindfulness Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Dan Simmons",
+      "recognition": "Horror Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Summer of Night",
+          "year_published": null,
+          "notes": "Horror Canon"
+        },
+        {
+          "title": "Carrion Comfort",
+          "year_published": null,
+          "notes": "Bram Stoker Award; World Fantasy"
+        },
+        {
+          "title": "Drood",
+          "year_published": null,
+          "notes": "Historical Fiction"
+        },
+        {
+          "title": "Endymion",
+          "year_published": null,
+          "notes": "Locus Nomination"
+        },
+        {
+          "title": "Ilium",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "Olympos",
+          "year_published": null,
+          "notes": "John W. Campbell Memorial Nomination"
+        },
+        {
+          "title": "Song of Kali",
+          "year_published": null,
+          "notes": "World Fantasy Award"
+        },
+        {
+          "title": "The Fall of Hyperion",
+          "year_published": null,
+          "notes": "Locus; British SF Award"
+        },
+        {
+          "title": "The Rise of Endymion",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "The Terror",
+          "year_published": null,
+          "notes": "International Horror Guild Award"
+        },
+        {
+          "title": "Hyperion",
+          "notes": "Hugo; Locus; SF Masterwork"
+        }
+      ]
+    },
+    {
+      "author": "Daniel Defoe",
+      "recognition": "Bloom's Canon; Penguin Classics",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Robinson Crusoe",
+          "notes": "Bloom's Canon; Penguin Classics"
+        },
+        {
+          "title": "Moll Flanders",
+          "notes": "Bloom's Canon; Penguin Classics"
+        }
+      ]
+    },
+    {
+      "author": "Daniel H. Pink",
+      "recognition": "Bestseller; Motivation Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Drive",
+          "year_published": null,
+          "notes": "Bestseller; Motivation Classic"
+        }
+      ]
+    },
+    {
+      "author": "Daniel James Brown",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Boys in the Boat",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Dante Alighieri",
+      "recognition": "Bloom's Canon; Great Books; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Divine Comedy",
+          "year_published": null,
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Dava Sobel",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Galileo's Daughter",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Longitude",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "David France",
+      "recognition": "Baillie Gifford Prize 2017",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "How to Survive a Plague",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2017"
+        }
+      ]
+    },
+    {
+      "author": "David Hume",
+      "recognition": "St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Treatise of Human Nature",
+          "year_published": null,
+          "notes": "Philosophy Classic; St. John's College"
+        }
+      ]
+    },
+    {
+      "author": "David Sedaris",
+      "recognition": "Bestseller; Essay Collection",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Dress Your Family in Corduroy and Denim",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Me Talk Pretty One Day",
+          "year_published": null,
+          "notes": "Bestseller; Essay Collection"
+        },
+        {
+          "title": "Naked",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Denis Diderot",
+      "recognition": "Bloom's Canon; Enlightenment Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Rameau's Nephew",
+          "notes": "Bloom's Canon; Enlightenment Canon"
+        },
+        {
+          "title": "Jacques the Fatalist",
+          "notes": "Bloom's Canon; Enlightenment Canon"
+        }
+      ]
+    },
+    {
+      "author": "Doris Kearns Goodwin",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Leadership in Turbulent Times",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "The Bully Pulpit",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        },
+        {
+          "title": "No Ordinary Time",
+          "notes": "Pulitzer Prize 1995 History"
+        },
+        {
+          "title": "Team of Rivals",
+          "notes": "Bestseller; Lincoln Prize; Pulitzer Prize 2006 Biography"
+        }
+      ]
+    },
+    {
+      "author": "Douglas Adams",
+      "recognition": "SF Comedy",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Dirk Gently's Holistic Detective Agency",
+          "year_published": null,
+          "notes": "SF Comedy"
+        },
+        {
+          "title": "Life the Universe and Everything",
+          "year_published": null,
+          "notes": "SF Comedy"
+        },
+        {
+          "title": "So Long and Thanks for All the Fish",
+          "year_published": null,
+          "notes": "SF Comedy"
+        },
+        {
+          "title": "The Long Dark Tea-Time of the Soul",
+          "year_published": null,
+          "notes": "SF Comedy"
+        },
+        {
+          "title": "The Restaurant at the End of the Universe",
+          "year_published": null,
+          "notes": "SF Comedy"
+        },
+        {
+          "title": "The Hitchhiker's Guide to the Galaxy",
+          "notes": "BBC Big Read #4; SF Comedy"
+        }
+      ]
+    },
+    {
+      "author": "Eckhart Tolle",
+      "recognition": "Bestseller; Oprah's Book Club; Spirituality",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A New Earth",
+          "year_published": null,
+          "notes": "Bestseller; Oprah's Book Club"
+        },
+        {
+          "title": "The Power of Now",
+          "year_published": null,
+          "notes": "Bestseller; Spirituality"
+        }
+      ]
+    },
+    {
+      "author": "Edmund Spenser",
+      "recognition": "Bloom's Canon; Renaissance Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Faerie Queene",
+          "notes": "Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Edward Said",
+      "recognition": "Cultural Theory Classic; National Book Critics Circle Finalist",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Orientalism",
+          "year_published": null,
+          "notes": "Cultural Theory Classic; National Book Critics Circle Finalist"
+        }
+      ]
+    },
+    {
+      "author": "Elie Wiesel",
+      "recognition": "Nobel Peace Prize 1986",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "All Rivers Run to the Sea",
+          "year_published": null,
+          "notes": "Memoir; Nobel Peace Prize 1986"
+        },
+        {
+          "title": "Dawn",
+          "year_published": null,
+          "notes": "Holocaust Literature"
+        },
+        {
+          "title": "Day",
+          "year_published": null,
+          "notes": "Holocaust Literature"
+        },
+        {
+          "title": "Night",
+          "notes": "Holocaust Literature; National Book Award; National Book Award 1960; Nobel Peace Prize 1986"
+        }
+      ]
+    },
+    {
+      "author": "Elizabeth Gaskell",
+      "recognition": "Victorian Canon; Victorian Canon; BBC Adaptation; Victorian Canon; Penguin Classics",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "North and South",
+          "notes": "Victorian Canon; BBC Adaptation"
+        },
+        {
+          "title": "Cranford",
+          "notes": "Victorian Canon; Penguin Classics"
+        },
+        {
+          "title": "Mary Barton",
+          "notes": "Victorian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Elizabeth Gilbert",
+      "recognition": "Bestseller; Oprah's Book Club",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Eat, Pray, Love",
+          "notes": "Bestseller; Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Emily BrontÁ«",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Wuthering Heights",
+          "year_published": null,
+          "notes": "Modern Library; BBC Big Read; Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "Erasmus",
+      "recognition": "Bloom's Canon; Renaissance Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Praise of Folly",
+          "year_published": null,
+          "notes": "Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Eric Ries",
+      "recognition": "Business Bestseller; Startup Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Lean Startup",
+          "year_published": null,
+          "notes": "Business Bestseller; Startup Classic"
+        }
+      ]
+    },
+    {
+      "author": "Eric Schlosser",
+      "recognition": "Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Fast Food Nation",
+          "year_published": null,
+          "notes": "Cultural Impact; National Book Critics Circle Award Finalist"
+        }
+      ]
+    },
+    {
+      "author": "Euripides",
+      "recognition": "Bloom's Canon; Greek Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Trojan Women",
+          "year_published": null,
+          "notes": "Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "Medea",
+          "notes": "St. John's College; Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "The Bacchae",
+          "notes": "Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "Hippolytus",
+          "notes": "Bloom's Canon; Greek Canon"
+        }
+      ]
+    },
+    {
+      "author": "Fanny Burney",
+      "recognition": "18th Century Canon; Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Evelina",
+          "year_published": null,
+          "notes": "Bloom's Canon; 18th Century Canon"
+        }
+      ]
+    },
+    {
+      "author": "Fernando Pessoa",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Selected Poems",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        },
+        {
+          "title": "The Book of Disquiet",
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "Flann O'Brien",
+      "recognition": "Irish Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Dalkey Archive",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Hard Life",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Poor Mouth",
+          "year_published": null,
+          "notes": "Irish Canon"
+        },
+        {
+          "title": "The Third Policeman",
+          "year_published": null,
+          "notes": "Irish Canon; Time 100"
+        },
+        {
+          "title": "At Swim-Two-Birds",
+          "notes": "Modern Library; Irish Canon"
+        }
+      ]
+    },
+    {
+      "author": "Flannery O'Connor",
+      "recognition": "Short Story Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Good Man Is Hard to Find",
+          "year_published": null,
+          "notes": "Modern Library; Short Story Canon"
+        },
+        {
+          "title": "Everything That Rises Must Converge",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "The Violent Bear It Away",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Wise Blood",
+          "notes": "Modern Library; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Frank Dikötter",
+      "recognition": "Baillie Gifford Prize 2011",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Mao's Great Famine",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2011"
+        }
+      ]
+    },
+    {
+      "author": "Frank Herbert",
+      "recognition": "SF Masterwork",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Chapterhouse Dune",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Children of Dune",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Dune Messiah",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "God Emperor of Dune",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Heretics of Dune",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Dune",
+          "notes": "Hugo; Nebula; SF Masterwork; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Frantz Fanon",
+      "recognition": "Postcolonial Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Wretched of the Earth",
+          "year_published": null,
+          "notes": "Postcolonial Classic"
+        }
+      ]
+    },
+    {
+      "author": "Franz Kafka",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Metamorphosis",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "The Trial",
+          "notes": "Le Monde; Modern Library; Time 100"
+        },
+        {
+          "title": "The Castle",
+          "notes": "Bloom's Canon; All Four Classic Series"
+        }
+      ]
+    },
+    {
+      "author": "François Rabelais",
+      "recognition": "Bloom's Canon; Renaissance Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Gargantua and Pantagruel",
+          "notes": "Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Friedrich Nietzsche",
+      "recognition": "Philosophy Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Genealogy of Morals",
+          "year_published": null,
+          "notes": "Philosophy Classic"
+        },
+        {
+          "title": "Beyond Good and Evil",
+          "notes": "Modern Library Nonfiction; Philosophy Classic"
+        },
+        {
+          "title": "Thus Spoke Zarathustra",
+          "notes": "Modern Library Nonfiction; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "recognition": "Canonical author; psychological depth",
+      "country": "Russia",
+      "genre": "Philosophical Fiction",
+      "significance": "Existentialism; psychology; moral philosophy",
+      "works": [
+        {
+          "title": "Crime and Punishment",
+          "year_published": 1866,
+          "notes": "Psychological masterpiece"
+        },
+        {
+          "title": "The Idiot",
+          "year_published": 1869,
+          "notes": "Christ-like figure in modern world"
+        },
+        {
+          "title": "Demons",
+          "year_published": 1872,
+          "notes": "Political nihilism; prophecy"
+        },
+        {
+          "title": "The Brothers Karamazov",
+          "year_published": 1880,
+          "notes": "Masterwork; faith and reason"
+        },
+        {
+          "title": "Notes from Underground",
+          "notes": "Modern Library; Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "Gabrielle Roy",
+      "recognition": "Governor General's Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Tin Flute",
+          "year_published": null,
+          "notes": "Governor General's Award"
+        }
+      ]
+    },
+    {
+      "author": "Geoffrey Chaucer",
+      "recognition": "Bloom's Canon; Medieval Canon; St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Canterbury Tales",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Troilus and Criseyde",
+          "notes": "Bloom's Canon; Medieval Canon"
+        }
+      ]
+    },
+    {
+      "author": "Georg Wilhelm Friedrich Hegel",
+      "recognition": "St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Phenomenology of Spirit",
+          "year_published": null,
+          "notes": "Philosophy Classic; St. John's College"
+        }
+      ]
+    },
+    {
+      "author": "George Saunders",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "CivilWarLand in Bad Decline",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "Lincoln in the Bardo",
+          "notes": "Booker Prize 2017"
+        },
+        {
+          "title": "Tenth of December",
+          "notes": "Contemporary Literature"
+        }
+      ]
+    },
+    {
+      "author": "Giovanni Boccaccio",
+      "recognition": "Bloom's Canon; Medieval Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Decameron",
+          "notes": "Bloom's Canon; Medieval Canon"
+        }
+      ]
+    },
+    {
+      "author": "Goethe",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Sorrows of Young Werther",
+          "year_published": null,
+          "notes": "Bloom's Canon; Penguin Classics"
+        },
+        {
+          "title": "Wilhelm Meister's Apprenticeship",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "H.G. Bissinger",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Friday Night Lights",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Hallie Rubenhold",
+      "recognition": "Baillie Gifford Prize 2019",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Five",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2019"
+        },
+        {
+          "title": "The Five: The Untold Lives of the Women Killed by Jack the Ripper",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2019"
+        }
+      ]
+    },
+    {
+      "author": "Helen Macdonald",
+      "recognition": "Costa Book of the Year; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "H Is for Hawk",
+          "year_published": null,
+          "notes": "Costa Book of the Year; Samuel Johnson Prize 2014"
+        },
+        {
+          "title": "Vesper Flights",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Henrik Ibsen",
+      "recognition": "Bloom's Canon; Modern Drama Canon; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Doll's House",
+          "year_published": null,
+          "notes": "Bloom's Canon; St. John's College"
+        },
+        {
+          "title": "Ghosts",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Drama Canon"
+        },
+        {
+          "title": "Hedda Gabler",
+          "year_published": null,
+          "notes": "St. John's College; Bloom's Canon"
+        },
+        {
+          "title": "Peer Gynt",
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "Herman Melville",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Bartleby the Scrivener",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "Billy Budd",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "Moby-Dick",
+          "notes": "Modern Library; Bloom's Canon; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Herodotus",
+      "recognition": "St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Histories",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Hilary Mantel",
+      "recognition": "Thomas Cromwell Trilogy",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Mirror & the Light",
+          "year_published": null,
+          "notes": "Thomas Cromwell Trilogy"
+        },
+        {
+          "title": "Wolf Hall",
+          "notes": "Booker Prize 2009; Guardian #1"
+        },
+        {
+          "title": "Bring Up the Bodies",
+          "notes": "Booker Prize 2012"
+        }
+      ]
+    },
+    {
+      "author": "Hiromi Kawakami",
+      "recognition": "Japanese Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Strange Weather in Tokyo",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        }
+      ]
+    },
+    {
+      "author": "Homer",
+      "recognition": "St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Iliad",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "The Odyssey",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Honoré de Balzac",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Père Goriot",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "Lost Illusions",
+          "notes": "Bloom's Canon; French Literature; Penguin Classics"
+        },
+        {
+          "title": "A Harlot High and Low",
+          "notes": "French Literature"
+        },
+        {
+          "title": "Cousin Bette",
+          "notes": "French Literature"
+        }
+      ]
+    },
+    {
+      "author": "Hope Jahren",
+      "recognition": "National Book Critics Circle Finalist",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Lab Girl",
+          "year_published": null,
+          "notes": "National Book Critics Circle Finalist; PEN/E.O. Wilson Award"
+        }
+      ]
+    },
+    {
+      "author": "Hunter S. Thompson",
+      "recognition": "Cultural Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Fear and Loathing in Las Vegas",
+          "year_published": null,
+          "notes": "Cultural Classic"
+        }
+      ]
+    },
+    {
+      "author": "Ian McEwan",
+      "recognition": "National Book Critics Circle Award",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Atonement",
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Ibram X. Kendi",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "How to Be an Antiracist",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        },
+        {
+          "title": "Stamped from the Beginning",
+          "notes": "National Book Award 2016"
+        }
+      ]
+    },
+    {
+      "author": "Immanuel Kant",
+      "recognition": "Great Books; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Critique of Practical Reason",
+          "year_published": null,
+          "notes": "Great Books; Philosophy Classic; St. John's College"
+        },
+        {
+          "title": "Groundwork of the Metaphysics of Morals",
+          "notes": "Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Isaac Asimov",
+      "recognition": "SF Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Forward the Foundation",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Nemesis",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Pebble in the Sky",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Robots and Empire",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "The Currents of Space",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "The Stars Like Dust",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Foundation",
+          "year_published": null,
+          "notes": "Hugo Award; SF Masterwork"
+        },
+        {
+          "title": "Foundation and Earth",
+          "year_published": null,
+          "notes": "Locus Nomination"
+        },
+        {
+          "title": "Foundation and Empire",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "I Robot",
+          "year_published": null,
+          "notes": "SF Masterwork; Time 100"
+        },
+        {
+          "title": "Nightfall",
+          "year_published": null,
+          "notes": "SFWA Hall of Fame"
+        },
+        {
+          "title": "Prelude to Foundation",
+          "year_published": null,
+          "notes": "Locus Nomination"
+        },
+        {
+          "title": "Second Foundation",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The Caves of Steel",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The End of Eternity",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The Last Question",
+          "year_published": null,
+          "notes": "Hugo Retro"
+        },
+        {
+          "title": "The Naked Sun",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The Robots of Dawn",
+          "year_published": null,
+          "notes": "Locus Nomination"
+        },
+        {
+          "title": "Foundation's Edge",
+          "notes": "Hugo; Locus"
+        },
+        {
+          "title": "The Gods Themselves",
+          "notes": "Hugo; Nebula; Locus"
+        }
+      ]
+    },
+    {
+      "author": "Isabel Allende",
+      "recognition": "Latin American Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Eva Luna",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        },
+        {
+          "title": "Of Love and Shadows",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        },
+        {
+          "title": "The House of the Spirits",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        }
+      ]
+    },
+    {
+      "author": "Ivan Turgenev",
+      "recognition": "Russian Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Sportsman's Sketches",
+          "year_published": null,
+          "notes": "Russian Literature"
+        },
+        {
+          "title": "Fathers and Sons",
+          "notes": "Bloom's Canon; Russian Canon; Russian Literature"
+        },
+        {
+          "title": "A Month in the Country",
+          "notes": "Russian Canon"
+        },
+        {
+          "title": "First Love",
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "J.A. Baker",
+      "recognition": "Nature Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Peregrine",
+          "year_published": null,
+          "notes": "Nature Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "J.K. Rowling",
+      "recognition": "Fantasy Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Harry Potter and the Deathly Hallows",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Harry Potter and the Half-Blood Prince",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Harry Potter and the Order of the Phoenix",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Harry Potter and the Philosopher's Stone",
+          "notes": "Modern Phenomenon; Children's Classic"
+        },
+        {
+          "title": "Harry Potter and the Chamber of Secrets",
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Harry Potter and the Goblet of Fire",
+          "notes": "Hugo Award"
+        },
+        {
+          "title": "The Casual Vacancy",
+          "notes": "Adult Fiction"
+        }
+      ]
+    },
+    {
+      "author": "J.R. Moehringer",
+      "recognition": "Bestseller; Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Tender Bar",
+          "year_published": null,
+          "notes": "Bestseller; Memoir"
+        }
+      ]
+    },
+    {
+      "author": "J.R.R. Tolkien",
+      "recognition": "Fantasy Canon; Middle-earth Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Hobbit",
+          "year_published": null,
+          "notes": "Modern Library; Fantasy Canon"
+        },
+        {
+          "title": "The Silmarillion",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Unfinished Tales",
+          "year_published": null,
+          "notes": "Middle-earth Canon"
+        },
+        {
+          "title": "Beren and Lúthien",
+          "year_published": null,
+          "notes": "Posthumous; Middle-earth"
+        },
+        {
+          "title": "The Adventures of Tom Bombadil",
+          "year_published": null,
+          "notes": "Poetry"
+        },
+        {
+          "title": "The Children of Húrin",
+          "year_published": null,
+          "notes": "Posthumous; Middle-earth"
+        },
+        {
+          "title": "The Fall of Gondolin",
+          "year_published": null,
+          "notes": "Posthumous; Middle-earth"
+        },
+        {
+          "title": "The History of Middle-earth",
+          "year_published": null,
+          "notes": "Posthumous; Middle-earth"
+        },
+        {
+          "title": "The Road Goes Ever On",
+          "year_published": null,
+          "notes": "Poetry; Music"
+        },
+        {
+          "title": "The Lord of the Rings",
+          "notes": "BBC Big Read #1; Modern Library; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Jack Kerouac",
+      "recognition": "Beat Generation Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Big Sur",
+          "year_published": null,
+          "notes": "Beat Generation Canon"
+        },
+        {
+          "title": "The Dharma Bums",
+          "year_published": null,
+          "notes": "Beat Generation Canon"
+        },
+        {
+          "title": "On the Road",
+          "notes": "Modern Library; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Jack London",
+      "recognition": "Adventure Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Sea-Wolf",
+          "year_published": null,
+          "notes": "Adventure Canon"
+        },
+        {
+          "title": "White Fang",
+          "year_published": null,
+          "notes": "Adventure Canon"
+        },
+        {
+          "title": "The Call of the Wild",
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Martin Eden",
+          "notes": "Modern Library"
+        }
+      ]
+    },
+    {
+      "author": "Jacquelyn Mitchard",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Deep End of the Ocean",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "James Agee",
+      "recognition": "Documentary Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Let Us Now Praise Famous Men",
+          "year_published": null,
+          "notes": "Documentary Canon"
+        },
+        {
+          "title": "A Death in the Family",
+          "notes": "Pulitzer Prize 1958"
+        }
+      ]
+    },
+    {
+      "author": "James Boswell",
+      "recognition": "Bloom's Canon; Biography Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Life of Samuel Johnson",
+          "notes": "Bloom's Canon; Biography Canon"
+        }
+      ]
+    },
+    {
+      "author": "James Clear",
+      "recognition": "Bestseller; Self-Help Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Atomic Habits",
+          "year_published": null,
+          "notes": "Bestseller; Self-Help Classic"
+        }
+      ]
+    },
+    {
+      "author": "James George Frazer",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Golden Bough",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library 100"
+        }
+      ]
+    },
+    {
+      "author": "James Joyce",
+      "recognition": "Canonical author; revolutionized modern novel",
+      "country": "Ireland",
+      "genre": "Modernist Fiction",
+      "significance": "Stream of consciousness; linguistic innovation",
+      "works": [
+        {
+          "title": "Dubliners",
+          "year_published": 1914,
+          "notes": "Short story masterpiece"
+        },
+        {
+          "title": "A Portrait of the Artist as a Young Man",
+          "year_published": 1916,
+          "notes": "Bildungsroman; Modern Library #3"
+        },
+        {
+          "title": "Ulysses",
+          "year_published": 1922,
+          "notes": "Modernist masterpiece; Modern Library #1"
+        },
+        {
+          "title": "Finnegans Wake",
+          "year_published": 1939,
+          "notes": "Experimental; linguistic tour de force"
+        },
+        {
+          "title": "Exiles",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "James Shapiro",
+      "recognition": "Baillie Gifford Prize 2006",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Year in the Life of William Shakespeare",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2006"
+        }
+      ]
+    },
+    {
+      "author": "Janet Fitch",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "White Oleander",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Javier Marías",
+      "recognition": "Spanish Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "All Souls",
+          "year_published": null,
+          "notes": "Spanish Literature"
+        },
+        {
+          "title": "The Infatuations",
+          "year_published": null,
+          "notes": "Spanish Literature"
+        },
+        {
+          "title": "A Heart So White",
+          "notes": "Spanish Literature"
+        }
+      ]
+    },
+    {
+      "author": "Jean Anthelme Brillat-Savarin",
+      "recognition": "Food Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Physiology of Taste",
+          "year_published": null,
+          "notes": "Food Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "Jean Racine",
+      "recognition": "Bloom's Canon; French Drama Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Phaedra",
+          "notes": "Bloom's Canon; French Drama Canon"
+        }
+      ]
+    },
+    {
+      "author": "Jean-Jacques Rousseau",
+      "recognition": "Bloom's Canon; Educational Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Émile",
+          "year_published": null,
+          "notes": "Bloom's Canon; Educational Canon"
+        },
+        {
+          "title": "The Social Contract",
+          "notes": "St. John's College; Bloom's Canon; Political Canon"
+        },
+        {
+          "title": "Confessions",
+          "notes": "Bloom's Canon; Autobiography Canon"
+        }
+      ]
+    },
+    {
+      "author": "Jean-Paul Sartre",
+      "recognition": "Existentialism; Philosophy Classic",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Being and Nothingness",
+          "notes": "Existentialism; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Jeannette Walls",
+      "recognition": "Bestseller; Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Glass Castle",
+          "year_published": null,
+          "notes": "Bestseller; Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Jesmyn Ward",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Men We Reaped",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "Salvage the Bones",
+          "notes": "National Book Award 2011"
+        },
+        {
+          "title": "Sing, Unburied, Sing",
+          "notes": "National Book Award 2017"
+        }
+      ]
+    },
+    {
+      "author": "Jim Collins",
+      "recognition": "Bestseller; Business Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Good to Great",
+          "year_published": null,
+          "notes": "Bestseller; Business Classic"
+        }
+      ]
+    },
+    {
+      "author": "Jim Collins & Jerry I. Porras",
+      "recognition": "Business Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Built to Last",
+          "year_published": null,
+          "notes": "Business Classic"
+        }
+      ]
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "recognition": "St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Faust",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "John Boyne",
+      "recognition": "International Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Boy in the Striped Pyjamas",
+          "year_published": null,
+          "notes": "International Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "John Bunyan",
+      "recognition": "Bloom's Canon; Christian Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Pilgrim's Progress",
+          "notes": "Bloom's Canon; Christian Canon"
+        }
+      ]
+    },
+    {
+      "author": "John Carreyrou",
+      "recognition": "Bestseller; FT/McKinsey Business Book 2018",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Bad Blood",
+          "year_published": null,
+          "notes": "Bestseller; FT/McKinsey Business Book 2018"
+        }
+      ]
+    },
+    {
+      "author": "John Locke",
+      "recognition": "St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Two Treatises of Government",
+          "year_published": null,
+          "notes": "Political Philosophy; St. John's College"
+        }
+      ]
+    },
+    {
+      "author": "John Milton",
+      "recognition": "Bloom's Canon; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Paradise Regained",
+          "year_published": null,
+          "notes": "Bloom's Canon; St. John's College"
+        },
+        {
+          "title": "Samson Agonistes",
+          "year_published": null,
+          "notes": "Bloom's Canon; St. John's College"
+        },
+        {
+          "title": "Paradise Lost",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "John Stuart Mill",
+      "recognition": "Feminist Philosophy Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Subjection of Women",
+          "year_published": null,
+          "notes": "Feminist Philosophy Classic"
+        },
+        {
+          "title": "On Liberty",
+          "notes": "Modern Library Nonfiction; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "John Vaillant",
+      "recognition": "Baillie Gifford Prize 2023",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Fire Weather",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2023"
+        },
+        {
+          "title": "Fire Weather: A True Story from a Hotter World",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2023"
+        }
+      ]
+    },
+    {
+      "author": "John Williams",
+      "recognition": "Western Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Butcher's Crossing",
+          "year_published": null,
+          "notes": "Western Canon"
+        },
+        {
+          "title": "Nothing but the Night",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Stoner",
+          "year_published": null,
+          "notes": "Modern Library; Rediscovered Classic"
+        },
+        {
+          "title": "Augustus",
+          "notes": "National Book Award 1973"
+        }
+      ]
+    },
+    {
+      "author": "John le Carré",
+      "recognition": "Spy Fiction Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Delicate Truth",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "A Most Wanted Man",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "A Perfect Spy",
+          "year_published": null,
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "Absolute Friends",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Agent Running in the Field",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Our Game",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Single & Single",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Smiley's People",
+          "year_published": null,
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "The Honourable Schoolboy",
+          "year_published": null,
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "The Little Drummer Girl",
+          "year_published": null,
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "The Looking Glass War",
+          "year_published": null,
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "The Naive and Sentimental Lover",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "The Russia House",
+          "year_published": null,
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "The Spy Who Came in from the Cold",
+          "year_published": null,
+          "notes": "Modern Library; Spy Fiction Canon"
+        },
+        {
+          "title": "The Tailor of Panama",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Call for the Dead",
+          "year_published": null,
+          "notes": "First Smiley Novel"
+        },
+        {
+          "title": "The Constant Gardener",
+          "year_published": null,
+          "notes": "Film Adaptation"
+        },
+        {
+          "title": "The Night Manager",
+          "year_published": null,
+          "notes": "TV Adaptation"
+        },
+        {
+          "title": "The Pigeon Tunnel",
+          "year_published": null,
+          "notes": "Memoir"
+        },
+        {
+          "title": "Tinker Tailor Soldier Spy",
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "A Small Town in Germany",
+          "notes": "Spy Fiction Canon"
+        },
+        {
+          "title": "A Murder of Quality",
+          "notes": "Second Smiley Novel"
+        }
+      ]
+    },
+    {
+      "author": "Jon Kabat-Zinn",
+      "recognition": "MBSR; Mindfulness",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Wherever You Go, There You Are",
+          "year_published": null,
+          "notes": "MBSR; Mindfulness"
+        }
+      ]
+    },
+    {
+      "author": "Jon Krakauer",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Into Thin Air",
+          "year_published": null,
+          "notes": "Bestseller; National Magazine Award"
+        },
+        {
+          "title": "Into the Wild",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Under the Banner of Heaven",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Jon Meacham",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Soul of America",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        },
+        {
+          "title": "Thomas Jefferson: The Art of Power",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "American Lion",
+          "notes": "Pulitzer Prize 2009 Biography"
+        }
+      ]
+    },
+    {
+      "author": "Jonathan Coe",
+      "recognition": "Baillie Gifford Prize 2005",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Like a Fiery Elephant",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2005"
+        }
+      ]
+    },
+    {
+      "author": "Jonathan Safran Foer",
+      "recognition": "Guardian First Book Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Everything Is Illuminated",
+          "year_published": null,
+          "notes": "Guardian First Book Award"
+        }
+      ]
+    },
+    {
+      "author": "Jorge Amado",
+      "recognition": "Brazilian Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Captains of the Sands",
+          "year_published": null,
+          "notes": "Brazilian Literature"
+        },
+        {
+          "title": "Dona Flor and Her Two Husbands",
+          "year_published": null,
+          "notes": "Brazilian Literature"
+        },
+        {
+          "title": "Gabriela, Clove and Cinnamon",
+          "year_published": null,
+          "notes": "Brazilian Literature"
+        }
+      ]
+    },
+    {
+      "author": "Joseph McElroy",
+      "recognition": "Postmodern Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Women and Men",
+          "year_published": null,
+          "notes": "Postmodern Canon"
+        }
+      ]
+    },
+    {
+      "author": "José Donoso",
+      "recognition": "Latin American Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Obscene Bird of Night",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        }
+      ]
+    },
+    {
+      "author": "José Eduardo Agualusa",
+      "recognition": "Independent Foreign Fiction Prize",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Book of Chameleons",
+          "year_published": null,
+          "notes": "Independent Foreign Fiction Prize"
+        },
+        {
+          "title": "A General Theory of Oblivion",
+          "notes": "International DUBLIN Literary Award"
+        }
+      ]
+    },
+    {
+      "author": "José Lezama Lima",
+      "recognition": "Latin American Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Paradiso",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        }
+      ]
+    },
+    {
+      "author": "Joyce Carol Oates",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "We Were the Mulvaneys",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Juan Rulfo",
+      "recognition": "Latin American Canon; Time 100",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Pedro Páramo",
+          "notes": "Latin American Canon; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Judith Butler",
+      "recognition": "Gender Theory; Philosophy Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Gender Trouble",
+          "year_published": null,
+          "notes": "Gender Theory; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Judith Herman",
+      "recognition": "Trauma Psychology Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Trauma and Recovery",
+          "year_published": null,
+          "notes": "Trauma Psychology Classic"
+        }
+      ]
+    },
+    {
+      "author": "Julio Cortázar",
+      "recognition": "Latin American Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Blow-Up and Other Stories",
+          "year_published": null,
+          "notes": "Latin American Canon"
+        },
+        {
+          "title": "Hopscotch",
+          "year_published": null,
+          "notes": "Latin American Canon; Time 100"
+        }
+      ]
+    },
+    {
+      "author": "Jung Chang",
+      "recognition": "International Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Wild Swans",
+          "year_published": null,
+          "notes": "International Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Junichiro Tanizaki",
+      "recognition": "Japanese Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Naomi",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        },
+        {
+          "title": "Some Prefer Nettles",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        },
+        {
+          "title": "The Key",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        },
+        {
+          "title": "The Makioka Sisters",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        }
+      ]
+    },
+    {
+      "author": "Kate Atkinson",
+      "recognition": "Crime Fiction Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Big Sky",
+          "year_published": null,
+          "notes": "Crime Fiction Canon"
+        },
+        {
+          "title": "Case Histories",
+          "year_published": null,
+          "notes": "Crime Fiction Canon"
+        },
+        {
+          "title": "One Good Turn",
+          "year_published": null,
+          "notes": "Crime Fiction Canon"
+        },
+        {
+          "title": "Started Early Took My Dog",
+          "year_published": null,
+          "notes": "Crime Fiction Canon"
+        },
+        {
+          "title": "When Will There Be Good News?",
+          "year_published": null,
+          "notes": "Crime Fiction Canon"
+        },
+        {
+          "title": "A God in Ruins",
+          "year_published": null,
+          "notes": "Costa Novel Award"
+        },
+        {
+          "title": "Behind the Scenes at the Museum",
+          "year_published": null,
+          "notes": "Whitbread Book of the Year"
+        },
+        {
+          "title": "Life After Life",
+          "year_published": null,
+          "notes": "Costa Novel Award"
+        }
+      ]
+    },
+    {
+      "author": "Kate Chopin",
+      "recognition": "Feminist Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Awakening",
+          "year_published": null,
+          "notes": "Modern Library; Feminist Canon"
+        }
+      ]
+    },
+    {
+      "author": "Kate Summerscale",
+      "recognition": "Baillie Gifford Prize 2008",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Suspicions of Mr. Whicher",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2008"
+        }
+      ]
+    },
+    {
+      "author": "Katherine Rundell",
+      "recognition": "Baillie Gifford Prize 2022",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Super-Infinite",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2022"
+        },
+        {
+          "title": "Super-Infinite: The Transformations of John Donne",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2022"
+        }
+      ]
+    },
+    {
+      "author": "Keith Richards",
+      "recognition": "Bestseller; Music Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Life",
+          "year_published": null,
+          "notes": "Bestseller; Music Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Khaled Hosseini",
+      "recognition": "International Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Thousand Splendid Suns",
+          "year_published": null,
+          "notes": "International Bestseller"
+        },
+        {
+          "title": "And the Mountains Echoed",
+          "year_published": null,
+          "notes": "International Bestseller"
+        },
+        {
+          "title": "The Kite Runner",
+          "notes": "International Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Kiese Laymon",
+      "recognition": "Critical Acclaim; Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Heavy",
+          "year_published": null,
+          "notes": "Critical Acclaim; Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Kiran Desai",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Hullabaloo in the Guava Orchard",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "The Inheritance of Loss",
+          "notes": "Booker Prize 2006"
+        }
+      ]
+    },
+    {
+      "author": "Larry McMurtry",
+      "recognition": "Western Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "All My Friends Are Going to Be Strangers",
+          "year_published": null,
+          "notes": "Western Canon"
+        },
+        {
+          "title": "Horseman Pass By",
+          "year_published": null,
+          "notes": "Western Canon"
+        },
+        {
+          "title": "The Last Picture Show",
+          "year_published": null,
+          "notes": "Western Canon; Film Adaptation"
+        },
+        {
+          "title": "Lonesome Dove",
+          "notes": "Pulitzer Prize 1986"
+        },
+        {
+          "title": "Terms of Endearment",
+          "notes": "National Book Award"
+        }
+      ]
+    },
+    {
+      "author": "Laura Hillenbrand",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Seabiscuit",
+          "year_published": null,
+          "notes": "Bestseller; National Book Critics Circle Award"
+        },
+        {
+          "title": "Unbroken",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Laurence Sterne",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Life and Opinions of Tristram Shandy",
+          "year_published": null,
+          "notes": "Modern Library; Bloom's Canon"
+        },
+        {
+          "title": "Tristram Shandy",
+          "notes": "Modern Library; Bloom's Canon"
+        },
+        {
+          "title": "A Sentimental Journey",
+          "notes": "Bloom's Canon; 18th Century Canon"
+        }
+      ]
+    },
+    {
+      "author": "Lawrence Ritter",
+      "recognition": "Baseball Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Glory of Their Times",
+          "year_published": null,
+          "notes": "Baseball Classic"
+        }
+      ]
+    },
+    {
+      "author": "Lawrence Wright",
+      "recognition": "National Book Critics Circle Award; PEN/John Kenneth Galbraith Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "God Save Texas",
+          "year_published": null,
+          "notes": "PEN/John Kenneth Galbraith Award"
+        },
+        {
+          "title": "Going Clear",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award"
+        },
+        {
+          "title": "The Looming Tower",
+          "notes": "National Book Award Finalist; Pulitzer Prize 2007 General Nonfiction"
+        }
+      ]
+    },
+    {
+      "author": "Leo Tolstoy",
+      "recognition": "Canonical author; epic novelist",
+      "country": "Russia",
+      "genre": "Epic Fiction",
+      "significance": "Realist masterpieces; moral philosophy",
+      "works": [
+        {
+          "title": "War and Peace",
+          "year_published": 1869,
+          "notes": "Epic; Napoleon's invasion"
+        },
+        {
+          "title": "Anna Karenina",
+          "year_published": 1877,
+          "notes": "Tragic love; family saga"
+        },
+        {
+          "title": "The Death of Ivan Ilyich",
+          "year_published": 1886,
+          "notes": "Novella; death and meaning"
+        }
+      ]
+    },
+    {
+      "author": "Louise Erdrich",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "LaRose",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "The Plague of Doves",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "The Night Watchman",
+          "notes": "Pulitzer Prize 2021"
+        },
+        {
+          "title": "The Round House",
+          "notes": "National Book Award 2012"
+        },
+        {
+          "title": "Love Medicine",
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Lucy Hughes-Hallett",
+      "recognition": "Baillie Gifford Prize 2013",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Gabriele D'Annunzio",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2013"
+        }
+      ]
+    },
+    {
+      "author": "Ludovico Ariosto",
+      "recognition": "Bloom's Canon; Renaissance Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Orlando Furioso",
+          "year_published": null,
+          "notes": "Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Ludwig Wittgenstein",
+      "recognition": "20th Century Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Philosophical Investigations",
+          "year_published": null,
+          "notes": "20th Century Canon; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Maggie Nelson",
+      "recognition": "Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Bluets",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "The Art of Cruelty",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "The Argonauts",
+          "notes": "National Book Critics Circle Award Finalist"
+        }
+      ]
+    },
+    {
+      "author": "Malcolm Gladwell",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Blink",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "David and Goliath",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Outliers",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        },
+        {
+          "title": "Talking to Strangers",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "The Tipping Point",
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Marcel Proust",
+      "recognition": "Prix Goncourt 1919; Canonical author",
+      "country": "France",
+      "genre": "Modernist Fiction",
+      "significance": "Memory and time; modernist masterpiece",
+      "works": [
+        {
+          "title": "Swann's Way",
+          "year_published": 1913,
+          "notes": "In Search of Lost Time Vol 1; #1 on Modern Library"
+        },
+        {
+          "title": "Within a Budding Grove",
+          "year_published": 1919,
+          "notes": "Vol 2; Prix Goncourt"
+        },
+        {
+          "title": "The Guermantes Way",
+          "year_published": 1920,
+          "notes": "Vol 3"
+        },
+        {
+          "title": "Sodom and Gomorrah",
+          "year_published": 1921,
+          "notes": "Vol 4"
+        },
+        {
+          "title": "The Captive",
+          "year_published": 1923,
+          "notes": "Vol 5"
+        },
+        {
+          "title": "The Fugitive",
+          "year_published": 1925,
+          "notes": "Vol 6"
+        },
+        {
+          "title": "Time Regained",
+          "year_published": 1927,
+          "notes": "Vol 7; conclusion"
+        },
+        {
+          "title": "Against Sainte-Beuve",
+          "year_published": null,
+          "notes": "Critical Essays"
+        },
+        {
+          "title": "Jean Santeuil",
+          "year_published": null,
+          "notes": "Early Work"
+        },
+        {
+          "title": "In Search of Lost Time",
+          "notes": "Modern Library #1; Time 100; Le Monde"
+        }
+      ]
+    },
+    {
+      "author": "Margaret Laurence",
+      "recognition": "Canadian Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Fire-Dwellers",
+          "year_published": null,
+          "notes": "Canadian Canon"
+        },
+        {
+          "title": "The Stone Angel",
+          "year_published": null,
+          "notes": "Canadian Canon"
+        },
+        {
+          "title": "A Jest of God",
+          "year_published": null,
+          "notes": "Governor General's Award"
+        },
+        {
+          "title": "The Diviners",
+          "year_published": null,
+          "notes": "Governor General's Award"
+        }
+      ]
+    },
+    {
+      "author": "Margaret MacMillan",
+      "recognition": "Baillie Gifford Prize 2002",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Paris 1919",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2002"
+        },
+        {
+          "title": "Paris 1919: Six Months That Changed the World",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2002"
+        }
+      ]
+    },
+    {
+      "author": "Mariama BÁ¢",
+      "recognition": "African Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "So Long a Letter",
+          "year_published": null,
+          "notes": "African Canon"
+        }
+      ]
+    },
+    {
+      "author": "Mark Haddon",
+      "recognition": "Whitbread Book of the Year",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Curious Incident of the Dog in the Night-Time",
+          "notes": "Whitbread Book of the Year"
+        }
+      ]
+    },
+    {
+      "author": "Markus Zusak",
+      "recognition": "International Bestseller; Young Adult",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Book Thief",
+          "notes": "International Bestseller; Young Adult"
+        }
+      ]
+    },
+    {
+      "author": "Martin Heidegger",
+      "recognition": "Phenomenology; Philosophy Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Being and Time",
+          "year_published": null,
+          "notes": "Phenomenology; Philosophy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Mary Karr",
+      "recognition": "Memoir; Memoir Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Cherry",
+          "year_published": null,
+          "notes": "Memoir"
+        },
+        {
+          "title": "Lit",
+          "year_published": null,
+          "notes": "Memoir"
+        },
+        {
+          "title": "The Liars' Club",
+          "year_published": null,
+          "notes": "Memoir Classic; PEN/Martha Albrand Award"
+        }
+      ]
+    },
+    {
+      "author": "Maya Angelou",
+      "recognition": "Autobiography; Poetry",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "All God's Children Need Traveling Shoes",
+          "year_published": null,
+          "notes": "Autobiography"
+        },
+        {
+          "title": "And Still I Rise",
+          "year_published": null,
+          "notes": "Poetry"
+        },
+        {
+          "title": "Gather Together in My Name",
+          "year_published": null,
+          "notes": "Autobiography"
+        },
+        {
+          "title": "The Heart of a Woman",
+          "year_published": null,
+          "notes": "Autobiography"
+        },
+        {
+          "title": "I Know Why the Caged Bird Sings",
+          "notes": "Autobiography Canon"
+        }
+      ]
+    },
+    {
+      "author": "Melinda Haynes",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Mother of Pearl",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Michael A. Singer",
+      "recognition": "Bestseller; Spirituality",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Untethered Soul",
+          "year_published": null,
+          "notes": "Bestseller; Spirituality"
+        }
+      ]
+    },
+    {
+      "author": "Michael Burleigh",
+      "recognition": "Baillie Gifford Prize 2001",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Third Reich: A New History",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2001"
+        }
+      ]
+    },
+    {
+      "author": "Michael Herr",
+      "recognition": "New Journalism Classic; Vietnam War Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Dispatches",
+          "year_published": null,
+          "notes": "New Journalism Classic; Vietnam War Classic"
+        }
+      ]
+    },
+    {
+      "author": "Michael Lewis",
+      "recognition": "Bestseller; Cultural Impact; FT/McKinsey Shortlist; Wall Street Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Flash Boys",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Liar's Poker",
+          "year_published": null,
+          "notes": "Bestseller; Wall Street Classic"
+        },
+        {
+          "title": "Moneyball",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        },
+        {
+          "title": "The Big Short",
+          "year_published": null,
+          "notes": "Bestseller; FT/McKinsey Shortlist"
+        },
+        {
+          "title": "The Undoing Project",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Michael Pollan",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Cooked",
+          "year_published": null,
+          "notes": "Bestseller; James Beard Award"
+        },
+        {
+          "title": "In Defense of Food",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "The Botany of Desire",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        },
+        {
+          "title": "The Omnivore's Dilemma",
+          "notes": "Bestseller; James Beard Award"
+        }
+      ]
+    },
+    {
+      "author": "Michel Foucault",
+      "recognition": "Philosophy Classic; Social Theory",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Discipline and Punish",
+          "year_published": null,
+          "notes": "Philosophy Classic; Social Theory"
+        },
+        {
+          "title": "The History of Sexuality",
+          "year_published": null,
+          "notes": "Philosophy Classic; Social Theory"
+        }
+      ]
+    },
+    {
+      "author": "Michel de Montaigne",
+      "recognition": "Essay Classic; St. John's College; St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction, Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Essays",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Essays",
+          "notes": "Essay Classic; St. John's College"
+        }
+      ]
+    },
+    {
+      "author": "Michelle Alexander",
+      "recognition": "Bestseller; NAACP Image Award",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The New Jim Crow",
+          "notes": "Bestseller; NAACP Image Award"
+        }
+      ]
+    },
+    {
+      "author": "Michelle Obama",
+      "recognition": "Bestseller; Cultural Phenomenon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Becoming",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Phenomenon"
+        }
+      ]
+    },
+    {
+      "author": "Michelle Zauner",
+      "recognition": "Bestseller; Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Crying in H Mart",
+          "year_published": null,
+          "notes": "Bestseller; Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Mieko Kawakami",
+      "recognition": "International Recognition",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Breasts and Eggs",
+          "year_published": null,
+          "notes": "International Recognition"
+        }
+      ]
+    },
+    {
+      "author": "Mihaly Csikszentmihalyi",
+      "recognition": "Psychology Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Flow",
+          "year_published": null,
+          "notes": "Psychology Classic"
+        }
+      ]
+    },
+    {
+      "author": "Mikhail Bulgakov",
+      "recognition": "Time 100; Russian Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Master and Margarita",
+          "notes": "Time 100; Russian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Molière",
+      "recognition": "Bloom's Canon; French Drama Canon; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Tartuffe",
+          "year_published": null,
+          "notes": "St. John's College; Bloom's Canon"
+        },
+        {
+          "title": "The Misanthrope",
+          "year_published": null,
+          "notes": "Bloom's Canon; French Drama Canon"
+        },
+        {
+          "title": "The School for Wives",
+          "year_published": null,
+          "notes": "Bloom's Canon; French Drama Canon"
+        }
+      ]
+    },
+    {
+      "author": "Murasaki Shikibu",
+      "recognition": "Japanese Canon; World Literature",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Tale of Genji",
+          "notes": "Japanese Canon; World Literature"
+        }
+      ]
+    },
+    {
+      "author": "Naomi Klein",
+      "recognition": "Bestseller; Critical Acclaim; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "No Logo",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        },
+        {
+          "title": "The Shock Doctrine",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Napoleon Hill",
+      "recognition": "Self-Help Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Think and Grow Rich",
+          "year_published": null,
+          "notes": "Self-Help Classic"
+        }
+      ]
+    },
+    {
+      "author": "Natsume Soseki",
+      "recognition": "Japanese Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "I Am a Cat",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        },
+        {
+          "title": "Kokoro",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        },
+        {
+          "title": "Botchan",
+          "notes": "Japanese Canon"
+        }
+      ]
+    },
+    {
+      "author": "Neil Gaiman",
+      "recognition": "BBC Adaptation; Bram Stoker; Children's Book; Children's Stories; Essay Collection; Film Adaptation; Graphic Novel; Hugo; Illustrated Story; International Bestseller; Nebula; Short Story Collection",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Anansi Boys",
+          "year_published": null,
+          "notes": "Locus Award; British Fantasy Award"
+        },
+        {
+          "title": "Coraline",
+          "year_published": null,
+          "notes": "Hugo; Nebula; Bram Stoker"
+        },
+        {
+          "title": "Fortunately the Milk",
+          "year_published": null,
+          "notes": "Children's Book"
+        },
+        {
+          "title": "Fragile Things",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "M Is for Magic",
+          "year_published": null,
+          "notes": "Children's Stories"
+        },
+        {
+          "title": "Neverwhere",
+          "year_published": null,
+          "notes": "Locus Award; BBC Adaptation"
+        },
+        {
+          "title": "Norse Mythology",
+          "year_published": null,
+          "notes": "International Bestseller"
+        },
+        {
+          "title": "Odd and the Frost Giants",
+          "year_published": null,
+          "notes": "Children's Book"
+        },
+        {
+          "title": "Smoke and Mirrors",
+          "year_published": null,
+          "notes": "Short Story Collection"
+        },
+        {
+          "title": "Stardust",
+          "year_published": null,
+          "notes": "Mythopoeic Award; Film Adaptation"
+        },
+        {
+          "title": "The Ocean at the End of the Lane",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "The Sandman",
+          "year_published": null,
+          "notes": "World Fantasy Award; Graphic Novel"
+        },
+        {
+          "title": "The Truth Is a Cave in the Black Mountains",
+          "year_published": null,
+          "notes": "Illustrated Story"
+        },
+        {
+          "title": "The View from the Cheap Seats",
+          "year_published": null,
+          "notes": "Essay Collection"
+        },
+        {
+          "title": "Trigger Warning",
+          "year_published": null,
+          "notes": "Short Story Collection"
+        },
+        {
+          "title": "American Gods",
+          "notes": "Hugo; Nebula; Locus; Bram Stoker"
+        },
+        {
+          "title": "The Graveyard Book",
+          "notes": "Newbery Medal; Hugo; Locus"
+        }
+      ]
+    },
+    {
+      "author": "Nelson Mandela",
+      "recognition": "Autobiography; Political Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Long Walk to Freedom",
+          "year_published": null,
+          "notes": "Autobiography; Political Classic"
+        }
+      ]
+    },
+    {
+      "author": "Ngugi wa Thiong'o",
+      "recognition": "African Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Grain of Wheat",
+          "year_published": null,
+          "notes": "African Literature"
+        },
+        {
+          "title": "The River Between",
+          "year_published": null,
+          "notes": "African Literature"
+        },
+        {
+          "title": "Wizard of the Crow",
+          "year_published": null,
+          "notes": "African Literature"
+        },
+        {
+          "title": "Petals of Blood",
+          "notes": "African Literature"
+        }
+      ]
+    },
+    {
+      "author": "Niall Ferguson",
+      "recognition": "International Emmy Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Ascent of Money",
+          "year_published": null,
+          "notes": "International Emmy Award"
+        }
+      ]
+    },
+    {
+      "author": "Nikolai Gogol",
+      "recognition": "Bloom's Canon; Russian Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Overcoat",
+          "year_published": null,
+          "notes": "Bloom's Canon; Russian Canon"
+        },
+        {
+          "title": "Dead Souls",
+          "notes": "Bloom's Canon; Russian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Oliver Goldsmith",
+      "recognition": "18th Century Canon; Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "She Stoops to Conquer",
+          "year_published": null,
+          "notes": "Bloom's Canon; 18th Century Canon"
+        },
+        {
+          "title": "The Vicar of Wakefield",
+          "notes": "Bloom's Canon; 18th Century Canon"
+        }
+      ]
+    },
+    {
+      "author": "Orson Scott Card",
+      "recognition": "Fantasy Canon; SF Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Planet Called Treason",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Hart's Hope",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "Songmaster",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Wyrms",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Children of the Mind",
+          "year_published": null,
+          "notes": "Ender Series"
+        },
+        {
+          "title": "Earthborn",
+          "year_published": null,
+          "notes": "Homecoming Saga"
+        },
+        {
+          "title": "Earthfall",
+          "year_published": null,
+          "notes": "Homecoming Saga"
+        },
+        {
+          "title": "Ender's Shadow",
+          "year_published": null,
+          "notes": "Ender's Shadow Series"
+        },
+        {
+          "title": "Shadow Puppets",
+          "year_published": null,
+          "notes": "Ender's Shadow Series"
+        },
+        {
+          "title": "Shadow of the Giant",
+          "year_published": null,
+          "notes": "Ender's Shadow Series"
+        },
+        {
+          "title": "Shadow of the Hegemon",
+          "year_published": null,
+          "notes": "Ender's Shadow Series"
+        },
+        {
+          "title": "Xenocide",
+          "year_published": null,
+          "notes": "Locus Nomination"
+        },
+        {
+          "title": "Ender's Game",
+          "notes": "Hugo; Nebula; SF Masterwork"
+        }
+      ]
+    },
+    {
+      "author": "Oscar Wilde",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Importance of Being Earnest",
+          "year_published": null,
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "The Picture of Dorian Gray",
+          "notes": "Modern Library; Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "Ovid",
+      "recognition": "Bloom's Canon; Roman Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Metamorphoses",
+          "notes": "Bloom's Canon; Roman Canon"
+        }
+      ]
+    },
+    {
+      "author": "Patrick Radden Keefe",
+      "recognition": "Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Empire of Pain",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2021"
+        },
+        {
+          "title": "Say Nothing",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award; Orwell Prize"
+        },
+        {
+          "title": "The Snakehead",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Patti Smith",
+      "recognition": "Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "M Train",
+          "year_published": null,
+          "notes": "Memoir"
+        },
+        {
+          "title": "Just Kids",
+          "notes": "Music Memoir; National Book Award 2010"
+        }
+      ]
+    },
+    {
+      "author": "Paul Auster",
+      "recognition": "International IMPAC Dublin Literary Award; PEN/Faulkner Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "4 3 2 1",
+          "year_published": null,
+          "notes": "International IMPAC Dublin Literary Award"
+        },
+        {
+          "title": "In the Country of Last Things",
+          "year_published": null,
+          "notes": "PEN/Faulkner Award"
+        },
+        {
+          "title": "The New York Trilogy",
+          "notes": "Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Paul Kalanithi",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "When Breath Becomes Air",
+          "notes": "Bestseller; Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Paul Theroux",
+      "recognition": "Travel Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Dark Star Safari",
+          "year_published": null,
+          "notes": "Travel Writing Classic"
+        },
+        {
+          "title": "The Great Railway Bazaar",
+          "year_published": null,
+          "notes": "Travel Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "Pema Chodron",
+      "recognition": "Buddhism; Self-Help Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "When Things Fall Apart",
+          "year_published": null,
+          "notes": "Buddhism; Self-Help Classic"
+        }
+      ]
+    },
+    {
+      "author": "Peter F. Drucker",
+      "recognition": "Management Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Effective Executive",
+          "year_published": null,
+          "notes": "Management Classic"
+        }
+      ]
+    },
+    {
+      "author": "Peter Thiel",
+      "recognition": "Bestseller; Startup Philosophy",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Zero to One",
+          "year_published": null,
+          "notes": "Bestseller; Startup Philosophy"
+        }
+      ]
+    },
+    {
+      "author": "Peter Wohlleben",
+      "recognition": "Bestseller; International Success",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Hidden Life of Trees",
+          "year_published": null,
+          "notes": "Bestseller; International Success"
+        }
+      ]
+    },
+    {
+      "author": "Phil Knight",
+      "recognition": "Bestseller; FT/McKinsey Shortlist",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Shoe Dog",
+          "year_published": null,
+          "notes": "Bestseller; FT/McKinsey Shortlist"
+        }
+      ]
+    },
+    {
+      "author": "Philip Hoare",
+      "recognition": "Baillie Gifford Prize 2009",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Whale",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2009"
+        }
+      ]
+    },
+    {
+      "author": "Philip K. Dick",
+      "recognition": "SF Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Maze of Death",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Eye in the Sky",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Galactic Pot-Healer",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "The Penultimate Truth",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Time Out of Joint",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "A Scanner Darkly",
+          "year_published": null,
+          "notes": "SF Masterwork; BSFA Nomination"
+        },
+        {
+          "title": "Do Androids Dream of Electric Sheep?",
+          "year_published": null,
+          "notes": "Blade Runner; Blade Runner Source; SF Masterwork"
+        },
+        {
+          "title": "Dr. Bloodmoney",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Flow My Tears the Policeman Said",
+          "year_published": null,
+          "notes": "John W. Campbell Memorial Award"
+        },
+        {
+          "title": "Martian Time-Slip",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The Exegesis of Philip K. Dick",
+          "year_published": null,
+          "notes": "Posthumous Theological"
+        },
+        {
+          "title": "The Three Stigmata of Palmer Eldritch",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "VALIS",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The Man in the High Castle",
+          "notes": "Hugo Award; SF Masterwork"
+        },
+        {
+          "title": "Ubik",
+          "notes": "SF Masterwork; Locus Hall of Fame"
+        }
+      ]
+    },
+    {
+      "author": "Philip Pullman",
+      "recognition": "Fantasy Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "La Belle Sauvage",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "The Book of Dust Trilogy",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "The Secret Commonwealth",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "The Subtle Knife",
+          "year_published": null,
+          "notes": "Fantasy Canon"
+        },
+        {
+          "title": "His Dark Materials Trilogy",
+          "year_published": null,
+          "notes": "BBC Big Read; Carnegie Medal"
+        },
+        {
+          "title": "The Amber Spyglass",
+          "year_published": null,
+          "notes": "Whitbread Book of the Year"
+        },
+        {
+          "title": "The Golden Compass",
+          "year_published": null,
+          "notes": "Carnegie Medal; Guardian Prize"
+        }
+      ]
+    },
+    {
+      "author": "Philippe Sands",
+      "recognition": "Baillie Gifford Prize 2016",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "East West Street",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2016"
+        }
+      ]
+    },
+    {
+      "author": "Plato",
+      "recognition": "Great Books; Philosophy Classic; St. John's College; St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction, Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Republic",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "The Symposium",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Phaedo",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Apology",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Phaedrus",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Rachel Carson",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Edge of the Sea",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Silent Spring",
+          "notes": "Modern Library 100 Nonfiction #5; Presidential Medal; Presidential Medal of Freedom"
+        },
+        {
+          "title": "The Sea Around Us",
+          "notes": "National Book Award 1952"
+        }
+      ]
+    },
+    {
+      "author": "Rachel Cusk",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Kudos",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "Outline",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "Transit",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        }
+      ]
+    },
+    {
+      "author": "Rajiv Chandrasekaran",
+      "recognition": "Baillie Gifford Prize 2007",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Imperial Life in the Emerald City",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2007"
+        }
+      ]
+    },
+    {
+      "author": "Ray Dalio",
+      "recognition": "Bestseller; Business Philosophy",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Principles",
+          "year_published": null,
+          "notes": "Bestseller; Business Philosophy"
+        }
+      ]
+    },
+    {
+      "author": "Rebecca Skloot",
+      "recognition": "National Academies Communication Award; Wellcome Prize",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Immortal Life of Henrietta Lacks",
+          "notes": "National Academies Communication Award; Wellcome Prize"
+        }
+      ]
+    },
+    {
+      "author": "Rebecca Solnit",
+      "recognition": "Critical Acclaim; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Men Explain Things to Me",
+          "year_published": null,
+          "notes": "Critical Acclaim; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Richard Adams",
+      "recognition": "BBC Big Read; Children's Classic",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Watership Down",
+          "notes": "BBC Big Read; Children's Classic"
+        }
+      ]
+    },
+    {
+      "author": "Richard Brinsley Sheridan",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Rivals",
+          "year_published": null,
+          "notes": "Bloom's Canon; 18th Century Drama"
+        },
+        {
+          "title": "The School for Scandal",
+          "year_published": null,
+          "notes": "Bloom's Canon; 18th Century Drama"
+        }
+      ]
+    },
+    {
+      "author": "Richard Dawkins",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Blind Watchmaker",
+          "year_published": null,
+          "notes": "Bestseller; Royal Society Science Book Prize"
+        },
+        {
+          "title": "The God Delusion",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        },
+        {
+          "title": "The Selfish Gene",
+          "notes": "Bestseller; Royal Society Science Book Prize; Royal Society Science Book Prize Shortlist; Science Classic"
+        }
+      ]
+    },
+    {
+      "author": "Robert A. Heinlein",
+      "recognition": "SF Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Citizen of the Galaxy",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Farnham's Freehold",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Friday",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Glory Road",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Have Space Suit - Will Travel",
+          "year_published": null,
+          "notes": "Hugo Nomination"
+        },
+        {
+          "title": "Methuselah's Children",
+          "year_published": null,
+          "notes": "Future History"
+        },
+        {
+          "title": "Revolt in 2100",
+          "year_published": null,
+          "notes": "Future History"
+        },
+        {
+          "title": "The Door into Summer",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "The Past Through Tomorrow",
+          "year_published": null,
+          "notes": "Future History"
+        },
+        {
+          "title": "The Puppet Masters",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Time Enough for Love",
+          "year_published": null,
+          "notes": "SF Masterwork"
+        },
+        {
+          "title": "Stranger in a Strange Land",
+          "notes": "Hugo Award; SF Masterwork"
+        },
+        {
+          "title": "The Moon Is a Harsh Mistress",
+          "notes": "Hugo Award; SF Masterwork"
+        },
+        {
+          "title": "Starship Troopers",
+          "notes": "Hugo Award; Military SF"
+        },
+        {
+          "title": "Double Star",
+          "notes": "Hugo Award"
+        }
+      ]
+    },
+    {
+      "author": "Robert Burton",
+      "recognition": "Bloom's Canon; Renaissance Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Anatomy of Melancholy",
+          "notes": "Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Robert Caro",
+      "recognition": "Critical Acclaim; Multiple volumes",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Means of Ascent",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "The Passage of Power",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award"
+        },
+        {
+          "title": "The Path to Power",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award"
+        },
+        {
+          "title": "The Years of Lyndon Johnson",
+          "year_published": null,
+          "notes": "Multiple volumes; National Book Critics Circle Award"
+        },
+        {
+          "title": "Master of the Senate",
+          "notes": "National Book Award; Pulitzer Prize 2003 Biography"
+        },
+        {
+          "title": "The Power Broker",
+          "notes": "Modern Library #1; Modern Library #1 Nonfiction; National Book Award; Pulitzer Prize 1975 Biography"
+        }
+      ]
+    },
+    {
+      "author": "Robert Cialdini",
+      "recognition": "Bestseller; Psychology Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Influence",
+          "year_published": null,
+          "notes": "Bestseller; Psychology Classic"
+        }
+      ]
+    },
+    {
+      "author": "Robert Galbraith (J.K. Rowling)",
+      "recognition": "Crime Fiction",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Career of Evil",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        },
+        {
+          "title": "Lethal White",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        },
+        {
+          "title": "The Cuckoo's Calling",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        },
+        {
+          "title": "The Ink Black Heart",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        },
+        {
+          "title": "The Running Grave",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        },
+        {
+          "title": "The Silkworm",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        },
+        {
+          "title": "Troubled Blood",
+          "year_published": null,
+          "notes": "Crime Fiction"
+        }
+      ]
+    },
+    {
+      "author": "Robert Hughes",
+      "recognition": "Baillie Gifford Prize 1988",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Fatal Shore",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 1988"
+        }
+      ]
+    },
+    {
+      "author": "Robert Kanigel",
+      "recognition": "National Book Critics Circle Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Man Who Knew Infinity",
+          "year_published": null,
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Roberto Bolaño",
+      "recognition": "National Book Critics Circle Award",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "2666",
+          "notes": "National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Robin Wall Kimmerer",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Braiding Sweetgrass",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Roxane Gay",
+      "recognition": "Bestseller; Critical Acclaim; Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Bad Feminist",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        },
+        {
+          "title": "Hunger",
+          "year_published": null,
+          "notes": "Critical Acclaim; Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Ryunosuke Akutagawa",
+      "recognition": "Japanese Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Rashomon and Other Stories",
+          "year_published": null,
+          "notes": "Japanese Canon"
+        }
+      ]
+    },
+    {
+      "author": "Salman Rushdie",
+      "recognition": "Prix du Meilleur Livre Étranger",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Shame",
+          "year_published": null,
+          "notes": "Prix du Meilleur Livre Étranger"
+        },
+        {
+          "title": "The Satanic Verses",
+          "year_published": null,
+          "notes": "Whitbread Prize"
+        },
+        {
+          "title": "Midnight's Children",
+          "notes": "Booker Prize 1981; Best of Booker"
+        }
+      ]
+    },
+    {
+      "author": "Samin Nosrat",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Salt, Fat, Acid, Heat",
+          "year_published": null,
+          "notes": "Bestseller; James Beard Award"
+        }
+      ]
+    },
+    {
+      "author": "Samuel Butler",
+      "recognition": "Bloom's Canon; Victorian Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Way of All Flesh",
+          "notes": "Bloom's Canon; Victorian Canon"
+        },
+        {
+          "title": "Erewhon",
+          "notes": "Bloom's Canon; Victorian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Samuel Richardson",
+      "recognition": "Bloom's Canon; 18th Century Canon; Bloom's Canon; Penguin Classics",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Clarissa",
+          "notes": "Bloom's Canon; Penguin Classics"
+        },
+        {
+          "title": "Pamela",
+          "notes": "Bloom's Canon; 18th Century Canon"
+        }
+      ]
+    },
+    {
+      "author": "Sayaka Murata",
+      "recognition": "Akutagawa Prize",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Convenience Store Woman",
+          "year_published": null,
+          "notes": "Akutagawa Prize"
+        }
+      ]
+    },
+    {
+      "author": "Sei Shonagon",
+      "recognition": "Japanese Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Pillow Book",
+          "year_published": null,
+          "notes": "Japanese Canon; Classical Literature"
+        }
+      ]
+    },
+    {
+      "author": "Serhii Plokhy",
+      "recognition": "Baillie Gifford Prize 2018",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Chernobyl: The History of a Nuclear Catastrophe",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2018"
+        }
+      ]
+    },
+    {
+      "author": "Shion Miura",
+      "recognition": "Japan Booksellers' Award",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Great Passage",
+          "year_published": null,
+          "notes": "Japan Booksellers' Award"
+        }
+      ]
+    },
+    {
+      "author": "Shunryu Suzuki",
+      "recognition": "Zen Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Zen Mind, Beginner's Mind",
+          "year_published": null,
+          "notes": "Zen Classic"
+        }
+      ]
+    },
+    {
+      "author": "Simon Sinek",
+      "recognition": "Leadership Bestseller; TED Talk Fame",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Leaders Eat Last",
+          "year_published": null,
+          "notes": "Leadership Bestseller"
+        },
+        {
+          "title": "Start with Why",
+          "year_published": null,
+          "notes": "Leadership Bestseller; TED Talk Fame"
+        }
+      ]
+    },
+    {
+      "author": "Sophocles",
+      "recognition": "Bloom's Canon; Greek Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Electra",
+          "year_published": null,
+          "notes": "Bloom's Canon; Greek Canon"
+        },
+        {
+          "title": "Oedipus Rex",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Antigone",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "Oedipus at Colonus",
+          "notes": "Bloom's Canon; Greek Canon"
+        }
+      ]
+    },
+    {
+      "author": "Stephen Greenblatt",
+      "recognition": "Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Tyrant",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "The Swerve",
+          "notes": "National Book Award 2011; Pulitzer Prize 2012 General Nonfiction"
+        },
+        {
+          "title": "Will in the World",
+          "notes": "National Book Award Finalist"
+        }
+      ]
+    },
+    {
+      "author": "Stephen Hawking",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Brief History of Time",
+          "year_published": null,
+          "notes": "Bestseller; Royal Society Science Book Prize 1989"
+        },
+        {
+          "title": "The Universe in a Nutshell",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Stephen King",
+      "recognition": "Bestseller; Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "On Writing",
+          "year_published": null,
+          "notes": "Bestseller; Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "Stephen R. Covey",
+      "recognition": "Bestseller; Business Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The 7 Habits of Highly Effective People",
+          "year_published": null,
+          "notes": "Bestseller; Business Classic"
+        }
+      ]
+    },
+    {
+      "author": "Steve Martin",
+      "recognition": "Bestseller; Comedy Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Born Standing Up",
+          "year_published": null,
+          "notes": "Bestseller; Comedy Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Steve Silberman",
+      "recognition": "Baillie Gifford Prize 2015",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "NeuroTribes",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2015"
+        }
+      ]
+    },
+    {
+      "author": "Steven D. Levitt & Stephen J. Dubner",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Freakonomics",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Susan Cain",
+      "recognition": "Bestseller; Cultural Impact",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Quiet",
+          "year_published": null,
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Sylvia Nasar",
+      "recognition": "Film Adaptation; National Book Critics Circle Award",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "A Beautiful Mind",
+          "notes": "Film Adaptation; National Book Critics Circle Award"
+        }
+      ]
+    },
+    {
+      "author": "Sylvia Plath",
+      "recognition": "Autobiography Canon; Poetry Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Ariel",
+          "year_published": null,
+          "notes": "Poetry Canon"
+        },
+        {
+          "title": "The Bell Jar",
+          "year_published": null,
+          "notes": "Modern Library; Time 100"
+        },
+        {
+          "title": "The Colossus",
+          "year_published": null,
+          "notes": "Poetry Canon"
+        },
+        {
+          "title": "The Journals of Sylvia Plath",
+          "year_published": null,
+          "notes": "Autobiography Canon"
+        }
+      ]
+    },
+    {
+      "author": "T.J. Binyon",
+      "recognition": "Baillie Gifford Prize 2003",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Pushkin: A Biography",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2003"
+        }
+      ]
+    },
+    {
+      "author": "Ta-Nehisi Coates",
+      "recognition": "Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Beautiful Struggle",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "We Were Eight Years in Power",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "Between the World and Me",
+          "notes": "MacArthur Fellowship; National Book Award 2015"
+        }
+      ]
+    },
+    {
+      "author": "Tara Westover",
+      "recognition": "Bestseller; Critical Acclaim; Memoir",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Educated",
+          "notes": "Bestseller; Critical Acclaim; Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Tayeb Salih",
+      "recognition": "African Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Season of Migration to the North",
+          "notes": "African Canon"
+        }
+      ]
+    },
+    {
+      "author": "Terry Pratchett",
+      "recognition": "Fantasy Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Discworld Series",
+          "year_published": null,
+          "notes": "Fantasy Canon; International Bestseller"
+        },
+        {
+          "title": "A Hat Full of Sky",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "Going Postal",
+          "year_published": null,
+          "notes": "Discworld #33"
+        },
+        {
+          "title": "Guards! Guards!",
+          "year_published": null,
+          "notes": "Discworld #8"
+        },
+        {
+          "title": "I Shall Wear Midnight",
+          "year_published": null,
+          "notes": "Andre Norton Award"
+        },
+        {
+          "title": "Mort",
+          "year_published": null,
+          "notes": "Discworld #4"
+        },
+        {
+          "title": "Nation",
+          "year_published": null,
+          "notes": "Printz Honor"
+        },
+        {
+          "title": "Night Watch",
+          "year_published": null,
+          "notes": "Prometheus Award"
+        },
+        {
+          "title": "The Amazing Maurice and His Educated Rodents",
+          "year_published": null,
+          "notes": "Carnegie Medal"
+        },
+        {
+          "title": "The Wee Free Men",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "Thud!",
+          "year_published": null,
+          "notes": "Discworld #34"
+        },
+        {
+          "title": "Wintersmith",
+          "year_published": null,
+          "notes": "Locus Award"
+        },
+        {
+          "title": "Small Gods",
+          "notes": "Discworld #13"
+        }
+      ]
+    },
+    {
+      "author": "Terry Pratchett & Neil Gaiman",
+      "recognition": "Fantasy Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Good Omens",
+          "year_published": null,
+          "notes": "Fantasy Classic"
+        }
+      ]
+    },
+    {
+      "author": "Thich Nhat Hanh",
+      "recognition": "Buddhism; Mindfulness; Mindfulness Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Peace Is Every Step",
+          "year_published": null,
+          "notes": "Mindfulness"
+        },
+        {
+          "title": "The Heart of the Buddha's Teaching",
+          "year_published": null,
+          "notes": "Buddhism"
+        },
+        {
+          "title": "The Miracle of Mindfulness",
+          "year_published": null,
+          "notes": "Mindfulness Classic"
+        }
+      ]
+    },
+    {
+      "author": "Thomas Hobbes",
+      "recognition": "Great Books; Political Philosophy; St. John's College",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Leviathan",
+          "notes": "Great Books; Political Philosophy; St. John's College"
+        }
+      ]
+    },
+    {
+      "author": "Thomas J. Stanley",
+      "recognition": "Bestseller; Personal Finance",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Millionaire Next Door",
+          "year_published": null,
+          "notes": "Bestseller; Personal Finance"
+        }
+      ]
+    },
+    {
+      "author": "Thomas Malory",
+      "recognition": "Arthurian Canon; Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Le Morte d'Arthur",
+          "year_published": null,
+          "notes": "Bloom's Canon; Arthurian Canon"
+        }
+      ]
+    },
+    {
+      "author": "Thomas More",
+      "recognition": "St. John's College; Bloom's Canon; Renaissance Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Utopia",
+          "notes": "St. John's College; Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Thomas Piketty",
+      "recognition": "Bestseller; FT/McKinsey Business Book 2014",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Capital in the Twenty-First Century",
+          "year_published": null,
+          "notes": "Bestseller; FT/McKinsey Business Book 2014"
+        }
+      ]
+    },
+    {
+      "author": "Thucydides",
+      "recognition": "St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The History of the Peloponnesian War",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Tina Fey",
+      "recognition": "Bestseller; Comedy Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Bossypants",
+          "year_published": null,
+          "notes": "Bestseller; Comedy Memoir"
+        }
+      ]
+    },
+    {
+      "author": "Tobias Wolff",
+      "recognition": "Memoir",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "In Pharaoh's Army",
+          "year_published": null,
+          "notes": "Memoir"
+        },
+        {
+          "title": "This Boy's Life",
+          "notes": "Memoir Classic"
+        }
+      ]
+    },
+    {
+      "author": "Tom Wolfe",
+      "recognition": "New Journalism Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "A Man in Full",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Back to Blood",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "I Am Charlotte Simmons",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "The Bonfire of the Vanities",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "The Electric Kool-Aid Acid Test",
+          "year_published": null,
+          "notes": "New Journalism Canon"
+        },
+        {
+          "title": "The Right Stuff",
+          "notes": "National Book Award 1979"
+        }
+      ]
+    },
+    {
+      "author": "Torquato Tasso",
+      "recognition": "Bloom's Canon; Renaissance Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Jerusalem Delivered",
+          "year_published": null,
+          "notes": "Bloom's Canon; Renaissance Canon"
+        }
+      ]
+    },
+    {
+      "author": "Trevor Noah",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Born a Crime",
+          "year_published": null,
+          "notes": "Bestseller; Critical Acclaim"
+        }
+      ]
+    },
+    {
+      "author": "Ursula K. Le Guin",
+      "recognition": "SF Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Eye of the Heron",
+          "year_published": null,
+          "notes": "SF Canon"
+        },
+        {
+          "title": "Always Coming Home",
+          "year_published": null,
+          "notes": "Anthropological SF"
+        },
+        {
+          "title": "Annals of the Western Shore",
+          "year_published": null,
+          "notes": "YA Trilogy"
+        },
+        {
+          "title": "Buffalo Gals Won't You Come Out Tonight",
+          "year_published": null,
+          "notes": "Hugo; World Fantasy"
+        },
+        {
+          "title": "City of Illusions",
+          "year_published": null,
+          "notes": "Hainish Cycle"
+        },
+        {
+          "title": "Gifts",
+          "year_published": null,
+          "notes": "YA Fantasy"
+        },
+        {
+          "title": "Planet of Exile",
+          "year_published": null,
+          "notes": "Hainish Cycle"
+        },
+        {
+          "title": "Rocannon's World",
+          "year_published": null,
+          "notes": "Hainish Cycle"
+        },
+        {
+          "title": "Tehanu",
+          "year_published": null,
+          "notes": "Nebula; Locus; Earthsea"
+        },
+        {
+          "title": "The Lathe of Heaven",
+          "year_published": null,
+          "notes": "Locus Award; SF Masterwork"
+        },
+        {
+          "title": "The Other Wind",
+          "year_published": null,
+          "notes": "World Fantasy Award; Earthsea"
+        },
+        {
+          "title": "The Tombs of Atuan",
+          "year_published": null,
+          "notes": "Newbery Honor; Earthsea"
+        },
+        {
+          "title": "The Unreal and the Real",
+          "year_published": null,
+          "notes": "Selected Stories"
+        },
+        {
+          "title": "The Wind's Twelve Quarters",
+          "year_published": null,
+          "notes": "Short Story Collection"
+        },
+        {
+          "title": "The Word for World Is Forest",
+          "year_published": null,
+          "notes": "Hugo Award"
+        },
+        {
+          "title": "Voices",
+          "year_published": null,
+          "notes": "YA Fantasy"
+        },
+        {
+          "title": "The Dispossessed",
+          "notes": "Hugo; Nebula; Locus; National Book Award"
+        },
+        {
+          "title": "The Left Hand of Darkness",
+          "notes": "Hugo; Nebula; SF Masterwork"
+        },
+        {
+          "title": "A Wizard of Earthsea",
+          "notes": "Lewis Carroll Shelf Award; Fantasy Canon"
+        },
+        {
+          "title": "The Farthest Shore",
+          "notes": "National Book Award; Earthsea"
+        },
+        {
+          "title": "Powers",
+          "notes": "Nebula Award"
+        }
+      ]
+    },
+    {
+      "author": "Vicki Robin & Joe Dominguez",
+      "recognition": "Personal Finance Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Your Money or Your Life",
+          "year_published": null,
+          "notes": "Personal Finance Classic"
+        }
+      ]
+    },
+    {
+      "author": "Victor Hugo",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Hunchback of Notre-Dame",
+          "year_published": null,
+          "notes": "Bloom's Canon; Penguin Classics"
+        },
+        {
+          "title": "Les Misérables",
+          "notes": "BBC Big Read; Penguin Classics"
+        }
+      ]
+    },
+    {
+      "author": "Viet Thanh Nguyen",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Committed",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "The Sympathizer",
+          "notes": "Pulitzer Prize 2016"
+        }
+      ]
+    },
+    {
+      "author": "Virgil",
+      "recognition": "St. John's College; Bloom's Canon; Great Books",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Aeneid",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        }
+      ]
+    },
+    {
+      "author": "Virginia Woolf",
+      "recognition": "Canonical author; feminist icon",
+      "country": "UK",
+      "genre": "Modernist Fiction",
+      "significance": "Stream of consciousness; feminist literature",
+      "works": [
+        {
+          "title": "Mrs Dalloway",
+          "year_published": 1925,
+          "notes": "Modernist masterpiece; single day"
+        },
+        {
+          "title": "To the Lighthouse",
+          "year_published": 1927,
+          "notes": "Masterwork; time and consciousness"
+        },
+        {
+          "title": "The Waves",
+          "year_published": 1931,
+          "notes": "Experimental; six voices"
+        },
+        {
+          "title": "Orlando",
+          "year_published": 1928,
+          "notes": "Gender and time travel"
+        },
+        {
+          "title": "Between the Acts",
+          "year_published": 1941,
+          "notes": "Final novel"
+        },
+        {
+          "title": "A Room of One's Own",
+          "year_published": 1929,
+          "notes": "Essay; feminist classic"
+        },
+        {
+          "title": "Jacob's Room",
+          "year_published": null,
+          "notes": "Modern Library; Bloom's Canon"
+        },
+        {
+          "title": "Night and Day",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "The Voyage Out",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "Three Guineas",
+          "year_published": null,
+          "notes": "Feminist Canon"
+        }
+      ]
+    },
+    {
+      "author": "W.G. Sebald",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Emigrants",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "The Rings of Saturn",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "Vertigo",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "Austerlitz",
+          "notes": "Contemporary Literature"
+        }
+      ]
+    },
+    {
+      "author": "Wade Davis",
+      "recognition": "Baillie Gifford Prize 2012",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Into the Silence",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2012"
+        }
+      ]
+    },
+    {
+      "author": "Wallace Stegner",
+      "recognition": "Western Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Crossing to Safety",
+          "year_published": null,
+          "notes": "Modern Library"
+        },
+        {
+          "title": "The Big Rock Candy Mountain",
+          "year_published": null,
+          "notes": "Western Canon"
+        },
+        {
+          "title": "Angle of Repose",
+          "notes": "Pulitzer Prize 1972"
+        },
+        {
+          "title": "The Spectator Bird",
+          "notes": "National Book Award 1977"
+        }
+      ]
+    },
+    {
+      "author": "Wally Lamb",
+      "recognition": "Oprah's Book Club",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "I Know This Much Is True",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        },
+        {
+          "title": "She's Come Undone",
+          "year_published": null,
+          "notes": "Oprah's Book Club"
+        }
+      ]
+    },
+    {
+      "author": "Walter Isaacson",
+      "recognition": "Bestseller; Critical Acclaim",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Benjamin Franklin",
+          "year_published": null,
+          "notes": "Critical Acclaim"
+        },
+        {
+          "title": "Einstein",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Leonardo da Vinci",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Steve Jobs",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "The Innovators",
+          "year_published": null,
+          "notes": "Bestseller"
+        }
+      ]
+    },
+    {
+      "author": "Wilfred Thesiger",
+      "recognition": "Travel Writing Classic",
+      "country": "",
+      "genre": "Nonfiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Arabian Sands",
+          "notes": "Travel Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "Wilkie Collins",
+      "recognition": "Victorian Canon; Victorian Canon; First Detective Novel; Victorian Canon; Mystery Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "The Woman in White",
+          "notes": "Victorian Canon; Mystery Canon"
+        },
+        {
+          "title": "The Moonstone",
+          "notes": "Victorian Canon; First Detective Novel"
+        },
+        {
+          "title": "Armadale",
+          "notes": "Victorian Canon"
+        },
+        {
+          "title": "No Name",
+          "notes": "Victorian Canon"
+        }
+      ]
+    },
+    {
+      "author": "William Blake",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Songs of Innocence and Experience",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        },
+        {
+          "title": "The Marriage of Heaven and Hell",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "William Gaddis",
+      "recognition": "Posthumous",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Agape Agape",
+          "year_published": null,
+          "notes": "Posthumous"
+        },
+        {
+          "title": "JR",
+          "notes": "National Book Award 1976"
+        },
+        {
+          "title": "The Recognitions",
+          "notes": "Modern Library; Time 100"
+        },
+        {
+          "title": "A Frolic of His Own",
+          "notes": "National Book Award 1994"
+        },
+        {
+          "title": "Carpenter's Gothic",
+          "notes": "Modern Library"
+        }
+      ]
+    },
+    {
+      "author": "William Langland",
+      "recognition": "Medieval Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Piers Plowman",
+          "year_published": null,
+          "notes": "Medieval Canon"
+        }
+      ]
+    },
+    {
+      "author": "William S. Burroughs",
+      "recognition": "Beat Generation Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Junkie",
+          "year_published": null,
+          "notes": "Beat Generation Canon"
+        },
+        {
+          "title": "Naked Lunch",
+          "notes": "Time 100; Modern Library"
+        }
+      ]
+    },
+    {
+      "author": "William Shakespeare",
+      "recognition": "Bloom's Canon; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Macbeth",
+          "year_published": null,
+          "notes": "St. John's College; Bloom's Canon"
+        },
+        {
+          "title": "Romeo and Juliet",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        },
+        {
+          "title": "Hamlet",
+          "notes": "St. John's College; Bloom's Canon; Great Books"
+        },
+        {
+          "title": "King Lear",
+          "notes": "Bloom's Canon; Harold Bloom's Favorite"
+        },
+        {
+          "title": "Othello",
+          "notes": "Bloom's Canon; Modern Library"
+        },
+        {
+          "title": "The Tempest",
+          "notes": "Bloom's Canon; St. John's College"
+        },
+        {
+          "title": "A Midsummer Night's Dream",
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "William Strunk Jr. & E.B. White",
+      "recognition": "Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Elements of Style",
+          "year_published": null,
+          "notes": "Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "William Wordsworth",
+      "recognition": "Bloom's Canon; St. John's College",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Prelude",
+          "year_published": null,
+          "notes": "St. John's College; Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "William Wordsworth & Samuel Taylor Coleridge",
+      "recognition": "Bloom's Canon",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "Lyrical Ballads",
+          "year_published": null,
+          "notes": "Bloom's Canon"
+        }
+      ]
+    },
+    {
+      "author": "William Zinsser",
+      "recognition": "Writing Classic",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "On Writing Well",
+          "year_published": null,
+          "notes": "Writing Classic"
+        }
+      ]
+    },
+    {
+      "author": "Wolfram von Eschenbach",
+      "recognition": "Bloom's Canon; Medieval Canon",
+      "country": "",
+      "genre": "Fiction",
+      "significance": "Curated by Claude.ai",
+      "works": [
+        {
+          "title": "Parzival",
+          "notes": "Bloom's Canon; Medieval Canon"
+        }
+      ]
+    },
+    {
+      "author": "Yuval Noah Harari",
+      "recognition": "Bestseller",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "21 Lessons for the 21st Century",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Homo Deus",
+          "year_published": null,
+          "notes": "Bestseller"
+        },
+        {
+          "title": "Sapiens",
+          "notes": "Bestseller; Cultural Impact"
+        }
+      ]
+    },
+    {
+      "author": "Zadie Smith",
+      "recognition": "Contemporary Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "NW",
+          "year_published": null,
+          "notes": "Contemporary Literature"
+        },
+        {
+          "title": "On Beauty",
+          "notes": "Orange Prize 2006; Orange Prize Shortlist; Women's Prize"
+        }
+      ]
+    },
+    {
+      "author": "Zoe Schlanger",
+      "recognition": "Baillie Gifford Prize 2023",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "The Light Eaters",
+          "year_published": null,
+          "notes": "Baillie Gifford Prize 2023"
+        }
+      ]
+    },
+    {
+      "author": "Émile Zola",
+      "recognition": "French Literature",
+      "country": null,
+      "genre": null,
+      "significance": null,
+      "works": [
+        {
+          "title": "L'Assommoir",
+          "year_published": null,
+          "notes": "French Literature"
+        },
+        {
+          "title": "Germinal",
+          "notes": "French Literature"
+        },
+        {
+          "title": "Nana",
+          "notes": "French Literature"
+        }
+      ]
+    }
+  ]
+}

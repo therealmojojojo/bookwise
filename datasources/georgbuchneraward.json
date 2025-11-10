@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "source_name": "Georg Büchner Prize",
+    "source_type": "award_career",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1951,
+    "prize_amount": "€50,000",
+    "notes": "Most prestigious literary prize for German-language literature. Re-established as a literary prize in 1951.",
+    "total_winners": 73,
+    "alternative_names": "Georg-Büchner-Preis",
+    "category": "German-language literature",
+    "award_type": "author-specific",
+    "years_active": 74,
+    "joint_winners_years": []
+  },
+  "authors": [
+    {
+      "author": "Gottfried Benn",
+      "year_awarded": 1951,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ernst Kreuder",
+      "year_awarded": 1953,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Martin Kessel",
+      "year_awarded": 1954,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Marie Luise Kaschnitz",
+      "year_awarded": 1955,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Karl Krolow",
+      "year_awarded": 1956,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Erich Kästner",
+      "year_awarded": 1957,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Max Frisch",
+      "year_awarded": 1958,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Günter Eich",
+      "year_awarded": 1959,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Paul Celan",
+      "year_awarded": 1960,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Hans Erich Nossack",
+      "year_awarded": 1961,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Wolfgang Koeppen",
+      "year_awarded": 1962,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Hans Magnus Enzensberger",
+      "year_awarded": 1963,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ingeborg Bachmann",
+      "year_awarded": 1964,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Günter Grass",
+      "year_awarded": 1965,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Wolfgang Hildesheimer",
+      "year_awarded": 1966,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Heinrich Böll",
+      "year_awarded": 1967,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Golo Mann",
+      "year_awarded": 1968,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Helmut Heißenbüttel",
+      "year_awarded": 1969,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Thomas Bernhard",
+      "year_awarded": 1970,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Uwe Johnson",
+      "year_awarded": 1971,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Elias Canetti",
+      "year_awarded": 1972,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Peter Handke",
+      "year_awarded": 1973,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Hermann Kesten",
+      "year_awarded": 1974,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Manès Sperber",
+      "year_awarded": 1975,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Heinz Piontek",
+      "year_awarded": 1976,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Reiner Kunze",
+      "year_awarded": 1977,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Hermann Lenz",
+      "year_awarded": 1978,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ernst Meister",
+      "year_awarded": 1979,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Christa Wolf",
+      "year_awarded": 1980,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Martin Walser",
+      "year_awarded": 1981,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Peter Weiss",
+      "year_awarded": 1982,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Wolfdietrich Schnurre",
+      "year_awarded": 1983,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ernst Jandl",
+      "year_awarded": 1984,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Heiner Müller",
+      "year_awarded": 1985,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Friedrich Dürrenmatt",
+      "year_awarded": 1986,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Erich Fried",
+      "year_awarded": 1987,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Albert Drach",
+      "year_awarded": 1988,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Botho Strauß",
+      "year_awarded": 1989,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Tankred Dorst",
+      "year_awarded": 1990,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Wolf Biermann",
+      "year_awarded": 1991,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "George Tabori",
+      "year_awarded": 1992,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Peter Rühmkorf",
+      "year_awarded": 1993,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Adolf Muschg",
+      "year_awarded": 1994,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Durs Grünbein",
+      "year_awarded": 1995,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Sarah Kirsch",
+      "year_awarded": 1996,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "H.C. Artmann",
+      "year_awarded": 1997,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Elfriede Jelinek",
+      "year_awarded": 1998,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Arnold Stadler",
+      "year_awarded": 1999,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Volker Braun",
+      "year_awarded": 2000,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Friederike Mayröcker",
+      "year_awarded": 2001,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Wolfgang Hilbig",
+      "year_awarded": 2002,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Alexander Kluge",
+      "year_awarded": 2003,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Wilhelm Genazino",
+      "year_awarded": 2004,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Brigitte Kronauer",
+      "year_awarded": 2005,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Oskar Pastior",
+      "year_awarded": 2006,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Martin Mosebach",
+      "year_awarded": 2007,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Josef Winkler",
+      "year_awarded": 2008,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Walter Kappacher",
+      "year_awarded": 2009,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Reinhard Jirgl",
+      "year_awarded": 2010,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Friedrich Christian Delius",
+      "year_awarded": 2011,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Felicitas Hoppe",
+      "year_awarded": 2012,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Sibylle Lewitscharoff",
+      "year_awarded": 2013,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Jürgen Becker",
+      "year_awarded": 2014,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Rainald Goetz",
+      "year_awarded": 2015,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Marcel Beyer",
+      "year_awarded": 2016,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Jan Wagner",
+      "year_awarded": 2017,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Terézia Mora",
+      "year_awarded": 2018,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Lukas Bärfuss",
+      "year_awarded": 2019,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Elke Erb",
+      "year_awarded": 2020,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Clemens J. Setz",
+      "year_awarded": 2021,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Emine Sevgi Özdamar",
+      "year_awarded": 2022,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Lutz Seiler",
+      "year_awarded": 2023,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Oswald Egger",
+      "year_awarded": 2024,
+      "country": null,
+      "notes": ""
+    }
+  ]
+}

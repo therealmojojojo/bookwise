@@ -1,0 +1,620 @@
+{
+  "metadata": {
+    "source_name": "The 100 Best Books of the 21st Century (New York Times)",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2024,
+    "total_entries": 100,
+    "ranked": true,
+    "methodology": "A ranked list of the 100 best books of the 21st century (2001-2023), selected by critics at The New York Times Book Review."
+  },
+  "items": [
+    {
+      "title": "My Brilliant Friend",
+      "author": "Elena Ferrante",
+      "year_published": 2012,
+      "rank": 1
+    },
+    {
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "year_published": 2003,
+      "rank": 2
+    },
+    {
+      "title": "Wolf Hall",
+      "author": "Hilary Mantel",
+      "year_published": 2009,
+      "rank": 3
+    },
+    {
+      "title": "The Neapolitan Novels (series)",
+      "author": "Elena Ferrante",
+      "year_published": 2012,
+      "rank": 4
+    },
+    {
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "year_published": 2004,
+      "rank": 5
+    },
+    {
+      "title": "A Visit From the Goon Squad",
+      "author": "Jennifer Egan",
+      "year_published": 2010,
+      "rank": 6
+    },
+    {
+      "title": "The Argonauts",
+      "author": "Maggie Nelson",
+      "year_published": 2015,
+      "rank": 7
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": 8
+    },
+    {
+      "title": "Outline (trilogy)",
+      "author": "Rachel Cusk",
+      "year_published": 2014,
+      "rank": 9
+    },
+    {
+      "title": "The Corrections",
+      "author": "Jonathan Franzen",
+      "year_published": 2001,
+      "rank": 10
+    },
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "year_published": 2014,
+      "rank": 11
+    },
+    {
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead",
+      "year_published": 2016,
+      "rank": 12
+    },
+    {
+      "title": "The Year of Magical Thinking",
+      "author": "Joan Didion",
+      "year_published": 2005,
+      "rank": 13
+    },
+    {
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "year_published": 2005,
+      "rank": 14
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "year_published": 2001,
+      "rank": 15
+    },
+    {
+      "title": "The Emperor of All Maladies",
+      "author": "Siddhartha Mukherjee",
+      "year_published": 2010,
+      "rank": 16
+    },
+    {
+      "title": "The Plot Against America",
+      "author": "Philip Roth",
+      "year_published": 2004,
+      "rank": 17
+    },
+    {
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "year_published": 2002,
+      "rank": 18
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "year_published": 2015,
+      "rank": 19
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "year_published": 2006,
+      "rank": 20
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year_published": 2006,
+      "rank": 21
+    },
+    {
+      "title": "The Spirit Catches You and You Fall Down",
+      "author": "Anne Fadiman",
+      "year_published": 1997,
+      "rank": 22
+    },
+    {
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "author": "Michael Chabon",
+      "year_published": 2000,
+      "rank": 23
+    },
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "year_published": 2018,
+      "rank": 24
+    },
+    {
+      "title": "Dept. of Speculation",
+      "author": "Jenny Offill",
+      "year_published": 2014,
+      "rank": 25
+    },
+    {
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "year_published": 2003,
+      "rank": 26
+    },
+    {
+      "title": "The Warmth of Other Suns",
+      "author": "Isabel Wilkerson",
+      "year_published": 2010,
+      "rank": 27
+    },
+    {
+      "title": "Fun Home",
+      "author": "Alison Bechdel",
+      "year_published": 2006,
+      "rank": 28
+    },
+    {
+      "title": "Lincoln in the Bardo",
+      "author": "George Saunders",
+      "year_published": 2017,
+      "rank": 29
+    },
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "year_published": 2003,
+      "rank": 30
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "year_published": 2010,
+      "rank": 31
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "year_published": 2012,
+      "rank": 32
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "year_published": 2015,
+      "rank": 33
+    },
+    {
+      "title": "Tenth of December",
+      "author": "George Saunders",
+      "year_published": 2013,
+      "rank": 34
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Díaz",
+      "year_published": 2007,
+      "rank": 35
+    },
+    {
+      "title": "Between the World and Me",
+      "author": "Ta-Nehisi Coates",
+      "year_published": 2015,
+      "rank": 36
+    },
+    {
+      "title": "Americanah",
+      "author": "Chimamanda Ngozi Adichie",
+      "year_published": 2013,
+      "rank": 37
+    },
+    {
+      "title": "The Great Fire",
+      "author": "Shirley Hazzard",
+      "year_published": 2003,
+      "rank": 38
+    },
+    {
+      "title": "The Nickel Boys",
+      "author": "Colson Whitehead",
+      "year_published": 2019,
+      "rank": 39
+    },
+    {
+      "title": "The Line of Beauty",
+      "author": "Alan Hollinghurst",
+      "year_published": 2004,
+      "rank": 40
+    },
+    {
+      "title": "The Tipping Point",
+      "author": "Malcolm Gladwell",
+      "year_published": 2000,
+      "rank": 41
+    },
+    {
+      "title": "Cloud Atlas",
+      "author": "David Mitchell",
+      "year_published": 2004,
+      "rank": 42
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "year_published": 2011,
+      "rank": 43
+    },
+    {
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "year_published": 2014,
+      "rank": 44
+    },
+    {
+      "title": "Citizen: An American Lyric",
+      "author": "Claudia Rankine",
+      "year_published": 2014,
+      "rank": 45
+    },
+    {
+      "title": "Half of a Yellow Sun",
+      "author": "Chimamanda Ngozi Adichie",
+      "year_published": 2006,
+      "rank": 46
+    },
+    {
+      "title": "The Savage Detectives",
+      "author": "Roberto Bolaño",
+      "year_published": 1998,
+      "rank": 47
+    },
+    {
+      "title": "Homegoing",
+      "author": "Yaa Gyasi",
+      "year_published": 2016,
+      "rank": 48
+    },
+    {
+      "title": "The New Jim Crow",
+      "author": "Michelle Alexander",
+      "year_published": 2010,
+      "rank": 49
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "year_published": 1977,
+      "rank": 50
+    },
+    {
+      "title": "The Girl With the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "year_published": 2005,
+      "rank": 51
+    },
+    {
+      "title": "The Hare with Amber Eyes",
+      "author": "Edmund de Waal",
+      "year_published": 2010,
+      "rank": 52
+    },
+    {
+      "title": "The Looming Tower",
+      "author": "Lawrence Wright",
+      "year_published": 2006,
+      "rank": 53
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "year_published": 2007,
+      "rank": 54
+    },
+    {
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "year_published": 2018,
+      "rank": 55
+    },
+    {
+      "title": "The Righteous Mind",
+      "author": "Jonathan Haidt",
+      "year_published": 2012,
+      "rank": 56
+    },
+    {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "year_published": 2013,
+      "rank": 57
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "year_published": 2018,
+      "rank": 58
+    },
+    {
+      "title": "The Poisonwood Bible",
+      "author": "Barbara Kingsolver",
+      "year_published": 1998,
+      "rank": 59
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakami",
+      "year_published": 1997,
+      "rank": 60
+    },
+    {
+      "title": "The Silence of the Girls",
+      "author": "Pat Barker",
+      "year_published": 2018,
+      "rank": 61
+    },
+    {
+      "title": "The Fifth Season",
+      "author": "N.K. Jemisin",
+      "year_published": 2015,
+      "rank": 62
+    },
+    {
+      "title": "The Curious Incident of the Dog in the Night-Time",
+      "author": "Mark Haddon",
+      "year_published": 2003,
+      "rank": 63
+    },
+    {
+      "title": "The Devil in the White City",
+      "author": "Erik Larson",
+      "year_published": 2003,
+      "rank": 64
+    },
+    {
+      "title": "Middlesex",
+      "author": "Jeffrey Eugenides",
+      "year_published": 2002,
+      "rank": 65
+    },
+    {
+      "title": "The No. 1 Ladies' Detective Agency",
+      "author": "Alexander McCall Smith",
+      "year_published": 1998,
+      "rank": 66
+    },
+    {
+      "title": "The Shadow of the Wind",
+      "author": "Carlos Ruiz Zafón",
+      "year_published": 2001,
+      "rank": 67
+    },
+    {
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "year_published": 2016,
+      "rank": 68
+    },
+    {
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "year_published": 1997,
+      "rank": 69
+    },
+    {
+      "title": "AHeartbreaking Work of Staggering Genius",
+      "author": "Dave Eggers",
+      "year_published": 2000,
+      "rank": 70
+    },
+    {
+      "title": "The Omnivore's Dilemma",
+      "author": "Michael Pollan",
+      "year_published": 2006,
+      "rank": 71
+    },
+    {
+      "title": "Austerlitz",
+      "author": "W.G. Sebald",
+      "year_published": 2001,
+      "rank": 72
+    },
+    {
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "year_published": 2021,
+      "rank": 73
+    },
+    {
+      "title": "The Man Who Mistook His Wife for a Hat",
+      "author": "Oliver Sacks",
+      "year_published": 1985,
+      "rank": 74
+    },
+    {
+      "title": "My Struggle (series)",
+      "author": "Karl Ove Knausgaard",
+      "year_published": 2009,
+      "rank": 75
+    },
+    {
+      "title": "The Sense of an Ending",
+      "author": "Julian Barnes",
+      "year_published": 2011,
+      "rank": 76
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "year_published": 1992,
+      "rank": 77
+    },
+    {
+      "title": "The Singing Walrus",
+      "author": "Joelle Dreidemy",
+      "year_published": 2015,
+      "rank": 78
+    },
+    {
+      "title": "The Blind Assassin",
+      "author": "Margaret Atwood",
+      "year_published": 2000,
+      "rank": 79
+    },
+    {
+      "title": "The Beauty of the Husband",
+      "author": "Anne Carson",
+      "year_published": 2001,
+      "rank": 80
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "year_published": 2014,
+      "rank": 81
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "year_published": 1985,
+      "rank": 82
+    },
+    {
+      "title": "Hamnet",
+      "author": "Maggie O'Farrell",
+      "year_published": 2020,
+      "rank": 83
+    },
+    {
+      "title": "Just Kids",
+      "author": "Patti Smith",
+      "year_published": 2010,
+      "rank": 84
+    },
+    {
+      "title": "Pastoralia",
+      "author": "George Saunders",
+      "year_published": 2000,
+      "rank": 85
+    },
+    {
+      "title": "Evicted",
+      "author": "Matthew Desmond",
+      "year_published": 2016,
+      "rank": 86
+    },
+    {
+      "title": "The Night Watchman",
+      "author": "Louise Erdrich",
+      "year_published": 2020,
+      "rank": 87
+    },
+    {
+      "title": "The Song of Achilles",
+      "author": "Madeline Miller",
+      "year_published": 2011,
+      "rank": 88
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "Cixin Liu",
+      "year_published": 2008,
+      "rank": 89
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "year_published": 2017,
+      "rank": 90
+    },
+    {
+      "title": "Weather",
+      "author": "Jenny Offill",
+      "year_published": 2020,
+      "rank": 91
+    },
+    {
+      "title": "White Teeth",
+      "author": "Zadie Smith",
+      "year_published": 2000,
+      "rank": 92
+    },
+    {
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "year_published": 2020,
+      "rank": 93
+    },
+    {
+      "title": "The Year of the Runaways",
+      "author": "Sunjeev Sahota",
+      "year_published": 2015,
+      "rank": 94
+    },
+    {
+      "title": "The Sympathizer",
+      "author": "Viet Thanh Nguyen",
+      "year_published": 2015,
+      "rank": 95
+    },
+    {
+      "title": "The Testaments",
+      "author": "Margaret Atwood",
+      "year_published": 2019,
+      "rank": 96
+    },
+    {
+      "title": "Stories of Your Life and Others",
+      "author": "Ted Chiang",
+      "year_published": 2002,
+      "rank": 97
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "year_published": 2018,
+      "rank": 98
+    },
+    {
+      "title": "Eat, Pray, Love",
+      "author": "Elizabeth Gilbert",
+      "year_published": 2006,
+      "rank": 99
+    },
+    {
+      "title": "Tree of Smoke",
+      "author": "Denis Johnson",
+      "year_published": 2007,
+      "rank": 100
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "source_name": "Kirkus Prize for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 2014,
+    "prize_amount": "$50,000",
+    "notes": "Annual American literary award by Kirkus Reviews for books published in the previous year. The '2024' winner was announced in October 2024.",
+    "total_winners": 11,
+    "alternative_names": "",
+    "category": "Fiction",
+    "award_type": "book-specific",
+    "years_active": 11,
+    "joint_winners_years": []
+  },
+  "items": [
+    {
+      "title": "Euphoria",
+      "author": "Lily King",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sport of Kings",
+      "author": "C.E. Morgan",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "What It Means When a Man Falls from the Sky",
+      "author": "Lesley Nneka Arimah",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Severance",
+      "author": "Ling Ma",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Nickel Boys",
+      "author": "Colson Whitehead",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Luster",
+      "author": "Raven Leilani",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Harrow",
+      "author": "Joy Williams",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Trust",
+      "author": "Hernan Diaz",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Heaven & Earth Grocery Store",
+      "author": "James McBride",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "James",
+      "author": "Percival Everett",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

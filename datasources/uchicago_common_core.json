@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "source_name": "University of Chicago Common Core - Human Being and Citizen",
+    "source_type": "canon",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 1931,
+    "total_entries": 47,
+    "ranked": false,
+    "methodology": "A representative reading list from 'Human Being and Citizen,' one of the main sequences in the University of Chicago's Humanities Common Core. The Core itself (as 'The New Plan') was established in 1931."
+  },
+  "items": [
+    {
+      "title": "Iliad",
+      "author": "Homer",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Odyssey",
+      "author": "Homer",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Genesis",
+      "author": "Anonymous (Hebrew Bible)",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gospel of Matthew",
+      "author": "Anonymous (New Testament)",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gospel of John",
+      "author": "Anonymous (New Testament)",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Oresteia (trilogy)",
+      "author": "Aeschylus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Antigone",
+      "author": "Sophocles",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "History of the Peloponnesian War",
+      "author": "Thucydides",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Apology",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Crito",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Republic",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Symposium",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Politics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Aeneid",
+      "author": "Virgil",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Confessions",
+      "author": "Augustine",
+      "year_published": 397,
+      "rank": null
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "year_published": 1532,
+      "rank": null
+    },
+    {
+      "title": "King Lear",
+      "author": "William Shakespeare",
+      "year_published": 1608,
+      "rank": null
+    },
+    {
+      "title": "The Tempest",
+      "author": "William Shakespeare",
+      "year_published": 1611,
+      "rank": null
+    },
+    {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "year_published": 1651,
+      "rank": null
+    },
+    {
+      "title": "Phaedra",
+      "author": "Jean Racine",
+      "year_published": 1677,
+      "rank": null
+    },
+    {
+      "title": "Second Treatise of Government",
+      "author": "John Locke",
+      "year_published": 1689,
+      "rank": null
+    },
+    {
+      "title": "Emile, or On Education",
+      "author": "Jean-Jacques Rousseau",
+      "year_published": 1762,
+      "rank": null
+    },
+    {
+      "title": "On the Social Contract",
+      "author": "Jean-Jacques Rousseau",
+      "year_published": 1762,
+      "rank": null
+    },
+    {
+      "title": "Groundwork of the Metaphysics of Morals",
+      "author": "Immanuel Kant",
+      "year_published": 1785,
+      "rank": null
+    },
+    {
+      "title": "What is Enlightenment?",
+      "author": "Immanuel Kant",
+      "year_published": 1784,
+      "rank": null
+    },
+    {
+      "title": "Declaration of Independence",
+      "author": "Thomas Jefferson et al.",
+      "year_published": 1776,
+      "rank": null
+    },
+    {
+      "title": "The Federalist Papers (selections)",
+      "author": "Hamilton, Madison, Jay",
+      "year_published": 1788,
+      "rank": null
+    },
+    {
+      "title": "Rameau's Nephew",
+      "author": "Denis Diderot",
+      "year_published": 1805,
+      "rank": null
+    },
+    {
+      "title": "Faust, Part I",
+      "author": "Johann Wolfgang von Goethe",
+      "year_published": 1808,
+      "rank": null
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_published": 1813,
+      "rank": null
+    },
+    {
+      "title": "Democracy in America",
+      "author": "Alexis de Tocqueville",
+      "year_published": 1835,
+      "rank": null
+    },
+    {
+      "title": "On the Jewish Question",
+      "author": "Karl Marx",
+      "year_published": 1843,
+      "rank": null
+    },
+    {
+      "title": "Economic and Philosophic Manuscripts of 1844",
+      "author": "Karl Marx",
+      "year_published": 1844,
+      "rank": null
+    },
+    {
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx & Friedrich Engels",
+      "year_published": 1848,
+      "rank": null
+    },
+    {
+      "title": "Notes from Underground",
+      "author": "Fyodor Dostoevsky",
+      "year_published": 1864,
+      "rank": null
+    },
+    {
+      "title": "On the Genealogy of Morals",
+      "author": "Friedrich Nietzsche",
+      "year_published": 1887,
+      "rank": null
+    },
+    {
+      "title": "The Souls of Black Folk",
+      "author": "W.E.B. Du Bois",
+      "year_published": 1903,
+      "rank": null
+    },
+    {
+      "title": "Civilization and Its Discontents",
+      "author": "Sigmund Freud",
+      "year_published": 1930,
+      "rank": null
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "year_published": 1937,
+      "rank": null
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "year_published": 1942,
+      "rank": null
+    },
+    {
+      "title": "Letter from a Birmingham Jail",
+      "author": "Martin Luther King, Jr.",
+      "year_published": 1963,
+      "rank": null
+    },
+    {
+      "title": "Pale Horse, Pale Rider",
+      "author": "Katherine Anne Porter",
+      "year_published": 1939,
+      "rank": null
+    },
+    {
+      "title": "No Name in the Street",
+      "author": "James Baldwin",
+      "year_published": 1972,
+      "rank": null
+    },
+    {
+      "title": "Diving into the Wreck",
+      "author": "Adrienne Rich",
+      "year_published": 1973,
+      "rank": null
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_published": 1987,
+      "rank": null
+    }
+  ]
+}

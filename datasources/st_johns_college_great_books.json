@@ -1,0 +1,932 @@
+{
+  "metadata": {
+    "source_name": "St. John's College Great Books Program",
+    "source_type": "canon",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 1937,
+    "total_entries": 135,
+    "ranked": false,
+    "methodology": "The 'Great Books' reading list for the four-year undergraduate program, adopted in 1937. The list is read chronologically, with each year devoted to a different era of Western thought."
+  },
+  "items": [
+    {
+      "title": "Iliad",
+      "author": "Homer",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Odyssey",
+      "author": "Homer",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Agamemnon",
+      "author": "Aeschylus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Libation Bearers",
+      "author": "Aeschylus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Eumenides",
+      "author": "Aeschylus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Prometheus Bound",
+      "author": "Aeschylus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Oedipus Rex",
+      "author": "Sophocles",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Oedipus at Colonus",
+      "author": "Sophocles",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Antigone",
+      "author": "Sophocles",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Philoctetes",
+      "author": "Sophocles",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Ajax",
+      "author": "Sophocles",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Peloponnesian War",
+      "author": "Thucydides",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Hippolytus",
+      "author": "Euripides",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Bacchae",
+      "author": "Euripides",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Medea",
+      "author": "Euripides",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Histories",
+      "author": "Herodotus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Clouds",
+      "author": "Aristophanes",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Meno",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gorgias",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Republic",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Apology",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Crito",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Phaedo",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Symposium",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Parmenides",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Theaetetus",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Sophist",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Timaeus",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Phaedrus",
+      "author": "Plato",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Poetics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Physics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Metaphysics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "On Generation and Corruption",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Politics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Parts of Animals",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Generation of Animals",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "De Anima",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "On Interpretation",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Prior Analytics",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Categories",
+      "author": "Aristotle",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Elements",
+      "author": "Euclid",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "On the Nature of Things",
+      "author": "Lucretius",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Lives (Lycurgus, Solon, Caesar, etc.)",
+      "author": "Plutarch",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Arithmetic",
+      "author": "Nicomachus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Elements of Chemistry",
+      "author": "Lavoisier",
+      "year_published": 1789,
+      "rank": null
+    },
+    {
+      "title": "Motion of the Heart and Blood",
+      "author": "Harvey",
+      "year_published": 1628,
+      "rank": null
+    },
+    {
+      "title": "Hebrew Bible",
+      "author": "Anonymous",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "New Testament",
+      "author": "Anonymous",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Conics",
+      "author": "Apollonius",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Aeneid",
+      "author": "Virgil",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Discourses",
+      "author": "Epictetus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Manual",
+      "author": "Epictetus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Annals",
+      "author": "Tacitus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Almagest",
+      "author": "Ptolemy",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "The Enneads",
+      "author": "Plotinus",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Confessions",
+      "author": "Augustine",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Guide for the Perplexed",
+      "author": "Maimonides",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Proslogium",
+      "author": "Anselm",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Summa Theologica",
+      "author": "Aquinas",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Divine Comedy",
+      "author": "Dante",
+      "year_published": 1320,
+      "rank": null
+    },
+    {
+      "title": "Canterbury Tales",
+      "author": "Chaucer",
+      "year_published": 1400,
+      "rank": null
+    },
+    {
+      "title": "The Prince",
+      "author": "Machiavelli",
+      "year_published": 1532,
+      "rank": null
+    },
+    {
+      "title": "Discourses on Livy",
+      "author": "Machiavelli",
+      "year_published": 1531,
+      "rank": null
+    },
+    {
+      "title": "On the Revolutions of the Spheres",
+      "author": "Copernicus",
+      "year_published": 1543,
+      "rank": null
+    },
+    {
+      "title": "Epitome IV",
+      "author": "Kepler",
+      "year_published": 1620,
+      "rank": null
+    },
+    {
+      "title": "Gargantua and Pantagruel",
+      "author": "Rabelais",
+      "year_published": 1532,
+      "rank": null
+    },
+    {
+      "title": "Missa Papae Marcelli",
+      "author": "Palestrina",
+      "year_published": 1567,
+      "rank": null
+    },
+    {
+      "title": "Essays",
+      "author": "Montaigne",
+      "year_published": 1580,
+      "rank": null
+    },
+    {
+      "title": "Introduction to the Analytical Art",
+      "author": "Viete",
+      "year_published": 1591,
+      "rank": null
+    },
+    {
+      "title": "Novum Organum",
+      "author": "Bacon",
+      "year_published": 1620,
+      "rank": null
+    },
+    {
+      "title": "Richard II",
+      "author": "Shakespeare",
+      "year_published": 1597,
+      "rank": null
+    },
+    {
+      "title": "Henry IV (Parts 1 & 2)",
+      "author": "Shakespeare",
+      "year_published": 1598,
+      "rank": null
+    },
+    {
+      "title": "The Tempest",
+      "author": "Shakespeare",
+      "year_published": 1611,
+      "rank": null
+    },
+    {
+      "title": "As You Like It",
+      "author": "Shakespeare",
+      "year_published": 1623,
+      "rank": null
+    },
+    {
+      "title": "Hamlet",
+      "author": "Shakespeare",
+      "year_published": 1603,
+      "rank": null
+    },
+    {
+      "title": "Othello",
+      "author": "Shakespeare",
+      "year_published": 1622,
+      "rank": null
+    },
+    {
+      "title": "Macbeth",
+      "author": "Shakespeare",
+      "year_published": 1623,
+      "rank": null
+    },
+    {
+      "title": "King Lear",
+      "author": "Shakespeare",
+      "year_published": 1608,
+      "rank": null
+    },
+    {
+      "title": "Sonnets",
+      "author": "Shakespeare",
+      "year_published": 1609,
+      "rank": null
+    },
+    {
+      "title": "Geometry",
+      "author": "Descartes",
+      "year_published": 1637,
+      "rank": null
+    },
+    {
+      "title": "Discourse on Method",
+      "author": "Descartes",
+      "year_published": 1637,
+      "rank": null
+    },
+    {
+      "title": "Meditations",
+      "author": "Descartes",
+      "year_published": 1641,
+      "rank": null
+    },
+    {
+      "title": "Rules for the Direction of the Mind",
+      "author": "Descartes",
+      "year_published": 1684,
+      "rank": null
+    },
+    {
+      "title": "Generation of Conic Sections",
+      "author": "Pascal",
+      "year_published": 1640,
+      "rank": null
+    },
+    {
+      "title": "Pensees",
+      "author": "Pascal",
+      "year_published": 1670,
+      "rank": null
+    },
+    {
+      "title": "St. Matthew Passion",
+      "author": "Bach",
+      "year_published": 1727,
+      "rank": null
+    },
+    {
+      "title": "Inventions",
+      "author": "Bach",
+      "year_published": 1723,
+      "rank": null
+    },
+    {
+      "title": "Quartets",
+      "author": "Haydn",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Operas",
+      "author": "Mozart",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Third Symphony",
+      "author": "Beethoven",
+      "year_published": 1804,
+      "rank": null
+    },
+    {
+      "title": "Songs (Lieder)",
+      "author": "Schubert",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "L'Orfeo",
+      "author": "Monteverdi",
+      "year_published": 1609,
+      "rank": null
+    },
+    {
+      "title": "Symphony of Psalms",
+      "author": "Stravinsky",
+      "year_published": 1930,
+      "rank": null
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Cervantes",
+      "year_published": 1605,
+      "rank": null
+    },
+    {
+      "title": "Two New Sciences",
+      "author": "Galileo",
+      "year_published": 1638,
+      "rank": null
+    },
+    {
+      "title": "Leviathan",
+      "author": "Hobbes",
+      "year_published": 1651,
+      "rank": null
+    },
+    {
+      "title": "Paradise Lost",
+      "author": "Milton",
+      "year_published": 1667,
+      "rank": null
+    },
+    {
+      "title": "Maximes",
+      "author": "La Rochefoucauld",
+      "year_published": 1665,
+      "rank": null
+    },
+    {
+      "title": "Fables",
+      "author": "La Fontaine",
+      "year_published": 1668,
+      "rank": null
+    },
+    {
+      "title": "Treatise on Light",
+      "author": "Huygens",
+      "year_published": 1690,
+      "rank": null
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year_published": 1871,
+      "rank": null
+    },
+    {
+      "title": "Theological-Political Treatise",
+      "author": "Spinoza",
+      "year_published": 1670,
+      "rank": null
+    },
+    {
+      "title": "Second Treatise of Government",
+      "author": "Locke",
+      "year_published": 1689,
+      "rank": null
+    },
+    {
+      "title": "Phaedre",
+      "author": "Racine",
+      "year_published": 1677,
+      "rank": null
+    },
+    {
+      "title": "Principia Mathematica",
+      "author": "Newton",
+      "year_published": 1687,
+      "rank": null
+    },
+    {
+      "title": "Selected Essays",
+      "author": "Leibniz",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Swift",
+      "year_published": 1726,
+      "rank": null
+    },
+    {
+      "title": "Treatise of Human Nature",
+      "author": "Hume",
+      "year_published": 1739,
+      "rank": null
+    },
+    {
+      "title": "Social Contract",
+      "author": "Rousseau",
+      "year_published": 1762,
+      "rank": null
+    },
+    {
+      "title": "The Origin of Inequality",
+      "author": "Rousseau",
+      "year_published": 1755,
+      "rank": null
+    },
+    {
+      "title": "Le Misanthrope",
+      "author": "Moliere",
+      "year_published": 1666,
+      "rank": null
+    },
+    {
+      "title": "Wealth of Nations",
+      "author": "Adam Smith",
+      "year_published": 1776,
+      "rank": null
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "author": "Kant",
+      "year_published": 1781,
+      "rank": null
+    },
+    {
+      "title": "Foundations of the Metaphysics of Morals",
+      "author": "Kant",
+      "year_published": 1785,
+      "rank": null
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_published": 1813,
+      "rank": null
+    },
+    {
+      "title": "Essay on the Theory of Numbers",
+      "author": "Dedekind",
+      "year_published": 1872,
+      "rank": null
+    },
+    {
+      "title": "US Founding Documents",
+      "author": "Various",
+      "year_published": 1776,
+      "rank": null
+    },
+    {
+      "title": "The Federalist",
+      "author": "Hamilton, Jay, and Madison",
+      "year_published": 1788,
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year_published": 1884,
+      "rank": null
+    },
+    {
+      "title": "The Two Part Prelude of 1799",
+      "author": "Wordsworth",
+      "year_published": 1799,
+      "rank": null
+    },
+    {
+      "title": "Faust",
+      "author": "Goethe",
+      "year_published": 1808,
+      "rank": null
+    },
+    {
+      "title": "Origin of Species",
+      "author": "Darwin",
+      "year_published": 1859,
+      "rank": null
+    },
+    {
+      "title": "Phenomenology of Mind",
+      "author": "Hegel",
+      "year_published": 1807,
+      "rank": null
+    },
+    {
+      "title": "Theory of Parallels",
+      "author": "Lobachevsky",
+      "year_published": 1840,
+      "rank": null
+    },
+    {
+      "title": "Democracy in America",
+      "author": "Tocqueville",
+      "year_published": 1835,
+      "rank": null
+    },
+    {
+      "title": "Selected Speeches",
+      "author": "Lincoln",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Selected Speeches",
+      "author": "Frederick Douglass",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Philosophical Fragments",
+      "author": "Kierkegaard",
+      "year_published": 1844,
+      "rank": null
+    },
+    {
+      "title": "Fear and Trembling",
+      "author": "Kierkegaard",
+      "year_published": 1843,
+      "rank": null
+    },
+    {
+      "title": "Tristan and Isolde",
+      "author": "Wagner",
+      "year_published": 1865,
+      "rank": null
+    },
+    {
+      "title": "Capital",
+      "author": "Marx",
+      "year_published": 1867,
+      "rank": null
+    },
+    {
+      "title": "Political and Economic Manuscripts of 1844",
+      "author": "Marx",
+      "year_published": 1844,
+      "rank": null
+    },
+    {
+      "title": "The German Ideology",
+      "author": "Marx",
+      "year_published": 1846,
+      "rank": null
+    },
+    {
+      "title": "Brothers Karamazov",
+      "author": "Dostoevski",
+      "year_published": 1880,
+      "rank": null
+    },
+    {
+      "title": "War and Peace",
+      "author": "Tolstoy",
+      "year_published": 1869,
+      "rank": null
+    },
+    {
+      "title": "Benito Cereno",
+      "author": "Melville",
+      "year_published": 1855,
+      "rank": null
+    },
+    {
+      "title": "Selected Stories",
+      "author": "Flannery O'Connor",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Psychology, Briefer Course",
+      "author": "William James",
+      "year_published": 1892,
+      "rank": null
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Nietzsche",
+      "year_published": 1886,
+      "rank": null
+    },
+    {
+      "title": "Introductory Lectures on Psychoanalysis",
+      "author": "Freud",
+      "year_published": 1917,
+      "rank": null
+    },
+    {
+      "title": "Selected Writings",
+      "author": "Booker T. Washington",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "The Souls of Black Folk",
+      "author": "W.E.B. Du Bois",
+      "year_published": 1903,
+      "rank": null
+    },
+    {
+      "title": "Crisis of the European Sciences",
+      "author": "Husserl",
+      "year_published": 1936,
+      "rank": null
+    },
+    {
+      "title": "Basic Writings",
+      "author": "Heidegger",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Selected papers",
+      "author": "Einstein",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "year_published": 1899,
+      "rank": null
+    },
+    {
+      "title": "Go Down Moses",
+      "author": "William Faulkner",
+      "year_published": 1942,
+      "rank": null
+    },
+    {
+      "title": "Un Coeur Simple",
+      "author": "Gustave Flaubert",
+      "year_published": 1877,
+      "rank": null
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Selected Poems",
+      "author": "Yeats, Eliot, Stevens, etc.",
+      "year_published": null,
+      "rank": null
+    }
+  ]
+}

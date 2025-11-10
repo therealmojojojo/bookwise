@@ -1,0 +1,500 @@
+{
+  "metadata": {
+    "source_name": "Goodreads Choice Awards - Top 10 Best Fiction",
+    "source_type": "list_unranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2009,
+    "total_entries": 80,
+    "ranked": true,
+    "methodology": "An annual reader-voted award. This list represents the top 10 finalists in the 'Best Fiction' category for years where data is available. The winner is ranked #1. The 2024 list is for the 'Readers' Favorite Fiction' award."
+  },
+  "items": [
+    {
+      "title": "The Wedding People",
+      "author": "Alison Espach",
+      "year_published": 2024,
+      "rank": 1
+    },
+    {
+      "title": "Intermezzo",
+      "author": "Sally Rooney",
+      "year_published": 2024,
+      "rank": 2
+    },
+    {
+      "title": "Welcome to the Hyunam-Dong Bookshop",
+      "author": "Hwang Bo-Reum",
+      "year_published": 2024,
+      "rank": 3
+    },
+    {
+      "title": "Blue Sisters",
+      "author": "Coco Mellors",
+      "year_published": 2024,
+      "rank": 4
+    },
+    {
+      "title": "Here One Moment",
+      "author": "Liane Moriarty",
+      "year_published": 2024,
+      "rank": 5
+    },
+    {
+      "title": "Swan Song",
+      "author": "Elin Hilderbrand",
+      "year_published": 2024,
+      "rank": 6
+    },
+    {
+      "title": "Good Material",
+      "author": "Dolly Alderton",
+      "year_published": 2024,
+      "rank": 7
+    },
+    {
+      "title": "I Hope This Finds You Well",
+      "author": "Natalie Sue",
+      "year_published": 2024,
+      "rank": 8
+    },
+    {
+      "title": "Margo's Got Money Troubles",
+      "author": "Rufi Thorpe",
+      "year_published": 2024,
+      "rank": 9
+    },
+    {
+      "title": "Martyr!",
+      "author": "Kaveh Akbar",
+      "year_published": 2024,
+      "rank": 10
+    },
+    {
+      "title": "Yellowface",
+      "author": "R.F. Kuang",
+      "year_published": 2023,
+      "rank": 1
+    },
+    {
+      "title": "Hello Beautiful",
+      "author": "Ann Napolitano",
+      "year_published": 2023,
+      "rank": 2
+    },
+    {
+      "title": "The Wishing Game",
+      "author": "Meg Shaffer",
+      "year_published": 2023,
+      "rank": 3
+    },
+    {
+      "title": "The Five-Star Weekend",
+      "author": "Elin Hilderbrand",
+      "year_published": 2023,
+      "rank": 4
+    },
+    {
+      "title": "Tom Lake",
+      "author": "Ann Patchett",
+      "year_published": 2023,
+      "rank": 5
+    },
+    {
+      "title": "Happy Place",
+      "author": "Emily Henry",
+      "year_published": 2023,
+      "rank": 6
+    },
+    {
+      "title": "Adelaide",
+      "author": "Genevieve Wheeler",
+      "year_published": 2023,
+      "rank": 7
+    },
+    {
+      "title": "Maame",
+      "author": "Jessica George",
+      "year_published": 2023,
+      "rank": 8
+    },
+    {
+      "title": "Birnam Wood",
+      "author": "Eleanor Catton",
+      "year_published": 2023,
+      "rank": 9
+    },
+    {
+      "title": "Big Swiss",
+      "author": "Jen Beagin",
+      "year_published": 2023,
+      "rank": 10
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "year_published": 2022,
+      "rank": 1
+    },
+    {
+      "title": "Lessons in Chemistry",
+      "author": "Bonnie Garmus",
+      "year_published": 2022,
+      "rank": 2
+    },
+    {
+      "title": "The Maid",
+      "author": "Nita Prose",
+      "year_published": 2022,
+      "rank": 3
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "year_published": 2017,
+      "rank": 4
+    },
+    {
+      "title": "Our Missing Hearts",
+      "author": "Celeste Ng",
+      "year_published": 2022,
+      "rank": 5
+    },
+    {
+      "title": "Carrie Soto Is Back",
+      "author": "Taylor Jenkins Reid",
+      "year_published": 2022,
+      "rank": 6
+    },
+    {
+      "title": "The Winners",
+      "author": "Fredrik Backman",
+      "year_published": 2022,
+      "rank": 7
+    },
+    {
+      "title": "Mad Honey",
+      "author": "Jodi Picoult & Jennifer Finney Boylan",
+      "year_published": 2022,
+      "rank": 8
+    },
+    {
+      "title": "The Marriage Portrait",
+      "author": "Maggie O'Farrell",
+      "year_published": 2022,
+      "rank": 9
+    },
+    {
+      "title": "Remarkably Bright Creatures",
+      "author": "Shelby Van Pelt",
+      "year_published": 2022,
+      "rank": 10
+    },
+    {
+      "title": "The Testaments",
+      "author": "Margaret Atwood",
+      "year_published": 2019,
+      "rank": 1
+    },
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "year_published": 2019,
+      "rank": 2
+    },
+    {
+      "title": "Where the Forest Meets the Stars",
+      "author": "Glendy Vanderah",
+      "year_published": 2019,
+      "rank": 3
+    },
+    {
+      "title": "Ask Again, Yes",
+      "author": "Mary Beth Keane",
+      "year_published": 2019,
+      "rank": 4
+    },
+    {
+      "title": "Queenie",
+      "author": "Candice Carty-Williams",
+      "year_published": 2019,
+      "rank": 5
+    },
+    {
+      "title": "On Earth We're Briefly Gorgeous",
+      "author": "Ocean Vuong",
+      "year_published": 2019,
+      "rank": 6
+    },
+    {
+      "title": "A Woman Is No Man",
+      "author": "Etaf Rum",
+      "year_published": 2019,
+      "rank": 7
+    },
+    {
+      "title": "The Overdue Life of Amy Byler",
+      "author": "Kelly Harms",
+      "year_published": 2019,
+      "rank": 8
+    },
+    {
+      "title": "Olive, Again",
+      "author": "Elizabeth Strout",
+      "year_published": 2019,
+      "rank": 9
+    },
+    {
+      "title": "The Most Fun We Ever Had",
+      "author": "Claire Lombardo",
+      "year_published": 2019,
+      "rank": 10
+    },
+    {
+      "title": "Still Me",
+      "author": "Jojo Moyes",
+      "year_published": 2018,
+      "rank": 1
+    },
+    {
+      "title": "An American Marriage",
+      "author": "Tayari Jones",
+      "year_published": 2018,
+      "rank": 2
+    },
+    {
+      "title": "Us Against You",
+      "author": "Fredrik Backman",
+      "year_published": 2018,
+      "rank": 3
+    },
+    {
+      "title": "Nine Perfect Strangers",
+      "author": "Liane Moriarty",
+      "year_published": 2018,
+      "rank": 4
+    },
+    {
+      "title": "An Absolutely Remarkable Thing",
+      "author": "Hank Green",
+      "year_published": 2018,
+      "rank": 5
+    },
+    {
+      "title": "Killing Commendatore",
+      "author": "Haruki Murakami",
+      "year_published": 2018,
+      "rank": 6
+    },
+    {
+      "title": "There There",
+      "author": "Tommy Orange",
+      "year_published": 2018,
+      "rank": 7
+    },
+    {
+      "title": "Girls Burn Brighter",
+      "author": "Shobha Rao",
+      "year_published": 2018,
+      "rank": 8
+    },
+    {
+      "title": "All We Ever Wanted",
+      "author": "Emily Giffin",
+      "year_published": 2018,
+      "rank": 9
+    },
+    {
+      "title": "Every Note Played",
+      "author": "Lisa Genova",
+      "year_published": 2018,
+      "rank": 10
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "year_published": 2017,
+      "rank": 1
+    },
+    {
+      "title": "Beartown",
+      "author": "Fredrik Backman",
+      "year_published": 2017,
+      "rank": 2
+    },
+    {
+      "title": "Eleanor Oliphant Is Completely Fine",
+      "author": "Gail Honeyman",
+      "year_published": 2017,
+      "rank": 3
+    },
+    {
+      "title": "My (Not So) Perfect Life",
+      "author": "Sophie Kinsella",
+      "year_published": 2017,
+      "rank": 4
+    },
+    {
+      "title": "The Keeper of Lost Things",
+      "author": "Ruth Hogan",
+      "year_published": 2017,
+      "rank": 5
+    },
+    {
+      "title": "Exit West",
+      "author": "Mohsin Hamid",
+      "year_published": 2017,
+      "rank": 6
+    },
+    {
+      "title": "Sing, Unburied, Sing",
+      "author": "Jesmyn Ward",
+      "year_published": 2017,
+      "rank": 7
+    },
+    {
+      "title": "Rich People Problems",
+      "author": "Kevin Kwan",
+      "year_published": 2017,
+      "rank": 8
+    },
+    {
+      "title": "The Identicals",
+      "author": "Elin Hilderbrand",
+      "year_published": 2017,
+      "rank": 9
+    },
+    {
+      "title": "Anything Is Possible",
+      "author": "Elizabeth Strout",
+      "year_published": 2017,
+      "rank": 10
+    },
+    {
+      "title": "Go Set a Watchman",
+      "author": "Harper Lee",
+      "year_published": 2015,
+      "rank": 1
+    },
+    {
+      "title": "After You",
+      "author": "Jojo Moyes",
+      "year_published": 2015,
+      "rank": 2
+    },
+    {
+      "title": "The Royal We",
+      "author": "Heather Cocks",
+      "year_published": 2015,
+      "rank": 3
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "year_published": 2015,
+      "rank": 4
+    },
+    {
+      "title": "My Grandmother Asked Me to Tell You She's Sorry",
+      "author": "Fredrik Backman",
+      "year_published": 2015,
+      "rank": 5
+    },
+    {
+      "title": "Fates and Furies",
+      "author": "Lauren Groff",
+      "year_published": 2015,
+      "rank": 6
+    },
+    {
+      "title": "Inside the O'Briens",
+      "author": "Lisa Genova",
+      "year_published": 2015,
+      "rank": 7
+    },
+    {
+      "title": "Girl at War",
+      "author": "Sara Nović",
+      "year_published": 2015,
+      "rank": 8
+    },
+    {
+      "title": "Our Souls at Night",
+      "author": "Kent Haruf",
+      "year_published": 2015,
+      "rank": 9
+    },
+    {
+      "title": "Trail of Broken Wings",
+      "author": "Sejal Badani",
+      "year_published": 2015,
+      "rank": 10
+    },
+    {
+      "title": "The Casual Vacancy",
+      "author": "J.K. Rowling",
+      "year_published": 2012,
+      "rank": 1
+    },
+    {
+      "title": "Where We Belong",
+      "author": "Emily Giffin",
+      "year_published": 2012,
+      "rank": 2
+    },
+    {
+      "title": "Home Front",
+      "author": "Kristin Hannah",
+      "year_published": 2012,
+      "rank": 3
+    },
+    {
+      "title": "The Age of Miracles",
+      "author": "Karen Thompson Walker",
+      "year_published": 2012,
+      "rank": 4
+    },
+    {
+      "title": "This Is How You Lose Her",
+      "author": "Junot Díaz",
+      "year_published": 2012,
+      "rank": 5
+    },
+    {
+      "title": "Tell the Wolves I'm Home",
+      "author": "Carol Rifka Brunt",
+      "year_published": 2012,
+      "rank": 6
+    },
+    {
+      "title": "Mr. Penumbra's 24-Hour Bookstore",
+      "author": "Robin Sloan",
+      "year_published": 2012,
+      "rank": 7
+    },
+    {
+      "title": "Beautiful Ruins",
+      "author": "Jess Walter",
+      "year_published": 2012,
+      "rank": 8
+    },
+    {
+      "title": "Memoirs of an Imaginary Friend",
+      "author": "Matthew Dicks",
+      "year_published": 2012,
+      "rank": 9
+    },
+    {
+      "title": "A Grown-Up Kind of Pretty",
+      "author": "Joshilyn Jackson",
+      "year_published": 2012,
+      "rank": 10
+    }
+  ]
+}

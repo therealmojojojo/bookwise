@@ -1,0 +1,758 @@
+{
+  "metadata": {
+    "source_name": "Nobel Prize in Literature",
+    "source_type": "award_career",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1901,
+    "awarding_body": "Swedish Academy, Stockholm",
+    "prize_amount": "~$1 million USD",
+    "notes": "Includes shared prizes in 1904, 1917, 1966, 1974",
+    "total_laureates": 122,
+    "category": "Literature (career achievement)",
+    "award_type": "author-career",
+    "no_award_years": [
+      1914,
+      1918,
+      1935,
+      1940,
+      1941,
+      1942,
+      1943
+    ]
+  },
+  "authors": [
+    {
+      "author": "Sully Prudhomme",
+      "year_awarded": 1901,
+      "country": "France",
+      "notes": "First winner"
+    },
+    {
+      "author": "Theodor Mommsen",
+      "year_awarded": 1902,
+      "country": "Germany",
+      "notes": ""
+    },
+    {
+      "author": "Bjørnstjerne Bjørnson",
+      "year_awarded": 1903,
+      "country": "Norway",
+      "notes": ""
+    },
+    {
+      "author": "Frédéric Mistral",
+      "year_awarded": 1904,
+      "country": "France",
+      "notes": "Shared"
+    },
+    {
+      "author": "José Echegaray",
+      "year_awarded": 1904,
+      "country": "Spain",
+      "notes": "Shared"
+    },
+    {
+      "author": "Henryk Sienkiewicz",
+      "year_awarded": 1905,
+      "country": "Poland",
+      "notes": ""
+    },
+    {
+      "author": "Giosuè Carducci",
+      "year_awarded": 1906,
+      "country": "Italy",
+      "notes": ""
+    },
+    {
+      "author": "Rudyard Kipling",
+      "year_awarded": 1907,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Rudolf Eucken",
+      "year_awarded": 1908,
+      "country": "Germany",
+      "notes": ""
+    },
+    {
+      "author": "Selma Lagerlöf",
+      "year_awarded": 1909,
+      "country": "Sweden",
+      "notes": "First woman"
+    },
+    {
+      "author": "Paul Heyse",
+      "year_awarded": 1910,
+      "country": "Germany",
+      "notes": ""
+    },
+    {
+      "author": "Maurice Maeterlinck",
+      "year_awarded": 1911,
+      "country": "Belgium",
+      "notes": ""
+    },
+    {
+      "author": "Gerhart Hauptmann",
+      "year_awarded": 1912,
+      "country": "Germany",
+      "notes": ""
+    },
+    {
+      "author": "Rabindranath Tagore",
+      "year_awarded": 1913,
+      "country": "India",
+      "notes": ""
+    },
+    {
+      "author": "Romain Rolland",
+      "year_awarded": 1915,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Verner von Heidenstam",
+      "year_awarded": 1916,
+      "country": "Sweden",
+      "notes": ""
+    },
+    {
+      "author": "Karl Gjellerup",
+      "year_awarded": 1917,
+      "country": "Denmark",
+      "notes": "Shared"
+    },
+    {
+      "author": "Henrik Pontoppidan",
+      "year_awarded": 1917,
+      "country": "Denmark",
+      "notes": "Shared"
+    },
+    {
+      "author": "Carl Spitteler",
+      "year_awarded": 1919,
+      "country": "Switzerland",
+      "notes": ""
+    },
+    {
+      "author": "Knut Hamsun",
+      "year_awarded": 1920,
+      "country": "Norway",
+      "notes": ""
+    },
+    {
+      "author": "Anatole France",
+      "year_awarded": 1921,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Jacinto Benavente",
+      "year_awarded": 1922,
+      "country": "Spain",
+      "notes": ""
+    },
+    {
+      "author": "William Butler Yeats",
+      "year_awarded": 1923,
+      "country": "Ireland",
+      "notes": ""
+    },
+    {
+      "author": "Władysław Reymont",
+      "year_awarded": 1924,
+      "country": "Poland",
+      "notes": ""
+    },
+    {
+      "author": "George Bernard Shaw",
+      "year_awarded": 1925,
+      "country": "Ireland",
+      "notes": ""
+    },
+    {
+      "author": "Grazia Deledda",
+      "year_awarded": 1926,
+      "country": "Italy",
+      "notes": ""
+    },
+    {
+      "author": "Henri Bergson",
+      "year_awarded": 1927,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Sigrid Undset",
+      "year_awarded": 1928,
+      "country": "Norway",
+      "notes": ""
+    },
+    {
+      "author": "Thomas Mann",
+      "year_awarded": 1929,
+      "country": "Germany",
+      "notes": ""
+    },
+    {
+      "author": "Sinclair Lewis",
+      "year_awarded": 1930,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Erik Axel Karlfeldt",
+      "year_awarded": 1931,
+      "country": "Sweden",
+      "notes": ""
+    },
+    {
+      "author": "John Galsworthy",
+      "year_awarded": 1932,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Ivan Bunin",
+      "year_awarded": 1933,
+      "country": "Soviet Union",
+      "notes": ""
+    },
+    {
+      "author": "Luigi Pirandello",
+      "year_awarded": 1934,
+      "country": "Italy",
+      "notes": ""
+    },
+    {
+      "author": "Eugene O'Neill",
+      "year_awarded": 1936,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Roger Martin du Gard",
+      "year_awarded": 1937,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Pearl S. Buck",
+      "year_awarded": 1938,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Frans Eemil Sillanpää",
+      "year_awarded": 1939,
+      "country": "Finland",
+      "notes": ""
+    },
+    {
+      "author": "Johannes V. Jensen",
+      "year_awarded": 1944,
+      "country": "Denmark",
+      "notes": ""
+    },
+    {
+      "author": "Gabriela Mistral",
+      "year_awarded": 1945,
+      "country": "Chile",
+      "notes": ""
+    },
+    {
+      "author": "Hermann Hesse",
+      "year_awarded": 1946,
+      "country": "Switzerland",
+      "notes": ""
+    },
+    {
+      "author": "André Gide",
+      "year_awarded": 1947,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "T.S. Eliot",
+      "year_awarded": 1948,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "William Faulkner",
+      "year_awarded": 1949,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Bertrand Russell",
+      "year_awarded": 1950,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Pär Lagerkvist",
+      "year_awarded": 1951,
+      "country": "Sweden",
+      "notes": ""
+    },
+    {
+      "author": "François Mauriac",
+      "year_awarded": 1952,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Winston Churchill",
+      "year_awarded": 1953,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Ernest Hemingway",
+      "year_awarded": 1954,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Halldór Laxness",
+      "year_awarded": 1955,
+      "country": "Iceland",
+      "notes": ""
+    },
+    {
+      "author": "Juan Ramón Jiménez",
+      "year_awarded": 1956,
+      "country": "Spain",
+      "notes": ""
+    },
+    {
+      "author": "Albert Camus",
+      "year_awarded": 1957,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Boris Pasternak",
+      "year_awarded": 1958,
+      "country": "Soviet Union",
+      "notes": ""
+    },
+    {
+      "author": "Salvatore Quasimodo",
+      "year_awarded": 1959,
+      "country": "Italy",
+      "notes": ""
+    },
+    {
+      "author": "Saint-John Perse",
+      "year_awarded": 1960,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Ivo Andrić",
+      "year_awarded": 1961,
+      "country": "Yugoslavia",
+      "notes": ""
+    },
+    {
+      "author": "John Steinbeck",
+      "year_awarded": 1962,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Giorgos Seferis",
+      "year_awarded": 1963,
+      "country": "Greece",
+      "notes": ""
+    },
+    {
+      "author": "Jean-Paul Sartre",
+      "year_awarded": 1964,
+      "country": "France",
+      "notes": "Declined"
+    },
+    {
+      "author": "Mikhail Sholokhov",
+      "year_awarded": 1965,
+      "country": "Soviet Union",
+      "notes": ""
+    },
+    {
+      "author": "Shmuel Yosef Agnon",
+      "year_awarded": 1966,
+      "country": "Israel",
+      "notes": "Shared"
+    },
+    {
+      "author": "Nelly Sachs",
+      "year_awarded": 1966,
+      "country": "Sweden",
+      "notes": "Shared"
+    },
+    {
+      "author": "Miguel Ángel Asturias",
+      "year_awarded": 1967,
+      "country": "Guatemala",
+      "notes": ""
+    },
+    {
+      "author": "Yasunari Kawabata",
+      "year_awarded": 1968,
+      "country": "Japan",
+      "notes": ""
+    },
+    {
+      "author": "Samuel Beckett",
+      "year_awarded": 1969,
+      "country": "Ireland",
+      "notes": ""
+    },
+    {
+      "author": "Aleksandr Solzhenitsyn",
+      "year_awarded": 1970,
+      "country": "Soviet Union",
+      "notes": ""
+    },
+    {
+      "author": "Pablo Neruda",
+      "year_awarded": 1971,
+      "country": "Chile",
+      "notes": ""
+    },
+    {
+      "author": "Heinrich Böll",
+      "year_awarded": 1972,
+      "country": "West Germany",
+      "notes": ""
+    },
+    {
+      "author": "Patrick White",
+      "year_awarded": 1973,
+      "country": "Australia",
+      "notes": ""
+    },
+    {
+      "author": "Eyvind Johnson",
+      "year_awarded": 1974,
+      "country": "Sweden",
+      "notes": "Shared"
+    },
+    {
+      "author": "Harry Martinson",
+      "year_awarded": 1974,
+      "country": "Sweden",
+      "notes": "Shared"
+    },
+    {
+      "author": "Eugenio Montale",
+      "year_awarded": 1975,
+      "country": "Italy",
+      "notes": ""
+    },
+    {
+      "author": "Saul Bellow",
+      "year_awarded": 1976,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Vicente Aleixandre",
+      "year_awarded": 1977,
+      "country": "Spain",
+      "notes": ""
+    },
+    {
+      "author": "Isaac Bashevis Singer",
+      "year_awarded": 1978,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Odysseas Elytis",
+      "year_awarded": 1979,
+      "country": "Greece",
+      "notes": ""
+    },
+    {
+      "author": "Czesław Miłosz",
+      "year_awarded": 1980,
+      "country": "United States/Poland",
+      "notes": ""
+    },
+    {
+      "author": "Elias Canetti",
+      "year_awarded": 1981,
+      "country": "Bulgaria/United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Gabriel García Márquez",
+      "year_awarded": 1982,
+      "country": "Colombia",
+      "notes": ""
+    },
+    {
+      "author": "William Golding",
+      "year_awarded": 1983,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Jaroslav Seifert",
+      "year_awarded": 1984,
+      "country": "Czechoslovakia",
+      "notes": ""
+    },
+    {
+      "author": "Claude Simon",
+      "year_awarded": 1985,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Wole Soyinka",
+      "year_awarded": 1986,
+      "country": "Nigeria",
+      "notes": ""
+    },
+    {
+      "author": "Joseph Brodsky",
+      "year_awarded": 1987,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Naguib Mahfouz",
+      "year_awarded": 1988,
+      "country": "Egypt",
+      "notes": ""
+    },
+    {
+      "author": "Camilo José Cela",
+      "year_awarded": 1989,
+      "country": "Spain",
+      "notes": ""
+    },
+    {
+      "author": "Octavio Paz",
+      "year_awarded": 1990,
+      "country": "Mexico",
+      "notes": ""
+    },
+    {
+      "author": "Nadine Gordimer",
+      "year_awarded": 1991,
+      "country": "South Africa",
+      "notes": ""
+    },
+    {
+      "author": "Derek Walcott",
+      "year_awarded": 1992,
+      "country": "Saint Lucia",
+      "notes": ""
+    },
+    {
+      "author": "Toni Morrison",
+      "year_awarded": 1993,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Kenzaburō Ōe",
+      "year_awarded": 1994,
+      "country": "Japan",
+      "notes": ""
+    },
+    {
+      "author": "Seamus Heaney",
+      "year_awarded": 1995,
+      "country": "Ireland",
+      "notes": ""
+    },
+    {
+      "author": "Wisława Szymborska",
+      "year_awarded": 1996,
+      "country": "Poland",
+      "notes": ""
+    },
+    {
+      "author": "Dario Fo",
+      "year_awarded": 1997,
+      "country": "Italy",
+      "notes": ""
+    },
+    {
+      "author": "José Saramago",
+      "year_awarded": 1998,
+      "country": "Portugal",
+      "notes": ""
+    },
+    {
+      "author": "Günter Grass",
+      "year_awarded": 1999,
+      "country": "Germany",
+      "notes": ""
+    },
+    {
+      "author": "Gao Xingjian",
+      "year_awarded": 2000,
+      "country": "China/France",
+      "notes": ""
+    },
+    {
+      "author": "V.S. Naipaul",
+      "year_awarded": 2001,
+      "country": "United Kingdom/Trinidad",
+      "notes": ""
+    },
+    {
+      "author": "Imre Kertész",
+      "year_awarded": 2002,
+      "country": "Hungary",
+      "notes": ""
+    },
+    {
+      "author": "J.M. Coetzee",
+      "year_awarded": 2003,
+      "country": "South Africa",
+      "notes": ""
+    },
+    {
+      "author": "Elfriede Jelinek",
+      "year_awarded": 2004,
+      "country": "Austria",
+      "notes": ""
+    },
+    {
+      "author": "Harold Pinter",
+      "year_awarded": 2005,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Orhan Pamuk",
+      "year_awarded": 2006,
+      "country": "Turkey",
+      "notes": ""
+    },
+    {
+      "author": "Doris Lessing",
+      "year_awarded": 2007,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "J.M.G. Le Clézio",
+      "year_awarded": 2008,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Herta Müller",
+      "year_awarded": 2009,
+      "country": "Germany/Romania",
+      "notes": ""
+    },
+    {
+      "author": "Mario Vargas Llosa",
+      "year_awarded": 2010,
+      "country": "Peru",
+      "notes": ""
+    },
+    {
+      "author": "Tomas Tranströmer",
+      "year_awarded": 2011,
+      "country": "Sweden",
+      "notes": ""
+    },
+    {
+      "author": "Mo Yan",
+      "year_awarded": 2012,
+      "country": "China",
+      "notes": ""
+    },
+    {
+      "author": "Alice Munro",
+      "year_awarded": 2013,
+      "country": "Canada",
+      "notes": ""
+    },
+    {
+      "author": "Patrick Modiano",
+      "year_awarded": 2014,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Svetlana Alexievich",
+      "year_awarded": 2015,
+      "country": "Belarus",
+      "notes": ""
+    },
+    {
+      "author": "Bob Dylan",
+      "year_awarded": 2016,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Kazuo Ishiguro",
+      "year_awarded": 2017,
+      "country": "United Kingdom",
+      "notes": ""
+    },
+    {
+      "author": "Olga Tokarczuk",
+      "year_awarded": 2018,
+      "country": "Poland",
+      "notes": "Announced 2019"
+    },
+    {
+      "author": "Peter Handke",
+      "year_awarded": 2019,
+      "country": "Austria",
+      "notes": ""
+    },
+    {
+      "author": "Louise Glück",
+      "year_awarded": 2020,
+      "country": "United States",
+      "notes": ""
+    },
+    {
+      "author": "Abdulrazak Gurnah",
+      "year_awarded": 2021,
+      "country": "Tanzania/UK",
+      "notes": ""
+    },
+    {
+      "author": "Annie Ernaux",
+      "year_awarded": 2022,
+      "country": "France",
+      "notes": ""
+    },
+    {
+      "author": "Jon Fosse",
+      "year_awarded": 2023,
+      "country": "Norway",
+      "notes": ""
+    },
+    {
+      "author": "Han Kang",
+      "year_awarded": 2024,
+      "country": "South Korea",
+      "notes": ""
+    }
+  ]
+}

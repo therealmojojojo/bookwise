@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "source_name": "Hugo Award for Best Novel",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1953,
+    "prize_amount": "Trophy",
+    "notes": "Premier fan-voted award in science fiction. No awards given in 1954 or 1957.",
+    "total_winners": 73,
+    "alternative_names": "",
+    "category": "Science fiction or fantasy novel",
+    "award_type": "book-specific",
+    "years_active": 70,
+    "joint_winners_years": [
+      1966,
+      1993,
+      2010
+    ]
+  },
+  "items": [
+    {
+      "title": "The Demolished Man",
+      "author": "Alfred Bester",
+      "year_awarded": 1953,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "They'd Rather Be Right",
+      "author": "Frank Riley and Mark Clifton",
+      "year_awarded": 1955,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Double Star",
+      "author": "Robert A. Heinlein",
+      "year_awarded": 1956,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Big Time",
+      "author": "Fritz Leiber",
+      "year_awarded": 1958,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Case of Conscience",
+      "author": "James Blish",
+      "year_awarded": 1959,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Starship Troopers",
+      "author": "Robert A. Heinlein",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Canticle for Leibowitz",
+      "author": "Walter M. Miller, Jr.",
+      "year_awarded": 1961,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stranger in a Strange Land",
+      "author": "Robert A. Heinlein",
+      "year_awarded": 1962,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Man in the High Castle",
+      "author": "Philip K. Dick",
+      "year_awarded": 1963,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Way Station",
+      "author": "Clifford D. Simak",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Wanderer",
+      "author": "Fritz Leiber",
+      "year_awarded": 1965,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year_awarded": 1966,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "...And Call Me Conrad",
+      "author": "Roger Zelazny",
+      "year_awarded": 1966,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "The Moon Is a Harsh Mistress",
+      "author": "Robert A. Heinlein",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lord of Light",
+      "author": "Roger Zelazny",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Stand on Zanzibar",
+      "author": "John Brunner",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ringworld",
+      "author": "Larry Niven",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "To Your Scattered Bodies Go",
+      "author": "Philip José Farmer",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Gods Themselves",
+      "author": "Isaac Asimov",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "author": "Arthur C. Clarke",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Forever War",
+      "author": "Joe Haldeman",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Where Late the Sweet Birds Sang",
+      "author": "Kate Wilhelm",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gateway",
+      "author": "Frederik Pohl",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dreamsnake",
+      "author": "Vonda N. McIntyre",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fountains of Paradise",
+      "author": "Arthur C. Clarke",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Snow Queen",
+      "author": "Joan D. Vinge",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Downbelow Station",
+      "author": "C. J. Cherryh",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Foundation's Edge",
+      "author": "Isaac Asimov",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Startide Rising",
+      "author": "David Brin",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Speaker for the Dead",
+      "author": "Orson Scott Card",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Uplift War",
+      "author": "David Brin",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Cyteen",
+      "author": "C. J. Cherryh",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Vor Game",
+      "author": "Lois McMaster Bujold",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Barrayar",
+      "author": "Lois McMaster Bujold",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Doomsday Book",
+      "author": "Connie Willis",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "A Fire Upon the Deep",
+      "author": "Vernor Vinge",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Green Mars",
+      "author": "Kim Stanley Robinson",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mirror Dance",
+      "author": "Lois McMaster Bujold",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Diamond Age",
+      "author": "Neal Stephenson",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blue Mars",
+      "author": "Kim Stanley Robinson",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Forever Peace",
+      "author": "Joe Haldeman",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "To Say Nothing of the Dog",
+      "author": "Connie Willis",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Deepness in the Sky",
+      "author": "Vernor Vinge",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J. K. Rowling",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hominids",
+      "author": "Robert J. Sawyer",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Paladin of Souls",
+      "author": "Lois McMaster Bujold",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Jonathan Strange & Mr Norrell",
+      "author": "Susanna Clarke",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Spin",
+      "author": "Robert Charles Wilson",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rainbows End",
+      "author": "Vernor Vinge",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Yiddish Policemen's Union",
+      "author": "Michael Chabon",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Graveyard Book",
+      "author": "Neil Gaiman",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "The City & the City",
+      "author": "China Miéville",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": "Joint"
+    },
+    {
+      "title": "Blackout/All Clear",
+      "author": "Connie Willis",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Among Others",
+      "author": "Jo Walton",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Redshirts",
+      "author": "John Scalzi",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ancillary Justice",
+      "author": "Ann Leckie",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "Cixin Liu",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fifth Season",
+      "author": "N. K. Jemisin",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Obelisk Gate",
+      "author": "N. K. Jemisin",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Stone Sky",
+      "author": "N. K. Jemisin",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Calculating Stars",
+      "author": "Mary Robinette Kowal",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Memory Called Empire",
+      "author": "Arkady Martine",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Network Effect",
+      "author": "Martha Wells",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Desolation Called Peace",
+      "author": "Arkady Martine",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Nettle & Bone",
+      "author": "T. Kingfisher",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Some Desperate Glory",
+      "author": "Emily Tesh",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

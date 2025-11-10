@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "source_name": "National Endowment for the Arts - Big Read Library",
+    "source_type": "list_unranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2006,
+    "total_entries": 68,
+    "ranked": false,
+    "methodology": "An archived master list of books selected by the National Endowment for the Arts (NEA) for its national community reading program. The program was established in 2006 to broaden understanding through a shared reading experience."
+  },
+  "items": [
+    {
+      "title": "In the Time of the Butterflies",
+      "author": "Julia Alvarez",
+      "year_published": 1994,
+      "rank": null
+    },
+    {
+      "title": "Bless Me, Ultima",
+      "author": "Rudolfo Anaya",
+      "year_published": 1972,
+      "rank": null
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year_published": 1953,
+      "rank": null
+    },
+    {
+      "title": "The Best We Could Do: An Illustrated Memoir",
+      "author": "Thi Bui",
+      "year_published": 2017,
+      "rank": null
+    },
+    {
+      "title": "Advice from the Lights",
+      "author": "Stephanie Burt",
+      "year_published": 2017,
+      "rank": null
+    },
+    {
+      "title": "Five Skies",
+      "author": "Ron Carlson",
+      "year_published": 2007,
+      "rank": null
+    },
+    {
+      "title": "My Ántonia",
+      "author": "Willa Cather",
+      "year_published": 1918,
+      "rank": null
+    },
+    {
+      "title": "Can't We Talk About Something More Pleasant?",
+      "author": "Roz Chast",
+      "year_published": 2014,
+      "rank": null
+    },
+    {
+      "title": "Brother, I'm Dying",
+      "author": "Edwidge Danticat",
+      "year_published": 2007,
+      "rank": null
+    },
+    {
+      "title": "Postcolonial Love Poem",
+      "author": "Natalie Diaz",
+      "year_published": 2020,
+      "rank": null
+    },
+    {
+      "title": "The Essential Emily Dickinson",
+      "author": "Emily Dickinson",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Infinite Country",
+      "author": "Patricia Engel",
+      "year_published": 2021,
+      "rank": null
+    },
+    {
+      "title": "Love Medicine",
+      "author": "Louise Erdrich",
+      "year_published": 1984,
+      "rank": null
+    },
+    {
+      "title": "The Round House",
+      "author": "Louise Erdrich",
+      "year_published": 2012,
+      "rank": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "A Lesson Before Dying",
+      "author": "Ernest J. Gaines",
+      "year_published": 1993,
+      "rank": null
+    },
+    {
+      "title": "The Paperbark Shoe",
+      "author": "Goldie Goldbloom",
+      "year_published": 2020,
+      "rank": null
+    },
+    {
+      "title": "Homegoing",
+      "author": "Yaa Gyasi",
+      "year_published": 2016,
+      "rank": null
+    },
+    {
+      "title": "The Maltese Falcon",
+      "author": "Dashiell Hammett",
+      "year_published": 1930,
+      "rank": null
+    },
+    {
+      "title": "How We Became Human",
+      "author": "Joy Harjo",
+      "year_published": 2002,
+      "rank": null
+    },
+    {
+      "title": "An American Sunrise",
+      "author": "Joy Harjo",
+      "year_published": 2019,
+      "rank": null
+    },
+    {
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "year_published": 1929,
+      "rank": null
+    },
+    {
+      "title": "Sun, Stone, and Shadows",
+      "author": "Jorge F. Hernández (editor)",
+      "year_published": 2008,
+      "rank": null
+    },
+    {
+      "title": "To Live",
+      "author": "Yu Hua",
+      "year_published": 1993,
+      "rank": null
+    },
+    {
+      "title": "Selected Poetry",
+      "author": "Robinson Jeffers",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "Silver Sparrow",
+      "author": "Tayari Jones",
+      "year_published": 2011,
+      "rank": null
+    },
+    {
+      "title": "Deaf Republic",
+      "author": "Ilya Kaminsky",
+      "year_published": 2019,
+      "rank": null
+    },
+    {
+      "title": "The Namesake",
+      "author": "Jhumpa Lahiri",
+      "year_published": 2003,
+      "rank": null
+    },
+    {
+      "title": "A Wizard of Earthsea",
+      "author": "Ursula K. Le Guin",
+      "year_published": 1968,
+      "rank": null
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "rank": null
+    },
+    {
+      "title": "Pretty Monsters",
+      "author": "Kelly Link",
+      "year_published": 2008,
+      "rank": null
+    },
+    {
+      "title": "The Call of the Wild, White Fang, and Other Stories",
+      "author": "Jack London",
+      "year_published": 1903,
+      "rank": null
+    },
+    {
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "year_published": 2014,
+      "rank": null
+    },
+    {
+      "title": "Hustle",
+      "author": "David Tomas Martinez",
+      "year_published": 2014,
+      "rank": null
+    },
+    {
+      "title": "The Big Smoke",
+      "author": "Adrian Matejka",
+      "year_published": 2013,
+      "rank": null
+    },
+    {
+      "title": "The Heart Is a Lonely Hunter",
+      "author": "Carson McCullers",
+      "year_published": 1940,
+      "rank": null
+    },
+    {
+      "title": "The Beautiful Things That Heaven Bears",
+      "author": "Dinaw Mengestu",
+      "year_published": 2007,
+      "rank": null
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "year_published": 2018,
+      "rank": null
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_published": 1987,
+      "rank": null
+    },
+    {
+      "title": "Everything I Never Told You",
+      "author": "Celeste Ng",
+      "year_published": 2014,
+      "rank": null
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien",
+      "year_published": 1990,
+      "rank": null
+    },
+    {
+      "title": "There There",
+      "author": "Tommy Orange",
+      "year_published": 2018,
+      "rank": null
+    },
+    {
+      "title": "The Shawl",
+      "author": "Cynthia Ozick",
+      "year_published": 1989,
+      "rank": null
+    },
+    {
+      "title": "In the Heart of the Sea",
+      "author": "Nathaniel Philbrick",
+      "year_published": 2000,
+      "rank": null
+    },
+    {
+      "title": "Great Tales and Poems",
+      "author": "Edgar Allan Poe",
+      "year_published": null,
+      "rank": null
+    },
+    {
+      "title": "True Grit",
+      "author": "Charles Portis",
+      "year_published": 1968,
+      "rank": null
+    },
+    {
+      "title": "Citizen: An American Lyric",
+      "author": "Claudia Rankine",
+      "year_published": 2014,
+      "rank": null
+    },
+    {
+      "title": "Burning Bright",
+      "author": "Ron Rash",
+      "year_published": 2010,
+      "rank": null
+    },
+    {
+      "title": "In the Shadow of the Banyan",
+      "author": "Vaddey Ratner",
+      "year_published": 2012,
+      "rank": null
+    },
+    {
+      "title": "A Small Story About the Sky",
+      "author": "Alberto Ríos",
+      "year_published": 2015,
+      "rank": null
+    },
+    {
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "year_published": 2004,
+      "rank": null
+    },
+    {
+      "title": "Housekeeping",
+      "author": "Marilynne Robinson",
+      "year_published": 1980,
+      "rank": null
+    },
+    {
+      "title": "Heartland: A Memoir",
+      "author": "Sarah Smarsh",
+      "year_published": 2018,
+      "rank": null
+    },
+    {
+      "title": "The Joy Luck Club",
+      "author": "Amy Tan",
+      "year_published": 1989,
+      "rank": null
+    },
+    {
+      "title": "Sitting Pretty",
+      "author": "Rebekah Taussig",
+      "year_published": 2020,
+      "rank": null
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "year_published": 1876,
+      "rank": null
+    },
+    {
+      "title": "Into the Beautiful North",
+      "author": "Luis Alberto Urrea",
+      "year_published": 2009,
+      "rank": null
+    },
+    {
+      "title": "Borne",
+      "author": "Jeff VanderMeer",
+      "year_published": 2017,
+      "rank": null
+    },
+    {
+      "title": "The Cold Millions",
+      "author": "Jess Walter",
+      "year_published": 2020,
+      "rank": null
+    },
+    {
+      "title": "The Bridge of San Luis Rey",
+      "author": "Thornton Wilder",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Our Town",
+      "author": "Thornton Wilder",
+      "year_published": 1938,
+      "rank": null
+    },
+    {
+      "title": "Nothing to See Here",
+      "author": "Kevin Wilson",
+      "year_published": 2019,
+      "rank": null
+    },
+    {
+      "title": "Old School",
+      "author": "Tobias Wolff",
+      "year_published": 2003,
+      "rank": null
+    },
+    {
+      "title": "This Boy's Life",
+      "author": "Tobias Wolff",
+      "year_published": 1989,
+      "rank": null
+    },
+    {
+      "title": "The Latehomecomer",
+      "author": "Kao Kalia Yang",
+      "year_published": 2008,
+      "rank": null
+    },
+    {
+      "title": "Book of Hours",
+      "author": "Kevin Young",
+      "year_published": 2014,
+      "rank": null
+    },
+    {
+      "title": "Interior Chinatown",
+      "author": "Charles Yu",
+      "year_published": 2020,
+      "rank": null
+    },
+    {
+      "title": "Ways of Going Home",
+      "author": "Alejandro Zambra",
+      "year_published": 2011,
+      "rank": null
+    }
+  ]
+}

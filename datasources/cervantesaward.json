@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "source_name": "Cervantes Prize",
+    "source_type": "award_career",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": false
+    },
+    "established": 1976,
+    "prize_amount": "€125,000",
+    "notes": "Highest literary honor for Spanish-language authors.",
+    "total_winners": 50,
+    "alternative_names": "Premio de Literatura en Lengua Castellana Miguel de Cervantes",
+    "category": "Spanish-language literature",
+    "award_type": "author-specific",
+    "years_active": 49,
+    "joint_winners_years": [
+      1979
+    ]
+  },
+  "authors": [
+    {
+      "author": "Jorge Guillén",
+      "year_awarded": 1976,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Alejo Carpentier",
+      "year_awarded": 1977,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Dámaso Alonso",
+      "year_awarded": 1978,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Jorge Luis Borges",
+      "year_awarded": 1979,
+      "country": null,
+      "notes": "Joint"
+    },
+    {
+      "author": "Gerardo Diego",
+      "year_awarded": 1979,
+      "country": null,
+      "notes": "Joint"
+    },
+    {
+      "author": "Juan Carlos Onetti",
+      "year_awarded": 1980,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Octavio Paz",
+      "year_awarded": 1981,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Luis Rosales",
+      "year_awarded": 1982,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Rafael Alberti",
+      "year_awarded": 1983,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ernesto Sabato",
+      "year_awarded": 1984,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Gonzalo Torrente Ballester",
+      "year_awarded": 1985,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Antonio Buero Vallejo",
+      "year_awarded": 1986,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Carlos Fuentes",
+      "year_awarded": 1987,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "María Zambrano",
+      "year_awarded": 1988,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Augusto Roa Bastos",
+      "year_awarded": 1989,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Adolfo Bioy Casares",
+      "year_awarded": 1990,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Francisco Ayala",
+      "year_awarded": 1991,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Dulce María Loynaz",
+      "year_awarded": 1992,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Miguel Delibes",
+      "year_awarded": 1993,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Mario Vargas Llosa",
+      "year_awarded": 1994,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Camilo José Cela",
+      "year_awarded": 1995,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "José García Nieto",
+      "year_awarded": 1996,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Guillermo Cabrera Infante",
+      "year_awarded": 1997,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "José Hierro",
+      "year_awarded": 1998,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Jorge Edwards",
+      "year_awarded": 1999,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Francisco Umbral",
+      "year_awarded": 2000,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Álvaro Mutis",
+      "year_awarded": 2001,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "José Jiménez Lozano",
+      "year_awarded": 2002,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Gonzalo Rojas",
+      "year_awarded": 2003,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Rafael Sánchez Ferlosio",
+      "year_awarded": 2004,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Sergio Pitol",
+      "year_awarded": 2005,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Antonio Gamoneda",
+      "year_awarded": 2006,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Juan Gelman",
+      "year_awarded": 2007,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Juan Marsé",
+      "year_awarded": 2008,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "José Emilio Pacheco",
+      "year_awarded": 2009,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ana María Matute",
+      "year_awarded": 2010,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Nicanor Parra",
+      "year_awarded": 2011,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "José Manuel Caballero Bonald",
+      "year_awarded": 2012,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Elena Poniatowska",
+      "year_awarded": 2013,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Juan Goytisolo",
+      "year_awarded": 2014,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Fernando del Paso",
+      "year_awarded": 2015,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Eduardo Mendoza",
+      "year_awarded": 2016,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Sergio Ramírez",
+      "year_awarded": 2017,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Ida Vitale",
+      "year_awarded": 2018,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Joan Margarit",
+      "year_awarded": 2019,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Francisco Brines",
+      "year_awarded": 2020,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Cristina Peri Rossi",
+      "year_awarded": 2021,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Rafael Cadenas",
+      "year_awarded": 2022,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Luis Mateo Díez",
+      "year_awarded": 2023,
+      "country": null,
+      "notes": ""
+    },
+    {
+      "author": "Álvaro Pombo",
+      "year_awarded": 2024,
+      "country": null,
+      "notes": ""
+    }
+  ]
+}

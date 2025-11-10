@@ -1,0 +1,685 @@
+{
+  "metadata": {
+    "source_name": "Pulitzer Prize for Biography",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1917,
+    "prize_amount": "$15,000",
+    "notes": "Awarded for distinguished biography or autobiography by an American author",
+    "total_winners": 100,
+    "former_name": "Pulitzer Prize for Biography or Autobiography",
+    "category": "Biography",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "Julia Ward Howe",
+      "author": "Laura E. Richards and Maud Howe Elliott",
+      "year_awarded": 1917,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life of John Marshall",
+      "author": "Albert J. Beveridge",
+      "year_awarded": 1920,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Americanization of Edward Bok",
+      "author": "Edward Bok",
+      "year_awarded": 1921,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Daughter of the Middle Border",
+      "author": "Hamlin Garland",
+      "year_awarded": 1922,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life and Letters of Walter H. Page",
+      "author": "Burton J. Hendrick",
+      "year_awarded": 1923,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "From Immigrant to Inventor",
+      "author": "Michael Idvorsky Pupin",
+      "year_awarded": 1924,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Barrett Wendell and His Letters",
+      "author": "M. A. Dewolfe Howe",
+      "year_awarded": 1925,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life of Sir William Osler",
+      "author": "Harvey Cushing",
+      "year_awarded": 1926,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Whitman",
+      "author": "Emory Holloway",
+      "year_awarded": 1927,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The American Orchestra and Theodore Thomas",
+      "author": "Charles Edward Russell",
+      "year_awarded": 1928,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Training of an American",
+      "author": "Burton J. Hendrick",
+      "year_awarded": 1929,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Raven",
+      "author": "Marquis James",
+      "year_awarded": 1930,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Charles W. Eliot",
+      "author": "Henry James",
+      "year_awarded": 1931,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Theodore Roosevelt",
+      "author": "Henry F. Pringle",
+      "year_awarded": 1932,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Grover Cleveland",
+      "author": "Allan Nevins",
+      "year_awarded": 1933,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "John Hay",
+      "author": "Tyler Dennett",
+      "year_awarded": 1934,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "R. E. Lee",
+      "author": "Douglas S. Freeman",
+      "year_awarded": 1935,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Thought and Character of William James",
+      "author": "Ralph Barton Perry",
+      "year_awarded": 1936,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Hamilton Fish",
+      "author": "Allan Nevins",
+      "year_awarded": 1937,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Pedlar's Progress",
+      "author": "Odell Shepard",
+      "year_awarded": 1938,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life of Andrew Jackson",
+      "author": "Marquis James",
+      "year_awarded": 1938,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Crusader in Crinoline",
+      "author": "Forrest Wilson",
+      "year_awarded": 1942,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Admiral of the Ocean Sea",
+      "author": "Samuel Eliot Morison",
+      "year_awarded": 1943,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The American Leonardo: The Life of Samuel F B. Morse",
+      "author": "Carleton Mabee",
+      "year_awarded": 1944,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "George Bancroft: Brahmin Rebel",
+      "author": "Russell Blaine Nye",
+      "year_awarded": 1945,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Son of the Wilderness",
+      "author": "Linnie Marsh Wolfe",
+      "year_awarded": 1946,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Autobiography of William Allen White",
+      "author": "William Allen White",
+      "year_awarded": 1947,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Forgotten First Citizen: John Bigelow",
+      "author": "Margaret Clapp",
+      "year_awarded": 1948,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Roosevelt and Hopkins",
+      "author": "Robert E. Sherwood",
+      "year_awarded": 1949,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "John Quincy Adams and the Foundations of American Foreign Policy",
+      "author": "Samuel Flagg Bemis",
+      "year_awarded": 1950,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "John C. Calhoun: American Portrait",
+      "author": "Margaret Louise Coit",
+      "year_awarded": 1951,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Charles Evans Hughes",
+      "author": "Merlo J. Pusey",
+      "year_awarded": 1952,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Edmund Pendleton 1721-1803",
+      "author": "David J. Mays",
+      "year_awarded": 1953,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Spirit of St. Louis",
+      "author": "Charles A. Lindbergh",
+      "year_awarded": 1954,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Taft Story",
+      "author": "William S. White",
+      "year_awarded": 1955,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Benjamin Henry Latrobe",
+      "author": "Talbot Faulkner Hamlin",
+      "year_awarded": 1956,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Profiles in Courage",
+      "author": "John F. Kennedy",
+      "year_awarded": 1957,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Woodrow Wilson",
+      "author": "Arthur Walworth",
+      "year_awarded": 1959,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "John Paul Jones",
+      "author": "Samuel Eliot Morison",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Charles Sumner and the Coming of the Civil War",
+      "author": "David Donald",
+      "year_awarded": 1961,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Henry James",
+      "author": "Leon Edel",
+      "year_awarded": 1963,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "John Keats",
+      "author": "Walter Jackson Bate",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mr. Clemens and Mark Twain",
+      "author": "Justin Kaplan",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Memoirs",
+      "author": "George F. Kennan",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Man From New York: John Quinn and His Friends",
+      "author": "Benjamin Lawrence Reid",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Huey Long",
+      "author": "T. Harry Williams",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Eleanor and Franklin",
+      "author": "Joseph P. Lash",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Luce and His Empire",
+      "author": "W. A. Swanberg",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Edith Wharton: A Biography",
+      "author": "R. W. B. Lewis",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Prince of Our Disorder: The Life of T. E. Lawrence",
+      "author": "John E. Mack",
+      "year_awarded": 1977,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Samuel Johnson",
+      "author": "Walter Jackson Bate",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Days of Sorrow and Pain: Leo Baeck and the Berlin Jews",
+      "author": "Leonard Baker",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Rise of Theodore Roosevelt",
+      "author": "Edmund Morris",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Peter the Great: His Life and World",
+      "author": "Robert K. Massie",
+      "year_awarded": 1981,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Growing Up",
+      "author": "Russell Baker",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Booker T. Washington",
+      "author": "Louis R. Harlan",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life and Times of Cotton Mather",
+      "author": "Kenneth Silverman",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Louise Bogan: A Portrait",
+      "author": "Elizabeth Frank",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Bearing the Cross: Martin Luther King Jr. and the Southern Christian Leadership Conference",
+      "author": "David J. Garrow",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Look Homeward: A Life of Thomas Wolfe",
+      "author": "David Herbert Donald",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Oscar Wilde",
+      "author": "Richard Ellmann",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Machiavelli in Hell",
+      "author": "Sebastian de Grazia",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Jackson Pollock",
+      "author": "Steven Naifeh and Gregory White Smith",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "W.E.B. Du Bois: Biography of a Race 1868-1919",
+      "author": "David Levering Lewis",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Harriet Beecher Stowe: A Life",
+      "author": "Joan D. Hedrick",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "God: A Biography",
+      "author": "Jack Miles",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lindbergh",
+      "author": "A. Scott Berg",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "VÃƒÂ©ra (Mrs. Vladimir Nabokov)",
+      "author": "Stacy Schiff",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Khrushchev: The Man and His Era",
+      "author": "William Taubman",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "de Kooning: An American Master",
+      "author": "Mark Stevens and Annalyn Swan",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Most Famous Man in America",
+      "author": "Debby Applegate",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Eden's Outcasts",
+      "author": "John Matteson",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "George F. Kennan: An American Life",
+      "author": "John Lewis Gaddis",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Black Count",
+      "author": "Tom Reiss",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Margaret Fuller: A New American Life",
+      "author": "Megan Marshall",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Pope and Mussolini",
+      "author": "David I. Kertzer",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Barbarian Days: A Surfing Life",
+      "author": "William Finnegan",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Return",
+      "author": "Hisham Matar",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Prairie Fires: The American Dreams of Laura Ingalls Wilder",
+      "author": "Caroline Fraser",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sontag: Her Life and Work",
+      "author": "Benjamin Moser",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "G-Man: J. Edgar Hoover",
+      "author": "Beverly Gage",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "American Lion",
+      "author": "Jon Meacham",
+      "notes": ""
+    },
+    {
+      "title": "American Prometheus",
+      "author": "Kai Bird & Martin J. Sherwin",
+      "notes": ""
+    },
+    {
+      "title": "Angela's Ashes",
+      "author": "Frank McCourt",
+      "notes": ""
+    },
+    {
+      "title": "Chasing Me to My Grave",
+      "author": "Winfred Rembert",
+      "notes": ""
+    },
+    {
+      "title": "Every Living Thing",
+      "author": "Jason Roberts",
+      "notes": ""
+    },
+    {
+      "title": "George F. Kennan",
+      "author": "John Lewis Gaddis",
+      "notes": ""
+    },
+    {
+      "title": "Grant",
+      "author": "Ron Chernow",
+      "notes": ""
+    },
+    {
+      "title": "John Adams",
+      "author": "David McCullough",
+      "notes": ""
+    },
+    {
+      "title": "King: A Life",
+      "author": "Jonathan Eig",
+      "notes": ""
+    },
+    {
+      "title": "Master of the Senate",
+      "author": "Robert Caro",
+      "notes": ""
+    },
+    {
+      "title": "Master Slave Husband Wife",
+      "author": "Ilyon Woo",
+      "notes": ""
+    },
+    {
+      "title": "Personal History",
+      "author": "Katharine Graham",
+      "notes": ""
+    },
+    {
+      "title": "Peter the Great",
+      "author": "Robert K. Massie",
+      "notes": ""
+    },
+    {
+      "title": "Prairie Fires",
+      "author": "Caroline Fraser",
+      "notes": ""
+    },
+    {
+      "title": "Team of Rivals",
+      "author": "Doris Kearns Goodwin",
+      "notes": ""
+    },
+    {
+      "title": "The First Tycoon",
+      "author": "T.J. Stiles",
+      "notes": ""
+    },
+    {
+      "title": "The Power Broker",
+      "author": "Robert Caro",
+      "notes": ""
+    },
+    {
+      "title": "Truman",
+      "author": "David McCullough",
+      "notes": ""
+    },
+    {
+      "title": "Washington: A Life",
+      "author": "Ron Chernow",
+      "notes": ""
+    }
+  ]
+}

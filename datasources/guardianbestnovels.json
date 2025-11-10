@@ -1,0 +1,620 @@
+{
+  "metadata": {
+    "source_name": "The Guardian 100 Best Novels",
+    "source_type": "list_ranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 2015,
+    "total_entries": 100,
+    "ranked": true,
+    "methodology": "A ranked list of the 100 best English-language novels, selected by Robert McCrum for The Guardian."
+  },
+  "items": [
+    {
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "year_published": 1678,
+      "rank": 1
+    },
+    {
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "year_published": 1719,
+      "rank": 2
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "year_published": 1726,
+      "rank": 3
+    },
+    {
+      "title": "Clarissa",
+      "author": "Samuel Richardson",
+      "year_published": 1748,
+      "rank": 4
+    },
+    {
+      "title": "Tom Jones",
+      "author": "Henry Fielding",
+      "year_published": 1749,
+      "rank": 5
+    },
+    {
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "author": "Laurence Sterne",
+      "year_published": 1759,
+      "rank": 6
+    },
+    {
+      "title": "Emma",
+      "author": "Jane Austen",
+      "year_published": 1816,
+      "rank": 7
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year_published": 1818,
+      "rank": 8
+    },
+    {
+      "title": "Nightmare Abbey",
+      "author": "Thomas Love Peacock",
+      "year_published": 1818,
+      "rank": 9
+    },
+    {
+      "title": "The Narrative of Arthur Gordon Pym of Nantucket",
+      "author": "Edgar Allan Poe",
+      "year_published": 1838,
+      "rank": 10
+    },
+    {
+      "title": "Sybil",
+      "author": "Benjamin Disraeli",
+      "year_published": 1845,
+      "rank": 11
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "year_published": 1847,
+      "rank": 12
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "year_published": 1847,
+      "rank": 13
+    },
+    {
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "year_published": 1848,
+      "rank": 14
+    },
+    {
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "year_published": 1850,
+      "rank": 15
+    },
+    {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "year_published": 1850,
+      "rank": 16
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year_published": 1851,
+      "rank": 17
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "year_published": 1865,
+      "rank": 18
+    },
+    {
+      "title": "The Moonstone",
+      "author": "Wilkie Collins",
+      "year_published": 1868,
+      "rank": 19
+    },
+    {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "year_published": 1868,
+      "rank": 20
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year_published": 1871,
+      "rank": 21
+    },
+    {
+      "title": "The Way We Live Now",
+      "author": "Anthony Trollope",
+      "year_published": 1875,
+      "rank": 22
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year_published": 1884,
+      "rank": 23
+    },
+    {
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "year_published": 1886,
+      "rank": 24
+    },
+    {
+      "title": "Three Men in a Boat",
+      "author": "Jerome K. Jerome",
+      "year_published": 1889,
+      "rank": 25
+    },
+    {
+      "title": "The Sign of Four",
+      "author": "Arthur Conan Doyle",
+      "year_published": 1890,
+      "rank": 26
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year_published": 1891,
+      "rank": 27
+    },
+    {
+      "title": "The Diary of a Nobody",
+      "author": "George and Weedon Grossmith",
+      "year_published": 1892,
+      "rank": 28
+    },
+    {
+      "title": "Jude the Obscure",
+      "author": "Thomas Hardy",
+      "year_published": 1895,
+      "rank": 29
+    },
+    {
+      "title": "The Red Badge of Courage",
+      "author": "Stephen Crane",
+      "year_published": 1895,
+      "rank": 30
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "year_published": 1897,
+      "rank": 31
+    },
+    {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "year_published": 1899,
+      "rank": 32
+    },
+    {
+      "title": "Sister Carrie",
+      "author": "Theodore Dreiser",
+      "year_published": 1900,
+      "rank": 33
+    },
+    {
+      "title": "Kim",
+      "author": "Rudyard Kipling",
+      "year_published": 1901,
+      "rank": 34
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "year_published": 1903,
+      "rank": 35
+    },
+    {
+      "title": "The Golden Bowl",
+      "author": "Henry James",
+      "year_published": 1904,
+      "rank": 36
+    },
+    {
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "year_published": 1908,
+      "rank": 37
+    },
+    {
+      "title": "The History of Mr Polly",
+      "author": "H.G. Wells",
+      "year_published": 1910,
+      "rank": 38
+    },
+    {
+      "title": "Zuleika Dobson",
+      "author": "Max Beerbohm",
+      "year_published": 1911,
+      "rank": 39
+    },
+    {
+      "title": "The Good Soldier",
+      "author": "Ford Madox Ford",
+      "year_published": 1915,
+      "rank": 40
+    },
+    {
+      "title": "The Thirty-Nine Steps",
+      "author": "John Buchan",
+      "year_published": 1915,
+      "rank": 41
+    },
+    {
+      "title": "The Rainbow",
+      "author": "D.H. Lawrence",
+      "year_published": 1915,
+      "rank": 42
+    },
+    {
+      "title": "Of Human Bondage",
+      "author": "W. Somerset Maugham",
+      "year_published": 1915,
+      "rank": 43
+    },
+    {
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "year_published": 1920,
+      "rank": 44
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "year_published": 1922,
+      "rank": 45
+    },
+    {
+      "title": "APassage to India",
+      "author": "E.M. Forster",
+      "year_published": 1924,
+      "rank": 46
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year_published": 1925,
+      "rank": 47
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "year_published": 1925,
+      "rank": 48
+    },
+    {
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "year_published": 1926,
+      "rank": 49
+    },
+    {
+      "title": "The Maltese Falcon",
+      "author": "Dashiell Hammett",
+      "year_published": 1930,
+      "rank": 50
+    },
+    {
+      "title": "As I Lay Dying",
+      "author": "William Faulkner",
+      "year_published": 1930,
+      "rank": 51
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year_published": 1932,
+      "rank": 52
+    },
+    {
+      "title": "Scoop",
+      "author": "Evelyn Waugh",
+      "year_published": 1938,
+      "rank": 53
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_published": 1939,
+      "rank": 54
+    },
+    {
+      "title": "At Swim-Two-Birds",
+      "author": "Flann O'Brien",
+      "year_published": 1939,
+      "rank": 55
+    },
+    {
+      "title": "Party Going",
+      "author": "Henry Green",
+      "year_published": 1939,
+      "rank": 56
+    },
+    {
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "year_published": 1939,
+      "rank": 57
+    },
+    {
+      "title": "The Power and the Glory",
+      "author": "Graham Greene",
+      "year_published": 1940,
+      "rank": 58
+    },
+    {
+      "title": "The Horse's Mouth",
+      "author": "Joyce Cary",
+      "year_published": 1944,
+      "rank": 59
+    },
+    {
+      "title": "Brideshead Revisited",
+      "author": "Evelyn Waugh",
+      "year_published": 1945,
+      "rank": 60
+    },
+    {
+      "title": "The Pursuit of Love",
+      "author": "Nancy Mitford",
+      "year_published": 1945,
+      "rank": 61
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year_published": 1951,
+      "rank": 62
+    },
+    {
+      "title": "The End of the Affair",
+      "author": "Graham Greene",
+      "year_published": 1951,
+      "rank": 63
+    },
+    {
+      "title": "The Adventures of Augie March",
+      "author": "Saul Bellow",
+      "year_published": 1953,
+      "rank": 64
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year_published": 1954,
+      "rank": 65
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "year_published": 1954,
+      "rank": 66
+    },
+    {
+      "title": "Lucky Jim",
+      "author": "Kingsley Amis",
+      "year_published": 1954,
+      "rank": 67
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "year_published": 1955,
+      "rank": 68
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "year_published": 1957,
+      "rank": 69
+    },
+    {
+      "title": "Voss",
+      "author": "Patrick White",
+      "year_published": 1957,
+      "rank": 70
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "year_published": 1958,
+      "rank": 71
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_published": 1960,
+      "rank": 72
+    },
+    {
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "year_published": 1961,
+      "rank": 73
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "year_published": 1961,
+      "rank": 74
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "year_published": 1962,
+      "rank": 75
+    },
+    {
+      "title": "The Golden Notebook",
+      "author": "Doris Lessing",
+      "year_published": 1962,
+      "rank": 76
+    },
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "year_published": 1964,
+      "rank": 77
+    },
+    {
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "year_published": 1966,
+      "rank": 78
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien",
+      "year_published": 1990,
+      "rank": 79
+    },
+    {
+      "title": "Portnoy's Complaint",
+      "author": "Philip Roth",
+      "year_published": 1969,
+      "rank": 80
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "year_published": 1969,
+      "rank": 81
+    },
+    {
+      "title": "Rabbit Redux",
+      "author": "John Updike",
+      "year_published": 1971,
+      "rank": 82
+    },
+    {
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "year_published": 1977,
+      "rank": 83
+    },
+    {
+      "title": "The Bottle Factory Outing",
+      "author": "Beryl Bainbridge",
+      "year_published": 1974,
+      "rank": 84
+    },
+    {
+      "title": "The Life and Times of Michael K",
+      "author": "J.M. Coetzee",
+      "year_published": 1983,
+      "rank": 85
+    },
+    {
+      "title": "A Bend in the River",
+      "author": "V.S. Naipaul",
+      "year_published": 1979,
+      "rank": 86
+    },
+    {
+      "title": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "year_published": 1981,
+      "rank": 87
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "year_published": 1982,
+      "rank": 88
+    },
+    {
+      "title": "Money",
+      "author": "Martin Amis",
+      "year_published": 1984,
+      "rank": 89
+    },
+    {
+      "title": "An Artist of the Floating World",
+      "author": "Kazuo Ishiguro",
+      "year_published": 1986,
+      "rank": 90
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_published": 1987,
+      "rank": 91
+    },
+    {
+      "title": "The Bonfire of the Vanities",
+      "author": "Tom Wolfe",
+      "year_published": 1987,
+      "rank": 92
+    },
+    {
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "year_published": 1989,
+      "rank": 93
+    },
+    {
+      "title": "Among Women",
+      "author": "John McGahern",
+      "year_published": 1990,
+      "rank": 94
+    },
+    {
+      "title": "Underworld",
+      "author": "Don DeLillo",
+      "year_published": 1997,
+      "rank": 95
+    },
+    {
+      "title": "American Pastoral",
+      "author": "Philip Roth",
+      "year_published": 1997,
+      "rank": 96
+    },
+    {
+      "title": "Disgrace",
+      "author": "J.M. Coetzee",
+      "year_published": 1999,
+      "rank": 97
+    },
+    {
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "year_published": 2001,
+      "rank": 98
+    },
+    {
+      "title": "The Corrections",
+      "author": "Jonathan Franzen",
+      "year_published": 2001,
+      "rank": 99
+    },
+    {
+      "title": "True History of the Kelly Gang",
+      "author": "Peter Carey",
+      "year_published": 2000,
+      "rank": 100
+    }
+  ]
+}

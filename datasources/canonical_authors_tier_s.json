@@ -1,0 +1,971 @@
+{
+  "metadata": {
+    "source_name": "Canonical Authors - Tier S",
+    "source_type": "canonical_authors",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "tier": "S",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "author_quality",
+      "canonical_baseline_points": 30,
+      "tier_minimum_score": 80,
+      "qualifier_for_author_bonus": false
+    },
+    "description": "Authors who transcend national boundaries, are taught worldwide, and are fundamental to any serious literature education. These are the bedrock of world literature.",
+    "total_authors": 23,
+    "total_works": 135,
+    "selection_criteria": [
+      "Universal recognition across all literary traditions",
+      "Fundamental to any comprehensive literature curriculum",
+      "Works translated into virtually all major languages",
+      "Influence spans multiple centuries and genres",
+      "Required reading in most university literature programs worldwide"
+    ],
+    "generation_method": "Curated from established literary canons including Harold Bloom's Western Canon, Modern Library lists, university core curricula (Columbia, UChicago, St. John's), and consensus among major literary historians and critics",
+    "significance": "These authors define the core of world literature. Their works have shaped literary traditions, influenced countless writers, and remain central to understanding human culture and artistic expression across eras.",
+    "scoring_rationale": "Pre-1970 works by these authors receive a 30-point canonical baseline to ensure they compete fairly with contemporary award winners, as most major literary awards and 'best-of' lists were created in the 1990s-2020s, creating systematic bias against earlier masterpieces."
+  },
+  "canonical_authors": [
+    {
+      "author": "William Shakespeare",
+      "lived": "1564-1616",
+      "nationality": "English",
+      "tier": "S",
+      "genre": "Drama, Poetry",
+      "works": [
+        {
+          "title": "Hamlet",
+          "year_published": 1600,
+          "genre": "Drama"
+        },
+        {
+          "title": "King Lear",
+          "year_published": 1606,
+          "genre": "Drama"
+        },
+        {
+          "title": "Macbeth",
+          "year_published": 1606,
+          "genre": "Drama"
+        },
+        {
+          "title": "Othello",
+          "year_published": 1604,
+          "genre": "Drama"
+        },
+        {
+          "title": "Romeo and Juliet",
+          "year_published": 1597,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Tempest",
+          "year_published": 1611,
+          "genre": "Drama"
+        },
+        {
+          "title": "A Midsummer Night's Dream",
+          "year_published": 1596,
+          "genre": "Drama"
+        },
+        {
+          "title": "Julius Caesar",
+          "year_published": 1599,
+          "genre": "Drama"
+        }
+      ],
+      "significance": "The most influential writer in the English language; redefined drama and expanded the boundaries of literary expression",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Dante Alighieri",
+      "lived": "1265-1321",
+      "nationality": "Italian",
+      "tier": "S",
+      "genre": "Poetry, Epic",
+      "works": [
+        {
+          "title": "The Divine Comedy",
+          "year_published": 1320,
+          "genre": "Poetry/Epic"
+        },
+        {
+          "title": "Inferno",
+          "year_published": 1314,
+          "genre": "Poetry/Epic"
+        },
+        {
+          "title": "Purgatorio",
+          "year_published": 1319,
+          "genre": "Poetry/Epic"
+        },
+        {
+          "title": "Paradiso",
+          "year_published": 1320,
+          "genre": "Poetry/Epic"
+        },
+        {
+          "title": "La Vita Nuova",
+          "year_published": 1295,
+          "genre": "Poetry"
+        }
+      ],
+      "significance": "Father of the Italian language; The Divine Comedy is one of the supreme achievements of world literature",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Miguel de Cervantes",
+      "lived": "1547-1616",
+      "nationality": "Spanish",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Don Quixote",
+          "year_published": 1605,
+          "genre": "Novel"
+        },
+        {
+          "title": "Don Quixote Part II",
+          "year_published": 1615,
+          "genre": "Novel"
+        },
+        {
+          "title": "Exemplary Novels",
+          "year_published": 1613,
+          "genre": "Short Stories"
+        }
+      ],
+      "significance": "Created the modern novel with Don Quixote; foundational to Spanish literature and world fiction",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "lived": "1749-1832",
+      "nationality": "German",
+      "tier": "S",
+      "genre": "Drama, Novel, Poetry",
+      "works": [
+        {
+          "title": "Faust Part One",
+          "year_published": 1808,
+          "genre": "Drama"
+        },
+        {
+          "title": "Faust Part Two",
+          "year_published": 1832,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Sorrows of Young Werther",
+          "year_published": 1774,
+          "genre": "Novel"
+        },
+        {
+          "title": "Wilhelm Meister's Apprenticeship",
+          "year_published": 1796,
+          "genre": "Novel"
+        },
+        {
+          "title": "Elective Affinities",
+          "year_published": 1809,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Germany's greatest literary figure; Faust is a cornerstone of Western literature",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Leo Tolstoy",
+      "lived": "1828-1910",
+      "nationality": "Russian",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "War and Peace",
+          "year_published": 1869,
+          "genre": "Novel"
+        },
+        {
+          "title": "Anna Karenina",
+          "year_published": 1877,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Death of Ivan Ilyich",
+          "year_published": 1886,
+          "genre": "Novella"
+        },
+        {
+          "title": "Resurrection",
+          "year_published": 1899,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Kreutzer Sonata",
+          "year_published": 1889,
+          "genre": "Novella"
+        },
+        {
+          "title": "Hadji Murat",
+          "year_published": 1912,
+          "genre": "Novella"
+        }
+      ],
+      "significance": "War and Peace and Anna Karenina are considered among the greatest novels ever written; master of realistic fiction",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "lived": "1821-1881",
+      "nationality": "Russian",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Crime and Punishment",
+          "year_published": 1866,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Brothers Karamazov",
+          "year_published": 1880,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Idiot",
+          "year_published": 1869,
+          "genre": "Novel"
+        },
+        {
+          "title": "Demons",
+          "year_published": 1872,
+          "genre": "Novel"
+        },
+        {
+          "title": "Notes from Underground",
+          "year_published": 1864,
+          "genre": "Novella"
+        },
+        {
+          "title": "The Double",
+          "year_published": 1846,
+          "genre": "Novella"
+        }
+      ],
+      "significance": "Psychological depth and philosophical exploration; Crime and Punishment and The Brothers Karamazov are foundational texts",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Jane Austen",
+      "lived": "1775-1817",
+      "nationality": "English",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Pride and Prejudice",
+          "year_published": 1813,
+          "genre": "Novel"
+        },
+        {
+          "title": "Emma",
+          "year_published": 1815,
+          "genre": "Novel"
+        },
+        {
+          "title": "Sense and Sensibility",
+          "year_published": 1811,
+          "genre": "Novel"
+        },
+        {
+          "title": "Persuasion",
+          "year_published": 1818,
+          "genre": "Novel"
+        },
+        {
+          "title": "Mansfield Park",
+          "year_published": 1814,
+          "genre": "Novel"
+        },
+        {
+          "title": "Northanger Abbey",
+          "year_published": 1818,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Master of social comedy and psychological realism; redefined the novel of manners",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Charles Dickens",
+      "lived": "1812-1870",
+      "nationality": "English",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Great Expectations",
+          "year_published": 1861,
+          "genre": "Novel"
+        },
+        {
+          "title": "Bleak House",
+          "year_published": 1853,
+          "genre": "Novel"
+        },
+        {
+          "title": "David Copperfield",
+          "year_published": 1850,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Tale of Two Cities",
+          "year_published": 1859,
+          "genre": "Novel"
+        },
+        {
+          "title": "Oliver Twist",
+          "year_published": 1838,
+          "genre": "Novel"
+        },
+        {
+          "title": "Little Dorrit",
+          "year_published": 1857,
+          "genre": "Novel"
+        },
+        {
+          "title": "Our Mutual Friend",
+          "year_published": 1865,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Most popular novelist of the Victorian era; created unforgettable characters and exposed social injustices",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Gustave Flaubert",
+      "lived": "1821-1880",
+      "nationality": "French",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Madame Bovary",
+          "year_published": 1857,
+          "genre": "Novel"
+        },
+        {
+          "title": "Sentimental Education",
+          "year_published": 1869,
+          "genre": "Novel"
+        },
+        {
+          "title": "Three Tales",
+          "year_published": 1877,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "Salammbô",
+          "year_published": 1862,
+          "genre": "Novel"
+        },
+        {
+          "title": "Bouvard and Pécuchet",
+          "year_published": 1881,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Madame Bovary revolutionized realistic fiction; master of prose style",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Honoré de Balzac",
+      "lived": "1799-1850",
+      "nationality": "French",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Père Goriot",
+          "year_published": 1835,
+          "genre": "Novel"
+        },
+        {
+          "title": "Eugénie Grandet",
+          "year_published": 1833,
+          "genre": "Novel"
+        },
+        {
+          "title": "Lost Illusions",
+          "year_published": 1843,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Wild Ass's Skin",
+          "year_published": 1831,
+          "genre": "Novel"
+        },
+        {
+          "title": "Cousin Bette",
+          "year_published": 1846,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Black Sheep",
+          "year_published": 1842,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "La Comédie Humaine is an unparalleled portrait of French society; influenced countless realist writers",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Stendhal",
+      "lived": "1783-1842",
+      "nationality": "French",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "The Red and the Black",
+          "year_published": 1830,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Charterhouse of Parma",
+          "year_published": 1839,
+          "genre": "Novel"
+        },
+        {
+          "title": "Lucien Leuwen",
+          "year_published": 1894,
+          "genre": "Novel"
+        },
+        {
+          "title": "Armance",
+          "year_published": 1827,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Psychological realism and political insight; The Red and the Black is a masterpiece of 19th-century fiction",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Victor Hugo",
+      "lived": "1802-1885",
+      "nationality": "French",
+      "tier": "S",
+      "genre": "Novel, Poetry",
+      "works": [
+        {
+          "title": "Les Misérables",
+          "year_published": 1862,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Hunchback of Notre-Dame",
+          "year_published": 1831,
+          "genre": "Novel"
+        },
+        {
+          "title": "Ninety-Three",
+          "year_published": 1874,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Man Who Laughs",
+          "year_published": 1869,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Les Misérables is one of the most influential novels in history; champion of social justice",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "George Eliot",
+      "lived": "1819-1880",
+      "nationality": "English",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Middlemarch",
+          "year_published": 1872,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Mill on the Floss",
+          "year_published": 1860,
+          "genre": "Novel"
+        },
+        {
+          "title": "Daniel Deronda",
+          "year_published": 1876,
+          "genre": "Novel"
+        },
+        {
+          "title": "Silas Marner",
+          "year_published": 1861,
+          "genre": "Novel"
+        },
+        {
+          "title": "Adam Bede",
+          "year_published": 1859,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Middlemarch is considered one of the greatest novels in English; unmatched psychological depth",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Herman Melville",
+      "lived": "1819-1891",
+      "nationality": "American",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Moby-Dick",
+          "year_published": 1851,
+          "genre": "Novel"
+        },
+        {
+          "title": "Billy Budd",
+          "year_published": 1924,
+          "genre": "Novella"
+        },
+        {
+          "title": "Bartleby, the Scrivener",
+          "year_published": 1853,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Pierre",
+          "year_published": 1852,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Confidence-Man",
+          "year_published": 1857,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Moby-Dick is an epic of American literature; profound philosophical and symbolic depth",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Mark Twain",
+      "lived": "1835-1910",
+      "nationality": "American",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Adventures of Huckleberry Finn",
+          "year_published": 1885,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Adventures of Tom Sawyer",
+          "year_published": 1876,
+          "genre": "Novel"
+        },
+        {
+          "title": "Life on the Mississippi",
+          "year_published": 1883,
+          "genre": "Memoir"
+        },
+        {
+          "title": "A Connecticut Yankee in King Arthur's Court",
+          "year_published": 1889,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Prince and the Pauper",
+          "year_published": 1881,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Huckleberry Finn is the foundational American novel; master of American vernacular",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "James Joyce",
+      "lived": "1882-1941",
+      "nationality": "Irish",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Ulysses",
+          "year_published": 1922,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Portrait of the Artist as a Young Man",
+          "year_published": 1916,
+          "genre": "Novel"
+        },
+        {
+          "title": "Finnegans Wake",
+          "year_published": 1939,
+          "genre": "Novel"
+        },
+        {
+          "title": "Dubliners",
+          "year_published": 1914,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "Exiles",
+          "year_published": 1918,
+          "genre": "Drama"
+        }
+      ],
+      "significance": "Ulysses revolutionized the novel; unparalleled linguistic innovation and stream-of-consciousness technique",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Marcel Proust",
+      "lived": "1871-1922",
+      "nationality": "French",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "In Search of Lost Time",
+          "year_published": 1913,
+          "genre": "Novel"
+        },
+        {
+          "title": "Swann's Way",
+          "year_published": 1913,
+          "genre": "Novel"
+        },
+        {
+          "title": "Within a Budding Grove",
+          "year_published": 1919,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Guermantes Way",
+          "year_published": 1920,
+          "genre": "Novel"
+        },
+        {
+          "title": "Time Regained",
+          "year_published": 1927,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "In Search of Lost Time is one of literature's supreme achievements; redefined memory and consciousness in fiction",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Franz Kafka",
+      "lived": "1883-1924",
+      "nationality": "Czech/German",
+      "tier": "S",
+      "genre": "Novel, Short Story",
+      "works": [
+        {
+          "title": "The Trial",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Castle",
+          "year_published": 1926,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Metamorphosis",
+          "year_published": 1915,
+          "genre": "Novella"
+        },
+        {
+          "title": "Amerika",
+          "year_published": 1927,
+          "genre": "Novel"
+        },
+        {
+          "title": "In the Penal Colony",
+          "year_published": 1919,
+          "genre": "Short Story"
+        },
+        {
+          "title": "A Hunger Artist",
+          "year_published": 1924,
+          "genre": "Short Story"
+        }
+      ],
+      "significance": "The Trial and The Castle define modern alienation; 'Kafkaesque' entered the language",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Thomas Mann",
+      "lived": "1875-1955",
+      "nationality": "German",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "Buddenbrooks",
+          "year_published": 1901,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Magic Mountain",
+          "year_published": 1924,
+          "genre": "Novel"
+        },
+        {
+          "title": "Death in Venice",
+          "year_published": 1912,
+          "genre": "Novella"
+        },
+        {
+          "title": "Doctor Faustus",
+          "year_published": 1947,
+          "genre": "Novel"
+        },
+        {
+          "title": "Joseph and His Brothers",
+          "year_published": 1943,
+          "genre": "Novel"
+        },
+        {
+          "title": "Tonio Kröger",
+          "year_published": 1903,
+          "genre": "Novella"
+        },
+        {
+          "title": "The Confessions of Felix Krull",
+          "year_published": 1954,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "The Magic Mountain and Doctor Faustus are pillars of 20th-century literature; philosophical depth",
+      "recognition": "Tier S - Universal Giant; Nobel Prize 1929"
+    },
+    {
+      "author": "Virginia Woolf",
+      "lived": "1882-1941",
+      "nationality": "English",
+      "tier": "S",
+      "genre": "Novel, Essay",
+      "works": [
+        {
+          "title": "Mrs Dalloway",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "To the Lighthouse",
+          "year_published": 1927,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Waves",
+          "year_published": 1931,
+          "genre": "Novel"
+        },
+        {
+          "title": "Orlando",
+          "year_published": 1928,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Room of One's Own",
+          "year_published": 1929,
+          "genre": "Essay"
+        },
+        {
+          "title": "Between the Acts",
+          "year_published": 1941,
+          "genre": "Novel"
+        },
+        {
+          "title": "Jacob's Room",
+          "year_published": 1922,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "Mrs Dalloway and To the Lighthouse are modernist masterpieces; pioneered stream-of-consciousness",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "William Faulkner",
+      "lived": "1897-1962",
+      "nationality": "American",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "The Sound and the Fury",
+          "year_published": 1929,
+          "genre": "Novel"
+        },
+        {
+          "title": "As I Lay Dying",
+          "year_published": 1930,
+          "genre": "Novel"
+        },
+        {
+          "title": "Absalom, Absalom!",
+          "year_published": 1936,
+          "genre": "Novel"
+        },
+        {
+          "title": "Light in August",
+          "year_published": 1932,
+          "genre": "Novel"
+        },
+        {
+          "title": "Go Down, Moses",
+          "year_published": 1942,
+          "genre": "Novel/Stories"
+        },
+        {
+          "title": "The Hamlet",
+          "year_published": 1940,
+          "genre": "Novel"
+        },
+        {
+          "title": "Sanctuary",
+          "year_published": 1931,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "The Sound and the Fury and Absalom, Absalom! are American masterpieces; experimental narrative techniques",
+      "recognition": "Tier S - Universal Giant; Nobel Prize 1949"
+    },
+    {
+      "author": "Ernest Hemingway",
+      "lived": "1899-1961",
+      "nationality": "American",
+      "tier": "S",
+      "genre": "Novel, Short Story",
+      "works": [
+        {
+          "title": "The Sun Also Rises",
+          "year_published": 1926,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Farewell to Arms",
+          "year_published": 1929,
+          "genre": "Novel"
+        },
+        {
+          "title": "For Whom the Bell Tolls",
+          "year_published": 1940,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Old Man and the Sea",
+          "year_published": 1952,
+          "genre": "Novella"
+        },
+        {
+          "title": "In Our Time",
+          "year_published": 1925,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "The Snows of Kilimanjaro",
+          "year_published": 1936,
+          "genre": "Short Story"
+        }
+      ],
+      "significance": "Revolutionized prose style; The Sun Also Rises and For Whom the Bell Tolls are modern classics",
+      "recognition": "Tier S - Universal Giant; Nobel Prize 1954"
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "lived": "1896-1940",
+      "nationality": "American",
+      "tier": "S",
+      "genre": "Novel",
+      "works": [
+        {
+          "title": "The Great Gatsby",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "Tender Is the Night",
+          "year_published": 1934,
+          "genre": "Novel"
+        },
+        {
+          "title": "This Side of Paradise",
+          "year_published": 1920,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Beautiful and Damned",
+          "year_published": 1922,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Last Tycoon",
+          "year_published": 1941,
+          "genre": "Novel"
+        }
+      ],
+      "significance": "The Great Gatsby is the definitive American novel; captured the Jazz Age brilliantly",
+      "recognition": "Tier S - Universal Giant"
+    },
+    {
+      "author": "Anton Chekhov",
+      "lived": "1860-1904",
+      "nationality": "Russian",
+      "tier": "S",
+      "genre": "Drama, Short Story",
+      "works": [
+        {
+          "title": "The Cherry Orchard",
+          "year_published": 1904,
+          "genre": "Drama"
+        },
+        {
+          "title": "Uncle Vanya",
+          "year_published": 1899,
+          "genre": "Drama"
+        },
+        {
+          "title": "Three Sisters",
+          "year_published": 1901,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Seagull",
+          "year_published": 1896,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Lady with the Dog",
+          "year_published": 1899,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Ward No. 6",
+          "year_published": 1892,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The Duel",
+          "year_published": 1891,
+          "genre": "Novella"
+        }
+      ],
+      "significance": "Master of the short story and modern drama; The Cherry Orchard revolutionized theater",
+      "recognition": "Tier S - Universal Giant"
+    }
+  ]
+}

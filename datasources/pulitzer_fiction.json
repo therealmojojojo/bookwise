@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "source_name": "Pulitzer Prize for Fiction",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "fiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1918,
+    "prize_amount": "$15,000",
+    "notes": "Two shared prizes in 2023",
+    "total_winners": 97,
+    "former_name": "Pulitzer Prize for the Novel (1918-1947)",
+    "category": "Fiction",
+    "award_type": "book-specific",
+    "years_active": 108,
+    "no_award_years": [
+      1920,
+      1941,
+      1946,
+      1950,
+      1957,
+      1964,
+      1971,
+      1974,
+      1977,
+      1981,
+      2012
+    ]
+  },
+  "items": [
+    {
+      "title": "His Family",
+      "author": "Ernest Poole",
+      "year_awarded": 1918,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Magnificent Ambersons",
+      "author": "Booth Tarkington",
+      "year_awarded": 1919,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "year_awarded": 1921,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Alice Adams",
+      "author": "Booth Tarkington",
+      "year_awarded": 1922,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "One of Ours",
+      "author": "Willa Cather",
+      "year_awarded": 1923,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Able McLaughlins",
+      "author": "Margaret Wilson",
+      "year_awarded": 1924,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "So Big",
+      "author": "Edna Ferber",
+      "year_awarded": 1925,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Arrowsmith",
+      "author": "Sinclair Lewis",
+      "year_awarded": 1926,
+      "year_published": null,
+      "notes": "Declined"
+    },
+    {
+      "title": "Early Autumn",
+      "author": "Louis Bromfield",
+      "year_awarded": 1927,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Bridge of San Luis Rey",
+      "author": "Thornton Wilder",
+      "year_awarded": 1928,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Scarlet Sister Mary",
+      "author": "Julia Peterkin",
+      "year_awarded": 1929,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Laughing Boy",
+      "author": "Oliver La Farge",
+      "year_awarded": 1930,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Years of Grace",
+      "author": "Margaret Ayer Barnes",
+      "year_awarded": 1931,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Good Earth",
+      "author": "Pearl S. Buck",
+      "year_awarded": 1932,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Store",
+      "author": "T.S. Stribling",
+      "year_awarded": 1933,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lamb in His Bosom",
+      "author": "Caroline Miller",
+      "year_awarded": 1934,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Now in November",
+      "author": "Josephine Winslow Johnson",
+      "year_awarded": 1935,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Honey in the Horn",
+      "author": "Harold L. Davis",
+      "year_awarded": 1936,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year_awarded": 1937,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Late George Apley",
+      "author": "John Phillips Marquand",
+      "year_awarded": 1938,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Yearling",
+      "author": "Marjorie Kinnan Rawlings",
+      "year_awarded": 1939,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year_awarded": 1940,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "In This Our Life",
+      "author": "Ellen Glasgow",
+      "year_awarded": 1942,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Dragon's Teeth",
+      "author": "Upton Sinclair",
+      "year_awarded": 1943,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Journey in the Dark",
+      "author": "Martin Flavin",
+      "year_awarded": 1944,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Bell for Adano",
+      "author": "John Hersey",
+      "year_awarded": 1945,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "All the King's Men",
+      "author": "Robert Penn Warren",
+      "year_awarded": 1947,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Tales of the South Pacific",
+      "author": "James A. Michener",
+      "year_awarded": 1948,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Guard of Honor",
+      "author": "James Gould Cozzens",
+      "year_awarded": 1949,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Way West",
+      "author": "A.B. Guthrie Jr.",
+      "year_awarded": 1950,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Town",
+      "author": "Conrad Richter",
+      "year_awarded": 1951,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Caine Mutiny",
+      "author": "Herman Wouk",
+      "year_awarded": 1952,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "year_awarded": 1953,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Fable",
+      "author": "William Faulkner",
+      "year_awarded": 1955,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Andersonville",
+      "author": "MacKinlay Kantor",
+      "year_awarded": 1956,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Death in the Family",
+      "author": "James Agee",
+      "year_awarded": 1958,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Travels of Jaimie McPheeters",
+      "author": "Robert Lewis Taylor",
+      "year_awarded": 1959,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Advise and Consent",
+      "author": "Allen Drury",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year_awarded": 1961,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Edge of Sadness",
+      "author": "Edwin O'Connor",
+      "year_awarded": 1962,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Reivers",
+      "author": "William Faulkner",
+      "year_awarded": 1963,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Keepers of the House",
+      "author": "Shirley Ann Grau",
+      "year_awarded": 1965,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Collected Stories",
+      "author": "Katherine Anne Porter",
+      "year_awarded": 1966,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fixer",
+      "author": "Bernard Malamud",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Confessions of Nat Turner",
+      "author": "William Styron",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "House Made of Dawn",
+      "author": "N. Scott Momaday",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Collected Stories",
+      "author": "Jean Stafford",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Angle of Repose",
+      "author": "Wallace Stegner",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Optimist's Daughter",
+      "author": "Eudora Welty",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Killer Angels",
+      "author": "Michael Shaara",
+      "year_awarded": 1975,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Humboldt's Gift",
+      "author": "Saul Bellow",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Elbow Room",
+      "author": "James Alan McPherson",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Stories of John Cheever",
+      "author": "John Cheever",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Executioner's Song",
+      "author": "Norman Mailer",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rabbit Is Rich",
+      "author": "John Updike",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "year_awarded": 1983,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Ironweed",
+      "author": "William Kennedy",
+      "year_awarded": 1984,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Foreign Affairs",
+      "author": "Alison Lurie",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lonesome Dove",
+      "author": "Larry McMurtry",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Summons to Memphis",
+      "author": "Peter Taylor",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Breathing Lessons",
+      "author": "Anne Tyler",
+      "year_awarded": 1989,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Mambo Kings Play Songs of Love",
+      "author": "Oscar Hijuelos",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Rabbit at Rest",
+      "author": "John Updike",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Thousand Acres",
+      "author": "Jane Smiley",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Good Scent from a Strange Mountain",
+      "author": "Robert Olen Butler",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Shipping News",
+      "author": "E. Annie Proulx",
+      "year_awarded": 1994,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Stone Diaries",
+      "author": "Carol Shields",
+      "year_awarded": 1995,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Independence Day",
+      "author": "Richard Ford",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Martin Dressler: The Tale of an American Dreamer",
+      "author": "Steven Millhauser",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "American Pastoral",
+      "author": "Philip Roth",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Hours",
+      "author": "Michael Cunningham",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Interpreter of Maladies",
+      "author": "Jhumpa Lahiri",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "author": "Michael Chabon",
+      "year_awarded": 2001,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Empire Falls",
+      "author": "Richard Russo",
+      "year_awarded": 2002,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Middlesex",
+      "author": "Jeffrey Eugenides",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "March",
+      "author": "Geraldine Brooks",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Brief Wondrous Life of Oscar Wao",
+      "author": "Junot Díaz",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Olive Kitteridge",
+      "author": "Elizabeth Strout",
+      "year_awarded": 2009,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Tinkers",
+      "author": "Paul Harding",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Visit from the Goon Squad",
+      "author": "Jennifer Egan",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Orphan Master's Son",
+      "author": "Adam Johnson",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Sympathizer",
+      "author": "Viet Thanh Nguyen",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Less",
+      "author": "Andrew Sean Greer",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Nickel Boys",
+      "author": "Colson Whitehead",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Night Watchman",
+      "author": "Louise Erdrich",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Netanyahus",
+      "author": "Joshua Cohen",
+      "year_awarded": 2022,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Trust",
+      "author": "Hernan Diaz",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Shared"
+    },
+    {
+      "title": "Demon Copperhead",
+      "author": "Barbara Kingsolver",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": "Shared"
+    },
+    {
+      "title": "Night Watch",
+      "author": "Jayne Anne Phillips",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "James",
+      "author": "Percival Everett",
+      "year_awarded": 2025,
+      "year_published": null,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "metadata": {
+    "source_name": "Pulitzer Prize for History",
+    "source_type": "award_book",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "nonfiction",
+      "recognition_type": "award",
+      "qualifier_for_author_bonus": true
+    },
+    "established": 1917,
+    "prize_amount": "$15,000",
+    "notes": "Awarded for distinguished book on the history of the United States",
+    "total_winners": 98,
+    "category": "History",
+    "award_type": "book-specific"
+  },
+  "items": [
+    {
+      "title": "With Americans of Past and Present Days",
+      "author": "J.J. Jusserand",
+      "year_awarded": 1917,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The War with Mexico",
+      "author": "Justin H. Smith",
+      "year_awarded": 1920,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Victory at Sea",
+      "author": "William Sowden Sims",
+      "year_awarded": 1921,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Founding of New England",
+      "author": "James Truslow Adams",
+      "year_awarded": 1922,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Supreme Court in United States History",
+      "author": "Charles Warren",
+      "year_awarded": 1923,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The American Revolution -- A Constitutional Interpretation",
+      "author": "Charles Howard McIlwain",
+      "year_awarded": 1924,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "History of the American Frontier",
+      "author": "Frederic L. Paxson",
+      "year_awarded": 1925,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Pinckney's Treaty",
+      "author": "Samuel Flagg Bemis",
+      "year_awarded": 1927,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The War of Independence",
+      "author": "Claude H. Van Tyne",
+      "year_awarded": 1930,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Coming of the War 1914",
+      "author": "Bernadotte E. Schmitt",
+      "year_awarded": 1931,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "My Experiences in the World War",
+      "author": "John J. Pershing",
+      "year_awarded": 1932,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Significance of Sections in American History",
+      "author": "Frederick J. Turner",
+      "year_awarded": 1933,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The People's Choice",
+      "author": "Herbert Agar",
+      "year_awarded": 1934,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Colonial Period of American History",
+      "author": "Charles McLean Andrews",
+      "year_awarded": 1935,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Constitutional History of the United States",
+      "author": "Andrew C. McLaughlin",
+      "year_awarded": 1936,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A History of American Magazines",
+      "author": "Frank Luther Mott",
+      "year_awarded": 1939,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Paul Revere and the World He Lived In",
+      "author": "Esther Forbes",
+      "year_awarded": 1943,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Growth of American Thought",
+      "author": "Merle Curti",
+      "year_awarded": 1944,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Scientists Against Time",
+      "author": "James Phinney Baxter III",
+      "year_awarded": 1947,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Across the Wide Missouri",
+      "author": "Bernard DeVoto",
+      "year_awarded": 1948,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Disruption of American Democracy",
+      "author": "Roy Franklin Nichols",
+      "year_awarded": 1949,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Art and Life in America",
+      "author": "Oliver W. Larkin",
+      "year_awarded": 1950,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Old Northwest",
+      "author": "R. Carlyle Buley",
+      "year_awarded": 1951,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Uprooted",
+      "author": "Oscar Handlin",
+      "year_awarded": 1952,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Era of Good Feelings",
+      "author": "George Dangerfield",
+      "year_awarded": 1953,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Great River: The Rio Grande in North American History",
+      "author": "Paul Horgan",
+      "year_awarded": 1955,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Age of Reform",
+      "author": "Richard Hofstadter",
+      "year_awarded": 1956,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Russia Leaves the War",
+      "author": "George F. Kennan",
+      "year_awarded": 1957,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Banks and Politics in America",
+      "author": "Bray Hammond",
+      "year_awarded": 1958,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Republican Era: 1869-1901",
+      "author": "Leonard D. White",
+      "year_awarded": 1959,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "In the Days of McKinley",
+      "author": "Margaret Leech",
+      "year_awarded": 1960,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Between War and Peace",
+      "author": "Herbert Feis",
+      "year_awarded": 1961,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Between War and Peace: The Potsdam Conference",
+      "author": "Herbert Feis",
+      "year_awarded": 1961,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Triumphant Empire",
+      "author": "Lawrence H. Gipson",
+      "year_awarded": 1962,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Puritan Village",
+      "author": "Sumner Chilton Powell",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Puritan Village: The Formation of a New England Town",
+      "author": "Sumner Chilton Powell",
+      "year_awarded": 1964,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Life of the Mind in America",
+      "author": "Perry Miller",
+      "year_awarded": 1966,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Exploration and Empire",
+      "author": "William H. Goetzmann",
+      "year_awarded": 1967,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Ideological Origins of the American Revolution",
+      "author": "Bernard Bailyn",
+      "year_awarded": 1968,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Origins of the Fifth Amendment",
+      "author": "Leonard W. Levy",
+      "year_awarded": 1969,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Present At The Creation",
+      "author": "Dean Acheson",
+      "year_awarded": 1970,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Roosevelt: The Soldier of Freedom",
+      "author": "James MacGregor Burns",
+      "year_awarded": 1971,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Neither Black Nor White",
+      "author": "Carl N. Degler",
+      "year_awarded": 1972,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "People of Paradox",
+      "author": "Michael Kammen",
+      "year_awarded": 1973,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Americans: The Democratic Experience",
+      "author": "Daniel J. Boorstin",
+      "year_awarded": 1974,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lamy of Santa Fe",
+      "author": "Paul Horgan",
+      "year_awarded": 1976,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Visible Hand",
+      "author": "Alfred D. Chandler",
+      "year_awarded": 1978,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Dred Scott Case",
+      "author": "Don E. Fehrenbacher",
+      "year_awarded": 1979,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Been in the Storm So Long",
+      "author": "Leon F. Litwack",
+      "year_awarded": 1980,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Mary Chesnut's Civil War",
+      "author": "C. Vann Woodward",
+      "year_awarded": 1982,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Prophets of Regulation",
+      "author": "Thomas K. McCraw",
+      "year_awarded": 1985,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "...the Heavens and the Earth",
+      "author": "Walter A. McDougall",
+      "year_awarded": 1986,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Voyagers to the West",
+      "author": "Bernard Bailyn",
+      "year_awarded": 1987,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Launching of Modern American Science 1846-1876",
+      "author": "Robert V. Bruce",
+      "year_awarded": 1988,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "In Our Image",
+      "author": "Stanley Karnow",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "In Our Image: America's Empire in the Philippines",
+      "author": "Stanley Karnow",
+      "year_awarded": 1990,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Midwife's Tale",
+      "author": "Laurel Thatcher Ulrich",
+      "year_awarded": 1991,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fate of Liberty",
+      "author": "Mark E. Neely",
+      "year_awarded": 1992,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Radicalism of the American Revolution",
+      "author": "Gordon S. Wood",
+      "year_awarded": 1993,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "William Cooper's Town",
+      "author": "Alan Taylor",
+      "year_awarded": 1996,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Original Meanings",
+      "author": "Jack N. Rakove",
+      "year_awarded": 1997,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Summer for the Gods",
+      "author": "Edward J. Larson",
+      "year_awarded": 1998,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Gotham: A History of New York City to 1898",
+      "author": "Edwin G. Burrows & Mike Wallace; Edwin G. Burrows and Mike Wallace",
+      "year_awarded": 1999,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Freedom From Fear",
+      "author": "David M. Kennedy",
+      "year_awarded": 2000,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "An Army at Dawn",
+      "author": "Rick Atkinson",
+      "year_awarded": 2003,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "A Nation Under Our Feet",
+      "author": "Steven Hahn",
+      "year_awarded": 2004,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Washington's Crossing",
+      "author": "David Hackett Fischer",
+      "year_awarded": 2005,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Polio: An American Story",
+      "author": "David M. Oshinsky",
+      "year_awarded": 2006,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Race Beat",
+      "author": "Gene Roberts and Hank Klibanoff",
+      "year_awarded": 2007,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "What Hath God Wrought",
+      "author": "Daniel Walker Howe",
+      "year_awarded": 2008,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Lords of Finance",
+      "author": "Liaquat Ahamed",
+      "year_awarded": 2010,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fiery Trial",
+      "author": "Eric Foner",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Fiery Trial: Abraham Lincoln and American Slavery",
+      "author": "Eric Foner",
+      "year_awarded": 2011,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Malcolm X: A Life of Reinvention",
+      "author": "Manning Marable",
+      "year_awarded": 2012,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Embers of War",
+      "author": "Fredrik Logevall",
+      "year_awarded": 2013,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Internal Enemy",
+      "author": "Alan Taylor",
+      "year_awarded": 2014,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Encounters at the Heart of the World",
+      "author": "Elizabeth A. Fenn",
+      "year_awarded": 2015,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Custer's Trials",
+      "author": "T.J. Stiles",
+      "year_awarded": 2016,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blood in the Water",
+      "author": "Heather Ann Thompson",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy",
+      "author": "Heather Ann Thompson",
+      "year_awarded": 2017,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "The Gulf: The Making of an American Sea",
+      "author": "Jack E. Davis",
+      "year_awarded": 2018,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Frederick Douglass: Prophet of Freedom",
+      "author": "David W. Blight",
+      "year_awarded": 2019,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Sweet Taste of Liberty",
+      "author": "W. Caleb McDaniel",
+      "year_awarded": 2020,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Franchise: The Golden Arches in Black America",
+      "author": "Marcia Chatelain",
+      "year_awarded": 2021,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Freedom's Dominion",
+      "author": "Jefferson Cowie",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Freedom's Dominion: A Saga of White Resistance to Federal Power",
+      "author": "Jefferson Cowie",
+      "year_awarded": 2023,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "No Right to an Honest Living",
+      "author": "Jacqueline Jones",
+      "year_awarded": 2024,
+      "year_published": null,
+      "notes": ""
+    },
+    {
+      "title": "Battle Cry of Freedom",
+      "author": "James M. McPherson",
+      "notes": ""
+    },
+    {
+      "title": "COMBEE",
+      "author": "Edda L. Fields-Black",
+      "notes": ""
+    },
+    {
+      "title": "Covered with Night",
+      "author": "Nicole Eustace",
+      "notes": ""
+    },
+    {
+      "title": "Founding Brothers",
+      "author": "Joseph J. Ellis",
+      "notes": ""
+    },
+    {
+      "title": "King: A Life",
+      "author": "Jonathan Eig",
+      "notes": ""
+    },
+    {
+      "title": "Native Nations",
+      "author": "Kathleen DuVal",
+      "notes": ""
+    },
+    {
+      "title": "No Ordinary Time",
+      "author": "Doris Kearns Goodwin",
+      "notes": ""
+    },
+    {
+      "title": "The Gulf",
+      "author": "Jack E. Davis",
+      "notes": ""
+    },
+    {
+      "title": "The Hemingses of Monticello",
+      "author": "Annette Gordon-Reed",
+      "notes": ""
+    },
+    {
+      "title": "The Metaphysical Club",
+      "author": "Louis Menand",
+      "notes": ""
+    },
+    {
+      "title": "The Path Between the Seas",
+      "author": "David McCullough",
+      "notes": ""
+    }
+  ]
+}

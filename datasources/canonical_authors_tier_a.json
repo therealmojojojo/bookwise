@@ -1,0 +1,1660 @@
+{
+  "metadata": {
+    "source_name": "Canonical Authors - Tier A",
+    "source_type": "canonical_authors",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "tier": "A",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "author_quality",
+      "canonical_baseline_points": 20,
+      "tier_minimum_score": 70,
+      "qualifier_for_author_bonus": false
+    },
+    "description": "Major figures essential for comprehensive world literature understanding. These authors represent the essential modern canon and are critical for understanding 19th and 20th century literature.",
+    "total_authors": 50,
+    "total_works": 232,
+    "selection_criteria": [
+      "Essential for understanding modern literature (1800-1970)",
+      "Major influence on literary movements and techniques",
+      "Widely taught in advanced literature courses",
+      "Significant national or regional importance with international recognition",
+      "Represent key modernist, realist, and naturalist traditions"
+    ],
+    "generation_method": "Curated from university literature syllabi, comprehensive histories of world literature, and critical consensus among scholars. Includes major Nobel laureates, influential modernists, and authors central to national literary traditions.",
+    "significance": "These authors bridge the gap between the universal giants and contemporary literature. They defined modernism, shaped national literatures, and explored new forms of expression that influenced all subsequent writing.",
+    "scoring_rationale": "Pre-1970 works by these authors receive a 20-point canonical baseline. If scoring below 70 points after all other recognition, they receive correction up to the 70-point minimum to ensure fair competition with contemporary award winners."
+  },
+  "canonical_authors": [
+    {
+      "author": "Émile Zola",
+      "lived": "1840-1902",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Germinal",
+          "year_published": 1885,
+          "genre": "Novel"
+        },
+        {
+          "title": "Nana",
+          "year_published": 1880,
+          "genre": "Novel"
+        },
+        {
+          "title": "L'Assommoir",
+          "year_published": 1877,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Human Beast",
+          "year_published": 1890,
+          "genre": "Novel"
+        },
+        {
+          "title": "Thérèse Raquin",
+          "year_published": 1867,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Guy de Maupassant",
+      "lived": "1850-1893",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Bel-Ami",
+          "year_published": 1885,
+          "genre": "Novel"
+        },
+        {
+          "title": "Pierre and Jean",
+          "year_published": 1888,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Necklace",
+          "year_published": 1884,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Boule de Suif",
+          "year_published": 1880,
+          "genre": "Short Story"
+        },
+        {
+          "title": "A Life",
+          "year_published": 1883,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "André Gide",
+      "lived": "1869-1951",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Immoralist",
+          "year_published": 1902,
+          "genre": "Novel"
+        },
+        {
+          "title": "Strait Is the Gate",
+          "year_published": 1909,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Counterfeiters",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Pastoral Symphony",
+          "year_published": 1919,
+          "genre": "Novella"
+        },
+        {
+          "title": "If It Die...",
+          "year_published": 1926,
+          "genre": "Autobiography"
+        }
+      ],
+      "nobel_prize": 1947
+    },
+    {
+      "author": "Albert Camus",
+      "lived": "1913-1960",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Stranger",
+          "year_published": 1942,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Plague",
+          "year_published": 1947,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Fall",
+          "year_published": 1956,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Myth of Sisyphus",
+          "year_published": 1942,
+          "genre": "Philosophy/Essay"
+        },
+        {
+          "title": "The Rebel",
+          "year_published": 1951,
+          "genre": "Philosophy/Essay"
+        }
+      ],
+      "nobel_prize": 1957
+    },
+    {
+      "author": "Jean-Paul Sartre",
+      "lived": "1905-1980",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Nausea",
+          "year_published": 1938,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Age of Reason",
+          "year_published": 1945,
+          "genre": "Novel"
+        },
+        {
+          "title": "No Exit",
+          "year_published": 1944,
+          "genre": "Drama"
+        },
+        {
+          "title": "Being and Nothingness",
+          "year_published": 1943,
+          "genre": "Philosophy"
+        },
+        {
+          "title": "The Words",
+          "year_published": 1964,
+          "genre": "Autobiography"
+        }
+      ],
+      "nobel_prize": "1964 (declined)"
+    },
+    {
+      "author": "André Malraux",
+      "lived": "1901-1976",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Man's Fate",
+          "year_published": 1933,
+          "genre": "Novel"
+        },
+        {
+          "title": "Man's Hope",
+          "year_published": 1937,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Royal Way",
+          "year_published": 1930,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Conquerors",
+          "year_published": 1928,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "François Mauriac",
+      "lived": "1885-1970",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Thérèse Desqueyroux",
+          "year_published": 1927,
+          "genre": "Novel"
+        },
+        {
+          "title": "Vipers' Tangle",
+          "year_published": 1932,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Desert of Love",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Kiss for the Leper",
+          "year_published": 1922,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1952
+    },
+    {
+      "author": "Colette",
+      "lived": "1873-1954",
+      "nationality": "French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Gigi",
+          "year_published": 1944,
+          "genre": "Novella"
+        },
+        {
+          "title": "Chéri",
+          "year_published": 1920,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Vagabond",
+          "year_published": 1910,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Last of Chéri",
+          "year_published": 1926,
+          "genre": "Novel"
+        },
+        {
+          "title": "Break of Day",
+          "year_published": 1928,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Hermann Hesse",
+      "lived": "1877-1962",
+      "nationality": "German-Swiss",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Siddhartha",
+          "year_published": 1922,
+          "genre": "Novel"
+        },
+        {
+          "title": "Steppenwolf",
+          "year_published": 1927,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Glass Bead Game",
+          "year_published": 1943,
+          "genre": "Novel"
+        },
+        {
+          "title": "Demian",
+          "year_published": 1919,
+          "genre": "Novel"
+        },
+        {
+          "title": "Narcissus and Goldmund",
+          "year_published": 1930,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1946
+    },
+    {
+      "author": "Rainer Maria Rilke",
+      "lived": "1875-1926",
+      "nationality": "Austro-Bohemian",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Duino Elegies",
+          "year_published": 1923,
+          "genre": "Poetry"
+        },
+        {
+          "title": "Sonnets to Orpheus",
+          "year_published": 1923,
+          "genre": "Poetry"
+        },
+        {
+          "title": "The Notebooks of Malte Laurids Brigge",
+          "year_published": 1910,
+          "genre": "Novel"
+        },
+        {
+          "title": "New Poems",
+          "year_published": 1907,
+          "genre": "Poetry"
+        }
+      ]
+    },
+    {
+      "author": "Robert Musil",
+      "lived": "1880-1942",
+      "nationality": "Austrian",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Man Without Qualities",
+          "year_published": 1943,
+          "genre": "Novel",
+          "notes": "unfinished"
+        },
+        {
+          "title": "The Confusions of Young Törless",
+          "year_published": 1906,
+          "genre": "Novel"
+        },
+        {
+          "title": "Three Women",
+          "year_published": 1924,
+          "genre": "Novellas"
+        }
+      ]
+    },
+    {
+      "author": "Bertolt Brecht",
+      "lived": "1898-1956",
+      "nationality": "German",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Mother Courage and Her Children",
+          "year_published": 1939,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Threepenny Opera",
+          "year_published": 1928,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Good Person of Szechwan",
+          "year_published": 1943,
+          "genre": "Drama"
+        },
+        {
+          "title": "Life of Galileo",
+          "year_published": 1943,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Caucasian Chalk Circle",
+          "year_published": 1948,
+          "genre": "Drama"
+        }
+      ]
+    },
+    {
+      "author": "Ivan Turgenev",
+      "lived": "1818-1883",
+      "nationality": "Russian",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Fathers and Sons",
+          "year_published": 1862,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Sportsman's Sketches",
+          "year_published": 1852,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "First Love",
+          "year_published": 1860,
+          "genre": "Novella"
+        },
+        {
+          "title": "Rudin",
+          "year_published": 1856,
+          "genre": "Novel"
+        },
+        {
+          "title": "On the Eve",
+          "year_published": 1860,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Nikolai Gogol",
+      "lived": "1809-1852",
+      "nationality": "Russian",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Dead Souls",
+          "year_published": 1842,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Overcoat",
+          "year_published": 1842,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The Nose",
+          "year_published": 1836,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The Government Inspector",
+          "year_published": 1836,
+          "genre": "Drama"
+        },
+        {
+          "title": "Taras Bulba",
+          "year_published": 1835,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Mikhail Bulgakov",
+      "lived": "1891-1940",
+      "nationality": "Russian/Soviet",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Master and Margarita",
+          "year_published": 1967,
+          "genre": "Novel",
+          "notes": "posthumous"
+        },
+        {
+          "title": "The White Guard",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "Heart of a Dog",
+          "year_published": 1987,
+          "genre": "Novella",
+          "notes": "published posthumously"
+        },
+        {
+          "title": "The Fatal Eggs",
+          "year_published": 1925,
+          "genre": "Novella"
+        }
+      ]
+    },
+    {
+      "author": "Isaac Babel",
+      "lived": "1894-1940",
+      "nationality": "Russian/Soviet",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Red Cavalry",
+          "year_published": 1926,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "Odessa Stories",
+          "year_published": 1931,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "The Story of My Dovecote",
+          "year_published": 1925,
+          "genre": "Short Story"
+        }
+      ]
+    },
+    {
+      "author": "Boris Pasternak",
+      "lived": "1890-1960",
+      "nationality": "Russian/Soviet",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Doctor Zhivago",
+          "year_published": 1957,
+          "genre": "Novel"
+        },
+        {
+          "title": "My Sister, Life",
+          "year_published": 1922,
+          "genre": "Poetry"
+        },
+        {
+          "title": "Safe Conduct",
+          "year_published": 1931,
+          "genre": "Autobiography"
+        }
+      ],
+      "nobel_prize": "1958 (forced to decline)"
+    },
+    {
+      "author": "Maxim Gorky",
+      "lived": "1868-1936",
+      "nationality": "Russian/Soviet",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Lower Depths",
+          "year_published": 1902,
+          "genre": "Drama"
+        },
+        {
+          "title": "Mother",
+          "year_published": 1906,
+          "genre": "Novel"
+        },
+        {
+          "title": "My Childhood",
+          "year_published": 1913,
+          "genre": "Autobiography"
+        },
+        {
+          "title": "The Life of Klim Samgin",
+          "year_published": 1937,
+          "genre": "Novel",
+          "notes": "posthumous"
+        }
+      ]
+    },
+    {
+      "author": "Ivan Bunin",
+      "lived": "1870-1953",
+      "nationality": "Russian",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Village",
+          "year_published": 1910,
+          "genre": "Novel"
+        },
+        {
+          "title": "Dry Valley",
+          "year_published": 1912,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Gentleman from San Francisco",
+          "year_published": 1915,
+          "genre": "Short Story"
+        },
+        {
+          "title": "Dark Avenues",
+          "year_published": 1946,
+          "genre": "Short Stories"
+        }
+      ],
+      "nobel_prize": 1933
+    },
+    {
+      "author": "Joseph Conrad",
+      "lived": "1857-1924",
+      "nationality": "Polish-British",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Heart of Darkness",
+          "year_published": 1899,
+          "genre": "Novella"
+        },
+        {
+          "title": "Lord Jim",
+          "year_published": 1900,
+          "genre": "Novel"
+        },
+        {
+          "title": "Nostromo",
+          "year_published": 1904,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Secret Agent",
+          "year_published": 1907,
+          "genre": "Novel"
+        },
+        {
+          "title": "Under Western Eyes",
+          "year_published": 1911,
+          "genre": "Novel"
+        },
+        {
+          "title": "Victory",
+          "year_published": 1915,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "E. M. Forster",
+      "lived": "1879-1970",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "A Passage to India",
+          "year_published": 1924,
+          "genre": "Novel"
+        },
+        {
+          "title": "Howards End",
+          "year_published": 1910,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Room with a View",
+          "year_published": 1908,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Longest Journey",
+          "year_published": 1907,
+          "genre": "Novel"
+        },
+        {
+          "title": "Maurice",
+          "year_published": 1971,
+          "genre": "Novel",
+          "notes": "posthumous"
+        }
+      ]
+    },
+    {
+      "author": "D. H. Lawrence",
+      "lived": "1885-1930",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Sons and Lovers",
+          "year_published": 1913,
+          "genre": "Novel"
+        },
+        {
+          "title": "Women in Love",
+          "year_published": 1920,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Rainbow",
+          "year_published": 1915,
+          "genre": "Novel"
+        },
+        {
+          "title": "Lady Chatterley's Lover",
+          "year_published": 1928,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Plumed Serpent",
+          "year_published": 1926,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Evelyn Waugh",
+      "lived": "1903-1966",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Brideshead Revisited",
+          "year_published": 1945,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Handful of Dust",
+          "year_published": 1934,
+          "genre": "Novel"
+        },
+        {
+          "title": "Decline and Fall",
+          "year_published": 1928,
+          "genre": "Novel"
+        },
+        {
+          "title": "Scoop",
+          "year_published": 1938,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Loved One",
+          "year_published": 1948,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "George Orwell",
+      "lived": "1903-1950",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Nineteen Eighty-Four",
+          "year_published": 1949,
+          "genre": "Novel"
+        },
+        {
+          "title": "Animal Farm",
+          "year_published": 1945,
+          "genre": "Novel"
+        },
+        {
+          "title": "Homage to Catalonia",
+          "year_published": 1938,
+          "genre": "Memoir"
+        },
+        {
+          "title": "Down and Out in Paris and London",
+          "year_published": 1933,
+          "genre": "Memoir"
+        },
+        {
+          "title": "Burmese Days",
+          "year_published": 1934,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Aldous Huxley",
+      "lived": "1894-1963",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Brave New World",
+          "year_published": 1932,
+          "genre": "Novel"
+        },
+        {
+          "title": "Point Counter Point",
+          "year_published": 1928,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Doors of Perception",
+          "year_published": 1954,
+          "genre": "Essay"
+        },
+        {
+          "title": "Eyeless in Gaza",
+          "year_published": 1936,
+          "genre": "Novel"
+        },
+        {
+          "title": "Island",
+          "year_published": 1962,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Graham Greene",
+      "lived": "1904-1991",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Power and the Glory",
+          "year_published": 1940,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Heart of the Matter",
+          "year_published": 1948,
+          "genre": "Novel"
+        },
+        {
+          "title": "The End of the Affair",
+          "year_published": 1951,
+          "genre": "Novel"
+        },
+        {
+          "title": "Brighton Rock",
+          "year_published": 1938,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Quiet American",
+          "year_published": 1955,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Thomas Hardy",
+      "lived": "1840-1928",
+      "nationality": "English",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Tess of the d'Urbervilles",
+          "year_published": 1891,
+          "genre": "Novel"
+        },
+        {
+          "title": "Jude the Obscure",
+          "year_published": 1895,
+          "genre": "Novel"
+        },
+        {
+          "title": "Far from the Madding Crowd",
+          "year_published": 1874,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Mayor of Casterbridge",
+          "year_published": 1886,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Return of the Native",
+          "year_published": 1878,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Henry James",
+      "lived": "1843-1916",
+      "nationality": "American-British",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Portrait of a Lady",
+          "year_published": 1881,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Wings of the Dove",
+          "year_published": 1902,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Ambassadors",
+          "year_published": 1903,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Golden Bowl",
+          "year_published": 1904,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Turn of the Screw",
+          "year_published": 1898,
+          "genre": "Novella"
+        },
+        {
+          "title": "Daisy Miller",
+          "year_published": 1878,
+          "genre": "Novella"
+        }
+      ]
+    },
+    {
+      "author": "Nathaniel Hawthorne",
+      "lived": "1804-1864",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Scarlet Letter",
+          "year_published": 1850,
+          "genre": "Novel"
+        },
+        {
+          "title": "The House of the Seven Gables",
+          "year_published": 1851,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Blithedale Romance",
+          "year_published": 1852,
+          "genre": "Novel"
+        },
+        {
+          "title": "Young Goodman Brown",
+          "year_published": 1835,
+          "genre": "Short Story"
+        }
+      ]
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "lived": "1809-1849",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Fall of the House of Usher",
+          "year_published": 1839,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The Tell-Tale Heart",
+          "year_published": 1843,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The Raven",
+          "year_published": 1845,
+          "genre": "Poetry"
+        },
+        {
+          "title": "The Murders in the Rue Morgue",
+          "year_published": 1841,
+          "genre": "Short Story"
+        },
+        {
+          "title": "The Masque of the Red Death",
+          "year_published": 1842,
+          "genre": "Short Story"
+        }
+      ]
+    },
+    {
+      "author": "Edith Wharton",
+      "lived": "1862-1937",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Age of Innocence",
+          "year_published": 1920,
+          "genre": "Novel"
+        },
+        {
+          "title": "The House of Mirth",
+          "year_published": 1905,
+          "genre": "Novel"
+        },
+        {
+          "title": "Ethan Frome",
+          "year_published": 1911,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Custom of the Country",
+          "year_published": 1913,
+          "genre": "Novel"
+        },
+        {
+          "title": "Summer",
+          "year_published": 1917,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Willa Cather",
+      "lived": "1873-1947",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "My Ántonia",
+          "year_published": 1918,
+          "genre": "Novel"
+        },
+        {
+          "title": "O Pioneers!",
+          "year_published": 1913,
+          "genre": "Novel"
+        },
+        {
+          "title": "Death Comes for the Archbishop",
+          "year_published": 1927,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Song of the Lark",
+          "year_published": 1915,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Lost Lady",
+          "year_published": 1923,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Theodore Dreiser",
+      "lived": "1871-1945",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Sister Carrie",
+          "year_published": 1900,
+          "genre": "Novel"
+        },
+        {
+          "title": "An American Tragedy",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "Jennie Gerhardt",
+          "year_published": 1911,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Financier",
+          "year_published": 1912,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Sinclair Lewis",
+      "lived": "1885-1951",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Main Street",
+          "year_published": 1920,
+          "genre": "Novel"
+        },
+        {
+          "title": "Babbitt",
+          "year_published": 1922,
+          "genre": "Novel"
+        },
+        {
+          "title": "Arrowsmith",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "Elmer Gantry",
+          "year_published": 1927,
+          "genre": "Novel"
+        },
+        {
+          "title": "It Can't Happen Here",
+          "year_published": 1935,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1930
+    },
+    {
+      "author": "John Steinbeck",
+      "lived": "1902-1968",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Grapes of Wrath",
+          "year_published": 1939,
+          "genre": "Novel"
+        },
+        {
+          "title": "Of Mice and Men",
+          "year_published": 1937,
+          "genre": "Novel"
+        },
+        {
+          "title": "East of Eden",
+          "year_published": 1952,
+          "genre": "Novel"
+        },
+        {
+          "title": "Cannery Row",
+          "year_published": 1945,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Pearl",
+          "year_published": 1947,
+          "genre": "Novella"
+        }
+      ],
+      "nobel_prize": 1962
+    },
+    {
+      "author": "John Dos Passos",
+      "lived": "1896-1970",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "U.S.A. Trilogy",
+          "year_published": 1938,
+          "genre": "Novel"
+        },
+        {
+          "title": "Manhattan Transfer",
+          "year_published": 1925,
+          "genre": "Novel"
+        },
+        {
+          "title": "The 42nd Parallel",
+          "year_published": 1930,
+          "genre": "Novel"
+        },
+        {
+          "title": "1919",
+          "year_published": 1932,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Big Money",
+          "year_published": 1936,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Flannery O'Connor",
+      "lived": "1925-1964",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Wise Blood",
+          "year_published": 1952,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Violent Bear It Away",
+          "year_published": 1960,
+          "genre": "Novel"
+        },
+        {
+          "title": "A Good Man Is Hard to Find",
+          "year_published": 1955,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "Everything That Rises Must Converge",
+          "year_published": 1965,
+          "genre": "Short Stories"
+        }
+      ]
+    },
+    {
+      "author": "Carson McCullers",
+      "lived": "1917-1967",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Heart Is a Lonely Hunter",
+          "year_published": 1940,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Member of the Wedding",
+          "year_published": 1946,
+          "genre": "Novel"
+        },
+        {
+          "title": "Reflections in a Golden Eye",
+          "year_published": 1941,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Ballad of the Sad Café",
+          "year_published": 1951,
+          "genre": "Novella"
+        }
+      ]
+    },
+    {
+      "author": "Richard Wright",
+      "lived": "1908-1960",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Native Son",
+          "year_published": 1940,
+          "genre": "Novel"
+        },
+        {
+          "title": "Black Boy",
+          "year_published": 1945,
+          "genre": "Autobiography"
+        },
+        {
+          "title": "Uncle Tom's Children",
+          "year_published": 1938,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "The Outsider",
+          "year_published": 1953,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Ralph Ellison",
+      "lived": "1914-1994",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Invisible Man",
+          "year_published": 1952,
+          "genre": "Novel"
+        },
+        {
+          "title": "Juneteenth",
+          "year_published": 1999,
+          "genre": "Novel",
+          "notes": "posthumous"
+        },
+        {
+          "title": "Shadow and Act",
+          "year_published": 1964,
+          "genre": "Essays"
+        }
+      ]
+    },
+    {
+      "author": "James Baldwin",
+      "lived": "1924-1987",
+      "nationality": "American",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Go Tell It on the Mountain",
+          "year_published": 1953,
+          "genre": "Novel"
+        },
+        {
+          "title": "Giovanni's Room",
+          "year_published": 1956,
+          "genre": "Novel"
+        },
+        {
+          "title": "Another Country",
+          "year_published": 1962,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Fire Next Time",
+          "year_published": 1963,
+          "genre": "Essay"
+        },
+        {
+          "title": "Notes of a Native Son",
+          "year_published": 1955,
+          "genre": "Essays"
+        }
+      ]
+    },
+    {
+      "author": "Jorge Luis Borges",
+      "lived": "1899-1986",
+      "nationality": "Argentine",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Ficciones",
+          "year_published": 1944,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "The Aleph",
+          "year_published": 1949,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "Labyrinths",
+          "year_published": 1962,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "The Book of Sand",
+          "year_published": 1975,
+          "genre": "Short Stories"
+        }
+      ]
+    },
+    {
+      "author": "Julio Cortázar",
+      "lived": "1914-1984",
+      "nationality": "Argentine-French",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Hopscotch",
+          "year_published": 1963,
+          "genre": "Novel"
+        },
+        {
+          "title": "Blow-Up and Other Stories",
+          "year_published": 1967,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "Cronopios and Famas",
+          "year_published": 1962,
+          "genre": "Short Stories"
+        },
+        {
+          "title": "62: A Model Kit",
+          "year_published": 1968,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Juan Rulfo",
+      "lived": "1917-1986",
+      "nationality": "Mexican",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Pedro Páramo",
+          "year_published": 1955,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Burning Plain",
+          "year_published": 1953,
+          "genre": "Short Stories"
+        }
+      ]
+    },
+    {
+      "author": "Miguel Ángel Asturias",
+      "lived": "1899-1974",
+      "nationality": "Guatemalan",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Men of Maize",
+          "year_published": 1949,
+          "genre": "Novel"
+        },
+        {
+          "title": "The President",
+          "year_published": 1946,
+          "genre": "Novel"
+        },
+        {
+          "title": "Mulata",
+          "year_published": 1963,
+          "genre": "Novel"
+        }
+      ],
+      "nobel_prize": 1967
+    },
+    {
+      "author": "W. B. Yeats",
+      "lived": "1865-1939",
+      "nationality": "Irish",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "The Tower",
+          "year_published": 1928,
+          "genre": "Poetry"
+        },
+        {
+          "title": "The Winding Stair",
+          "year_published": 1933,
+          "genre": "Poetry"
+        },
+        {
+          "title": "The Wild Swans at Coole",
+          "year_published": 1919,
+          "genre": "Poetry"
+        },
+        {
+          "title": "Responsibilities",
+          "year_published": 1914,
+          "genre": "Poetry"
+        }
+      ],
+      "nobel_prize": 1923
+    },
+    {
+      "author": "Samuel Beckett",
+      "lived": "1906-1989",
+      "nationality": "Irish",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "Waiting for Godot",
+          "year_published": 1953,
+          "genre": "Drama"
+        },
+        {
+          "title": "Endgame",
+          "year_published": 1957,
+          "genre": "Drama"
+        },
+        {
+          "title": "Molloy",
+          "year_published": 1951,
+          "genre": "Novel"
+        },
+        {
+          "title": "Malone Dies",
+          "year_published": 1951,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Unnamable",
+          "year_published": 1953,
+          "genre": "Novel"
+        },
+        {
+          "title": "Krapp's Last Tape",
+          "year_published": 1958,
+          "genre": "Drama"
+        }
+      ],
+      "nobel_prize": 1969
+    },
+    {
+      "author": "Henrik Ibsen",
+      "lived": "1828-1906",
+      "nationality": "Norwegian",
+      "tier": "A",
+      "genre": null,
+      "works": [
+        {
+          "title": "A Doll's House",
+          "year_published": 1879,
+          "genre": "Drama"
+        },
+        {
+          "title": "Hedda Gabler",
+          "year_published": 1890,
+          "genre": "Drama"
+        },
+        {
+          "title": "Peer Gynt",
+          "year_published": 1867,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Wild Duck",
+          "year_published": 1884,
+          "genre": "Drama"
+        },
+        {
+          "title": "Ghosts",
+          "year_published": 1881,
+          "genre": "Drama"
+        },
+        {
+          "title": "An Enemy of the People",
+          "year_published": 1882,
+          "genre": "Drama"
+        },
+        {
+          "title": "The Master Builder",
+          "year_published": 1892,
+          "genre": "Drama"
+        }
+      ]
+    },
+    {
+      "author": "Umberto Eco",
+      "lived": "1932-2016",
+      "nationality": "Italian",
+      "tier": "A",
+      "genre": "Fiction",
+      "works": [
+        {
+          "title": "The Name of the Rose",
+          "year_published": 1980,
+          "genre": "Novel"
+        },
+        {
+          "title": "Foucault's Pendulum",
+          "year_published": 1988,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Island of the Day Before",
+          "year_published": 1994,
+          "genre": "Novel"
+        },
+        {
+          "title": "Baudolino",
+          "year_published": 2000,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Prague Cemetery",
+          "year_published": 2010,
+          "genre": "Novel"
+        },
+        {
+          "title": "Numero Zero",
+          "year_published": 2015,
+          "genre": "Novel"
+        }
+      ]
+    },
+    {
+      "author": "Elena Ferrante",
+      "lived": "b. 1943 (pseudonymous)",
+      "nationality": "Italian",
+      "tier": "A",
+      "genre": "Fiction",
+      "works": [
+        {
+          "title": "My Brilliant Friend",
+          "year_published": 2011,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Story of a New Name",
+          "year_published": 2012,
+          "genre": "Novel"
+        },
+        {
+          "title": "Those Who Leave and Those Who Stay",
+          "year_published": 2013,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Story of the Lost Child",
+          "year_published": 2014,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Days of Abandonment",
+          "year_published": 2002,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Lost Daughter",
+          "year_published": 2006,
+          "genre": "Novel"
+        },
+        {
+          "title": "Troubling Love",
+          "year_published": 1992,
+          "genre": "Novel"
+        },
+        {
+          "title": "The Lying Life of Adults",
+          "year_published": 2019,
+          "genre": "Novel"
+        }
+      ]
+    }
+  ]
+}

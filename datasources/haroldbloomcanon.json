@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "source_name": "Harold Bloom's Western Canon (Core Authors)",
+    "source_type": "list_unranked",
+    "version": "1.0",
+    "created_date": "2025-11-04",
+    "last_updated": "2025-11-04",
+    "scoring": {
+      "category": "mixed",
+      "recognition_type": "list",
+      "qualifier_for_author_bonus": false
+    },
+    "published": 1994,
+    "total_entries": 26,
+    "ranked": false,
+    "methodology": "A list of the 26 authors Bloom considered central to the Western Canon, as outlined in his book 'The Western Canon: The Books and School of the Ages'. The full appendix lists over 1,000 works. This JSON lists one major representative work for each of the 26 core authors."
+  },
+  "items": [
+    {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "year_published": 1475,
+      "rank": null
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "year_published": 1603,
+      "rank": null
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "year_published": 1605,
+      "rank": null
+    },
+    {
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "year_published": 1667,
+      "rank": null
+    },
+    {
+      "title": "The Misanthrope",
+      "author": "Molière",
+      "year_published": 1666,
+      "rank": null
+    },
+    {
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "year_published": 1726,
+      "rank": null
+    },
+    {
+      "title": "Tom Jones",
+      "author": "Henry Fielding",
+      "year_published": 1749,
+      "rank": null
+    },
+    {
+      "title": "Clarissa",
+      "author": "Samuel Richardson",
+      "year_published": 1748,
+      "rank": null
+    },
+    {
+      "title": "The Social Contract",
+      "author": "Jean-Jacques Rousseau",
+      "year_published": 1762,
+      "rank": null
+    },
+    {
+      "title": "Faust, Part One",
+      "author": "Johann Wolfgang von Goethe",
+      "year_published": 1808,
+      "rank": null
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year_published": 1813,
+      "rank": null
+    },
+    {
+      "title": "The Prelude",
+      "author": "William Wordsworth",
+      "year_published": 1850,
+      "rank": null
+    },
+    {
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "year_published": 1855,
+      "rank": null
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year_published": 1851,
+      "rank": null
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year_published": 1871,
+      "rank": null
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year_published": 1869,
+      "rank": null
+    },
+    {
+      "title": "Peer Gynt",
+      "author": "Henrik Ibsen",
+      "year_published": 1867,
+      "rank": null
+    },
+    {
+      "title": "The Interpretation of Dreams",
+      "author": "Sigmund Freud",
+      "year_published": 1899,
+      "rank": null
+    },
+    {
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "year_published": 1913,
+      "rank": null
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "year_published": 1922,
+      "rank": null
+    },
+    {
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "year_published": 1924,
+      "rank": null
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "year_published": 1925,
+      "rank": null
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "year_published": 1927,
+      "rank": null
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "year_published": 1944,
+      "rank": null
+    },
+    {
+      "title": "Waiting for Godot",
+      "author": "Samuel Beckett",
+      "year_published": 1952,
+      "rank": null
+    },
+    {
+      "title": "Collected Poems",
+      "author": "Pablo Neruda",
+      "year_published": null,
+      "rank": null
+    }
+  ]
+}
