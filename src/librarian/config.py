@@ -28,7 +28,8 @@ class Settings(BaseSettings):
     # E-reader delivery via Calibre export
     CALIBREDB_PATH: str  # Path to calibredb executable
     EREADER_EXPORT_FOLDER: str  # Required: shared folder for exporting books
-    
+    AUTO_CLOSE_CALIBRE: bool = True  # Automatically close Calibre GUI if it interferes with export
+
     # API Keys for semantic search
     OPENAI_API_KEY: str  # Required: for generating query embeddings
     

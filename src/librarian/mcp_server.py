@@ -91,7 +91,8 @@ async def get_services():
         _services['delivery'] = DeliveryService({
             'CALIBREDB_PATH': settings.CALIBREDB_PATH,
             'EREADER_EXPORT_FOLDER': settings.EREADER_EXPORT_FOLDER,
-            'CALIBRE_LIBRARY_PATH': settings.CALIBRE_LIBRARY_PATH
+            'CALIBRE_LIBRARY_PATH': settings.CALIBRE_LIBRARY_PATH,
+            'AUTO_CLOSE_CALIBRE': settings.AUTO_CLOSE_CALIBRE
         })
         
         logger.info("✅ BookWise services initialized")
