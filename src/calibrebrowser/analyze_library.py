@@ -69,7 +69,7 @@ def run_excel_generation():
 
     # Import and run the Excel generation script
     import subprocess
-    excel_script = Path(__file__).parent.parent.parent / 'generate_excel_workbook.py'
+    excel_script = Path(__file__).parent.parent.parent / 'scripts' / 'utilities' / 'generate_excel_workbook.py'
 
     if not excel_script.exists():
         print(f"⚠️  Warning: Excel generation script not found at {excel_script}")
