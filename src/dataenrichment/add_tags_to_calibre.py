@@ -4,20 +4,64 @@ Add Enrichment Tags to Calibre
 Adds AI-generated tags and canonical award names to Calibre books as regular tags.
 No custom columns needed - uses Calibre's built-in tags system.
 
+Features:
+- Smart tracking: Skip books that haven't changed
+- Preserves user's manual tags
+- Hash-based comparison for efficiency
+- Logging for debugging
+- Status reporting
+
 Usage:
     python3 src/dataenrichment/add_tags_to_calibre.py --dry-run  # Preview
     python3 src/dataenrichment/add_tags_to_calibre.py --yes      # Apply
+    python3 src/dataenrichment/add_tags_to_calibre.py --status   # Show status
+    python3 src/dataenrichment/add_tags_to_calibre.py --force    # Re-import all
     python3 src/dataenrichment/add_tags_to_calibre.py --verify   # Verify setup
 """
 
 import json
 import subprocess
 import sys
+import hashlib
+import logging
+import os
 from pathlib import Path
+from datetime import datetime
 
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from src.config.settings import settings
+
+# Setup logging
+def setup_logging():
+    """Configure logging based on environment settings"""
+    log_level = getattr(settings, 'LOG_LEVEL', 'INFO')
+    log_file = getattr(settings, 'LOG_FILE', None)
+
+    # Create logger
+    logger = logging.getLogger('calibre_import')
+    logger.setLevel(getattr(logging, log_level))
+
+    # Console handler
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+    console_format = logging.Formatter('%(message)s')
+    console_handler.setFormatter(console_format)
+    logger.addHandler(console_handler)
+
+    # File handler (if configured)
+    if log_file:
+        log_file_path = Path(os.path.expanduser(log_file))
+        log_file_path.parent.mkdir(parents=True, exist_ok=True)
+        file_handler = logging.FileHandler(log_file_path)
+        file_handler.setLevel(logging.DEBUG)
+        file_format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        file_handler.setFormatter(file_format)
+        logger.addHandler(file_handler)
+
+    return logger
+
+logger = setup_logging()
 
 
 # Load canonical authors once at module level
@@ -63,6 +107,132 @@ def get_canonical_tier_tag(author_name):
             return f"Canon: Tier {tier}"
     
     return None
+
+
+# =============================================================================
+# STATUS TRACKING FUNCTIONS
+# =============================================================================
+
+def get_status_file_path():
+    """Get path to status file, expanding ~ to home directory"""
+    status_file = getattr(settings, 'CALIBRE_IMPORT_STATUS_FILE',
+                         '~/Library/Application Support/bookwise/calibre_import_status.json')
+    return Path(os.path.expanduser(status_file))
+
+
+def load_status_file():
+    """Load import status tracking file"""
+    status_file = get_status_file_path()
+
+    if not status_file.exists():
+        logger.debug(f"Status file not found: {status_file}")
+        return {
+            "version": "1.0",
+            "last_updated": datetime.utcnow().isoformat() + "Z",
+            "books": {}
+        }
+
+    try:
+        with open(status_file, 'r') as f:
+            data = json.load(f)
+            logger.debug(f"Loaded status file with {len(data.get('books', {}))} books")
+            return data
+    except Exception as e:
+        logger.warning(f"Failed to load status file: {e}. Starting fresh.")
+        return {
+            "version": "1.0",
+            "last_updated": datetime.utcnow().isoformat() + "Z",
+            "books": {}
+        }
+
+
+def save_status_file(status_data):
+    """Save import status tracking file"""
+    status_file = get_status_file_path()
+
+    # Create directory if it doesn't exist
+    status_file.parent.mkdir(parents=True, exist_ok=True)
+
+    # Update timestamp
+    status_data["last_updated"] = datetime.utcnow().isoformat() + "Z"
+
+    try:
+        with open(status_file, 'w') as f:
+            json.dump(status_data, f, indent=2)
+        logger.debug(f"Saved status file: {status_file}")
+    except Exception as e:
+        logger.error(f"Failed to save status file: {e}")
+
+
+def calculate_hash(data):
+    """Calculate SHA256 hash of data for comparison"""
+    if data is None:
+        return None
+
+    if isinstance(data, list):
+        # Sort list for consistent hashing
+        data = sorted(str(item) for item in data)
+        data_str = ','.join(data)
+    else:
+        data_str = str(data)
+
+    return hashlib.sha256(data_str.encode('utf-8')).hexdigest()
+
+
+def is_bookwise_tag(tag):
+    """Check if tag is a BookWise-generated tag"""
+    bookwise_prefixes = ('Award:', 'List:', 'Canon:', 'Topic:', 'Series:')
+    return tag.startswith(bookwise_prefixes)
+
+
+def update_book_status(status_data, calibre_id, tags_hash, desc_hash, enriched_at=None):
+    """Update status for a single book"""
+    book_id = str(calibre_id)
+    now = datetime.utcnow().isoformat() + "Z"
+
+    if book_id not in status_data["books"]:
+        status_data["books"][book_id] = {}
+
+    status_data["books"][book_id].update({
+        "last_checked": now,
+        "last_imported": now,
+        "tags_hash": tags_hash,
+        "description_hash": desc_hash
+    })
+
+    if enriched_at:
+        status_data["books"][book_id]["enriched_at"] = enriched_at
+
+
+def show_import_status(status_data, chromadb_collection):
+    """Display import status report"""
+    print("\n" + "="*60)
+    print("CALIBRE IMPORT STATUS REPORT")
+    print("="*60)
+
+    # Get total books in ChromaDB
+    chroma_count = chromadb_collection.count()
+    tracked_count = len(status_data.get("books", {}))
+
+    print(f"\nBooks in ChromaDB: {chroma_count}")
+    print(f"Books tracked in status file: {tracked_count}")
+    print(f"Last updated: {status_data.get('last_updated', 'Unknown')}")
+
+    if tracked_count > 0:
+        # Show recent imports
+        books = status_data.get("books", {})
+        recent = sorted(
+            [(book_id, info) for book_id, info in books.items()],
+            key=lambda x: x[1].get('last_imported', ''),
+            reverse=True
+        )[:10]
+
+        print(f"\nMost recent imports (last 10):")
+        for book_id, info in recent:
+            last_import = info.get('last_imported', 'Unknown')
+            print(f"  Book {book_id}: {last_import}")
+
+    print("\n" + "="*60)
 
 
 # Canonical tag mapping for all awards, lists, and series
@@ -319,34 +489,74 @@ def get_existing_tags(calibre_id, library_path):
         return []
         
     except Exception as e:
-        print(f"  ⚠️  Warning: Could not read existing tags: {e}")
+        logger.warning(f"Could not read existing tags for book {calibre_id}: {e}")
         return []
 
 
-def add_tags_to_book(calibre_id, tags, library_path, dry_run=False):
+def add_tags_to_book(calibre_id, tags, library_path, dry_run=False, force=False, status_data=None):
     """
-    Add tags to a Calibre book using calibredb.
-    Merges with existing tags to avoid overwriting.
-    
+    Add tags to a Calibre book using calibredb with smart comparison.
+
+    Smart logic:
+    1. Read existing tags from Calibre
+    2. Separate BookWise tags (Award:, List:, Canon:, Topic:, Series:) from user tags
+    3. Compare BookWise tags with expected tags
+    4. If identical → SKIP (no update needed)
+    5. If different or missing → UPDATE (replace BookWise tags, preserve user tags)
+
     Args:
         calibre_id: Calibre book ID
-        tags: List of tags to add
+        tags: List of expected BookWise tags
         library_path: Path to Calibre library
         dry_run: If True, only show what would be done
+        force: If True, always update regardless of comparison
+        status_data: Status tracking dictionary
+
+    Returns:
+        tuple: (action_taken, success) where action_taken is 'skip', 'add', or 'update'
     """
     if not tags:
-        return True
-    
-    if dry_run:
-        return True
-    
-    # Get existing tags and merge
+        return ('skip', True)
+
+    # Get existing tags from Calibre
     existing_tags = get_existing_tags(calibre_id, library_path)
-    
-    # Merge tags (avoid duplicates)
-    all_tags = list(set(existing_tags + tags))
+
+    # Separate BookWise tags from user tags
+    existing_bookwise = [t for t in existing_tags if is_bookwise_tag(t)]
+    user_tags = [t for t in existing_tags if not is_bookwise_tag(t)]
+
+    # Calculate hashes for comparison (normalize to lowercase to ignore Calibre's capitalization)
+    expected_hash = calculate_hash(sorted([t.lower() for t in tags]))
+    existing_hash = calculate_hash(sorted([t.lower() for t in existing_bookwise]))
+
+    # Decide action
+    action = 'skip'
+    if force:
+        action = 'update'
+        logger.debug(f"Book {calibre_id}: Force mode - updating")
+    elif not existing_bookwise:
+        action = 'add'
+        logger.debug(f"Book {calibre_id}: No BookWise tags found - adding")
+    elif expected_hash != existing_hash:
+        action = 'update'
+        logger.debug(f"Book {calibre_id}: Tags changed - updating")
+    else:
+        logger.debug(f"Book {calibre_id}: Tags identical - skipping")
+
+    # Update status tracking
+    if status_data is not None:
+        update_book_status(status_data, calibre_id, expected_hash, None)
+
+    if action == 'skip':
+        return ('skip', True)
+
+    if dry_run:
+        return (action, True)
+
+    # Merge: user tags + expected BookWise tags
+    all_tags = list(set(user_tags + tags))
     tags_str = ','.join(all_tags)
-    
+
     try:
         cmd = [
             settings.CALIBREDB_PATH, 'set_metadata',
@@ -354,13 +564,14 @@ def add_tags_to_book(calibre_id, tags, library_path, dry_run=False):
             '--field', f'tags:{tags_str}',
             f'--library-path={library_path}'
         ]
-        
+
         subprocess.run(cmd, check=True, capture_output=True, text=True)
-        return True
-        
+        logger.debug(f"Book {calibre_id}: Tags updated successfully")
+        return (action, True)
+
     except subprocess.CalledProcessError as e:
-        print(f"  ⚠️  Error adding tags: {e.stderr}")
-        return False
+        logger.error(f"Book {calibre_id}: Error adding tags - {e.stderr}")
+        return (action, False)
 
 
 def update_publication_date(calibre_id, year, library_path, dry_run=False):
@@ -423,6 +634,10 @@ def update_description(calibre_id, ai_description, existing_description, mode, l
             field = 'comments'
             
         elif mode == 'prepend':
+            # Check if AI summary already exists (prevent duplication)
+            if existing_description and "**AI Summary:**" in existing_description:
+                logger.info(f"  ⏭️  AI summary already in description (skipped)")
+                return True
             # Prepend AI description to existing
             new_description = f"**AI Summary:**\n\n{ai_description}\n\n---\n\n{existing_description or ''}"
             field = 'comments'
@@ -513,15 +728,18 @@ def main():
 Examples:
   # Preview what would be added
   python3 src/dataenrichment/add_tags_to_calibre.py --dry-run
-  
+
   # Actually add tags to Calibre
-  python3 src/dataenrichment/add_tags_to_calibre.py
-  
-  # Only add award tags (skip AI tags)
-  python3 src/dataenrichment/add_tags_to_calibre.py --awards-only
-  
-  # Only add AI tags (skip awards)
-  python3 src/dataenrichment/add_tags_to_calibre.py --ai-only
+  python3 src/dataenrichment/add_tags_to_calibre.py --yes
+
+  # Show import status and history
+  python3 src/dataenrichment/add_tags_to_calibre.py --status
+
+  # Force re-import all books (ignore status tracking)
+  python3 src/dataenrichment/add_tags_to_calibre.py --force --yes
+
+  # Use AI descriptions in custom column (recommended)
+  python3 src/dataenrichment/add_tags_to_calibre.py --update-descriptions custom --yes
 
 After import, search in Calibre:
   tags:"Award: Nobel Prize in Literature (1962)"
@@ -575,9 +793,30 @@ After import, search in Calibre:
         type=str,
         help='Custom input file for selective updates (default: enriched_books.jsonl)'
     )
-    
+
+    parser.add_argument(
+        '--status',
+        action='store_true',
+        help='Show import status report and exit'
+    )
+
+    parser.add_argument(
+        '--force',
+        action='store_true',
+        help='Force re-import all books (ignore status tracking)'
+    )
+
     args = parser.parse_args()
-    
+
+    # Handle status mode
+    if args.status:
+        from chromadb import PersistentClient
+        client = PersistentClient(path=settings.CHROMADB_PATH)
+        collection = client.get_collection(name="book_metadata_embeddings")
+        status_data = load_status_file()
+        show_import_status(status_data, collection)
+        return
+
     # Handle verify mode
     if args.verify:
         verify_calibre_setup()
@@ -610,7 +849,14 @@ After import, search in Calibre:
         
         print(f"✓ Loaded {len(books)} enriched books")
         print()
-        
+
+        # Load status tracking file
+        logger.info("Loading import status file...")
+        status_data = load_status_file()
+        if args.force:
+            print("⚠️  FORCE MODE - Will re-import all books regardless of previous imports")
+            print()
+
         # Confirm before proceeding
         if not args.dry_run and not args.yes:
             print(f"⚠️  This will add tags to {len(books)} books in Calibre")
@@ -622,17 +868,19 @@ After import, search in Calibre:
             print(f"✓ Auto-confirmed (--yes flag)")
             print(f"  Processing {len(books)} books...")
             print()
-        
+
         # Process each book
         print("\n" + "=" * 80)
         print("PROCESSING BOOKS")
         print("=" * 80)
-        
+
         success_count = 0
+        skip_count = 0
+        add_count = 0
+        update_count = 0
         error_count = 0
         total_books = len(books)
-        
-        from datetime import datetime
+
         start_time = datetime.now()
         
         for idx, book in enumerate(books, 1):
@@ -722,12 +970,24 @@ After import, search in Calibre:
                         print(f"  ✓ AI summary prepended to description")
             
             # Add tags
+            action = 'skip'
             tags_success = True
             if tags_to_add:
-                tags_success = add_tags_to_book(calibre_id, tags_to_add, library_path, args.dry_run)
+                action, tags_success = add_tags_to_book(
+                    calibre_id, tags_to_add, library_path,
+                    args.dry_run, args.force, status_data
+                )
                 if tags_success and not args.dry_run:
-                    print(f"  ✓ Tags added")
-            
+                    if action == 'skip':
+                        print(f"  ⏭️  Tags unchanged (skipped)")
+                        skip_count += 1
+                    elif action == 'add':
+                        print(f"  ✓ Tags added")
+                        add_count += 1
+                    elif action == 'update':
+                        print(f"  ✓ Tags updated")
+                        update_count += 1
+
             if date_success and tags_success and desc_success:
                 success_count += 1
             else:
@@ -738,12 +998,23 @@ After import, search in Calibre:
                 elapsed_total = (datetime.now() - start_time).total_seconds()
                 print(f"\n  ⏱️  Checkpoint: {idx}/{total_books} books processed ({success_count} success, {error_count} errors) - {int(elapsed_total)}s elapsed")
         
+        # Save status tracking file
+        if not args.dry_run:
+            logger.info("Saving import status file...")
+            save_status_file(status_data)
+
         # Summary
         print("\n" + "=" * 80)
         print("IMPORT COMPLETE")
         print("=" * 80)
         print()
         print(f"✓ Successfully processed: {success_count} books")
+        if skip_count > 0:
+            print(f"⏭️  Skipped (unchanged): {skip_count} books")
+        if add_count > 0:
+            print(f"➕ Added: {add_count} books")
+        if update_count > 0:
+            print(f"🔄 Updated: {update_count} books")
         if error_count > 0:
             print(f"⚠️  Errors: {error_count} books")
         print()

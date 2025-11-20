@@ -17,7 +17,9 @@ from src.librarian.config import settings
 from src.librarian.services import (
     VectorSearchService,
     CalibreService,
-    DeliveryService
+    DeliveryService,
+    DataSourceService,
+    EnrichmentPipelineService
 )
 
 logger = logging.getLogger(__name__)
@@ -72,7 +74,9 @@ def get_capabilities():
 _services = {
     'vector': None,
     'calibre': None,
-    'delivery': None
+    'delivery': None,
+    'datasource': None,
+    'enrichment': None
 }
 
 
@@ -94,6 +98,14 @@ async def get_services():
             'CALIBRE_LIBRARY_PATH': settings.CALIBRE_LIBRARY_PATH,
             'AUTO_CLOSE_CALIBRE': settings.AUTO_CLOSE_CALIBRE
         })
+        
+        _services['datasource'] = DataSourceService(
+            str(Path(__file__).parent.parent.parent / 'datasources')
+        )
+        
+        _services['enrichment'] = EnrichmentPipelineService(
+            str(Path(__file__).parent.parent.parent)
+        )
         
         logger.info("✅ BookWise services initialized")
     
@@ -202,6 +214,152 @@ async def list_tools() -> List[Tool]:
                 },
                 "required": ["book_id"]
             }
+        ),
+        Tool(
+            name="get_datasource_schema",
+            description=(
+                "Get JSON schemas for literary datasources (awards, canonical authors). "
+                "Use this to understand the structure before adding new entries. "
+                "Returns schemas for: award_book, award_career, canonical_authors."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {},
+                "required": []
+            }
+        ),
+        Tool(
+            name="add_award_winner",
+            description=(
+                "Add a new award winner to an existing award datasource. "
+                "For book-specific awards (Pulitzer Fiction, Booker Prize): provide title, author, year_awarded. "
+                "For career awards (Nobel Prize): provide author, year_awarded, country. "
+                "The datasource file will be updated and metadata refreshed."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "datasource_file": {
+                        "type": "string",
+                        "description": "Filename (e.g., 'pulitzer_fiction.json', 'nobel_literature.json')"
+                    },
+                    "author": {
+                        "type": "string",
+                        "description": "Author name (required)"
+                    },
+                    "year_awarded": {
+                        "type": "integer",
+                        "description": "Year the award was won (required)"
+                    },
+                    "title": {
+                        "type": "string",
+                        "description": "Book title (required for book-specific awards)"
+                    },
+                    "year_published": {
+                        "type": "integer",
+                        "description": "Year the book was published (optional)"
+                    },
+                    "country": {
+                        "type": "string",
+                        "description": "Author's country (required for career awards)"
+                    },
+                    "notes": {
+                        "type": "string",
+                        "description": "Optional notes (e.g., 'Shared', 'Declined')"
+                    }
+                },
+                "required": ["datasource_file", "author", "year_awarded"]
+            }
+        ),
+        Tool(
+            name="add_canonical_author",
+            description=(
+                "Add a new canonical author to the tier lists (S/A/B). "
+                "Canonical authors receive baseline quality points for their pre-1970 works. "
+                "Provide: tier (S/A/B), author name, life years, nationality, and list of major works. "
+                "Each work needs: title, year_published, genre."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "tier": {
+                        "type": "string",
+                        "description": "Author tier: S (supreme), A (first-rate), or B (important regional)",
+                        "enum": ["S", "A", "B"]
+                    },
+                    "author": {
+                        "type": "string",
+                        "description": "Author name (e.g., 'Ernesto Sabato')"
+                    },
+                    "lived": {
+                        "type": "string",
+                        "description": "Life years (e.g., '1911-2011')"
+                    },
+                    "nationality": {
+                        "type": "string",
+                        "description": "Author's nationality (e.g., 'Argentine')"
+                    },
+                    "works": {
+                        "type": "array",
+                        "description": "List of major works",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "title": {"type": "string"},
+                                "year_published": {"type": "integer"},
+                                "genre": {"type": "string"},
+                                "notes": {"type": "string"}
+                            },
+                            "required": ["title", "year_published", "genre"]
+                        }
+                    },
+                    "genre": {
+                        "type": "string",
+                        "description": "Primary genre (optional)"
+                    },
+                    "nobel_prize": {
+                        "type": "integer",
+                        "description": "Year of Nobel Prize if applicable (optional)"
+                    }
+                },
+                "required": ["tier", "author", "lived", "nationality", "works"]
+            }
+        ),
+        Tool(
+            name="trigger_enrichment_pipeline",
+            description=(
+                "Trigger the enrichment pipeline to regenerate tags, embeddings, and update Calibre. "
+                "Use this after adding new awards or canonical authors to update the library. "
+                "Steps: generate input → enrich with AI → add tags to Calibre. "
+                "Can run full pipeline or individual steps. May take several minutes."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "step": {
+                        "type": "string",
+                        "description": "Pipeline step to run",
+                        "enum": ["generate", "enrich", "tags", "full"],
+                        "default": "full"
+                    },
+                    "batch_size": {
+                        "type": "integer",
+                        "description": "Limit number of books to process (optional)",
+                        "minimum": 1
+                    },
+                    "resume": {
+                        "type": "boolean",
+                        "description": "Resume from previous run (for enrich step)",
+                        "default": False
+                    },
+                    "regenerate_scores": {
+                        "type": "boolean",
+                        "description": "Regenerate quality scores first (after datasource updates)",
+                        "default": True
+                    }
+                },
+                "required": []
+            }
         )
     ]
 
@@ -220,6 +378,14 @@ async def call_tool(name: str, arguments: Any) -> List[TextContent]:
             return await handle_get_library_stats(services)
         elif name == "export_book_to_ereader":
             return await handle_export_book(services, arguments)
+        elif name == "get_datasource_schema":
+            return await handle_get_datasource_schema(services)
+        elif name == "add_award_winner":
+            return await handle_add_award_winner(services, arguments)
+        elif name == "add_canonical_author":
+            return await handle_add_canonical_author(services, arguments)
+        elif name == "trigger_enrichment_pipeline":
+            return await handle_trigger_enrichment(services, arguments)
         else:
             return [TextContent(type="text", text=f"Unknown tool: {name}")]
     except Exception as e:
@@ -413,4 +579,145 @@ async def handle_export_book(services, args):
         text = f"❌ **Export Failed**\n\n"
         text += f"**Error:** {result.get('message', 'Unknown error')}\n"
 
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_get_datasource_schema(services):
+    """Handle get_datasource_schema tool"""
+    import json
+    schemas = services['datasource'].get_datasource_schemas()
+    
+    text = "# 📚 Literary Datasource Schemas\n\n"
+    text += "Use these schemas when adding new award winners or canonical authors.\n\n"
+    
+    for source_type, info in schemas.items():
+        text += f"## {source_type.upper().replace('_', ' ')}\n\n"
+        text += f"**Description:** {info['description']}\n\n"
+        text += f"**Example Files:** {', '.join(info['example_files'])}\n\n"
+        text += "**Schema:**\n```json\n"
+        text += json.dumps(info['schema'], indent=2)
+        text += "\n```\n\n"
+    
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_add_award_winner(services, args):
+    """Handle add_award_winner tool"""
+    result = services['datasource'].add_award_winner(
+        datasource_file=args.get('datasource_file'),
+        title=args.get('title'),
+        author=args.get('author'),
+        year_awarded=args.get('year_awarded'),
+        year_published=args.get('year_published'),
+        country=args.get('country'),
+        notes=args.get('notes', '')
+    )
+    
+    if result['status'] == 'success':
+        text = f"✅ **Award Winner Added Successfully!**\n\n"
+        text += f"**Author:** {args.get('author')}\n"
+        if args.get('title'):
+            text += f"**Title:** {args.get('title')}\n"
+        text += f"**Year Awarded:** {args.get('year_awarded')}\n"
+        if args.get('country'):
+            text += f"**Country:** {args.get('country')}\n"
+        text += f"**Datasource:** {result['datasource']}\n\n"
+        text += "**Next Steps:**\n"
+        text += "1. Regenerate quality scores: `trigger_enrichment_pipeline` with `regenerate_scores=true`\n"
+        text += "2. Or manually run: `python3 src/scripts/generate_unified_scores.py`\n"
+        text += "3. Then run enrichment pipeline to update embeddings and Calibre tags\n"
+    else:
+        text = f"❌ **Error Adding Award Winner**\n\n"
+        text += f"**Message:** {result['message']}\n"
+    
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_add_canonical_author(services, args):
+    """Handle add_canonical_author tool"""
+    result = services['datasource'].add_canonical_author(
+        tier=args.get('tier'),
+        author=args.get('author'),
+        lived=args.get('lived'),
+        nationality=args.get('nationality'),
+        works=args.get('works', []),
+        genre=args.get('genre'),
+        nobel_prize=args.get('nobel_prize')
+    )
+    
+    if result['status'] == 'success':
+        text = f"✅ **Canonical Author Added Successfully!**\n\n"
+        text += f"**Author:** {args.get('author')}\n"
+        text += f"**Tier:** {args.get('tier')}\n"
+        text += f"**Lived:** {args.get('lived')}\n"
+        text += f"**Nationality:** {args.get('nationality')}\n"
+        text += f"**Works Added:** {result['total_works']}\n"
+        text += f"**Datasource:** {result['datasource']}\n\n"
+        
+        text += "**Works:**\n"
+        for work in args.get('works', [])[:5]:  # Show first 5
+            text += f"- {work['title']} ({work['year_published']})\n"
+        
+        text += "\n**Next Steps:**\n"
+        text += "1. Regenerate quality scores: `trigger_enrichment_pipeline` with `regenerate_scores=true`\n"
+        text += "2. Run enrichment pipeline to update embeddings and Calibre tags\n"
+    else:
+        text = f"❌ **Error Adding Canonical Author**\n\n"
+        text += f"**Message:** {result['message']}\n"
+    
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_trigger_enrichment(services, args):
+    """Handle trigger_enrichment_pipeline tool"""
+    step = args.get('step', 'full')
+    batch_size = args.get('batch_size')
+    resume = args.get('resume', False)
+    regenerate_scores = args.get('regenerate_scores', True)
+    
+    text = "# 🔄 Enrichment Pipeline Started\n\n"
+    
+    # Step 1: Regenerate scores if requested
+    if regenerate_scores and step in ['full', 'generate']:
+        text += "## Step 1: Regenerating Quality Scores\n\n"
+        score_result = services['enrichment'].regenerate_quality_scores()
+        
+        if score_result['status'] == 'success':
+            text += "✅ Quality scores regenerated successfully\n\n"
+        else:
+            text += f"❌ Score regeneration failed: {score_result['message']}\n\n"
+            text += "**Note:** Continuing with enrichment pipeline...\n\n"
+    
+    # Step 2: Run enrichment pipeline
+    text += f"## Step 2: Running Enrichment Pipeline (step={step})\n\n"
+    
+    result = services['enrichment'].trigger_enrichment(
+        step=step,
+        batch_size=batch_size,
+        resume=resume
+    )
+    
+    if result['status'] == 'success':
+        text += f"✅ Pipeline completed successfully!\n\n"
+        text += f"**Steps Run:** {', '.join(result['steps_run'])}\n\n"
+        
+        # Show output summaries
+        for step_name, output in result.get('outputs', {}).items():
+            if output.get('stdout'):
+                # Extract key info from stdout (last few lines usually have summary)
+                stdout_lines = output['stdout'].strip().split('\n')
+                last_lines = '\n'.join(stdout_lines[-10:])  # Last 10 lines
+                text += f"### {step_name} output:\n```\n{last_lines}\n```\n\n"
+    else:
+        text += f"❌ Pipeline failed\n\n"
+        text += f"**Message:** {result['message']}\n\n"
+        
+        # Show error details
+        if result.get('outputs'):
+            for step_name, output in result['outputs'].items():
+                if output.get('stderr'):
+                    text += f"### {step_name} errors:\n```\n{output['stderr']}\n```\n\n"
+    
+    text += "\n**Pipeline Complete!** Your library has been updated with new datasource information.\n"
+    
     return [TextContent(type="text", text=text)]
