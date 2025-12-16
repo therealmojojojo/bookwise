@@ -309,12 +309,43 @@ For detailed usage instructions, see `EXCEL_FILE_GUIDE.md`.
 
 ---
 
+## Quick Start - Full Pipeline
+
+Run the complete BookWise pipeline with a single command:
+
+```bash
+# Run everything: analyze → enrich → update Calibre → re-analyze
+python3 run_full_pipeline.py
+
+# Test with a small batch first
+python3 run_full_pipeline.py --batch-size 50
+
+# Preview what will run without executing
+python3 run_full_pipeline.py --dry-run
+
+# Skip steps you've already completed
+python3 run_full_pipeline.py --skip-analysis
+```
+
+The pipeline automatically executes:
+1. **Library Analysis** - Generate coverage reports and Excel workbook
+2. **Enrichment Input** - Identify books needing AI metadata
+3. **AI Enrichment** - Generate tags, themes, and embeddings (Claude + OpenAI)
+4. **Calibre Update** - Import AI-generated tags to your library
+5. **Final Analysis** - Refresh reports with updated data
+
+For more options: `python3 run_full_pipeline.py --help`
+
+---
+
 ## Documentation
 
 - **Setup Guide:** See `.env.example` for configuration options
+- **Pipeline Script:** `run_full_pipeline.py` - Complete workflow automation
+- **MCP Datasource Management:** `MCP_DATASOURCE_MANAGEMENT.md` - Add awards/authors via Claude
 - **API Documentation:** Interactive docs available at `/docs` when server is running
 - **Quality Methodology:** Detailed award hierarchy and scoring system
-- **Enrichment Pipeline:** AI metadata generation and semantic indexing
+- **Enrichment Pipeline:** See `src/dataenrichment/README.md`
 - **Excel Workbook Guide:** See `EXCEL_FILE_GUIDE.md` for detailed usage instructions
 
 ---

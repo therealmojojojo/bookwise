@@ -220,30 +220,33 @@ def main():
     
     for key, scored_book in scored_books.items():
         calibre_id = None
+        matched_key = None
         matched_via = "direct"
-        
+
         # Try direct match first
         if key in calibre_books:
             calibre_id = calibre_books[key]['id']
+            matched_key = key
         else:
             # Try variant matching
             if key in variant_to_canonical:
                 for canonical_key in variant_to_canonical[key]:
                     if canonical_key in calibre_books:
                         calibre_id = calibre_books[canonical_key]['id']
+                        matched_key = canonical_key
                         matched_via = "variant"
                         variant_matches += 1
                         break
-        
+
         if calibre_id:
-            
+
             # Generate comprehensive tags
             all_tags = set()
-            
+
             # Add score category
             score_category = generate_score_category(scored_book['score'])
             all_tags.add(score_category)
-            
+
             # Add quality tier
             if scored_book['score'] >= 50:
                 all_tags.add("Quality: Top Tier")
@@ -251,25 +254,25 @@ def main():
                 all_tags.add("Quality: High")
             elif scored_book['score'] >= 10:
                 all_tags.add("Quality: Notable")
-            
+
             # Add award/prize tags
             for award in scored_book['awards']:
                 # Clean up award names for tags
                 award_tag = award.split('(')[0].strip()  # Remove year
                 all_tags.add(f"Award: {award_tag}")
-            
+
             # Add list membership tags
             for list_name in scored_book['lists']:
                 list_tag = list_name.split('#')[0].strip()  # Remove rank
                 all_tags.add(f"List: {list_tag}")
-            
+
             # Add processing status tag
             all_tags.add("Quality: Processed")
-            
+
             matched.append({
                 'calibre_id': calibre_id,
-                'title': calibre_books[key]['title'],
-                'author': calibre_books[key]['author'],
+                'title': calibre_books[matched_key]['title'],
+                'author': calibre_books[matched_key]['author'],
                 'match_key': key,  # Normalized key for future matching
                 'quality_score': scored_book['score'],
                 'score_category': score_category,

@@ -155,52 +155,90 @@ def temp_calibre_db(tmp_path):
         )
     """)
 
-    # Insert sample data
     cursor.execute("""
-        INSERT INTO books (id, title, sort, path, uuid, has_cover)
-        VALUES (1, 'Test Book 1', 'Test Book 1', 'Test Author 1/Test Book 1 (1)', 'test-uuid-1', 1)
+        CREATE TABLE series (
+            id INTEGER PRIMARY KEY,
+            name TEXT NOT NULL COLLATE NOCASE,
+            sort TEXT COLLATE NOCASE
+        )
     """)
 
     cursor.execute("""
-        INSERT INTO books (id, title, sort, path, uuid, has_cover)
-        VALUES (2, 'Test Book 2', 'Test Book 2', 'Test Author 2/Test Book 2 (2)', 'test-uuid-2', 1)
+        CREATE TABLE books_series_link (
+            id INTEGER PRIMARY KEY,
+            book INTEGER NOT NULL,
+            series INTEGER NOT NULL,
+            FOREIGN KEY(book) REFERENCES books(id),
+            FOREIGN KEY(series) REFERENCES series(id)
+        )
     """)
 
+    # Insert sample authors
+    cursor.execute("INSERT INTO authors (id, name, sort) VALUES (1, 'Test Author 1', 'Author 1, Test')")
+    cursor.execute("INSERT INTO authors (id, name, sort) VALUES (2, 'Test Author 2', 'Author 2, Test')")
+    cursor.execute("INSERT INTO authors (id, name, sort) VALUES (3, 'Ursula K. Le Guin', 'Le Guin, Ursula K.')")
+    cursor.execute("INSERT INTO authors (id, name, sort) VALUES (4, 'F. Scott Fitzgerald', 'Fitzgerald, F. Scott')")
+
+    # Insert sample series
+    cursor.execute("INSERT INTO series (id, name, sort) VALUES (1, 'Earthsea Cycle', 'Earthsea Cycle')")
+    cursor.execute("INSERT INTO series (id, name, sort) VALUES (2, 'Test Series', 'Test Series')")
+
+    # Insert sample books
     cursor.execute("""
-        INSERT INTO authors (id, name, sort) VALUES (1, 'Test Author 1', 'Author 1, Test')
+        INSERT INTO books (id, title, sort, path, uuid, has_cover, series_index)
+        VALUES (1, 'Test Book 1', 'Test Book 1', 'Test Author 1/Test Book 1 (1)', 'test-uuid-1', 1, 1.0)
+    """)
+    cursor.execute("""
+        INSERT INTO books (id, title, sort, path, uuid, has_cover, series_index)
+        VALUES (2, 'Test Book 2', 'Test Book 2', 'Test Author 2/Test Book 2 (2)', 'test-uuid-2', 1, 1.0)
+    """)
+    cursor.execute("""
+        INSERT INTO books (id, title, sort, path, uuid, has_cover, series_index)
+        VALUES (3, 'A Wizard of Earthsea', 'Wizard of Earthsea, A', 'Ursula K. Le Guin/A Wizard of Earthsea (3)', 'test-uuid-3', 1, 1.0)
+    """)
+    cursor.execute("""
+        INSERT INTO books (id, title, sort, path, uuid, has_cover, series_index)
+        VALUES (4, 'The Tombs of Atuan', 'Tombs of Atuan, The', 'Ursula K. Le Guin/The Tombs of Atuan (4)', 'test-uuid-4', 1, 2.0)
+    """)
+    cursor.execute("""
+        INSERT INTO books (id, title, sort, path, uuid, has_cover, series_index)
+        VALUES (5, 'The Lathe of Heaven', 'Lathe of Heaven, The', 'Ursula K. Le Guin/The Lathe of Heaven (5)', 'test-uuid-5', 1, 1.0)
+    """)
+    cursor.execute("""
+        INSERT INTO books (id, title, sort, path, uuid, has_cover, series_index)
+        VALUES (6, 'The Great Gatsby', 'Great Gatsby, The', 'F. Scott Fitzgerald/The Great Gatsby (6)', 'test-uuid-6', 1, 1.0)
     """)
 
-    cursor.execute("""
-        INSERT INTO authors (id, name, sort) VALUES (2, 'Test Author 2', 'Author 2, Test')
-    """)
+    # Link books to authors
+    cursor.execute("INSERT INTO books_authors_link (book, author) VALUES (1, 1)")
+    cursor.execute("INSERT INTO books_authors_link (book, author) VALUES (2, 2)")
+    cursor.execute("INSERT INTO books_authors_link (book, author) VALUES (3, 3)")  # Wizard of Earthsea -> Le Guin
+    cursor.execute("INSERT INTO books_authors_link (book, author) VALUES (4, 3)")  # Tombs of Atuan -> Le Guin
+    cursor.execute("INSERT INTO books_authors_link (book, author) VALUES (5, 3)")  # Lathe of Heaven -> Le Guin
+    cursor.execute("INSERT INTO books_authors_link (book, author) VALUES (6, 4)")  # Great Gatsby -> Fitzgerald
 
-    cursor.execute("""
-        INSERT INTO books_authors_link (book, author) VALUES (1, 1)
-    """)
+    # Link books to series
+    cursor.execute("INSERT INTO books_series_link (book, series) VALUES (3, 1)")  # Wizard of Earthsea -> Earthsea
+    cursor.execute("INSERT INTO books_series_link (book, series) VALUES (4, 1)")  # Tombs of Atuan -> Earthsea
 
-    cursor.execute("""
-        INSERT INTO books_authors_link (book, author) VALUES (2, 2)
-    """)
+    # Insert tags
+    cursor.execute("INSERT INTO tags (id, name) VALUES (1, 'fiction')")
+    cursor.execute("INSERT INTO tags (id, name) VALUES (2, 'classic')")
+    cursor.execute("INSERT INTO tags (id, name) VALUES (3, 'fantasy')")
 
-    cursor.execute("""
-        INSERT INTO tags (id, name) VALUES (1, 'fiction')
-    """)
+    cursor.execute("INSERT INTO books_tags_link (book, tag) VALUES (1, 1)")
+    cursor.execute("INSERT INTO books_tags_link (book, tag) VALUES (3, 3)")  # Earthsea -> fantasy
+    cursor.execute("INSERT INTO books_tags_link (book, tag) VALUES (6, 2)")  # Gatsby -> classic
 
-    cursor.execute("""
-        INSERT INTO tags (id, name) VALUES (2, 'classic')
-    """)
-
-    cursor.execute("""
-        INSERT INTO books_tags_link (book, tag) VALUES (1, 1)
-    """)
-
-    cursor.execute("""
-        INSERT INTO data (book, format, name) VALUES (1, 'EPUB', 'Test Book 1')
-    """)
-
-    cursor.execute("""
-        INSERT INTO data (book, format, name) VALUES (2, 'EPUB', 'Test Book 2')
-    """)
+    # Insert format data
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (1, 'EPUB', 'Test Book 1')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (2, 'EPUB', 'Test Book 2')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (3, 'EPUB', 'A Wizard of Earthsea')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (4, 'EPUB', 'The Tombs of Atuan')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (4, 'MOBI', 'The Tombs of Atuan')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (5, 'EPUB', 'The Lathe of Heaven')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (6, 'EPUB', 'The Great Gatsby')")
+    cursor.execute("INSERT INTO data (book, format, name) VALUES (6, 'PDF', 'The Great Gatsby')")
 
     conn.commit()
     conn.close()

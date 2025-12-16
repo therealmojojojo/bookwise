@@ -192,6 +192,74 @@ async def list_tools() -> List[Tool]:
             }
         ),
         Tool(
+            name="search_authors",
+            description=(
+                "Search for authors by name with partial word matching. "
+                "Use this to find the exact author name as stored in Calibre. "
+                "Recommended: search by SURNAME for best results (e.g., 'Fitzgerald' finds 'F. Scott Fitzgerald'). "
+                "Returns author ID which can be used with get_author_books."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "search_term": {
+                        "type": "string",
+                        "description": "Author name to search for (partial matches OK)"
+                    },
+                    "limit": {
+                        "type": "integer",
+                        "description": "Max results to return (default: 10)",
+                        "minimum": 1,
+                        "maximum": 50,
+                        "default": 10
+                    }
+                },
+                "required": ["search_term"]
+            }
+        ),
+        Tool(
+            name="get_author_books",
+            description=(
+                "Get all books by a specific author. "
+                "Use the exact author name from search_authors results. "
+                "Returns all books with their series info and available formats. "
+                "Claude can use its knowledge to identify series membership and reading order."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "author_name": {
+                        "type": "string",
+                        "description": "Exact author name (use search_authors first to get correct spelling)"
+                    }
+                },
+                "required": ["author_name"]
+            }
+        ),
+        Tool(
+            name="find_book",
+            description=(
+                "Find a specific book by title (exact match, case-insensitive). "
+                "Optionally filter by author name. "
+                "Use this when you know the book title and want to find it in the library. "
+                "Returns book ID, formats, and series info."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string",
+                        "description": "Book title (exact match, case-insensitive)"
+                    },
+                    "author": {
+                        "type": "string",
+                        "description": "Optional: author name to filter by"
+                    }
+                },
+                "required": ["title"]
+            }
+        ),
+        Tool(
             name="export_book_to_ereader",
             description=(
                 "Export a book to the e-reader via Google Drive. "
@@ -376,6 +444,12 @@ async def call_tool(name: str, arguments: Any) -> List[TextContent]:
             return await handle_get_book_details(services, arguments)
         elif name == "get_library_stats":
             return await handle_get_library_stats(services)
+        elif name == "search_authors":
+            return await handle_search_authors(services, arguments)
+        elif name == "get_author_books":
+            return await handle_get_author_books(services, arguments)
+        elif name == "find_book":
+            return await handle_find_book(services, arguments)
         elif name == "export_book_to_ereader":
             return await handle_export_book(services, arguments)
         elif name == "get_datasource_schema":
@@ -541,12 +615,126 @@ async def handle_get_book_details(services, args):
 async def handle_get_library_stats(services):
     """Handle get_library_stats tool"""
     stats = await services['calibre'].get_library_stats()
-    
+
     text = "📚 **Library Statistics**\n\n"
     text += f"• **Total Books:** {stats['total_books']:,}\n"
     text += f"• **Total Authors:** {stats['total_authors']:,}\n"
     text += f"• **Total Tags:** {stats['total_tags']:,}\n"
-    
+
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_search_authors(services, args):
+    """Handle search_authors tool - fuzzy author name search"""
+    search_term = args.get("search_term", "")
+    limit = args.get("limit", 10)
+
+    if not search_term.strip():
+        return [TextContent(type="text", text="❌ Please provide a search term.")]
+
+    results = await services['calibre'].search_authors(search_term, limit)
+
+    if not results:
+        text = f"❌ No authors found matching '{search_term}'.\n\n"
+        text += "Try:\n"
+        text += "• Using fewer words\n"
+        text += "• Checking spelling\n"
+        text += "• Using just the last name"
+    else:
+        text = f"📝 **Found {len(results)} author(s) matching '{search_term}':**\n\n"
+        for author in results:
+            text += f"• **{author['name']}**\n"
+            text += f"  ID: `{author['id']}` | Sort: {author['sort']}\n"
+
+        text += "\n💡 Use `get_author_books` with the exact author name to see their books."
+
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_get_author_books(services, args):
+    """Handle get_author_books tool - get all books by an author"""
+    author_name = args.get("author_name", "")
+
+    if not author_name.strip():
+        return [TextContent(type="text", text="❌ Please provide an author name.")]
+
+    result = await services['calibre'].get_books_by_author_name(author_name)
+
+    if not result:
+        text = f"❌ Author '{author_name}' not found.\n\n"
+        text += "💡 Use `search_authors` first to find the exact spelling."
+        return [TextContent(type="text", text=text)]
+
+    text = f"📚 **Books by {result['author_name']}** ({result['book_count']} books)\n"
+    text += f"Author ID: `{result['author_id']}`\n\n"
+
+    # Group books by series
+    series_books = {}
+    standalone = []
+
+    for book in result['books']:
+        if book['series']:
+            if book['series'] not in series_books:
+                series_books[book['series']] = []
+            series_books[book['series']].append(book)
+        else:
+            standalone.append(book)
+
+    # Display series books
+    if series_books:
+        text += "### Series\n"
+        for series_name, books in sorted(series_books.items()):
+            text += f"\n**{series_name}:**\n"
+            for book in sorted(books, key=lambda x: x['series_index'] or 0):
+                idx = f"#{int(book['series_index'])}" if book['series_index'] else ""
+                formats = ', '.join(book['formats']) if book['formats'] else 'no files'
+                text += f"  {idx} {book['title']} (ID: `{book['id']}`) [{formats}]\n"
+
+    # Display standalone books
+    if standalone:
+        text += "\n### Standalone\n"
+        for book in standalone:
+            formats = ', '.join(book['formats']) if book['formats'] else 'no files'
+            text += f"• {book['title']} (ID: `{book['id']}`) [{formats}]\n"
+
+    text += "\n💡 Use `export_book_to_ereader` with a book ID to send to your e-reader."
+
+    return [TextContent(type="text", text=text)]
+
+
+async def handle_find_book(services, args):
+    """Handle find_book tool - exact title search"""
+    title = args.get("title", "")
+    author = args.get("author")
+
+    if not title.strip():
+        return [TextContent(type="text", text="❌ Please provide a book title.")]
+
+    results = await services['calibre'].find_book(title, author)
+
+    if not results:
+        text = f"❌ No books found with title '{title}'"
+        if author:
+            text += f" by '{author}'"
+        text += ".\n\n"
+        text += "💡 Tips:\n"
+        text += "• Check the exact title spelling\n"
+        text += "• Try without the author filter\n"
+        text += "• Use `search_authors` to verify the author name"
+    else:
+        text = f"📖 **Found {len(results)} book(s):**\n\n"
+        for book in results:
+            text += f"**{book['title']}**\n"
+            text += f"  • Author: {book['authors']}\n"
+            text += f"  • Book ID: `{book['id']}`\n"
+            if book['series']:
+                idx = f"#{int(book['series_index'])}" if book['series_index'] else ""
+                text += f"  • Series: {book['series']} {idx}\n"
+            formats = ', '.join(book['formats']) if book['formats'] else 'no files'
+            text += f"  • Formats: {formats}\n\n"
+
+        text += "💡 Use `export_book_to_ereader` with a book ID to send to your e-reader."
+
     return [TextContent(type="text", text=text)]
 
 
@@ -674,50 +862,73 @@ async def handle_trigger_enrichment(services, args):
     batch_size = args.get('batch_size')
     resume = args.get('resume', False)
     regenerate_scores = args.get('regenerate_scores', True)
-    
-    text = "# 🔄 Enrichment Pipeline Started\n\n"
-    
+
+    text = "# 🔄 Enrichment Pipeline\n\n"
+
     # Step 1: Regenerate scores if requested
     if regenerate_scores and step in ['full', 'generate']:
         text += "## Step 1: Regenerating Quality Scores\n\n"
         score_result = services['enrichment'].regenerate_quality_scores()
-        
+
         if score_result['status'] == 'success':
             text += "✅ Quality scores regenerated successfully\n\n"
         else:
-            text += f"❌ Score regeneration failed: {score_result['message']}\n\n"
+            text += f"⚠️ Score regeneration issue: {score_result['message']}\n\n"
             text += "**Note:** Continuing with enrichment pipeline...\n\n"
-    
+
     # Step 2: Run enrichment pipeline
-    text += f"## Step 2: Running Enrichment Pipeline (step={step})\n\n"
-    
+    text += f"## Step 2: Enrichment Pipeline (step={step})\n\n"
+
     result = services['enrichment'].trigger_enrichment(
         step=step,
         batch_size=batch_size,
         resume=resume
     )
-    
-    if result['status'] == 'success':
-        text += f"✅ Pipeline completed successfully!\n\n"
-        text += f"**Steps Run:** {', '.join(result['steps_run'])}\n\n"
-        
+
+    status = result.get('status', '')
+
+    if status == 'started':
+        # Pipeline started in background
+        text += f"✅ **Pipeline started in background**\n\n"
+        text += f"**Started at:** {result.get('started_at', 'now')}\n"
+        text += f"**Steps:** {step}\n"
+        if batch_size:
+            text += f"**Batch size:** {batch_size}\n"
+        text += "\n"
+        text += "⏳ The pipeline is running in the background. This may take several minutes.\n\n"
+        text += "💡 **Tip:** The pipeline will:\n"
+        text += "1. Generate enrichment input from books needing updates\n"
+        text += "2. Call Claude API to generate tags and descriptions\n"
+        text += "3. Add the new tags to your Calibre library\n"
+
+    elif status == 'already_running':
+        # Pipeline already in progress
+        text += f"⏳ **Pipeline is already running**\n\n"
+        text += f"**Current step:** {result.get('current_step', 'unknown')}\n"
+        text += f"**Started at:** {result.get('started_at', 'unknown')}\n\n"
+        text += "Please wait for the current pipeline to complete.\n"
+
+    elif status == 'success':
+        # Synchronous completion (shouldn't happen with current impl, but handle it)
+        text += f"✅ **Pipeline completed successfully!**\n\n"
+        text += f"**Steps completed:** {', '.join(result.get('steps_run', []))}\n\n"
+
         # Show output summaries
         for step_name, output in result.get('outputs', {}).items():
             if output.get('stdout'):
-                # Extract key info from stdout (last few lines usually have summary)
                 stdout_lines = output['stdout'].strip().split('\n')
-                last_lines = '\n'.join(stdout_lines[-10:])  # Last 10 lines
+                last_lines = '\n'.join(stdout_lines[-10:])
                 text += f"### {step_name} output:\n```\n{last_lines}\n```\n\n"
+
     else:
-        text += f"❌ Pipeline failed\n\n"
-        text += f"**Message:** {result['message']}\n\n"
-        
-        # Show error details
+        # Error or unknown status
+        text += f"❌ **Pipeline failed to start**\n\n"
+        text += f"**Status:** {status}\n"
+        text += f"**Message:** {result.get('message', 'Unknown error')}\n\n"
+
         if result.get('outputs'):
             for step_name, output in result['outputs'].items():
                 if output.get('stderr'):
                     text += f"### {step_name} errors:\n```\n{output['stderr']}\n```\n\n"
-    
-    text += "\n**Pipeline Complete!** Your library has been updated with new datasource information.\n"
-    
+
     return [TextContent(type="text", text=text)]

@@ -4,7 +4,7 @@
     "source_type": "award_book",
     "version": "1.0",
     "created_date": "2025-11-04",
-    "last_updated": "2025-11-04",
+    "last_updated": "2025-12-16",
     "scoring": {
       "category": "fiction",
       "recognition_type": "award",
@@ -13,7 +13,7 @@
     "established": 1969,
     "prize_amount": "£50,000",
     "notes": "Premier prize for English-language fiction",
-    "total_winners": 58,
+    "total_winners": 60,
     "alternative_names": "Man Booker Prize (2002-2019)",
     "category": "Fiction (English language)",
     "award_type": "book-specific",

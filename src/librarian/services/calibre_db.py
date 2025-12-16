@@ -192,24 +192,225 @@ class CalibreService:
     async def get_library_stats(self) -> Dict:
         """
         Get basic statistics about the library
-        
+
         Returns:
             Dict with stats (total_books, total_authors, total_tags)
         """
         async with aiosqlite.connect(f'file:{self.db_path}?mode=ro', uri=True) as db:
             stats = {}
-            
+
             # Total books
             async with db.execute("SELECT COUNT(*) FROM books") as cursor:
                 stats['total_books'] = (await cursor.fetchone())[0]
-            
+
             # Total authors
             async with db.execute("SELECT COUNT(*) FROM authors") as cursor:
                 stats['total_authors'] = (await cursor.fetchone())[0]
-            
+
             # Total tags
             async with db.execute("SELECT COUNT(*) FROM tags") as cursor:
                 stats['total_tags'] = (await cursor.fetchone())[0]
-            
+
             return stats
+
+    async def search_authors(self, search_term: str, limit: int = 20) -> List[Dict]:
+        """
+        Fuzzy search for authors by name.
+        Splits search term into words and matches ALL words against name or sort fields.
+
+        Args:
+            search_term: Search string (e.g., "Ursula Le Guin" or "Fitzgerald")
+            limit: Maximum results to return
+
+        Returns:
+            List of matching authors: [{id, name, sort}, ...]
+        """
+        async with aiosqlite.connect(f'file:{self.db_path}?mode=ro', uri=True) as db:
+            db.row_factory = aiosqlite.Row
+
+            # Split search term into words for fuzzy matching
+            words = search_term.strip().split()
+
+            if not words:
+                return []
+
+            # Build WHERE clause: all words must match in name OR sort
+            conditions = []
+            params = []
+            for word in words:
+                conditions.append("(name LIKE ? OR sort LIKE ?)")
+                params.extend([f'%{word}%', f'%{word}%'])
+
+            where_clause = " AND ".join(conditions)
+
+            query = f"""
+                SELECT id, name, sort
+                FROM authors
+                WHERE {where_clause}
+                ORDER BY name
+                LIMIT ?
+            """
+            params.append(limit)
+
+            async with db.execute(query, params) as cursor:
+                rows = await cursor.fetchall()
+                return [{'id': row['id'], 'name': row['name'], 'sort': row['sort']} for row in rows]
+
+    async def get_books_by_author_id(self, author_id: int, limit: int = 100) -> List[Dict]:
+        """
+        Get all books by an author using their Calibre author ID.
+
+        Args:
+            author_id: Calibre author ID
+            limit: Maximum results to return
+
+        Returns:
+            List of books: [{id, title, series, series_index, formats}, ...]
+        """
+        async with aiosqlite.connect(f'file:{self.db_path}?mode=ro', uri=True) as db:
+            db.row_factory = aiosqlite.Row
+
+            query = """
+                SELECT
+                    b.id,
+                    b.title,
+                    s.name as series,
+                    b.series_index,
+                    GROUP_CONCAT(DISTINCT d.format) as formats
+                FROM books b
+                JOIN books_authors_link bal ON b.id = bal.book
+                LEFT JOIN books_series_link bsl ON b.id = bsl.book
+                LEFT JOIN series s ON bsl.series = s.id
+                LEFT JOIN data d ON b.id = d.book
+                WHERE bal.author = ?
+                GROUP BY b.id
+                ORDER BY s.name NULLS LAST, b.series_index, b.title
+                LIMIT ?
+            """
+
+            async with db.execute(query, (author_id, limit)) as cursor:
+                rows = await cursor.fetchall()
+                return [
+                    {
+                        'id': row['id'],
+                        'title': row['title'],
+                        'series': row['series'],
+                        'series_index': row['series_index'],
+                        'formats': row['formats'].split(',') if row['formats'] else []
+                    }
+                    for row in rows
+                ]
+
+    async def get_books_by_author_name(self, author_name: str, limit: int = 100) -> Optional[Dict]:
+        """
+        Get all books by an author using their exact name.
+        First looks up the author ID, then fetches their books.
+
+        Args:
+            author_name: Exact author name as stored in Calibre
+            limit: Maximum results to return
+
+        Returns:
+            Dict with author info and books: {author_id, author_name, books: [...]}
+            or None if author not found
+        """
+        async with aiosqlite.connect(f'file:{self.db_path}?mode=ro', uri=True) as db:
+            db.row_factory = aiosqlite.Row
+
+            # Look up author by exact name (case-insensitive due to COLLATE NOCASE)
+            async with db.execute(
+                "SELECT id, name FROM authors WHERE name = ?",
+                (author_name,)
+            ) as cursor:
+                author_row = await cursor.fetchone()
+
+            if not author_row:
+                return None
+
+            author_id = author_row['id']
+            author_name_exact = author_row['name']
+
+            # Get books using the author ID
+            books = await self.get_books_by_author_id(author_id, limit)
+
+            return {
+                'author_id': author_id,
+                'author_name': author_name_exact,
+                'book_count': len(books),
+                'books': books
+            }
+
+    async def find_book(self, title: str, author: Optional[str] = None, limit: int = 20) -> List[Dict]:
+        """
+        Find books by exact title match (case-insensitive).
+        Optionally filter by author name.
+
+        Args:
+            title: Book title to search for (exact match, case-insensitive)
+            author: Optional author name to filter by (exact match, case-insensitive)
+            limit: Maximum results to return
+
+        Returns:
+            List of matching books: [{id, title, authors, series, series_index, formats}, ...]
+        """
+        async with aiosqlite.connect(f'file:{self.db_path}?mode=ro', uri=True) as db:
+            db.row_factory = aiosqlite.Row
+
+            if author:
+                # Search with author filter
+                query = """
+                    SELECT
+                        b.id,
+                        b.title,
+                        GROUP_CONCAT(DISTINCT a.name) as authors,
+                        s.name as series,
+                        b.series_index,
+                        GROUP_CONCAT(DISTINCT d.format) as formats
+                    FROM books b
+                    JOIN books_authors_link bal ON b.id = bal.book
+                    JOIN authors a ON bal.author = a.id
+                    LEFT JOIN books_series_link bsl ON b.id = bsl.book
+                    LEFT JOIN series s ON bsl.series = s.id
+                    LEFT JOIN data d ON b.id = d.book
+                    WHERE b.title = ? COLLATE NOCASE
+                      AND a.name = ? COLLATE NOCASE
+                    GROUP BY b.id
+                    LIMIT ?
+                """
+                params = (title, author, limit)
+            else:
+                # Search without author filter
+                query = """
+                    SELECT
+                        b.id,
+                        b.title,
+                        GROUP_CONCAT(DISTINCT a.name) as authors,
+                        s.name as series,
+                        b.series_index,
+                        GROUP_CONCAT(DISTINCT d.format) as formats
+                    FROM books b
+                    LEFT JOIN books_authors_link bal ON b.id = bal.book
+                    LEFT JOIN authors a ON bal.author = a.id
+                    LEFT JOIN books_series_link bsl ON b.id = bsl.book
+                    LEFT JOIN series s ON bsl.series = s.id
+                    LEFT JOIN data d ON b.id = d.book
+                    WHERE b.title = ? COLLATE NOCASE
+                    GROUP BY b.id
+                    LIMIT ?
+                """
+                params = (title, limit)
+
+            async with db.execute(query, params) as cursor:
+                rows = await cursor.fetchall()
+                return [
+                    {
+                        'id': row['id'],
+                        'title': row['title'],
+                        'authors': row['authors'] or 'Unknown',
+                        'series': row['series'],
+                        'series_index': row['series_index'],
+                        'formats': row['formats'].split(',') if row['formats'] else []
+                    }
+                    for row in rows
+                ]
 
